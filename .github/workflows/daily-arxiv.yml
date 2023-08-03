@@ -7,7 +7,7 @@ on:
     - cron: "00 12 * * *"
   push:
     branches:
-      - main
+      - Teresa-Teng-patch-1
 env:
 
   GITHUB_NAME: Teresa-Teng
