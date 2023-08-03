@@ -1,3 +1,19 @@
+## 2023-08-02
+|paper|code|
+|---|---|
+|[an integrated multi-time-scale modeling for solar irradiance forecasting using deep learning](https://arxiv.org/abs/1905.02616)|[LSTM_Solar_Forecasting](https://github.com/sakshi-mishra/LSTM_Solar_Forecasting)|
+|[vit2eeg: leveraging hybrid pretrained vision transformers for eeg data](https://arxiv.org/abs/2308.00454)|[eegeyenet-vit](https://github.com/ruiqirichard/eegeyenet-vit)|
+|[verifiable goal recognition for autonomous driving with occlusions](https://arxiv.org/abs/2206.14163)|[ogrit](https://github.com/uoe-agents/ogrit)|
+|[improving surgical situational awareness with signed distance field: a pilot study in virtual reality](https://arxiv.org/abs/2303.01733)|[volumetric_drilling](https://github.com/jabarragann/volumetric_drilling)|
+|[data-driven distributionally robust optimal control with state-dependent noise](https://arxiv.org/abs/2303.02293)|[droc_variance_formula](https://github.com/ruiiu/droc_variance_formula)|
+|[tight collision probability for uav motion planning in uncertain environment](https://arxiv.org/abs/2303.02607)|[iros2023_com](https://github.com/acmece/iros2023_com)|
+|[motionbev: attention-aware online lidar moving object segmentation with bird's eye view based appearance and motion features](https://arxiv.org/abs/2305.07336)|[motionbev](https://github.com/xiekkki/motionbev)|
+|[convolutional occupancy models for dense packing of complex, novel objects](https://arxiv.org/abs/2308.00091)|[fcon](https://github.com/nikhilmishra000/fcon)|
+|[cbcl-pr: a cognitively inspired model for class-incremental learning in robotics](https://arxiv.org/abs/2308.00199)|[cbcl-pr](https://github.com/aliayub7/cbcl-pr)|
+|[shape completion with prediction of uncertain regions](https://arxiv.org/abs/2308.00377)|[shape-completion](https://github.com/dlr-rm/shape-completion)|
+|[on the generation of a synthetic event-based vision dataset for navigation and landing](https://arxiv.org/abs/2308.00394)|[trajectory-to-events](https://gitlab.com/europeanspaceagency/trajectory-to-events)|
+|[driveadapter: breaking the coupling barrier of perception and planning in end-to-end autonomous driving](https://arxiv.org/abs/2308.00398)|[driveadapter](https://github.com/opendrivelab/driveadapter)|
+|[anyloc: towards universal visual place recognition](https://arxiv.org/abs/2308.00688)|[AnyLoc](https://github.com/AnyLoc/AnyLoc)|
 ## 2023-08-01
 |paper|code|
 |---|---|
@@ -5,19 +21,41 @@
 |[matnilm: multi-appliance-task non-intrusive load monitoring with limited labeled data](https://arxiv.org/abs/2307.14778)|[matnilm](https://github.com/jxiong22/matnilm)|
 |[ultrasound image reconstruction with denoising diffusion restoration models](https://arxiv.org/abs/2307.15990)|[drus-v1](https://github.com/yuxin-zhang-jasmine/drus-v1)|
 |[rcs-yolo: a fast and high-accuracy object detector for brain tumor detection](https://arxiv.org/abs/2307.16412)|[rcs-yolo](https://github.com/mkang315/rcs-yolo)|
-|[the representation jensen-shannon divergence](https://arxiv.org/abs/2305.16446)|[representationjsd](https://github.com/uk-cliplab/representationjsd)|
-|[spherical and hyperbolic toric topology-based codes on graph embedding for ising mrf models: classical and quantum topology machine learning](https://arxiv.org/abs/2307.15778)|[Topology-Signal-Processing](https://github.com/Lcrypto/Topology-Signal-Processing)|
-|[llms4ol: large language models for ontology learning](https://arxiv.org/abs/2307.16648)|[llms4ol](https://github.com/hamedbabaei/llms4ol)|
+|[learning interpretable, high-performing policies for autonomous driving](https://arxiv.org/abs/2202.02352)|[icct](https://github.com/core-robotics-lab/icct)|
+|[cmx: cross-modal fusion for rgb-x semantic segmentation with transformers](https://arxiv.org/abs/2203.04838)|[rgbx_semantic_segmentation](https://github.com/huaaaliu/rgbx_semantic_segmentation)|
+|[behind every domain there is a shift: adapting distortion-aware vision transformers for panoramic semantic segmentation](https://arxiv.org/abs/2207.11860)|[trans4pass](https://github.com/jamycheung/trans4pass)|
+|[cathsim: an open-source simulator for endovascular intervention](https://arxiv.org/abs/2208.01455)|[cathsim](https://github.com/robotvisionlabs/cathsim)|
+|[probabilistic traversability model for risk-aware motion planning in off-road environments](https://arxiv.org/abs/2210.00153)|[mppi_numba](https://github.com/mit-acl/mppi_numba)|
+|[stackelberg meta-learning for strategic guidance in multi-robot trajectory planning](https://arxiv.org/abs/2211.13336)|[stackelberg-meta-learning](https://github.com/yuhan16/stackelberg-meta-learning)|
+|[perception datasets for anomaly detection in autonomous driving: a survey](https://arxiv.org/abs/2302.02790)|[anomaly_datasets](https://github.com/daniel-bogdoll/anomaly_datasets)|
+|[arena-rosnav 2.0: a development and benchmarking platform for robot navigation in highly dynamic environments](https://arxiv.org/abs/2302.10023)|[arena-tools](https://github.com/arena-rosnav/arena-tools)|
+|[multi-source soft pseudo-label learning with domain similarity-based weighting for semantic segmentation](https://arxiv.org/abs/2303.00979)|[ms2pl](https://github.com/shigemichimatsuzaki/ms2pl)|
+|[tims: a tactile internet-based micromanipulation system with haptic guidance for surgical training](https://arxiv.org/abs/2303.03566)|[tims](https://github.com/leen-coding/tims)|
+|[assignment algorithms for multi-robot multi-target tracking with sufficient and limited sensing capability](https://arxiv.org/abs/2303.04894)|[assignment-target-tracking](https://github.com/zhourobotics/assignment-target-tracking)|
+|[evolin benchmark: evaluation of line detection and association](https://arxiv.org/abs/2303.05162)|[evolin](https://github.com/prime-slam/evolin)|
+|[online time-optimal trajectory planning on three-dimensional race tracks](https://arxiv.org/abs/2304.10954)|[online_3d_racing_line_planning](https://github.com/tumrt/online_3d_racing_line_planning)|
+|[flying adversarial patches: manipulating the behavior of deep learning-based autonomous multirotors](https://arxiv.org/abs/2305.12859)|[flying_adversarial_patch](https://github.com/imrclab/flying_adversarial_patch)|
+|[long-range uav thermal geo-localization with satellite imagery](https://arxiv.org/abs/2306.02994)|[satellite-thermal-geo-localization](https://github.com/arplaboratory/satellite-thermal-geo-localization)|
+|[curiosity-driven reinforcement learning based low-level flight control](https://arxiv.org/abs/2307.15724)|[cdrl-l2fc_u_hcm](https://github.com/a-ramezani/cdrl-l2fc_u_hcm)|
+|[value-informed skill chaining for policy learning of long-horizon tasks with surgical robot](https://arxiv.org/abs/2307.16503)|[viskill](https://github.com/med-air/viskill)|
+|[poly-mot: a polyhedral framework for 3d multi-object tracking](https://arxiv.org/abs/2307.16675)|[Poly-MOT](https://github.com/lixiaoyu2000/Poly-MOT)|
+|[multi agent navigation in unconstrained environments using a centralized attention based graphical neural network controller](https://arxiv.org/abs/2307.16727)|[multi-agent-control](https://github.com/yininghase/multi-agent-control)|
 ## 2023-07-31
 |paper|code|
 |---|---|
-|[dime: maximizing mutual information by a difference of matrix-based entropies](https://arxiv.org/abs/2301.08164)|[DiME](https://github.com/uk-cliplab/DiME)|
-|[quantifying & modeling multimodal interactions: an information decomposition framework](https://arxiv.org/abs/2302.12247)|[pid](https://github.com/pliang279/pid)|
+|[a graph-based optimization framework for hand-eye calibration for multi-camera setups](https://arxiv.org/abs/2303.04747)|[gm_handeye](https://bitbucket.org/freelist/gm_handeye)|
+|[panovpr: towards unified perspective-to-equirectangular visual place recognition via sliding windows across the panoramic view](https://arxiv.org/abs/2303.14095)|[panovpr](https://github.com/zafirshi/panovpr)|
+|[a grasp pose is all you need: learning multi-fingered grasping with deep reinforcement learning from vision and touch](https://arxiv.org/abs/2306.03484)|[rl-icub-dexterous-manipulation](https://github.com/hsp-iit/rl-icub-dexterous-manipulation)|
+|[cbgl: fast monte carlo passive global localisation of 2d lidar sensor](https://arxiv.org/abs/2307.14247)|[cbgl](https://github.com/li9i/cbgl)|
+|[oafuser: towards omni-aperture fusion for light field semantic segmentation of road scenes](https://arxiv.org/abs/2307.15588)|[oafuser](https://github.com/feibryantkit/oafuser)|
+|[benchmarking offline reinforcement learning on real-robot hardware](https://arxiv.org/abs/2307.15690)|[trifinger_rl_datasets](https://github.com/rr-learning/trifinger_rl_datasets)|
 ## 2023-07-28
 |paper|code|
 |---|---|
-|[bayesian algorithms for kronecker-structured sparse vector recovery with application to irs-mimo channel estimation](https://arxiv.org/abs/2307.14719)|[journalkrosbl](https://github.com/yanbinhe/journalkrosbl)|
-|[learning transfer operators by kernel density estimation](https://arxiv.org/abs/2210.03124)|[fpoperatorde](https://github.com/sudamphy/fpoperatorde)|
+|[efficient and feasible robotic assembly sequence planning via graph representation learning](https://arxiv.org/abs/2303.10135)|[GRACE](https://github.com/DLR-RM/GRACE)|
+|[an open source design optimization toolbox evaluated on a soft finger](https://arxiv.org/abs/2304.07260)|[SoftRobots.DesignOptimization](https://github.com/SofaDefrost/SoftRobots.DesignOptimization)|
+|[singularity distance computations of 3-rpr manipulators using intrinsic metrics](https://arxiv.org/abs/2307.14721)|[Intrinsic-metrics](https://github.com/aditya-kapilavai/Intrinsic-metrics)|
+|[the robodepth challenge: methods and advancements towards robust depth estimation](https://arxiv.org/abs/2307.15061)|[robodepth](https://github.com/ldkong1205/robodepth)|
 ## 2023-07-27
 |paper|code|
 |---|---|
