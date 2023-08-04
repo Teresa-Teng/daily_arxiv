@@ -4,7 +4,7 @@ name: Run Daily Arxiv
 on:
   workflow_dispatch:
   schedule:
-    - cron: "00 12 * * *"
+    - cron: "00 12 * * 1"
   push:
     branches:
       - Teresa-Teng-patch-1
