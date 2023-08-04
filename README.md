@@ -1,3 +1,14 @@
+## 2023-08-03
+|paper|code|
+|---|---|
+|[bayesian algorithms for kronecker-structured sparse vector recovery with application to irs-mimo channel estimation](https://arxiv.org/abs/2307.14719)|[journalkrosbl](https://github.com/yanbinhe/journalkrosbl)|
+|[can we transfer noise patterns? an multi-environment spectrum analysis model using generated cases](https://arxiv.org/abs/2308.01138)|[cnst](https://github.com/magnomic/cnst)|
+|[application of ghost-deblurgan to fiducial marker detection](https://arxiv.org/abs/2109.03379)|[Ghost-DeblurGAN](https://github.com/York-SDCNLab/Ghost-DeblurGAN)|
+|[meta-path analysis on spatio-temporal graphs for pedestrian trajectory prediction](https://arxiv.org/abs/2202.13427)|[mesrnn](https://gitlab.engr.illinois.edu/hubris/mesrnn)|
+|[occlusion-resistant lidar fiducial marker detection](https://arxiv.org/abs/2209.01072)|[Marker-Detection-General](https://github.com/York-SDCNLab/Marker-Detection-General)|
+|[data-efficient policy selection for navigation in partial maps via subgoal-based abstraction](https://arxiv.org/abs/2304.01094)|[RAIL-group-software](https://github.com/RAIL-group/RAIL-group-software)|
+|[extrinsic infrastructure calibration using the hand-eye robot-world formulation](https://arxiv.org/abs/2305.01407)|[excalibur](https://github.com/uulm-mrm/excalibur)|
+|[brnes: enabling security and privacy-aware experience sharing in multiagent robotic and autonomous systems](https://arxiv.org/abs/2308.01274)|[brnes](https://github.com/aralab-unr/brnes)|
 ## 2023-08-02
 |paper|code|
 |---|---|
