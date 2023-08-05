@@ -1,3 +1,10 @@
+## 2023-08-04
+|paper|code|
+|---|---|
+|[bevbert: multimodal map pre-training for language-guided navigation](https://arxiv.org/abs/2212.04385)|[vln-bevbert](https://github.com/marsaki/vln-bevbert)|
+|[lio-ppf: fast lidar-inertial odometry via incremental plane pre-fitting and skeleton tracking](https://arxiv.org/abs/2302.14674)|[lio-ppf](https://github.com/xingyuuchen/lio-ppf)|
+|[airline: efficient learnable line detection with local edge voting](https://arxiv.org/abs/2303.16500)|[airline](https://github.com/sair-lab/airline)|
+|[fusionad: multi-modality fusion for prediction and planning tasks of autonomous driving](https://arxiv.org/abs/2308.01006)|[fusionad](https://github.com/westlake-autolab/fusionad)|
 ## 2023-08-03
 |paper|code|
 |---|---|
@@ -8,22 +15,31 @@
 |[occlusion-resistant lidar fiducial marker detection](https://arxiv.org/abs/2209.01072)|[Marker-Detection-General](https://github.com/York-SDCNLab/Marker-Detection-General)|
 |[data-efficient policy selection for navigation in partial maps via subgoal-based abstraction](https://arxiv.org/abs/2304.01094)|[RAIL-group-software](https://github.com/RAIL-group/RAIL-group-software)|
 |[extrinsic infrastructure calibration using the hand-eye robot-world formulation](https://arxiv.org/abs/2305.01407)|[excalibur](https://github.com/uulm-mrm/excalibur)|
+|[improving generalization of synthetically trained sonar image descriptors for underwater place recognition](https://arxiv.org/abs/2308.01058)|[sdpr](https://github.com/ivano-donadi/sdpr)|
+|[planar friction modelling with lugre dynamics and limit surfaces](https://arxiv.org/abs/2308.01123)|[frictionmodelling](https://github.com/gabrieleenx/frictionmodelling)|
+|[virtual reality based robot teleoperation via human-scene interaction](https://arxiv.org/abs/2308.01164)|[vr_teleoperation_gen3](https://github.com/lingxiaomeng/vr_teleoperation_gen3)|
 |[brnes: enabling security and privacy-aware experience sharing in multiagent robotic and autonomous systems](https://arxiv.org/abs/2308.01274)|[brnes](https://github.com/aralab-unr/brnes)|
 ## 2023-08-02
 |paper|code|
 |---|---|
 |[an integrated multi-time-scale modeling for solar irradiance forecasting using deep learning](https://arxiv.org/abs/1905.02616)|[LSTM_Solar_Forecasting](https://github.com/sakshi-mishra/LSTM_Solar_Forecasting)|
 |[vit2eeg: leveraging hybrid pretrained vision transformers for eeg data](https://arxiv.org/abs/2308.00454)|[eegeyenet-vit](https://github.com/ruiqirichard/eegeyenet-vit)|
+|[data augmentation of bridging the delay gap for dl-based massive mimo csi feedback](https://arxiv.org/abs/2308.00478)|[crnetaug](https://github.com/zhanghy23/crnetaug)|
 |[verifiable goal recognition for autonomous driving with occlusions](https://arxiv.org/abs/2206.14163)|[ogrit](https://github.com/uoe-agents/ogrit)|
 |[improving surgical situational awareness with signed distance field: a pilot study in virtual reality](https://arxiv.org/abs/2303.01733)|[volumetric_drilling](https://github.com/jabarragann/volumetric_drilling)|
 |[data-driven distributionally robust optimal control with state-dependent noise](https://arxiv.org/abs/2303.02293)|[droc_variance_formula](https://github.com/ruiiu/droc_variance_formula)|
 |[tight collision probability for uav motion planning in uncertain environment](https://arxiv.org/abs/2303.02607)|[iros2023_com](https://github.com/acmece/iros2023_com)|
 |[motionbev: attention-aware online lidar moving object segmentation with bird's eye view based appearance and motion features](https://arxiv.org/abs/2305.07336)|[motionbev](https://github.com/xiekkki/motionbev)|
+|[from the desks of ros maintainers: a survey of modern & capable mobile robotics algorithms in the robot operating system 2](https://arxiv.org/abs/2307.15236)|[navigation2](https://github.com/ros-planning/navigation2)|
 |[convolutional occupancy models for dense packing of complex, novel objects](https://arxiv.org/abs/2308.00091)|[fcon](https://github.com/nikhilmishra000/fcon)|
+|[onboard view planning of a flying camera for high fidelity 3d reconstruction of a moving actor](https://arxiv.org/abs/2308.00134)|[view_planning_3dhuman](https://github.com/qingyuan-jiang/view_planning_3dhuman)|
 |[cbcl-pr: a cognitively inspired model for class-incremental learning in robotics](https://arxiv.org/abs/2308.00199)|[cbcl-pr](https://github.com/aliayub7/cbcl-pr)|
+|[trajectory tracking via multiscale continuous attractor networks](https://arxiv.org/abs/2308.00257)|[trajectory_tracking_via_mcan](https://github.com/theresejoseph/trajectory_tracking_via_mcan)|
 |[shape completion with prediction of uncertain regions](https://arxiv.org/abs/2308.00377)|[shape-completion](https://github.com/dlr-rm/shape-completion)|
 |[on the generation of a synthetic event-based vision dataset for navigation and landing](https://arxiv.org/abs/2308.00394)|[trajectory-to-events](https://gitlab.com/europeanspaceagency/trajectory-to-events)|
 |[driveadapter: breaking the coupling barrier of perception and planning in end-to-end autonomous driving](https://arxiv.org/abs/2308.00398)|[driveadapter](https://github.com/opendrivelab/driveadapter)|
+|[understanding urdf: a dataset and analysis](https://arxiv.org/abs/2308.00514)|[urdf_files_dataset](https://github.com/daniella1/urdf_files_dataset)|
+|[vl-grasp: a 6-dof interactive grasp policy for language-oriented objects in cluttered indoor scenes](https://arxiv.org/abs/2308.00640)|[vl-grasp](https://github.com/luyh20/vl-grasp)|
 |[anyloc: towards universal visual place recognition](https://arxiv.org/abs/2308.00688)|[AnyLoc](https://github.com/AnyLoc/AnyLoc)|
 ## 2023-08-01
 |paper|code|
@@ -48,9 +64,11 @@
 |[flying adversarial patches: manipulating the behavior of deep learning-based autonomous multirotors](https://arxiv.org/abs/2305.12859)|[flying_adversarial_patch](https://github.com/imrclab/flying_adversarial_patch)|
 |[long-range uav thermal geo-localization with satellite imagery](https://arxiv.org/abs/2306.02994)|[satellite-thermal-geo-localization](https://github.com/arplaboratory/satellite-thermal-geo-localization)|
 |[curiosity-driven reinforcement learning based low-level flight control](https://arxiv.org/abs/2307.15724)|[cdrl-l2fc_u_hcm](https://github.com/a-ramezani/cdrl-l2fc_u_hcm)|
+|[robust unmanned surface vehicle navigation with distributional reinforcement learning](https://arxiv.org/abs/2307.16240)|[distributional_rl_navigation](https://github.com/robustfieldautonomylab/distributional_rl_navigation)|
 |[value-informed skill chaining for policy learning of long-horizon tasks with surgical robot](https://arxiv.org/abs/2307.16503)|[viskill](https://github.com/med-air/viskill)|
 |[poly-mot: a polyhedral framework for 3d multi-object tracking](https://arxiv.org/abs/2307.16675)|[Poly-MOT](https://github.com/lixiaoyu2000/Poly-MOT)|
 |[multi agent navigation in unconstrained environments using a centralized attention based graphical neural network controller](https://arxiv.org/abs/2307.16727)|[multi-agent-control](https://github.com/yininghase/multi-agent-control)|
+|[pyrus base: an open source python framework for the robocup 2d soccer simulation](https://arxiv.org/abs/2307.16875)|[pyrus2d](https://github.com/cyrus2d/pyrus2d)|
 ## 2023-07-31
 |paper|code|
 |---|---|
