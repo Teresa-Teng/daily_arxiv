@@ -5,6 +5,8 @@
 |[lio-ppf: fast lidar-inertial odometry via incremental plane pre-fitting and skeleton tracking](https://arxiv.org/abs/2302.14674)|[lio-ppf](https://github.com/xingyuuchen/lio-ppf)|
 |[airline: efficient learnable line detection with local edge voting](https://arxiv.org/abs/2303.16500)|[airline](https://github.com/sair-lab/airline)|
 |[fusionad: multi-modality fusion for prediction and planning tasks of autonomous driving](https://arxiv.org/abs/2308.01006)|[fusionad](https://github.com/westlake-autolab/fusionad)|
+|[joint out-of-distribution detection and uncertainty estimation for trajectory predictio](https://arxiv.org/abs/2308.01707)|[joodu](https://github.com/againerju/joodu)|
+|[neuroswarm: multi-agent neural 3d scene reconstruction and segmentation with uav for optimal navigation of quadruped robot](https://arxiv.org/abs/2308.01725)|[neuroswarm](https://github.com/iana-zhura/neuroswarm)|
 ## 2023-08-03
 |paper|code|
 |---|---|
