@@ -1,3 +1,14 @@
+## 2023-08-07
+|paper|code|
+|---|---|
+|[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
+|[differentiable adaptive short-time fourier transform with respect to the window length](https://arxiv.org/abs/2308.02418)|[dstft](https://github.com/maxime-leiber/dstft)|
+|[multimodal indoor localisation in parkinson's disease for detecting medication use: observational pilot study in a free-living setting](https://arxiv.org/abs/2308.02419)|[Multihead-Dual-Convolutional-Self-Attention](https://github.com/ferdianjovan/Multihead-Dual-Convolutional-Self-Attention)|
+|[differentiable short-time fourier transform with respect to the hop length](https://arxiv.org/abs/2308.02421)|[dstft](https://github.com/maxime-leiber/dstft)|
+|[airvo: an illumination-robust point-line visual odometry](https://arxiv.org/abs/2212.07595)|[AirVO](https://github.com/xukuanHIT/AirVO)|
+|[interactive task encoding system for learning-from-observation](https://arxiv.org/abs/2212.10787)|[symbolic-robot-teaching-interface](https://github.com/microsoft/symbolic-robot-teaching-interface)|
+|[universal morphology control via contextual modulation](https://arxiv.org/abs/2302.11070)|[modumorph](https://github.com/masterxiong/modumorph)|
+|[joint out-of-distribution detection and uncertainty estimation for trajectory prediction](https://arxiv.org/abs/2308.01707)|[joodu](https://github.com/againerju/joodu)|
 ## 2023-08-04
 |paper|code|
 |---|---|
