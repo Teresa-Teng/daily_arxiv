@@ -1,21 +1,41 @@
+## 2023-08-08
+|paper|code|
+|---|---|
+|[l-seqsleepnet: whole-cycle long sequence modelling for automatic sleep staging](https://arxiv.org/abs/2301.03441)|[l-seqsleepnet](https://github.com/pquochuy/l-seqsleepnet)|
+|[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Star-sunny/Fast-CFEAR-Radar-Odometry)|
+|[branched latent neural operators](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
+|[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
+|[neuralblox: real-time neural representation fusion for robust volumetric mapping](https://arxiv.org/abs/2110.09415)|[neuralblox](https://github.com/ethz-asl/neuralblox)|
+|[model parameter identification via a hyperparameter optimization scheme for autonomous racing systems](https://arxiv.org/abs/2301.01470)|[mi-hpo](https://github.com/hynkis/mi-hpo)|
+|[emv-lio: an efficient multiple vision aided lidar-inertial odometry](https://arxiv.org/abs/2302.00216)|[EMV-LIO](https://github.com/thinking-08/EMV-LIO)|
+|[learning bipedal walking for humanoids with current feedback](https://arxiv.org/abs/2303.03724)|[learninghumanoidwalking](https://github.com/rohanpsingh/learninghumanoidwalking)|
+|[boosting feedback efficiency of interactive reinforcement learning by adaptive learning from scores](https://arxiv.org/abs/2307.05405)|[interactive-scoring-irl](https://github.com/sskkai/interactive-scoring-irl)|
+|[landmark detection using transformer toward robot-assisted nasal airway intubation](https://arxiv.org/abs/2308.02845)|[airway_intubation_landmarks_detection](https://github.com/conorlth/airway_intubation_landmarks_detection)|
+|[generalized early stopping in evolutionary direct policy search](https://arxiv.org/abs/2308.03574)|[gesp](https://github.com/anonreposit/gesp)|
+|[fsd v2: improving fully sparse 3d object detection with virtual voxels](https://arxiv.org/abs/2308.03755)|[sst](https://github.com/tusen-ai/sst)|
 ## 2023-08-07
 |paper|code|
 |---|---|
 |[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
+|[design space exploration on efficient and accurate human pose estimation from sparse imu-sensing](https://arxiv.org/abs/2308.02397)|[dse-sparse-imu](https://github.com/itiv-kit/dse-sparse-imu)|
 |[differentiable adaptive short-time fourier transform with respect to the window length](https://arxiv.org/abs/2308.02418)|[dstft](https://github.com/maxime-leiber/dstft)|
 |[multimodal indoor localisation in parkinson's disease for detecting medication use: observational pilot study in a free-living setting](https://arxiv.org/abs/2308.02419)|[Multihead-Dual-Convolutional-Self-Attention](https://github.com/ferdianjovan/Multihead-Dual-Convolutional-Self-Attention)|
 |[differentiable short-time fourier transform with respect to the hop length](https://arxiv.org/abs/2308.02421)|[dstft](https://github.com/maxime-leiber/dstft)|
-|[airvo: an illumination-robust point-line visual odometry](https://arxiv.org/abs/2212.07595)|[AirVO](https://github.com/xukuanHIT/AirVO)|
+|[hypertension detection from high-dimensional representation of photoplethysmogram signals](https://arxiv.org/abs/2308.02425)|[hypertension_ppg](https://github.com/navidhasanzadeh/hypertension_ppg)|
+|[contrastive self-supervised learning based approach for patient similarity: a case study on atrial fibrillation detection from ppg signal](https://arxiv.org/abs/2308.02433)|[simsig](https://github.com/subangkar/simsig)|
+|[$\mathcal{n}$ipm-hlsp: an efficient interior-point method for hierarchical least-squares programs](https://arxiv.org/abs/2106.13602)|[nipm-hlsp](https://github.com/pfeiffer-kai/nipm-hlsp)|
+|[airvo: an illumination-robust point-line visual odometry](https://arxiv.org/abs/2212.07595)|[airvo](https://github.com/sair-lab/airvo)|
 |[interactive task encoding system for learning-from-observation](https://arxiv.org/abs/2212.10787)|[symbolic-robot-teaching-interface](https://github.com/microsoft/symbolic-robot-teaching-interface)|
 |[universal morphology control via contextual modulation](https://arxiv.org/abs/2302.11070)|[modumorph](https://github.com/masterxiong/modumorph)|
 |[joint out-of-distribution detection and uncertainty estimation for trajectory prediction](https://arxiv.org/abs/2308.01707)|[joodu](https://github.com/againerju/joodu)|
+|[exploitflow, cyber security exploitation routes for game theory and ai research in robotics](https://arxiv.org/abs/2308.02152)|[exploitflow](https://github.com/vmayoral/exploitflow)|
+|[online obstacle evasion with space-filling curves](https://arxiv.org/abs/2308.02200)|[skc](https://github.com/wakodeashay/skc)|
 ## 2023-08-04
 |paper|code|
 |---|---|
 |[bevbert: multimodal map pre-training for language-guided navigation](https://arxiv.org/abs/2212.04385)|[vln-bevbert](https://github.com/marsaki/vln-bevbert)|
 |[lio-ppf: fast lidar-inertial odometry via incremental plane pre-fitting and skeleton tracking](https://arxiv.org/abs/2302.14674)|[lio-ppf](https://github.com/xingyuuchen/lio-ppf)|
 |[airline: efficient learnable line detection with local edge voting](https://arxiv.org/abs/2303.16500)|[airline](https://github.com/sair-lab/airline)|
-|[fusionad: multi-modality fusion for prediction and planning tasks of autonomous driving](https://arxiv.org/abs/2308.01006)|[fusionad](https://github.com/westlake-autolab/fusionad)|
 |[neuroswarm: multi-agent neural 3d scene reconstruction and segmentation with uav for optimal navigation of quadruped robot](https://arxiv.org/abs/2308.01725)|[neuroswarm](https://github.com/iana-zhura/neuroswarm)|
 ## 2023-08-03
 |paper|code|
