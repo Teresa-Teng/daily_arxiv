@@ -1,8 +1,17 @@
+## 2023-08-09
+|paper|code|
+|---|---|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[towards trustworthy multi-modal motion prediction: holistic evaluation and interpretability of outputs](https://arxiv.org/abs/2210.16144)|[densetnt-intent](https://github.com/sancarlim/densetnt-intent)|
+|[efficient symbolic approaches for quantitative reactive synthesis with finite tasks](https://arxiv.org/abs/2303.03686)|[symbolic_synthesis](https://github.com/muvvalakaran/symbolic_synthesis)|
+|[semarflow: injecting semantics into unsupervised optical flow estimation for autonomous driving](https://arxiv.org/abs/2303.06209)|[semantic-unsup-flow-release](https://github.com/duke-vision/semantic-unsup-flow-release)|
+|[evaluating the task generalization of temporal convolutional networks for surgical gesture and motion recognition using kinematic data](https://arxiv.org/abs/2306.16577)|[compass](https://github.com/uva-dsa/compass)|
+|[fusionad: multi-modality fusion for prediction and planning tasks of autonomous driving](https://arxiv.org/abs/2308.01006)|[fusionad](https://github.com/westlake-autolab/fusionad)|
 ## 2023-08-08
 |paper|code|
 |---|---|
 |[l-seqsleepnet: whole-cycle long sequence modelling for automatic sleep staging](https://arxiv.org/abs/2301.03441)|[l-seqsleepnet](https://github.com/pquochuy/l-seqsleepnet)|
-|[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Star-sunny/Fast-CFEAR-Radar-Odometry)|
+|[successive pose estimation and beam tracking for mmwave vehicular communication systems](https://arxiv.org/abs/2307.16117)|[Fast-CFEAR-Radar-Odometry](https://github.com/Cen-Liu/Fast-CFEAR-Radar-Odometry)|
 |[branched latent neural operators](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
 |[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
 |[neuralblox: real-time neural representation fusion for robust volumetric mapping](https://arxiv.org/abs/2110.09415)|[neuralblox](https://github.com/ethz-asl/neuralblox)|
