@@ -1,12 +1,22 @@
+## 2023-08-10
+|paper|code|
+|---|---|
+|[emergence of the svd as an interpretable factorization in deep learning for inverse problems](https://arxiv.org/abs/2301.07820)|[descrambling-nn](https://github.com/shashanksule/descrambling-nn)|
+|[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[walking in narrow spaces: safety-critical locomotion control for quadrupedal robots with duality-based optimization](https://arxiv.org/abs/2212.14199)|[quadruped_nmpc_dcbf_duality](https://github.com/hybridrobotics/quadruped_nmpc_dcbf_duality)|
+|[decentralization and acceleration enables large-scale bundle adjustment](https://arxiv.org/abs/2305.07026)|[daba](https://github.com/facebookresearch/daba)|
 ## 2023-08-09
 |paper|code|
 |---|---|
 |[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[quantum and quantum-inspired stereographic k nearest-neighbour clustering](https://arxiv.org/abs/2308.03949)|[stereographic-quantum-embedding-clustering](https://github.com/alonsoviladomat/stereographic-quantum-embedding-clustering)|
 |[towards trustworthy multi-modal motion prediction: holistic evaluation and interpretability of outputs](https://arxiv.org/abs/2210.16144)|[densetnt-intent](https://github.com/sancarlim/densetnt-intent)|
 |[efficient symbolic approaches for quantitative reactive synthesis with finite tasks](https://arxiv.org/abs/2303.03686)|[symbolic_synthesis](https://github.com/muvvalakaran/symbolic_synthesis)|
 |[semarflow: injecting semantics into unsupervised optical flow estimation for autonomous driving](https://arxiv.org/abs/2303.06209)|[semantic-unsup-flow-release](https://github.com/duke-vision/semantic-unsup-flow-release)|
 |[evaluating the task generalization of temporal convolutional networks for surgical gesture and motion recognition using kinematic data](https://arxiv.org/abs/2306.16577)|[compass](https://github.com/uva-dsa/compass)|
 |[fusionad: multi-modality fusion for prediction and planning tasks of autonomous driving](https://arxiv.org/abs/2308.01006)|[fusionad](https://github.com/westlake-autolab/fusionad)|
+|[sodformer: streaming object detection with transformer using events and frames](https://arxiv.org/abs/2308.04047)|[sodformer](https://github.com/dianzl/sodformer)|
+|[vision-based autonomous navigation for unmanned surface vessel in extreme marine conditions](https://arxiv.org/abs/2308.04283)|[visual-servoing](https://github.com/muhayyuddin/visual-servoing)|
 ## 2023-08-08
 |paper|code|
 |---|---|
@@ -16,10 +26,13 @@
 |[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
 |[neuralblox: real-time neural representation fusion for robust volumetric mapping](https://arxiv.org/abs/2110.09415)|[neuralblox](https://github.com/ethz-asl/neuralblox)|
 |[model parameter identification via a hyperparameter optimization scheme for autonomous racing systems](https://arxiv.org/abs/2301.01470)|[mi-hpo](https://github.com/hynkis/mi-hpo)|
-|[emv-lio: an efficient multiple vision aided lidar-inertial odometry](https://arxiv.org/abs/2302.00216)|[EMV-LIO](https://github.com/thinking-08/EMV-LIO)|
+|[emv-lio: an efficient multiple vision aided lidar-inertial odometry](https://arxiv.org/abs/2302.00216)|[emv-lio](https://github.com/bingqishen/emv-lio)|
 |[learning bipedal walking for humanoids with current feedback](https://arxiv.org/abs/2303.03724)|[learninghumanoidwalking](https://github.com/rohanpsingh/learninghumanoidwalking)|
 |[boosting feedback efficiency of interactive reinforcement learning by adaptive learning from scores](https://arxiv.org/abs/2307.05405)|[interactive-scoring-irl](https://github.com/sskkai/interactive-scoring-irl)|
+|[group-$k$ consistent measurement set maximization via maximum clique over k-uniform hypergraphs for robust multi-robot map merging](https://arxiv.org/abs/2308.02674)|[gkcm](https://bitbucket.org/jmangelson/gkcm)|
+|[voxelmap++: mergeable voxel mapping method for online lidar(-inertial) odometry](https://arxiv.org/abs/2308.02799)|[voxelmapplus_public](https://github.com/uestc-icsp/voxelmapplus_public)|
 |[landmark detection using transformer toward robot-assisted nasal airway intubation](https://arxiv.org/abs/2308.02845)|[airway_intubation_landmarks_detection](https://github.com/conorlth/airway_intubation_landmarks_detection)|
+|[adaptive patched grid mapping](https://arxiv.org/abs/2308.03416)|[adaptive_patched_gridmap](https://github.com/wodtko/adaptive_patched_gridmap)|
 |[generalized early stopping in evolutionary direct policy search](https://arxiv.org/abs/2308.03574)|[gesp](https://github.com/anonreposit/gesp)|
 |[fsd v2: improving fully sparse 3d object detection with virtual voxels](https://arxiv.org/abs/2308.03755)|[sst](https://github.com/tusen-ai/sst)|
 ## 2023-08-07
