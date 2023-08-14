@@ -2,16 +2,19 @@
 |paper|code|
 |---|---|
 |[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
+|[deep generative models for unsupervised delamination detection using guided waves](https://arxiv.org/abs/2308.05350)|[anovae-delamshm](https://github.com/mahindrautela/anovae-delamshm)|
 |[deep learning-based crop row detection for infield navigation of agri-robots](https://arxiv.org/abs/2209.04278)|[croprowdetection](https://github.com/junfenggaolab/croprowdetection)|
 |[gapslam: blending gaussian approximation and particle filters for real-time non-gaussian slam](https://arxiv.org/abs/2303.14283)|[gapslam](https://github.com/doublestrong/gapslam)|
 |[tightly-coupled visual-dvl-inertial odometry for robot-based ice-water boundary exploration](https://arxiv.org/abs/2303.17005)|[msckf_dvio](https://github.com/gso-soslab/msckf_dvio)|
 |[occupancy grid map to pose graph-based map: robust bim-based 2d-lidar localization for lifelong indoor navigation in changing and dynamic environments](https://arxiv.org/abs/2308.05443)|[ogm2pgbm](https://github.com/migvega/ogm2pgbm)|
 |[maptrv2: an end-to-end framework for online vectorized hd map construction](https://arxiv.org/abs/2308.05736)|[maptr](https://github.com/hustvl/maptr)|
+|[follow anything: open-set detection, tracking, and following in real-time](https://arxiv.org/abs/2308.05737)|[followanything](https://github.com/alaamaalouf/followanything)|
 ## 2023-08-10
 |paper|code|
 |---|---|
 |[emergence of the svd as an interpretable factorization in deep learning for inverse problems](https://arxiv.org/abs/2301.07820)|[descrambling-nn](https://github.com/shashanksule/descrambling-nn)|
 |[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[striking the right balance: three-dimensional ocean sound speed field reconstruction using tensor neural networks](https://arxiv.org/abs/2308.04930)|[tensor-neural-network](https://github.com/oceanstarlab/tensor-neural-network)|
 |[walking in narrow spaces: safety-critical locomotion control for quadrupedal robots with duality-based optimization](https://arxiv.org/abs/2212.14199)|[quadruped_nmpc_dcbf_duality](https://github.com/hybridrobotics/quadruped_nmpc_dcbf_duality)|
 |[decentralization and acceleration enables large-scale bundle adjustment](https://arxiv.org/abs/2305.07026)|[daba](https://github.com/facebookresearch/daba)|
 |[chatsim: underwater simulation with natural language prompting](https://arxiv.org/abs/2308.04029)|[prg-underwater-simulation](https://github.com/apalkk/prg-underwater-simulation)|
