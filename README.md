@@ -1,3 +1,12 @@
+## 2023-08-14
+|paper|code|
+|---|---|
+|[collaborative learning with a drone orchestrator](https://arxiv.org/abs/2303.02266)|[collaborative-learning-with-a-drone-orchestrator](https://github.com/drmahdiboloursazmashhadi/collaborative-learning-with-a-drone-orchestrator)|
+|[a thru-free multiline calibration](https://arxiv.org/abs/2305.03597)|[thru-free-multiline-calibration](https://github.com/ZiadHatab/thru-free-multiline-calibration)|
+|[unlocking the diagnostic potential of ecg through knowledge transfer from cardiac mri](https://arxiv.org/abs/2308.05764)|[mmcl-ecg-cmr](https://github.com/oetu/mmcl-ecg-cmr)|
+|[rt-1: robotics transformer for real-world control at scale](https://arxiv.org/abs/2212.06817)|[robotics_transformer](https://github.com/google-research/robotics_transformer)|
+|[mixed integer programming for time-optimal multi-robot coverage path planning with efficient heuristics](https://arxiv.org/abs/2306.17609)|[mip-mcpp](https://github.com/reso1/mip-mcpp)|
+|[multi agent navigation in unconstrained environments using a centralized attention based graphical neural network controller](https://arxiv.org/abs/2307.16727)|[multi-agent-control](https://github.com/yininghase/multi-agent-control)|
 ## 2023-08-11
 |paper|code|
 |---|---|
@@ -27,7 +36,7 @@
 |[efficient symbolic approaches for quantitative reactive synthesis with finite tasks](https://arxiv.org/abs/2303.03686)|[symbolic_synthesis](https://github.com/muvvalakaran/symbolic_synthesis)|
 |[semarflow: injecting semantics into unsupervised optical flow estimation for autonomous driving](https://arxiv.org/abs/2303.06209)|[semantic-unsup-flow-release](https://github.com/duke-vision/semantic-unsup-flow-release)|
 |[evaluating the task generalization of temporal convolutional networks for surgical gesture and motion recognition using kinematic data](https://arxiv.org/abs/2306.16577)|[compass](https://github.com/uva-dsa/compass)|
-|[fusionad: multi-modality fusion for prediction and planning tasks of autonomous driving](https://arxiv.org/abs/2308.01006)|[fusionad](https://github.com/westlake-autolab/fusionad)|
+|[multi-level map construction for dynamic scenes](https://arxiv.org/abs/2308.04000)|[dymlm-slam](https://github.com/hbelief1998/dymlm-slam)|
 |[sodformer: streaming object detection with transformer using events and frames](https://arxiv.org/abs/2308.04047)|[sodformer](https://github.com/dianzl/sodformer)|
 |[vision-based autonomous navigation for unmanned surface vessel in extreme marine conditions](https://arxiv.org/abs/2308.04283)|[visual-servoing](https://github.com/muhayyuddin/visual-servoing)|
 ## 2023-08-08
