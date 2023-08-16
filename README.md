@@ -1,3 +1,19 @@
+## 2023-08-15
+|paper|code|
+|---|---|
+|[can we transfer noise patterns? a multi-environment spectrum analysis model using generated cases](https://arxiv.org/abs/2308.01138)|[cnst](https://github.com/magnomic/cnst)|
+|[large-scale autonomous flight with real-time semantic slam under dense forest canopy](https://arxiv.org/abs/2109.06479)|[sloam](https://github.com/KumarRobotics/sloam)|
+|[seer: safe efficient exploration for aerial robots using learning to predict information gain](https://arxiv.org/abs/2209.11034)|[seer](https://github.com/tyuezhan/seer)|
+|[agent-controller representations: principled offline rl with rich exogenous information](https://arxiv.org/abs/2211.00164)|[agent-centric-representations](https://github.com/manantomar/agent-centric-representations)|
+|[from prediction to planning with goal conditioned lane graph traversals](https://arxiv.org/abs/2302.07753)|[pgp](https://github.com/autonomousvision/nuplan_garage/tree/main/nuplan_garage/planning/training/modeling/models/pgp)|
+|[uav tracking with lidar as a camera sensors in gnss-denied environments](https://arxiv.org/abs/2303.00277)|[uav-tracking-based-on-lidar-as-a-camera](https://github.com/tiers/uav-tracking-based-on-lidar-as-a-camera)|
+|[procedural generation of complex roundabouts for autonomous vehicle testing](https://arxiv.org/abs/2303.17900)|[junction-art](https://github.com/AugmentedDesignLab/junction-art)|
+|[project-based learning for robot control theory: a robot operating system (ros) based approach](https://arxiv.org/abs/2305.11279)|[pbl_robot_control](https://github.com/sfarzan/pbl_robot_control)|
+|[waterscenes: a multi-task 4d radar-camera fusion dataset and benchmark for autonomous driving on water surfaces](https://arxiv.org/abs/2307.06505)|[waterscenes](https://github.com/waterscenes/waterscenes)|
+|[fusionad: multi-modality fusion for prediction and planning tasks of autonomous driving](https://arxiv.org/abs/2308.01006)|[fusionad](https://github.com/westlake-autolab/fusionad)|
+|[focusflow: boosting key-points optical flow estimation for autonomous driving](https://arxiv.org/abs/2308.07104)|[focusflow_official](https://github.com/zhonghuayi/focusflow_official)|
+|[neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases](https://arxiv.org/abs/2308.07118)|[iisnerf](https://github.com/maftej/iisnerf)|
+|[uniworld: autonomous driving pre-training via world models](https://arxiv.org/abs/2308.07234)|[uniworld](https://github.com/chaytonmin/uniworld)|
 ## 2023-08-14
 |paper|code|
 |---|---|
@@ -7,6 +23,7 @@
 |[rt-1: robotics transformer for real-world control at scale](https://arxiv.org/abs/2212.06817)|[robotics_transformer](https://github.com/google-research/robotics_transformer)|
 |[mixed integer programming for time-optimal multi-robot coverage path planning with efficient heuristics](https://arxiv.org/abs/2306.17609)|[mip-mcpp](https://github.com/reso1/mip-mcpp)|
 |[multi agent navigation in unconstrained environments using a centralized attention based graphical neural network controller](https://arxiv.org/abs/2307.16727)|[multi-agent-control](https://github.com/yininghase/multi-agent-control)|
+|[the impact of overall optimization on warehouse automation](https://arxiv.org/abs/2308.06036)|[aope-sim](https://github.com/16444take/aope-sim)|
 ## 2023-08-11
 |paper|code|
 |---|---|
