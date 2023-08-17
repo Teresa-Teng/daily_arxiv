@@ -1,8 +1,14 @@
+## 2023-08-16
+|paper|code|
+|---|---|
+|[selective noise suppression methods using random svpwm to shape the noise spectrum of pmsms](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+|[bevplace: learning lidar-based place recognition using bird's eye view images](https://arxiv.org/abs/2302.14325)|[bevplace](https://github.com/zjuluolun/bevplace)|
+|[soy: an efficient milp solver for piecewise-affine systems](https://arxiv.org/abs/2303.13697)|[soy](https://github.com/stanford-centaur/soy)|
+|[whale detection enhancement through synthetic satellite images](https://arxiv.org/abs/2308.07766)|[seadronesim2](https://github.com/prgumd/seadronesim2)|
 ## 2023-08-15
 |paper|code|
 |---|---|
 |[can we transfer noise patterns? a multi-environment spectrum analysis model using generated cases](https://arxiv.org/abs/2308.01138)|[cnst](https://github.com/magnomic/cnst)|
-|[large-scale autonomous flight with real-time semantic slam under dense forest canopy](https://arxiv.org/abs/2109.06479)|[sloam](https://github.com/KumarRobotics/sloam)|
 |[seer: safe efficient exploration for aerial robots using learning to predict information gain](https://arxiv.org/abs/2209.11034)|[seer](https://github.com/tyuezhan/seer)|
 |[agent-controller representations: principled offline rl with rich exogenous information](https://arxiv.org/abs/2211.00164)|[agent-centric-representations](https://github.com/manantomar/agent-centric-representations)|
 |[from prediction to planning with goal conditioned lane graph traversals](https://arxiv.org/abs/2302.07753)|[pgp](https://github.com/autonomousvision/nuplan_garage/tree/main/nuplan_garage/planning/training/modeling/models/pgp)|
@@ -11,8 +17,9 @@
 |[project-based learning for robot control theory: a robot operating system (ros) based approach](https://arxiv.org/abs/2305.11279)|[pbl_robot_control](https://github.com/sfarzan/pbl_robot_control)|
 |[waterscenes: a multi-task 4d radar-camera fusion dataset and benchmark for autonomous driving on water surfaces](https://arxiv.org/abs/2307.06505)|[waterscenes](https://github.com/waterscenes/waterscenes)|
 |[fusionad: multi-modality fusion for prediction and planning tasks of autonomous driving](https://arxiv.org/abs/2308.01006)|[fusionad](https://github.com/westlake-autolab/fusionad)|
+|[refining 6-dof grasps with context-specific classifiers](https://arxiv.org/abs/2308.06928)|[graspflow](https://github.com/tasbolat1/graspflow)|
+|[robotkube: orchestrating large-scale cooperative multi-robot systems with kubernetes and ros](https://arxiv.org/abs/2308.07053)|[robotkube](https://github.com/ika-rwth-aachen/robotkube)|
 |[focusflow: boosting key-points optical flow estimation for autonomous driving](https://arxiv.org/abs/2308.07104)|[focusflow_official](https://github.com/zhonghuayi/focusflow_official)|
-|[neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases](https://arxiv.org/abs/2308.07118)|[iisnerf](https://github.com/maftej/iisnerf)|
 |[uniworld: autonomous driving pre-training via world models](https://arxiv.org/abs/2308.07234)|[uniworld](https://github.com/chaytonmin/uniworld)|
 ## 2023-08-14
 |paper|code|
@@ -29,6 +36,7 @@
 |---|---|
 |[cosys-airsim: a real-time simulation framework expanded for complex industrial applications](https://arxiv.org/abs/2303.13381)|[Cosys-AirSim](https://github.com/Cosys-Lab/Cosys-AirSim)|
 |[deep generative models for unsupervised delamination detection using guided waves](https://arxiv.org/abs/2308.05350)|[anovae-delamshm](https://github.com/mahindrautela/anovae-delamshm)|
+|[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
 |[deep learning-based crop row detection for infield navigation of agri-robots](https://arxiv.org/abs/2209.04278)|[croprowdetection](https://github.com/junfenggaolab/croprowdetection)|
 |[gapslam: blending gaussian approximation and particle filters for real-time non-gaussian slam](https://arxiv.org/abs/2303.14283)|[gapslam](https://github.com/doublestrong/gapslam)|
 |[tightly-coupled visual-dvl-inertial odometry for robot-based ice-water boundary exploration](https://arxiv.org/abs/2303.17005)|[msckf_dvio](https://github.com/gso-soslab/msckf_dvio)|
