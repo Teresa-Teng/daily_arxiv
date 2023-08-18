@@ -1,3 +1,11 @@
+## 2023-08-17
+|paper|code|
+|---|---|
+|[large-scale autonomous flight with real-time semantic slam under dense forest canopy](https://arxiv.org/abs/2109.06479)|[sloam](https://github.com/KumarRobotics/sloam)|
+|[difftune: auto-tuning through auto-differentiation](https://arxiv.org/abs/2209.10021)|[difftuneopensource](https://github.com/sheng-cheng/difftuneopensource)|
+|[incremental few-shot object detection via simple fine-tuning approach](https://arxiv.org/abs/2302.09779)|[itfa](https://github.com/tmiu/itfa)|
+|[neural radiance fields in the industrial and robotics domain: applications, research opportunities and use cases](https://arxiv.org/abs/2308.07118)|[iisnerf](https://github.com/maftej/iisnerf)|
+|[autoencoding a soft touch to learn grasping from on-land to underwater](https://arxiv.org/abs/2308.08510)|[amphibioussoftfinger](https://github.com/bionicdl-sustech/amphibioussoftfinger)|
 ## 2023-08-16
 |paper|code|
 |---|---|
@@ -17,6 +25,7 @@
 |[project-based learning for robot control theory: a robot operating system (ros) based approach](https://arxiv.org/abs/2305.11279)|[pbl_robot_control](https://github.com/sfarzan/pbl_robot_control)|
 |[waterscenes: a multi-task 4d radar-camera fusion dataset and benchmark for autonomous driving on water surfaces](https://arxiv.org/abs/2307.06505)|[waterscenes](https://github.com/waterscenes/waterscenes)|
 |[fusionad: multi-modality fusion for prediction and planning tasks of autonomous driving](https://arxiv.org/abs/2308.01006)|[fusionad](https://github.com/westlake-autolab/fusionad)|
+|[dynamic planning with a llm](https://arxiv.org/abs/2308.06391)|[llm-dp](https://github.com/itl-ed/llm-dp)|
 |[refining 6-dof grasps with context-specific classifiers](https://arxiv.org/abs/2308.06928)|[graspflow](https://github.com/tasbolat1/graspflow)|
 |[robotkube: orchestrating large-scale cooperative multi-robot systems with kubernetes and ros](https://arxiv.org/abs/2308.07053)|[robotkube](https://github.com/ika-rwth-aachen/robotkube)|
 |[focusflow: boosting key-points optical flow estimation for autonomous driving](https://arxiv.org/abs/2308.07104)|[focusflow_official](https://github.com/zhonghuayi/focusflow_official)|
