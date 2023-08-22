@@ -1,3 +1,14 @@
+## 2023-08-21
+|paper|code|
+|---|---|
+|[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
+|[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
+|[constrained generative sampling of 6-dof grasps](https://arxiv.org/abs/2302.10745)|[position-contrained-6dof-graspnet](https://github.com/jsll/position-contrained-6dof-graspnet)|
+|[among us: adversarially robust collaborative perception by consensus](https://arxiv.org/abs/2303.09495)|[robosac](https://github.com/coperception/robosac)|
+|[hidden biases of end-to-end driving models](https://arxiv.org/abs/2306.07957)|[carla_garage](https://github.com/autonomousvision/carla_garage)|
+|[comprehensive training and evaluation on deep reinforcement learning for automated driving in various simulated driving maneuvers](https://arxiv.org/abs/2306.11466)|[drlcarsim-paper](https://github.com/alaineman/drlcarsim-paper)|
+|[surgicalsam: efficient class promptable surgical instrument segmentation](https://arxiv.org/abs/2308.08746)|[surgicalsam](https://github.com/wenxi-yue/surgicalsam)|
+|[posynda: multi-hypothesis pose synthesis domain adaptation for robust 3d human pose estimation](https://arxiv.org/abs/2308.09678)|[posynda](https://github.com/hbing-l/posynda)|
 ## 2023-08-17
 |paper|code|
 |---|---|
