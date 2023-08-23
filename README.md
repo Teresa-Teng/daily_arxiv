@@ -1,13 +1,30 @@
+## 2023-08-22
+|paper|code|
+|---|---|
+|[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
+|[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
+|[unsupervised multimodal word discovery based on double articulation analysis with co-occurrence cues](https://arxiv.org/abs/2201.06786)|[npb-daa-mlda](https://github.com/a-taniguchi/npb-daa-mlda)|
+|[learning latent representations to co-adapt to humans](https://arxiv.org/abs/2212.09586)|[RILI_co-adaptation](https://github.com/VT-Collab/RILI_co-adaptation)|
+|[safe robot learning in assistive devices through neural network repair](https://arxiv.org/abs/2303.04431)|[nnreplayer](https://github.com/k1majd/nnreplayer)|
+|[iplan: intent-aware planning in heterogeneous traffic via distributed multi-agent reinforcement learning](https://arxiv.org/abs/2306.06236)|[iPLAN](https://github.com/wuxiyang1996/iPLAN)|
+|[cat-vil: co-attention gated vision-language embedding for visual question localized-answering in robotic surgery](https://arxiv.org/abs/2307.05182)|[cat-vil](https://github.com/longbai1006/cat-vil)|
+|[forecast-mae: self-supervised pre-training for motion forecasting with masked autoencoders](https://arxiv.org/abs/2308.09882)|[forecast-mae](https://github.com/jchengai/forecast-mae)|
+|[what is the impact of releasing code with publications? statistics from the machine learning, robotics, and control communities](https://arxiv.org/abs/2308.10008)|[code-release](https://github.com/utiasDSL/code-release)|
+|[efficient real-time path planning with self-evolving particle swarm optimization in dynamic scenarios](https://arxiv.org/abs/2308.10169)|[real-time-path-planning-with-sepso](https://github.com/xinjinghao/real-time-path-planning-with-sepso)|
+|[efficient-vrnet: an exquisite fusion network for riverway panoptic perception based on asymmetric fair fusion of vision and 4d mmwave radar](https://arxiv.org/abs/2308.10287)|[Efficient-VRNet](https://github.com/GuanRunwei/Efficient-VRNet)|
 ## 2023-08-21
 |paper|code|
 |---|---|
 |[towards best practice of interpreting deep learning models for eeg-based brain computer interfaces](https://arxiv.org/abs/2202.06948)|[Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI](https://github.com/cuijiancorbin/Towards-Best-Practice-of-Interpreting-Deep-Learning-Models-for-EEG-based-BCI)|
 |[remote bio-sensing: open source benchmark framework for fair evaluation of rppg](https://arxiv.org/abs/2307.12644)|[rppg](https://github.com/remotebiosensing/rppg)|
+|[swinjscc: taming swin transformer for deep joint source-channel coding](https://arxiv.org/abs/2308.09361)|[swinjscc](https://github.com/semcomm/swinjscc)|
 |[constrained generative sampling of 6-dof grasps](https://arxiv.org/abs/2302.10745)|[position-contrained-6dof-graspnet](https://github.com/jsll/position-contrained-6dof-graspnet)|
 |[among us: adversarially robust collaborative perception by consensus](https://arxiv.org/abs/2303.09495)|[robosac](https://github.com/coperception/robosac)|
 |[hidden biases of end-to-end driving models](https://arxiv.org/abs/2306.07957)|[carla_garage](https://github.com/autonomousvision/carla_garage)|
 |[comprehensive training and evaluation on deep reinforcement learning for automated driving in various simulated driving maneuvers](https://arxiv.org/abs/2306.11466)|[drlcarsim-paper](https://github.com/alaineman/drlcarsim-paper)|
 |[surgicalsam: efficient class promptable surgical instrument segmentation](https://arxiv.org/abs/2308.08746)|[surgicalsam](https://github.com/wenxi-yue/surgicalsam)|
+|[nowhere to go: benchmarking multi-robot collaboration in target trapping environment](https://arxiv.org/abs/2308.08862)|[t2e](https://github.com/dr-xiaogaren/t2e)|
 |[posynda: multi-hypothesis pose synthesis domain adaptation for robust 3d human pose estimation](https://arxiv.org/abs/2308.09678)|[posynda](https://github.com/hbing-l/posynda)|
 ## 2023-08-17
 |paper|code|
