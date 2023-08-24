@@ -1,14 +1,31 @@
+## 2023-08-23
+|paper|code|
+|---|---|
+|[learning to learn graph topologies](https://arxiv.org/abs/2110.09807)|[l2g-neurips2021](https://github.com/xpuoxford/l2g-neurips2021)|
+|[tightly integrated motion classification and state estimation in foot-mounted navigation systems](https://arxiv.org/abs/2305.09363)|[filterbanks](https://gitlab.liu.se/open-shoe/filterbanks)|
+|[a man-in-the-middle attack against object detection systems](https://arxiv.org/abs/2208.07174)|[whitebox-adversarial-toolbox](https://github.com/wuhanstudio/whitebox-adversarial-toolbox)|
+|[lopr: latent occupancy prediction using generative models](https://arxiv.org/abs/2210.01249)|[lopr](https://github.com/sisl/lopr)|
+|[pohang canal dataset: a multimodal maritime dataset for autonomous navigation in restricted waters](https://arxiv.org/abs/2303.05555)|[lidar_to_image](https://github.com/dhchung/lidar_to_image)|
+|[panoptic mapping with fruit completion and pose estimation for horticultural robots](https://arxiv.org/abs/2303.08923)|[hortimapping](https://github.com/prbonn/hortimapping)|
+|[an open source design optimization toolbox evaluated on a soft finger](https://arxiv.org/abs/2304.07260)|[SoftRobots.DesignOptimization](https://github.com/SofaDefrost/SoftRobots.DesignOptimization)|
+|[dynamic open vocabulary enhanced safe-landing with intelligence (dovesei)](https://arxiv.org/abs/2308.11471)|[dovesei](https://github.com/mistlab/dovesei)|
+|[g3reg: pyramid graph-based global registration using gaussian ellipsoid model](https://arxiv.org/abs/2308.11573)|[g3reg](https://github.com/hkust-aerial-robotics/g3reg)|
 ## 2023-08-22
 |paper|code|
 |---|---|
 |[parallel faceted imaging in radio interferometry via proximal splitting (faceted hypersara): ii. code and real data proof of concept](https://arxiv.org/abs/2209.07604)|[faceted-hypersara](https://github.com/basp-group/faceted-hypersara)|
+|[a unified multi-task semantic communication system for multimodal data](https://arxiv.org/abs/2209.07689)|[t-udeepsc](https://github.com/zhang-guangyi/t-udeepsc)|
 |[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
+|[multidimensional graph neural networks for wireless communications](https://arxiv.org/abs/2212.11531)|[mdgnn](https://github.com/lsj-buaa/mdgnn)|
 |[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
 |[unsupervised multimodal word discovery based on double articulation analysis with co-occurrence cues](https://arxiv.org/abs/2201.06786)|[npb-daa-mlda](https://github.com/a-taniguchi/npb-daa-mlda)|
 |[learning latent representations to co-adapt to humans](https://arxiv.org/abs/2212.09586)|[RILI_co-adaptation](https://github.com/VT-Collab/RILI_co-adaptation)|
 |[safe robot learning in assistive devices through neural network repair](https://arxiv.org/abs/2303.04431)|[nnreplayer](https://github.com/k1majd/nnreplayer)|
 |[iplan: intent-aware planning in heterogeneous traffic via distributed multi-agent reinforcement learning](https://arxiv.org/abs/2306.06236)|[iPLAN](https://github.com/wuxiyang1996/iPLAN)|
 |[cat-vil: co-attention gated vision-language embedding for visual question localized-answering in robotic surgery](https://arxiv.org/abs/2307.05182)|[cat-vil](https://github.com/longbai1006/cat-vil)|
+|[towards a modular architecture for science factories](https://arxiv.org/abs/2308.09793)|[rpl_wei](https://github.com/ad-sdl/rpl_wei)|
+|[learning soft robot dynamics using differentiable kalman filters and spatio-temporal embeddings](https://arxiv.org/abs/2308.09868)|[soft_robot_denkf](https://github.com/ir-lab/soft_robot_denkf)|
+|[enhancing state estimation in robots: a data-driven approach with differentiable ensemble kalman filters](https://arxiv.org/abs/2308.09870)|[denkf](https://github.com/ir-lab/denkf)|
 |[forecast-mae: self-supervised pre-training for motion forecasting with masked autoencoders](https://arxiv.org/abs/2308.09882)|[forecast-mae](https://github.com/jchengai/forecast-mae)|
 |[what is the impact of releasing code with publications? statistics from the machine learning, robotics, and control communities](https://arxiv.org/abs/2308.10008)|[code-release](https://github.com/utiasDSL/code-release)|
 |[efficient real-time path planning with self-evolving particle swarm optimization in dynamic scenarios](https://arxiv.org/abs/2308.10169)|[real-time-path-planning-with-sepso](https://github.com/xinjinghao/real-time-path-planning-with-sepso)|
