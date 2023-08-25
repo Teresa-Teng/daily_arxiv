@@ -1,15 +1,26 @@
+## 2023-08-24
+|paper|code|
+|---|---|
+|[a thru-free multiline calibration](https://arxiv.org/abs/2305.03597)|[thru-free-multiline-calibration](https://github.com/ZiadHatab/thru-free-multiline-calibration)|
+|[compressed sensing: a discrete optimization approach](https://arxiv.org/abs/2306.04647)|[discretecompressedsensing.jl](https://github.com/nicholasjohnson2020/discretecompressedsensing.jl)|
+|[system identification using the signed cumulative distribution transform in structural health monitoring applications](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[image labels are all you need for coarse seagrass segmentation](https://arxiv.org/abs/2303.00973)|[bag-of-seagrass](https://github.com/sgraine/bag-of-seagrass)|
+|[radar-camera fusion for object detection and semantic segmentation in autonomous driving: a comprehensive review](https://arxiv.org/abs/2304.10410)|[Radar-Camera-Fusion](https://github.com/XJTLU-VEC/Radar-Camera-Fusion)|
+|[rosgpt_vision: commanding robots using only language models' prompts](https://arxiv.org/abs/2308.11236)|[rosgpt_vision](https://github.com/bilel-bj/rosgpt_vision)|
+|[value of assistance for mobile agents](https://arxiv.org/abs/2308.11961)|[voa](https://github.com/clair-lab-technion/voa)|
+|[multi-modal multi-task (3mt) road segmentation](https://arxiv.org/abs/2308.11983)|[3mt-roadseg](https://github.com/erkanmilli/3mt-roadseg)|
 ## 2023-08-23
 |paper|code|
 |---|---|
 |[learning to learn graph topologies](https://arxiv.org/abs/2110.09807)|[l2g-neurips2021](https://github.com/xpuoxford/l2g-neurips2021)|
 |[tightly integrated motion classification and state estimation in foot-mounted navigation systems](https://arxiv.org/abs/2305.09363)|[filterbanks](https://gitlab.liu.se/open-shoe/filterbanks)|
 |[a man-in-the-middle attack against object detection systems](https://arxiv.org/abs/2208.07174)|[whitebox-adversarial-toolbox](https://github.com/wuhanstudio/whitebox-adversarial-toolbox)|
-|[lopr: latent occupancy prediction using generative models](https://arxiv.org/abs/2210.01249)|[lopr](https://github.com/sisl/lopr)|
 |[pohang canal dataset: a multimodal maritime dataset for autonomous navigation in restricted waters](https://arxiv.org/abs/2303.05555)|[lidar_to_image](https://github.com/dhchung/lidar_to_image)|
 |[panoptic mapping with fruit completion and pose estimation for horticultural robots](https://arxiv.org/abs/2303.08923)|[hortimapping](https://github.com/prbonn/hortimapping)|
 |[an open source design optimization toolbox evaluated on a soft finger](https://arxiv.org/abs/2304.07260)|[SoftRobots.DesignOptimization](https://github.com/SofaDefrost/SoftRobots.DesignOptimization)|
-|[dynamic open vocabulary enhanced safe-landing with intelligence (dovesei)](https://arxiv.org/abs/2308.11471)|[dovesei](https://github.com/mistlab/dovesei)|
-|[g3reg: pyramid graph-based global registration using gaussian ellipsoid model](https://arxiv.org/abs/2308.11573)|[g3reg](https://github.com/hkust-aerial-robotics/g3reg)|
+|[spada: a toolbox of designing soft pneumatic actuators for shape matching based on surrogate modeling](https://arxiv.org/abs/2305.19509)|[spada](https://github.com/ori-srl/spada)|
+|[adaptive graduated non-convexity for pose graph optimization](https://arxiv.org/abs/2308.11444)|[agnc-pgo](https://github.com/snu-dllab/agnc-pgo)|
+|[g3reg: pyramid graph-based global registration using gaussian ellipsoid model](https://arxiv.org/abs/2308.11573)|[lidar-registration-benchmark](https://github.com/hkust-aerial-robotics/lidar-registration-benchmark)|
 ## 2023-08-22
 |paper|code|
 |---|---|
