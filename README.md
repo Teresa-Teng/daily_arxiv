@@ -1,8 +1,23 @@
+## 2023-08-25
+|paper|code|
+|---|---|
+|[quantized radio map estimation using tensor and deep generative models](https://arxiv.org/abs/2303.01770)|[Quantized-Radio-Map-Estimation-BTD-and-DGM](https://github.com/XiaoFuLab/Quantized-Radio-Map-Estimation-BTD-and-DGM)|
+|[dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/abs/2306.01891)|[dh-ptam](https://github.com/abanobsoliman/dh-ptam)|
+|[augmenting reinforcement learning with transformer-based scene representation learning for decision-making of autonomous driving](https://arxiv.org/abs/2208.12263)|[scene-rep-transformer](https://github.com/georgeliu233/scene-rep-transformer)|
+|[lopr: latent occupancy prediction using generative models](https://arxiv.org/abs/2210.01249)|[lopr](https://github.com/sisl/lopr)|
+|[vad: vectorized scene representation for efficient autonomous driving](https://arxiv.org/abs/2303.12077)|[vad](https://github.com/hustvl/vad)|
+|[dynamic open vocabulary enhanced safe-landing with intelligence (dovesei)](https://arxiv.org/abs/2308.11471)|[dovesei](https://github.com/mistlab/dovesei)|
+|[hubo-vlm: unified vision-language model designed for human robot interaction tasks](https://arxiv.org/abs/2308.12537)|[HuBo-VLM](https://github.com/dzcgaara/HuBo-VLM)|
+|[joint intrinsic and extrinsic lidar-camera calibration in targetless environments using plane-constrained bundle adjustment](https://arxiv.org/abs/2308.12629)|[joint-lidar-camera-calib](https://github.com/hku-mars/joint-lidar-camera-calib)|
+|[acquiring qualitative explainable graphs for automated driving scene interpretation](https://arxiv.org/abs/2308.12755)|[qxg-builder](https://github.com/simula-vias/qxg-builder)|
+|[bridgedata v2: a dataset for robot learning at scale](https://arxiv.org/abs/2308.12952)|[BridgeData-V2](https://github.com/rail-berkeley/BridgeData-V2)|
 ## 2023-08-24
 |paper|code|
 |---|---|
 |[a thru-free multiline calibration](https://arxiv.org/abs/2305.03597)|[thru-free-multiline-calibration](https://github.com/ZiadHatab/thru-free-multiline-calibration)|
 |[compressed sensing: a discrete optimization approach](https://arxiv.org/abs/2306.04647)|[discretecompressedsensing.jl](https://github.com/nicholasjohnson2020/discretecompressedsensing.jl)|
+|[iot data trust evaluation via machine learning](https://arxiv.org/abs/2308.11638)|[iot_datatrust_rwi](https://github.com/tim-tadj/iot_datatrust_rwi)|
+|[optimal linear precoder design for mimo-ofdm integrated sensing and communications based on bayesian cram\'er-rao bound](https://arxiv.org/abs/2308.12106)|[isac-mimo-ofdm-wf](https://github.com/xinyanglii/isac-mimo-ofdm-wf)|
 |[system identification using the signed cumulative distribution transform in structural health monitoring applications](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
 |[image labels are all you need for coarse seagrass segmentation](https://arxiv.org/abs/2303.00973)|[bag-of-seagrass](https://github.com/sgraine/bag-of-seagrass)|
 |[radar-camera fusion for object detection and semantic segmentation in autonomous driving: a comprehensive review](https://arxiv.org/abs/2304.10410)|[Radar-Camera-Fusion](https://github.com/XJTLU-VEC/Radar-Camera-Fusion)|
