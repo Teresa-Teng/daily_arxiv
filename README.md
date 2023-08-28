@@ -3,7 +3,6 @@
 |---|---|
 |[quantized radio map estimation using tensor and deep generative models](https://arxiv.org/abs/2303.01770)|[Quantized-Radio-Map-Estimation-BTD-and-DGM](https://github.com/XiaoFuLab/Quantized-Radio-Map-Estimation-BTD-and-DGM)|
 |[dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/abs/2306.01891)|[dh-ptam](https://github.com/abanobsoliman/dh-ptam)|
-|[augmenting reinforcement learning with transformer-based scene representation learning for decision-making of autonomous driving](https://arxiv.org/abs/2208.12263)|[scene-rep-transformer](https://github.com/georgeliu233/scene-rep-transformer)|
 |[lopr: latent occupancy prediction using generative models](https://arxiv.org/abs/2210.01249)|[lopr](https://github.com/sisl/lopr)|
 |[vad: vectorized scene representation for efficient autonomous driving](https://arxiv.org/abs/2303.12077)|[vad](https://github.com/hustvl/vad)|
 |[dynamic open vocabulary enhanced safe-landing with intelligence (dovesei)](https://arxiv.org/abs/2308.11471)|[dovesei](https://github.com/mistlab/dovesei)|
@@ -43,7 +42,6 @@
 |[a unified multi-task semantic communication system for multimodal data](https://arxiv.org/abs/2209.07689)|[t-udeepsc](https://github.com/zhang-guangyi/t-udeepsc)|
 |[graph neural networks on spd manifolds for motor imagery classification: a perspective from the time-frequency analysis](https://arxiv.org/abs/2211.02641)|[Tensor-CSPNet-and-Graph-CSPNet](https://github.com/GeometricBCI/Tensor-CSPNet-and-Graph-CSPNet)|
 |[multidimensional graph neural networks for wireless communications](https://arxiv.org/abs/2212.11531)|[mdgnn](https://github.com/lsj-buaa/mdgnn)|
-|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
 |[unsupervised multimodal word discovery based on double articulation analysis with co-occurrence cues](https://arxiv.org/abs/2201.06786)|[npb-daa-mlda](https://github.com/a-taniguchi/npb-daa-mlda)|
 |[learning latent representations to co-adapt to humans](https://arxiv.org/abs/2212.09586)|[RILI_co-adaptation](https://github.com/VT-Collab/RILI_co-adaptation)|
 |[safe robot learning in assistive devices through neural network repair](https://arxiv.org/abs/2303.04431)|[nnreplayer](https://github.com/k1majd/nnreplayer)|
