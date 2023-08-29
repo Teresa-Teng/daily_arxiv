@@ -1,3 +1,16 @@
+## 2023-08-28
+|paper|code|
+|---|---|
+|[early stopping for deep image prior](https://arxiv.org/abs/2112.06074)|[early_stopping_for_dip](https://github.com/sun-umn/early_stopping_for_dip)|
+|[arrhythmia classifier based on ultra-lightweight binary neural network](https://arxiv.org/abs/2304.01568)|[ecg_bnn_net](https://github.com/xpww/ecg_bnn_net)|
+|[parameter-efficient learning for text-to-speech accent adaptation](https://arxiv.org/abs/2305.11320)|[PEL-TTS](https://github.com/TTS-Research/PEL-TTS)|
+|[a multi-dimensional deep structured state space approach to speech enhancement using small-footprint models](https://arxiv.org/abs/2306.00331)|[s4nd-u-net_speech_enhancement](https://github.com/kuray107/s4nd-u-net_speech_enhancement)|
+|[augmenting reinforcement learning with transformer-based scene representation learning for decision-making of autonomous driving](https://arxiv.org/abs/2208.12263)|[scene-rep-transformer](https://github.com/georgeliu233/scene-rep-transformer)|
+|[scenerf: self-supervised monocular 3d scene reconstruction with radiance fields](https://arxiv.org/abs/2212.02501)|[SceneRF](https://github.com/astra-vision/SceneRF)|
+|[learning to control autonomous fleets from observation via offline reinforcement learning](https://arxiv.org/abs/2302.14833)|[offline-rl-amod](https://github.com/carolinssc/offline-rl-amod)|
+|[cross-domain transfer learning and state inference for soft robots via a semi-supervised sequential variational bayes framework](https://arxiv.org/abs/2303.01693)|[dsvb](https://github.com/shageenderan/dsvb)|
+|[meros: sysml-based metamodel for ros-based systems](https://arxiv.org/abs/2303.08254)|[meros](https://github.com/twiniars/meros)|
+|[risk-aware reward shaping of reinforcement learning agents for autonomous driving](https://arxiv.org/abs/2306.03220)|[code_2023_iecon_shaping_wu](https://github.com/zhang-zengjie/code_2023_iecon_shaping_wu)|
 ## 2023-08-25
 |paper|code|
 |---|---|
@@ -28,6 +41,7 @@
 |---|---|
 |[learning to learn graph topologies](https://arxiv.org/abs/2110.09807)|[l2g-neurips2021](https://github.com/xpuoxford/l2g-neurips2021)|
 |[tightly integrated motion classification and state estimation in foot-mounted navigation systems](https://arxiv.org/abs/2305.09363)|[filterbanks](https://gitlab.liu.se/open-shoe/filterbanks)|
+|[graph neural network-enhanced expectation propagation algorithm for mimo turbo receivers](https://arxiv.org/abs/2308.11335)|[GNN-enhanced-EP-for-Turbo-MIMO](https://github.com/STARainZ/GNN-enhanced-EP-for-Turbo-MIMO)|
 |[a man-in-the-middle attack against object detection systems](https://arxiv.org/abs/2208.07174)|[whitebox-adversarial-toolbox](https://github.com/wuhanstudio/whitebox-adversarial-toolbox)|
 |[pohang canal dataset: a multimodal maritime dataset for autonomous navigation in restricted waters](https://arxiv.org/abs/2303.05555)|[lidar_to_image](https://github.com/dhchung/lidar_to_image)|
 |[panoptic mapping with fruit completion and pose estimation for horticultural robots](https://arxiv.org/abs/2303.08923)|[hortimapping](https://github.com/prbonn/hortimapping)|
