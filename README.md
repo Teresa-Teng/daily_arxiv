@@ -1,3 +1,17 @@
+## 2023-08-29
+|paper|code|
+|---|---|
+|[self-supervised scalable deep compressed sensing](https://arxiv.org/abs/2308.13777)|[scnet](https://github.com/guaishou74851/scnet)|
+|[a comparison of neural networks for wireless channel prediction](https://arxiv.org/abs/2308.14020)|[channel_prediction_dnn](https://github.com/osst3224/channel_prediction_dnn)|
+|[transvisdrone: spatio-temporal transformer for vision-based drone-to-drone detection in aerial videos](https://arxiv.org/abs/2210.08423)|[transvisdrone](https://github.com/tusharsangam/transvisdrone)|
+|[predicting class distribution shift for reliable domain adaptive object detection](https://arxiv.org/abs/2302.06039)|[classdistributionprediction](https://github.com/nhcha6/classdistributionprediction)|
+|[causal explanations for sequential decision-making in multi-agent systems](https://arxiv.org/abs/2302.10809)|[xavi-ai4ad](https://github.com/uoe-agents/xavi-ai4ad)|
+|[gapt: gaussian process toolkit for online regression with application to learning quadrotor dynamics](https://arxiv.org/abs/2303.08181)|[gapt](https://github.com/arplaboratory/gapt)|
+|[map-based experience replay: a memory-efficient solution to catastrophic forgetting in reinforcement learning](https://arxiv.org/abs/2305.02054)|[gwrr](https://github.com/tilmanimmisch/gwrr)|
+|[anytime, anywhere: human arm pose from smartwatch data for ubiquitous robot control and teleoperation](https://arxiv.org/abs/2306.13192)|[arm-pose-visualization](https://github.com/wearable-motion-capture/arm-pose-visualization)|
+|[driveadapter: breaking the coupling barrier of perception and planning in end-to-end autonomous driving](https://arxiv.org/abs/2308.00398)|[driveadapter](https://github.com/opendrivelab/driveadapter)|
+|[isr-llm: iterative self-refined large language model for long-horizon sequential task planning](https://arxiv.org/abs/2308.13724)|[isr-llm](https://github.com/zhehuazhou/isr-llm)|
+|[learning visual tracking and reaching with deep reinforcement learning on a ur10e robotic arm](https://arxiv.org/abs/2308.14652)|[bendrl_reacher_tracker](https://github.com/cbellinger27/bendrl_reacher_tracker)|
 ## 2023-08-28
 |paper|code|
 |---|---|
@@ -11,6 +25,7 @@
 |[cross-domain transfer learning and state inference for soft robots via a semi-supervised sequential variational bayes framework](https://arxiv.org/abs/2303.01693)|[dsvb](https://github.com/shageenderan/dsvb)|
 |[meros: sysml-based metamodel for ros-based systems](https://arxiv.org/abs/2303.08254)|[meros](https://github.com/twiniars/meros)|
 |[risk-aware reward shaping of reinforcement learning agents for autonomous driving](https://arxiv.org/abs/2306.03220)|[code_2023_iecon_shaping_wu](https://github.com/zhang-zengjie/code_2023_iecon_shaping_wu)|
+|[integrating llms and decision transformers for language grounded generative quality-diversity](https://arxiv.org/abs/2308.13278)|[languagegroundedqd](https://github.com/salehiac/languagegroundedqd)|
 ## 2023-08-25
 |paper|code|
 |---|---|
