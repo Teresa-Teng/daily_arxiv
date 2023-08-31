@@ -1,8 +1,18 @@
+## 2023-08-30
+|paper|code|
+|---|---|
+|[fundamentals of wobbling and hardware impairments-aware air-to-ground channel model](https://arxiv.org/abs/2205.10957)|[Wobbling-HI-Drones](https://github.com/mbanagar/Wobbling-HI-Drones)|
+|[towards domain generalization for ecg and eeg classification: algorithms and benchmarks](https://arxiv.org/abs/2303.11338)|[biodg](https://github.com/aristotelisballas/biodg)|
+|[towards quantitative precision for ecg analysis: leveraging state space models, self-supervision and patient metadata](https://arxiv.org/abs/2308.15291)|[ssm_ecg](https://github.com/tmehari/ssm_ecg)|
+|[human-inspired multi-agent navigation using knowledge distillation](https://arxiv.org/abs/2103.10000)|[KDMA](https://github.com/xupei0610/KDMA)|
+|[improving reinforcement learning training regimes for social robot navigation](https://arxiv.org/abs/2308.14947)|[soc-nav-training](https://github.com/raise-lab/soc-nav-training)|
+|[enhancing robot learning through learned human-attention feature maps](https://arxiv.org/abs/2308.15327)|[learning_human_attention](https://github.com/cps-tuwien/learning_human_attention)|
 ## 2023-08-29
 |paper|code|
 |---|---|
 |[self-supervised scalable deep compressed sensing](https://arxiv.org/abs/2308.13777)|[scnet](https://github.com/guaishou74851/scnet)|
 |[a comparison of neural networks for wireless channel prediction](https://arxiv.org/abs/2308.14020)|[channel_prediction_dnn](https://github.com/osst3224/channel_prediction_dnn)|
+|[on the statistical relation of ultra-reliable wireless and location estimation](https://arxiv.org/abs/2308.14416)|[localization-and-reliability-in-urllc](https://github.com/tobiaskallehauge/localization-and-reliability-in-urllc)|
 |[transvisdrone: spatio-temporal transformer for vision-based drone-to-drone detection in aerial videos](https://arxiv.org/abs/2210.08423)|[transvisdrone](https://github.com/tusharsangam/transvisdrone)|
 |[predicting class distribution shift for reliable domain adaptive object detection](https://arxiv.org/abs/2302.06039)|[classdistributionprediction](https://github.com/nhcha6/classdistributionprediction)|
 |[causal explanations for sequential decision-making in multi-agent systems](https://arxiv.org/abs/2302.10809)|[xavi-ai4ad](https://github.com/uoe-agents/xavi-ai4ad)|
@@ -11,7 +21,9 @@
 |[anytime, anywhere: human arm pose from smartwatch data for ubiquitous robot control and teleoperation](https://arxiv.org/abs/2306.13192)|[arm-pose-visualization](https://github.com/wearable-motion-capture/arm-pose-visualization)|
 |[driveadapter: breaking the coupling barrier of perception and planning in end-to-end autonomous driving](https://arxiv.org/abs/2308.00398)|[driveadapter](https://github.com/opendrivelab/driveadapter)|
 |[isr-llm: iterative self-refined large language model for long-horizon sequential task planning](https://arxiv.org/abs/2308.13724)|[isr-llm](https://github.com/zhehuazhou/isr-llm)|
+|[a comparative conflict resolution dataset derived from argoverse-2: scenarios with vs. without autonomous vehicles](https://arxiv.org/abs/2308.13839)|[conflict_resolution_dataset](https://github.com/romainlitud/conflict_resolution_dataset)|
 |[learning visual tracking and reaching with deep reinforcement learning on a ur10e robotic arm](https://arxiv.org/abs/2308.14652)|[bendrl_reacher_tracker](https://github.com/cbellinger27/bendrl_reacher_tracker)|
+|[formal modelling and analysis of a self-adaptive robotic system](https://arxiv.org/abs/2308.14663)|[auv_profeat](https://github.com/julianepa/auv_profeat)|
 ## 2023-08-28
 |paper|code|
 |---|---|
