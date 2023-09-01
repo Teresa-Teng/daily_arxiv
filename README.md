@@ -1,3 +1,7 @@
+## 2023-08-31
+|paper|code|
+|---|---|
+|[chatgpt empowered long-step robot control in various environments: a case application](https://arxiv.org/abs/2304.03893)|[chatgpt-robot-manipulation-prompts](https://github.com/microsoft/chatgpt-robot-manipulation-prompts)|
 ## 2023-08-30
 |paper|code|
 |---|---|
