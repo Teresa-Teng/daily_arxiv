@@ -1,3 +1,13 @@
+## 2023-09-01
+|paper|code|
+|---|---|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[optas: an optimization-based task specification library for trajectory optimization and model predictive control](https://arxiv.org/abs/2301.13512)|[optas](https://github.com/cmower/optas)|
+|[surgt challenge: benchmark of soft-tissue trackers for robotic surgery](https://arxiv.org/abs/2302.03022)|[surgt_benchmarking](https://github.com/cartucho/surgt_benchmarking)|
+|[dr.cpo: diversified and realistic 3d augmentation via iterative construction, random placement, and hpr occlusion](https://arxiv.org/abs/2303.12743)|[drcpo](https://github.com/snu-drl/drcpo)|
+|[beyond nerf underwater: learning neural reflectance fields for true color correction of marine imagery](https://arxiv.org/abs/2304.03384)|[neuralsea](https://github.com/tyz1030/neuralsea)|
+|[a remote sim2real aerial competition: fostering reproducibility and solutions' diversity in robotics challenges](https://arxiv.org/abs/2308.16743)|[safe-control-gym](https://github.com/utiasDSL/safe-control-gym)|
+|[gnfactor: multi-task real robot learning with generalizable neural feature fields](https://arxiv.org/abs/2308.16891)|[GNFactor](https://github.com/YanjieZe/GNFactor)|
 ## 2023-08-31
 |paper|code|
 |---|---|
@@ -10,6 +20,8 @@
 |[towards quantitative precision for ecg analysis: leveraging state space models, self-supervision and patient metadata](https://arxiv.org/abs/2308.15291)|[ssm_ecg](https://github.com/tmehari/ssm_ecg)|
 |[human-inspired multi-agent navigation using knowledge distillation](https://arxiv.org/abs/2103.10000)|[KDMA](https://github.com/xupei0610/KDMA)|
 |[improving reinforcement learning training regimes for social robot navigation](https://arxiv.org/abs/2308.14947)|[soc-nav-training](https://github.com/raise-lab/soc-nav-training)|
+|[stochastic motion planning as gaussian variational inference: theory and algorithms](https://arxiv.org/abs/2308.14985)|[vimp](https://github.com/hzyu17/vimp)|
+|[optometrist's algorithm for personalizing robot-human handovers](https://arxiv.org/abs/2308.15007)|[optometrist-algorithm-handovers](https://github.com/vivekgupte07/optometrist-algorithm-handovers)|
 |[enhancing robot learning through learned human-attention feature maps](https://arxiv.org/abs/2308.15327)|[learning_human_attention](https://github.com/cps-tuwien/learning_human_attention)|
 ## 2023-08-29
 |paper|code|
