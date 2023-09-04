@@ -2,16 +2,20 @@
 |paper|code|
 |---|---|
 |[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[phonmatchnet: phoneme-guided zero-shot keyword spotting for user-defined keywords](https://arxiv.org/abs/2308.16511)|[phonmatchnet](https://github.com/ncsoft/phonmatchnet)|
+|[time-varying quasi-closed-phase analysis for accurate formant tracking in speech signals](https://arxiv.org/abs/2308.16540)|[ftrack](https://github.com/njaygowda/ftrack)|
 |[optas: an optimization-based task specification library for trajectory optimization and model predictive control](https://arxiv.org/abs/2301.13512)|[optas](https://github.com/cmower/optas)|
 |[surgt challenge: benchmark of soft-tissue trackers for robotic surgery](https://arxiv.org/abs/2302.03022)|[surgt_benchmarking](https://github.com/cartucho/surgt_benchmarking)|
+|[scrimp: scalable communication for reinforcement- and imitation-learning-based multi-agent pathfinding](https://arxiv.org/abs/2303.00605)|[scrimp](https://github.com/marmotlab/scrimp)|
 |[dr.cpo: diversified and realistic 3d augmentation via iterative construction, random placement, and hpr occlusion](https://arxiv.org/abs/2303.12743)|[drcpo](https://github.com/snu-drl/drcpo)|
 |[beyond nerf underwater: learning neural reflectance fields for true color correction of marine imagery](https://arxiv.org/abs/2304.03384)|[neuralsea](https://github.com/tyz1030/neuralsea)|
+|[graph-based slam-aware exploration with prior topo-metric information](https://arxiv.org/abs/2308.16522)|[graph-based_slam-aware_exploration](https://github.com/bairuofei/graph-based_slam-aware_exploration)|
 |[a remote sim2real aerial competition: fostering reproducibility and solutions' diversity in robotics challenges](https://arxiv.org/abs/2308.16743)|[safe-control-gym](https://github.com/utiasDSL/safe-control-gym)|
-|[gnfactor: multi-task real robot learning with generalizable neural feature fields](https://arxiv.org/abs/2308.16891)|[GNFactor](https://github.com/YanjieZe/GNFactor)|
 ## 2023-08-31
 |paper|code|
 |---|---|
 |[chatgpt empowered long-step robot control in various environments: a case application](https://arxiv.org/abs/2304.03893)|[chatgpt-robot-manipulation-prompts](https://github.com/microsoft/chatgpt-robot-manipulation-prompts)|
+|[sparse waypoint validity checking for self-entanglement-free tethered path planning](https://arxiv.org/abs/2308.15931)|[seftpp](https://github.com/zjutongyang/seftpp)|
 ## 2023-08-30
 |paper|code|
 |---|---|
@@ -36,6 +40,7 @@
 |[map-based experience replay: a memory-efficient solution to catastrophic forgetting in reinforcement learning](https://arxiv.org/abs/2305.02054)|[gwrr](https://github.com/tilmanimmisch/gwrr)|
 |[anytime, anywhere: human arm pose from smartwatch data for ubiquitous robot control and teleoperation](https://arxiv.org/abs/2306.13192)|[arm-pose-visualization](https://github.com/wearable-motion-capture/arm-pose-visualization)|
 |[driveadapter: breaking the coupling barrier of perception and planning in end-to-end autonomous driving](https://arxiv.org/abs/2308.00398)|[driveadapter](https://github.com/opendrivelab/driveadapter)|
+|[correcting motion distortion for lidar hd-map localization](https://arxiv.org/abs/2308.13694)|[vicet](https://github.com/mcdermatt/vicet)|
 |[isr-llm: iterative self-refined large language model for long-horizon sequential task planning](https://arxiv.org/abs/2308.13724)|[isr-llm](https://github.com/zhehuazhou/isr-llm)|
 |[a comparative conflict resolution dataset derived from argoverse-2: scenarios with vs. without autonomous vehicles](https://arxiv.org/abs/2308.13839)|[conflict_resolution_dataset](https://github.com/romainlitud/conflict_resolution_dataset)|
 |[learning visual tracking and reaching with deep reinforcement learning on a ur10e robotic arm](https://arxiv.org/abs/2308.14652)|[bendrl_reacher_tracker](https://github.com/cbellinger27/bendrl_reacher_tracker)|
