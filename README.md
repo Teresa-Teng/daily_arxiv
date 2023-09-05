@@ -1,3 +1,16 @@
+## 2023-09-04
+|paper|code|
+|---|---|
+|[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
+|[neural augmented kalman filtering with bollinger bands for pairs trading](https://arxiv.org/abs/2210.15448)|[kalmanbot_icassp23](https://github.com/kalmannet/kalmanbot_icassp23)|
+|[lasermix for semi-supervised lidar semantic segmentation](https://arxiv.org/abs/2207.00026)|[LaserMix](https://github.com/ldkong1205/LaserMix)|
+|[minimalistic collective perception with imperfect sensors](https://arxiv.org/abs/2209.12858)|[collective_perception](https://github.com/khaiyichin/collective_perception)|
+|[onlinefgo: online continuous-time factor graph optimization with time-centric multi-sensor fusion for robust localization in large-scale environments](https://arxiv.org/abs/2211.05400)|[onlinefgo](https://github.com/rwth-irt/onlinefgo)|
+|[xtenth-car: a proportionally scaled experimental vehicle platform for connected autonomy and all-terrain research](https://arxiv.org/abs/2212.01691)|[xtenth-car](https://github.com/shathushan-sivashangaran/xtenth-car)|
+|[autovrl: a high fidelity autonomous ground vehicle simulator for sim-to-real deep reinforcement learning](https://arxiv.org/abs/2304.11496)|[autovrl](https://github.com/shathushan-sivashangaran/autovrl)|
+|[ssd-monodetr: supervised scale-aware deformable transformer for monocular 3d object detection](https://arxiv.org/abs/2305.07270)|[ssd-monodetr](https://github.com/mikasa3lili/ssd-monodetr)|
+|[gnfactor: multi-task real robot learning with generalizable neural feature fields](https://arxiv.org/abs/2308.16891)|[GNFactor](https://github.com/YanjieZe/GNFactor)|
+|[learning-based nlos detection and uncertainty prediction of gnss observations with transformer-enhanced lstm network](https://arxiv.org/abs/2309.00480)|[deepnlosdetection](https://github.com/rwth-irt/deepnlosdetection)|
 ## 2023-09-01
 |paper|code|
 |---|---|
