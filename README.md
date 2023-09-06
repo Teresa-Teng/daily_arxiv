@@ -10,6 +10,8 @@
 |[autovrl: a high fidelity autonomous ground vehicle simulator for sim-to-real deep reinforcement learning](https://arxiv.org/abs/2304.11496)|[autovrl](https://github.com/shathushan-sivashangaran/autovrl)|
 |[ssd-monodetr: supervised scale-aware deformable transformer for monocular 3d object detection](https://arxiv.org/abs/2305.07270)|[ssd-monodetr](https://github.com/mikasa3lili/ssd-monodetr)|
 |[gnfactor: multi-task real robot learning with generalizable neural feature fields](https://arxiv.org/abs/2308.16891)|[GNFactor](https://github.com/YanjieZe/GNFactor)|
+|[on the safety of connected cruise control: analysis and synthesis with control barrier functions](https://arxiv.org/abs/2309.00074)|[safe-connected-cruise-control](https://github.com/molnartamasg/safe-connected-cruise-control)|
+|[implementing bdi continual temporal planning for robotic agents](https://arxiv.org/abs/2309.00327)|[iros2023](https://github.com/rti-bdi/iros2023)|
 |[learning-based nlos detection and uncertainty prediction of gnss observations with transformer-enhanced lstm network](https://arxiv.org/abs/2309.00480)|[deepnlosdetection](https://github.com/rwth-irt/deepnlosdetection)|
 ## 2023-09-01
 |paper|code|
