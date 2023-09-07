@@ -1,3 +1,18 @@
+## 2023-09-06
+|paper|code|
+|---|---|
+|[generalized minimum error entropy for adaptive filtering](https://arxiv.org/abs/2109.03463)|[Generalized-minimum-error-entropy-for-robust-learning](https://github.com/Asmallorange123/Generalized-minimum-error-entropy-for-robust-learning)|
+|[learning efficient abstract planning models that choose what to predict](https://arxiv.org/abs/2208.07737)|[predicators_behavior](https://github.com/Learning-and-Intelligent-Systems/predicators_behavior)|
+|[video based object 6d pose estimation using transformers](https://arxiv.org/abs/2210.13540)|[videopose](https://github.com/apoorvabeedu/videopose)|
+|[vise: vision-based 3d online shape estimation of continuously deformable robots](https://arxiv.org/abs/2211.05222)|[vise](https://github.com/srl-ethz/vise)|
+|[drl-vo: learning to navigate through crowded dynamic scenes using velocity obstacles](https://arxiv.org/abs/2301.06512)|[nav-competition-icra2022-drl-vo](https://github.com/templerail/nav-competition-icra2022-drl-vo)|
+|[robo3d: towards robust and reliable 3d perception against corruptions](https://arxiv.org/abs/2303.17597)|[Robo3D](https://github.com/ldkong1205/Robo3D)|
+|[eigen-factors an alternating optimization for back-end plane slam of 3d point clouds](https://arxiv.org/abs/2304.01055)|[ef-plane-slam](https://github.com/prime-slam/ef-plane-slam)|
+|[slomo: a general system for legged robot motion imitation from casual videos](https://arxiv.org/abs/2304.14389)|[slomo](https://github.com/johnzhang3/slomo)|
+|[multi-robot coordination and layout design for automated warehousing](https://arxiv.org/abs/2305.06436)|[warehouse_env_gen_public](https://github.com/lunjohnzhang/warehouse_env_gen_public)|
+|[optimized custom dataset for efficient detection of underwater trash](https://arxiv.org/abs/2305.16460)|[underwater-trash-detection](https://github.com/karanwxliaa/underwater-trash-detection)|
+|[softgpt: learn goal-oriented soft object manipulation skills by generative pre-trained heterogeneous graph transformer](https://arxiv.org/abs/2306.12677)|[rofunc](https://github.com/skylark0924/rofunc)|
+|[optometrist's algorithm for personalizing robot-human handovers](https://arxiv.org/abs/2308.15007)|[optometrist-algorithm-handovers](https://github.com/vivekgupte07/optometrist-algorithm-handovers)|
 ## 2023-09-04
 |paper|code|
 |---|---|
