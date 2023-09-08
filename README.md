@@ -1,3 +1,14 @@
+## 2023-09-07
+|paper|code|
+|---|---|
+|[load modulation for backscatter communication: channel capacity and near-capacity schemes](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
+|[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[an informative path planning framework for active learning in uav-based semantic mapping](https://arxiv.org/abs/2302.03347)|[ipp-al-framework](https://github.com/dmar-bonn/ipp-al-framework)|
+|[image labels are all you need for coarse seagrass segmentation](https://arxiv.org/abs/2303.00973)|[bag-of-seagrass](https://github.com/sgraine/bag-of-seagrass)|
+|[should collaborative robots be transparent?](https://arxiv.org/abs/2304.11753)|[opaque-example](https://github.com/vt-collab/opaque-example)|
+|[bi-mapper: holistic bev semantic mapping for autonomous driving](https://arxiv.org/abs/2305.04205)|[bi-mapper](https://github.com/lynn-yu/bi-mapper)|
+|[learning to recharge: uav coverage path planning through deep reinforcement learning](https://arxiv.org/abs/2309.03157)|[uavSim](https://github.com/theilem/uavSim)|
 ## 2023-09-06
 |paper|code|
 |---|---|
