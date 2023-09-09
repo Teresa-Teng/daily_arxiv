@@ -1,9 +1,16 @@
+## 2023-09-08
+|paper|code|
+|---|---|
+|[watch this space: securing satellite communication through resilient transmitter fingerprinting](https://arxiv.org/abs/2305.06947)|[SatIQ](https://github.com/ssloxford/SatIQ)|
+|[dynamic causal graph convolutional network for traffic prediction](https://arxiv.org/abs/2306.07019)|[DCGCN](https://github.com/MonBG/DCGCN)|
+|[internet explorer: targeted representation learning on the open web](https://arxiv.org/abs/2302.14051)|[internet-explorer](https://github.com/internet-explorer-ssl/internet-explorer)|
 ## 2023-09-07
 |paper|code|
 |---|---|
 |[load modulation for backscatter communication: channel capacity and near-capacity schemes](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
 |[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[uncertainty quantification in deep learning based kalman filters](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
 |[an informative path planning framework for active learning in uav-based semantic mapping](https://arxiv.org/abs/2302.03347)|[ipp-al-framework](https://github.com/dmar-bonn/ipp-al-framework)|
 |[image labels are all you need for coarse seagrass segmentation](https://arxiv.org/abs/2303.00973)|[bag-of-seagrass](https://github.com/sgraine/bag-of-seagrass)|
 |[should collaborative robots be transparent?](https://arxiv.org/abs/2304.11753)|[opaque-example](https://github.com/vt-collab/opaque-example)|
