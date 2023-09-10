@@ -20,6 +20,7 @@
 |paper|code|
 |---|---|
 |[generalized minimum error entropy for adaptive filtering](https://arxiv.org/abs/2109.03463)|[Generalized-minimum-error-entropy-for-robust-learning](https://github.com/Asmallorange123/Generalized-minimum-error-entropy-for-robust-learning)|
+|[towards efficient modeling and inference in multi-dimensional gaussian process state-space models](https://arxiv.org/abs/2309.01074)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
 |[learning efficient abstract planning models that choose what to predict](https://arxiv.org/abs/2208.07737)|[predicators_behavior](https://github.com/Learning-and-Intelligent-Systems/predicators_behavior)|
 |[video based object 6d pose estimation using transformers](https://arxiv.org/abs/2210.13540)|[videopose](https://github.com/apoorvabeedu/videopose)|
 |[vise: vision-based 3d online shape estimation of continuously deformable robots](https://arxiv.org/abs/2211.05222)|[vise](https://github.com/srl-ethz/vise)|
