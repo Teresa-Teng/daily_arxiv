@@ -15,7 +15,6 @@
 |[image labels are all you need for coarse seagrass segmentation](https://arxiv.org/abs/2303.00973)|[bag-of-seagrass](https://github.com/sgraine/bag-of-seagrass)|
 |[should collaborative robots be transparent?](https://arxiv.org/abs/2304.11753)|[opaque-example](https://github.com/vt-collab/opaque-example)|
 |[bi-mapper: holistic bev semantic mapping for autonomous driving](https://arxiv.org/abs/2305.04205)|[bi-mapper](https://github.com/lynn-yu/bi-mapper)|
-|[learning to recharge: uav coverage path planning through deep reinforcement learning](https://arxiv.org/abs/2309.03157)|[uavSim](https://github.com/theilem/uavSim)|
 ## 2023-09-06
 |paper|code|
 |---|---|
