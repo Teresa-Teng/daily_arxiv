@@ -1,14 +1,23 @@
+## 2023-09-11
+|paper|code|
+|---|---|
+|[data-driven classification of low-power communication signals by an unauthenticated user using a software-defined radio](https://arxiv.org/abs/2309.04088)|[jammingsdr](https://github.com/minds-code/jammingsdr)|
+|[scenarionet: open-source platform for large-scale traffic scenario simulation and modeling](https://arxiv.org/abs/2306.12241)|[scenarionet](https://github.com/metadriverse/scenarionet)|
+|[learning to recharge: uav coverage path planning through deep reinforcement learning](https://arxiv.org/abs/2309.03157)|[uavSim](https://github.com/theilem/uavSim)|
 ## 2023-09-08
 |paper|code|
 |---|---|
 |[watch this space: securing satellite communication through resilient transmitter fingerprinting](https://arxiv.org/abs/2305.06947)|[SatIQ](https://github.com/ssloxford/SatIQ)|
 |[dynamic causal graph convolutional network for traffic prediction](https://arxiv.org/abs/2306.07019)|[DCGCN](https://github.com/MonBG/DCGCN)|
 |[internet explorer: targeted representation learning on the open web](https://arxiv.org/abs/2302.14051)|[internet-explorer](https://github.com/internet-explorer-ssl/internet-explorer)|
+|[diffusion-edfs: bi-equivariant denoising generative modeling on se(3) for visual robotic manipulation](https://arxiv.org/abs/2309.02685)|[diffusion_edf](https://github.com/tomato1mule/diffusion_edf)|
+|[efficient baselines for motion prediction in autonomous driving](https://arxiv.org/abs/2309.03387)|[mapfe4mp](https://github.com/cram3r95/mapfe4mp)|
 ## 2023-09-07
 |paper|code|
 |---|---|
 |[load modulation for backscatter communication: channel capacity and near-capacity schemes](https://arxiv.org/abs/2207.08100)|[backscatteratcapacity](https://github.com/grdu/backscatteratcapacity)|
 |[manifold filter-combine networks](https://arxiv.org/abs/2307.04056)|[mfcn](https://github.com/krishnaswamylab/mfcn)|
+|[distributed variational inference for online supervised learning](https://arxiv.org/abs/2309.02606)|[distributed-mapping](https://github.com/pptx/distributed-mapping)|
 |[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
 |[uncertainty quantification in deep learning based kalman filters](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
 |[an informative path planning framework for active learning in uav-based semantic mapping](https://arxiv.org/abs/2302.03347)|[ipp-al-framework](https://github.com/dmar-bonn/ipp-al-framework)|
@@ -31,6 +40,9 @@
 |[optimized custom dataset for efficient detection of underwater trash](https://arxiv.org/abs/2305.16460)|[underwater-trash-detection](https://github.com/karanwxliaa/underwater-trash-detection)|
 |[softgpt: learn goal-oriented soft object manipulation skills by generative pre-trained heterogeneous graph transformer](https://arxiv.org/abs/2306.12677)|[rofunc](https://github.com/skylark0924/rofunc)|
 |[optometrist's algorithm for personalizing robot-human handovers](https://arxiv.org/abs/2308.15007)|[optometrist-algorithm-handovers](https://github.com/vivekgupte07/optometrist-algorithm-handovers)|
+|[improving drone imagery for computer vision/machine learning in wilderness search and rescue](https://arxiv.org/abs/2309.01904)|[wisar](https://github.com/crasar/wisar)|
+|[dr-pose: a two-stage deformation-and-registration pipeline for category-level 6d object pose estimation](https://arxiv.org/abs/2309.01925)|[dr-pose](https://github.com/zray26/dr-pose)|
+|[go-slam: global optimization for consistent 3d instant reconstruction](https://arxiv.org/abs/2309.02436)|[go-slam](https://github.com/youmi-zym/go-slam)|
 ## 2023-09-04
 |paper|code|
 |---|---|
