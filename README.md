@@ -1,3 +1,18 @@
+## 2023-09-12
+|paper|code|
+|---|---|
+|[hermes: hybrid error-corrector model with inclusion of external signals for nonstationary fashion time series](https://arxiv.org/abs/2202.03224)|[hermes](https://github.com/etidav/hermes)|
+|[efficient ecg-based atrial fibrillation detection via parameterised hypercomplex neural networks](https://arxiv.org/abs/2211.02678)|[hypercomplexecg](https://github.com/leibniz-future-lab/hypercomplexecg)|
+|[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
+|[physics-informed neural networks for prognostics and health management of lithium-ion batteries](https://arxiv.org/abs/2301.00776)|[PINN-Battery-Prognostics](https://github.com/WenPengfei0823/PINN-Battery-Prognostics)|
+|[audioldm: text-to-audio generation with latent diffusion models](https://arxiv.org/abs/2301.12503)|[AudioLDM](https://github.com/haoheliu/AudioLDM)|
+|[deep metric learning for the hemodynamics inference with electrocardiogram signals](https://arxiv.org/abs/2308.04650)|[ssldml](https://github.com/mandiehyewon/ssldml)|
+|[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[efficient lqr-cbf-rrt*: safe and optimal motion planning](https://arxiv.org/abs/2304.00790)|[lqr_cbf_rrtstar](https://github.com/mingyucai/lqr_cbf_rrtstar)|
+|[arnold: a benchmark for language-grounded task learning with continuous states in realistic 3d scenes](https://arxiv.org/abs/2304.04321)|[arnold](https://github.com/arnold-benchmark/arnold)|
+|[a skeleton-based approach for rock crack detection towards a climbing robot application](https://arxiv.org/abs/2309.05139)|[reachbot-predictor](https://github.com/josselinsomervilleroberts/reachbot-predictor)|
+|[care: confidence-rich autonomous robot exploration using bayesian kernel inference and optimization](https://arxiv.org/abs/2309.05200)|[bkio-exploration](https://github.com/shepherd-gregory/bkio-exploration)|
 ## 2023-09-11
 |paper|code|
 |---|---|
