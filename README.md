@@ -1,3 +1,12 @@
+## 2023-09-13
+|paper|code|
+|---|---|
+|[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
+|[verifying controllers with convolutional neural network-based perception: a case for intelligible, safe, and precise abstractions](https://arxiv.org/abs/2111.05534)|[aap-exps](https://gitlab.engr.illinois.edu/aap/aap-exps)|
+|[sr-lio: lidar-inertial odometry with sweep reconstruction](https://arxiv.org/abs/2210.10424)|[sr_lio](https://github.com/ZikangYuan/sr_lio)|
+|[proactive robot assistance via spatio-temporal object modeling](https://arxiv.org/abs/2211.15501)|[spatiotemporalobjecttracking](https://github.com/maithili/spatiotemporalobjecttracking)|
+|[vboc: learning the viability boundary of a robot manipulator using optimal control](https://arxiv.org/abs/2305.07535)|[vboc](https://github.com/asialarocca/vboc)|
+|[semi-elastic lidar-inertial odometry](https://arxiv.org/abs/2307.07792)|[semi_elastic_lio](https://github.com/ZikangYuan/semi_elastic_lio)|
 ## 2023-09-12
 |paper|code|
 |---|---|
