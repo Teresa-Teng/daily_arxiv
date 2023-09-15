@@ -1,12 +1,29 @@
+## 2023-09-14
+|paper|code|
+|---|---|
+|[a spectral analysis of graph neural networks on dense and sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
+|[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[implicit shape model trees: recognition of 3-d indoor scenes and prediction of object poses for mobile robots](https://arxiv.org/abs/2301.10672)|[asr-ros-pkg](https://github.com/asr-ros/asr-ros-pkg)|
+|[your diffusion model is secretly a zero-shot classifier](https://arxiv.org/abs/2303.16203)|[diffusion-classifier](https://github.com/diffusion-classifier/diffusion-classifier)|
+|[hunavsim: a ros 2 human navigation simulator for benchmarking human-aware robot navigation](https://arxiv.org/abs/2305.01303)|[hunav_sim](https://github.com/robotics-upo/hunav_sim)|
+|[transformer-based model for monocular visual odometry: a video understanding approach](https://arxiv.org/abs/2305.06121)|[tsformer-vo](https://github.com/aofrancani/tsformer-vo)|
+|[a reinforcement learning approach for robotic unloading from visual observations](https://arxiv.org/abs/2309.06621)|[rl-for-unloading-from-pixels](https://github.com/vittoriogiammarino/rl-for-unloading-from-pixels)|
+|[self-refined large language model as automated reward function designer for deep reinforcement learning in robotics](https://arxiv.org/abs/2309.06687)|[llm_reward_design](https://github.com/zhehuazhou/llm_reward_design)|
+|[transparent object tracking with enhanced fusion module](https://arxiv.org/abs/2309.06701)|[totem](https://github.com/kalyan0510/totem)|
+|[mtd: multi-timestep detector for delayed streaming perception](https://arxiv.org/abs/2309.06742)|[mtd](https://github.com/yulin1004/mtd)|
+|[efficient reinforcement learning for jumping monopods](https://arxiv.org/abs/2309.07038)|[jump_rl](https://github.com/mfocchi/jump_rl)|
 ## 2023-09-13
 |paper|code|
 |---|---|
 |[task-oriented communication for multi-device cooperative edge inference](https://arxiv.org/abs/2109.00172)|[vddib-sr](https://github.com/shaojiawei07/vddib-sr)|
+|[reinforcement learning for supply chain attacks against frequency and voltage control](https://arxiv.org/abs/2309.05814)|[rl-cps-attacks](https://github.com/amrmsab/rl-cps-attacks)|
 |[verifying controllers with convolutional neural network-based perception: a case for intelligible, safe, and precise abstractions](https://arxiv.org/abs/2111.05534)|[aap-exps](https://gitlab.engr.illinois.edu/aap/aap-exps)|
 |[sr-lio: lidar-inertial odometry with sweep reconstruction](https://arxiv.org/abs/2210.10424)|[sr_lio](https://github.com/ZikangYuan/sr_lio)|
 |[proactive robot assistance via spatio-temporal object modeling](https://arxiv.org/abs/2211.15501)|[spatiotemporalobjecttracking](https://github.com/maithili/spatiotemporalobjecttracking)|
 |[vboc: learning the viability boundary of a robot manipulator using optimal control](https://arxiv.org/abs/2305.07535)|[vboc](https://github.com/asialarocca/vboc)|
 |[semi-elastic lidar-inertial odometry](https://arxiv.org/abs/2307.07792)|[semi_elastic_lio](https://github.com/ZikangYuan/semi_elastic_lio)|
+|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
+|[symmetric stair preconditioning of linear systems for parallel trajectory optimization](https://arxiv.org/abs/2309.06427)|[symstair](https://github.com/a2r-lab/symstair)|
 ## 2023-09-12
 |paper|code|
 |---|---|
@@ -17,11 +34,13 @@
 |[audioldm: text-to-audio generation with latent diffusion models](https://arxiv.org/abs/2301.12503)|[AudioLDM](https://github.com/haoheliu/AudioLDM)|
 |[deep metric learning for the hemodynamics inference with electrocardiogram signals](https://arxiv.org/abs/2308.04650)|[ssldml](https://github.com/mandiehyewon/ssldml)|
 |[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
+|[ecg-based estimation of respiratory modulation of av nodal conduction during atrial fibrillation](https://arxiv.org/abs/2309.05458)|[ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation](https://github.com/plappertf/ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation)|
 |[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[efficient lqr-cbf-rrt*: safe and optimal motion planning](https://arxiv.org/abs/2304.00790)|[lqr_cbf_rrtstar](https://github.com/mingyucai/lqr_cbf_rrtstar)|
 |[arnold: a benchmark for language-grounded task learning with continuous states in realistic 3d scenes](https://arxiv.org/abs/2304.04321)|[arnold](https://github.com/arnold-benchmark/arnold)|
 |[a skeleton-based approach for rock crack detection towards a climbing robot application](https://arxiv.org/abs/2309.05139)|[reachbot-predictor](https://github.com/josselinsomervilleroberts/reachbot-predictor)|
 |[care: confidence-rich autonomous robot exploration using bayesian kernel inference and optimization](https://arxiv.org/abs/2309.05200)|[bkio-exploration](https://github.com/shepherd-gregory/bkio-exploration)|
+|[star-loc: dataset for stereo and range-based localization](https://arxiv.org/abs/2309.05518)|[starloc](https://github.com/utiasasrl/starloc)|
 ## 2023-09-11
 |paper|code|
 |---|---|
