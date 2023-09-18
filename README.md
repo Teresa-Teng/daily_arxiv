@@ -7,7 +7,6 @@
 |[pypvroof: a python package for extracting the characteristics of rooftop pv installations using remote sensing data](https://arxiv.org/abs/2309.07143)|[pypvroof](https://github.com/gabrielkasmi/pypvroof)|
 |[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
 |[predicting survival time of ball bearings in the presence of censoring](https://arxiv.org/abs/2309.07188)|[ball-bearing-survival](https://github.com/thecml/ball-bearing-survival)|
-|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
 |[embodiedgpt: vision-language pre-training via embodied chain of thought](https://arxiv.org/abs/2305.15021)|[EmbodiedGPT_Pytorch](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)|
 |[deepcollide: scalable data-driven high dof configuration space modeling using implicit neural representations](https://arxiv.org/abs/2305.15376)|[robotconfigspacegen](https://github.com/gabeguo/robotconfigspacegen)|
@@ -22,7 +21,6 @@
 |[your diffusion model is secretly a zero-shot classifier](https://arxiv.org/abs/2303.16203)|[diffusion-classifier](https://github.com/diffusion-classifier/diffusion-classifier)|
 |[hunavsim: a ros 2 human navigation simulator for benchmarking human-aware robot navigation](https://arxiv.org/abs/2305.01303)|[hunav_sim](https://github.com/robotics-upo/hunav_sim)|
 |[transformer-based model for monocular visual odometry: a video understanding approach](https://arxiv.org/abs/2305.06121)|[tsformer-vo](https://github.com/aofrancani/tsformer-vo)|
-|[enabling the deployment of any-scale robotic applications in microservice-based service-oriented architectures through automated containerization](https://arxiv.org/abs/2309.06611)|[dorotos](https://github.com/ika-rwth-aachen/dorotos)|
 |[a reinforcement learning approach for robotic unloading from visual observations](https://arxiv.org/abs/2309.06621)|[rl-for-unloading-from-pixels](https://github.com/vittoriogiammarino/rl-for-unloading-from-pixels)|
 |[self-refined large language model as automated reward function designer for deep reinforcement learning in robotics](https://arxiv.org/abs/2309.06687)|[llm_reward_design](https://github.com/zhehuazhou/llm_reward_design)|
 |[transparent object tracking with enhanced fusion module](https://arxiv.org/abs/2309.06701)|[totem](https://github.com/kalyan0510/totem)|
@@ -40,7 +38,6 @@
 |[vboc: learning the viability boundary of a robot manipulator using optimal control](https://arxiv.org/abs/2305.07535)|[vboc](https://github.com/asialarocca/vboc)|
 |[semi-elastic lidar-inertial odometry](https://arxiv.org/abs/2307.07792)|[semi_elastic_lio](https://github.com/ZikangYuan/semi_elastic_lio)|
 |[seamless integration of tactile sensors for cobots](https://arxiv.org/abs/2309.05792)|[airo-halberd](https://github.com/remkopr/airo-halberd)|
-|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
 |[an efficient trajectory planner for car-like robots on uneven terrain](https://arxiv.org/abs/2309.06115)|[uneven_planner](https://github.com/zju-fast-lab/uneven_planner)|
 |[symmetric stair preconditioning of linear systems for parallel trajectory optimization](https://arxiv.org/abs/2309.06427)|[symstair](https://github.com/a2r-lab/symstair)|
 ## 2023-09-12
