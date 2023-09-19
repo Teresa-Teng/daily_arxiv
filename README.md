@@ -1,3 +1,19 @@
+## 2023-09-18
+|paper|code|
+|---|---|
+|[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
+|[closed loop bci system for cybathlon 2020](https://arxiv.org/abs/2212.04172)|[GoPar](https://github.com/kolcs/GoPar)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[gaussian processes with linear multiple kernel: spectrum design and distributed learning for multi-dimensional data](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
+|[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-kl-nmf-public](https://github.com/vleplat/deep-kl-nmf-public)|
+|[cross-tool and cross-behavior perceptual knowledge transfer for grounded object recognition](https://arxiv.org/abs/2303.04023)|[Tool-Knowledge-Transfer](https://github.com/gtatiya/Tool-Knowledge-Transfer)|
+|[just flip: flipped observation generation and optimization for neural radiance fields to cover unobserved view](https://arxiv.org/abs/2303.06335)|[just-flip](https://github.com/minjae-lulu/just-flip)|
+|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
+|[enabling the deployment of any-scale robotic applications in microservice architectures through automated containerization](https://arxiv.org/abs/2309.06611)|[dorotos](https://github.com/ika-rwth-aachen/dorotos)|
+|[t-uda: temporal unsupervised domain adaptation in sequential point clouds](https://arxiv.org/abs/2309.08302)|[t-uda](https://github.com/ctu-vras/t-uda)|
+|[occupancydetr: making semantic scene completion as straightforward as object detection](https://arxiv.org/abs/2309.08504)|[occupancydetr](https://github.com/jypjypjypjyp/occupancydetr)|
+|[mosaic: learning unified multi-sensory object property representations for robot perception](https://arxiv.org/abs/2309.08508)|[MOSAIC](https://github.com/gtatiya/MOSAIC)|
+|[robust e-nerf: nerf from sparse & noisy events under non-uniform motion](https://arxiv.org/abs/2309.08596)|[robust-e-nerf](https://github.com/wengflow/robust-e-nerf)|
 ## 2023-09-15
 |paper|code|
 |---|---|
@@ -10,10 +26,12 @@
 |[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
 |[embodiedgpt: vision-language pre-training via embodied chain of thought](https://arxiv.org/abs/2305.15021)|[EmbodiedGPT_Pytorch](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)|
 |[deepcollide: scalable data-driven high dof configuration space modeling using implicit neural representations](https://arxiv.org/abs/2305.15376)|[robotconfigspacegen](https://github.com/gabeguo/robotconfigspacegen)|
+|[asynchronous spatial allocation protocol for trajectory planning of heterogeneous multi-agent systems](https://arxiv.org/abs/2309.07431)|[asap](https://github.com/cydxyyj/asap)|
 |[learning quasi-static 3d models of markerless deformable linear objects for bimanual robotic manipulation](https://arxiv.org/abs/2309.07609)|[neural_dlo_model](https://github.com/ppi-put/neural_dlo_model)|
 ## 2023-09-14
 |paper|code|
 |---|---|
+|[is channel estimation necessary to select phase-shifts for ris-assisted massive mimo?](https://arxiv.org/abs/2106.09770)|[ris-massive-mimo](https://github.com/emilbjornson/ris-massive-mimo)|
 |[a spectral analysis of graph neural networks on dense and sparse graphs](https://arxiv.org/abs/2211.03231)|[gnn_community_detection](https://github.com/nhuang37/gnn_community_detection)|
 |[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
 |[bayesian topology inference on partially known networks from input-output pairs](https://arxiv.org/abs/2309.06532)|[inference_langevin](https://github.com/tenceto/inference_langevin)|
@@ -21,6 +39,7 @@
 |[your diffusion model is secretly a zero-shot classifier](https://arxiv.org/abs/2303.16203)|[diffusion-classifier](https://github.com/diffusion-classifier/diffusion-classifier)|
 |[hunavsim: a ros 2 human navigation simulator for benchmarking human-aware robot navigation](https://arxiv.org/abs/2305.01303)|[hunav_sim](https://github.com/robotics-upo/hunav_sim)|
 |[transformer-based model for monocular visual odometry: a video understanding approach](https://arxiv.org/abs/2305.06121)|[tsformer-vo](https://github.com/aofrancani/tsformer-vo)|
+|[reactive landing controller for quadruped robots](https://arxiv.org/abs/2305.07748)|[reactive_landing_controller](https://github.com/iit-dlslab/reactive_landing_controller)|
 |[a reinforcement learning approach for robotic unloading from visual observations](https://arxiv.org/abs/2309.06621)|[rl-for-unloading-from-pixels](https://github.com/vittoriogiammarino/rl-for-unloading-from-pixels)|
 |[self-refined large language model as automated reward function designer for deep reinforcement learning in robotics](https://arxiv.org/abs/2309.06687)|[llm_reward_design](https://github.com/zhehuazhou/llm_reward_design)|
 |[transparent object tracking with enhanced fusion module](https://arxiv.org/abs/2309.06701)|[totem](https://github.com/kalyan0510/totem)|
@@ -35,7 +54,7 @@
 |[sr-lio: lidar-inertial odometry with sweep reconstruction](https://arxiv.org/abs/2210.10424)|[sr_lio](https://github.com/ZikangYuan/sr_lio)|
 |[proactive robot assistance via spatio-temporal object modeling](https://arxiv.org/abs/2211.15501)|[spatiotemporalobjecttracking](https://github.com/maithili/spatiotemporalobjecttracking)|
 |[nonlinear mpc for quadrotors in close-proximity flight with neural network downwash prediction](https://arxiv.org/abs/2304.07794)|[ndp_nmpc_qd](https://github.com/li-jinjie/ndp_nmpc_qd)|
-|[vboc: learning the viability boundary of a robot manipulator using optimal control](https://arxiv.org/abs/2305.07535)|[vboc](https://github.com/asialarocca/vboc)|
+|[vboc: learning the viability boundary of a robot manipulator using optimal control](https://arxiv.org/abs/2305.07535)|[vboc](https://github.com/idra-lab/vboc)|
 |[semi-elastic lidar-inertial odometry](https://arxiv.org/abs/2307.07792)|[semi_elastic_lio](https://github.com/ZikangYuan/semi_elastic_lio)|
 |[seamless integration of tactile sensors for cobots](https://arxiv.org/abs/2309.05792)|[airo-halberd](https://github.com/remkopr/airo-halberd)|
 |[an efficient trajectory planner for car-like robots on uneven terrain](https://arxiv.org/abs/2309.06115)|[uneven_planner](https://github.com/zju-fast-lab/uneven_planner)|
