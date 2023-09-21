@@ -1,6 +1,23 @@
+## 2023-09-20
+|paper|code|
+|---|---|
+|[trajectory pmb filters for extended object tracking using belief propagation](https://arxiv.org/abs/2207.10164)|[trajectory-pmb-eot-bp](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)|
+|[electrocardioguard: preventing patient misidentification in electrocardiogram databases through neural networks](https://arxiv.org/abs/2306.06196)|[electrocardioguard](https://github.com/captaintrojan/electrocardioguard)|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[unsupervised speech enhancement with diffusion-based generative models](https://arxiv.org/abs/2309.10450)|[sgmse](https://github.com/sp-uhh/sgmse)|
+|[practical collaborative perception: a framework for asynchronous and multi-agent 3d object detection](https://arxiv.org/abs/2307.01462)|[practical-collab-perception](https://github.com/quan-dao/practical-collab-perception)|
+|[recent advancements in end-to-end autonomous driving using deep learning: a survey](https://arxiv.org/abs/2307.04370)|[end-to-end-autonomous-driving](https://github.com/pranav-chib/end-to-end-autonomous-driving)|
+|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
+|[grace: optimizing grasps to satisfy ranked criteria in complex scenarios](https://arxiv.org/abs/2309.08887)|[grace](https://github.com/clear-nus/grace)|
+|[vprtempo: a fast temporally encoded spiking neural network for visual place recognition](https://arxiv.org/abs/2309.10225)|[VPRTempo](https://github.com/QVPR/VPRTempo)|
+|[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
+|[lea*: an a* variant algorithm with improved edge efficiency for robot motion planning](https://arxiv.org/abs/2309.10722)|[leastar](https://github.com/dongliangch/leastar)|
+|[few-shot panoptic segmentation with foundation models](https://arxiv.org/abs/2309.10726)|[SPINO](https://github.com/robot-learning-freiburg/SPINO)|
+|[guide your agent with adaptive multimodal rewards](https://arxiv.org/abs/2309.10790)|[arp](https://github.com/csmile-1006/arp)|
 ## 2023-09-19
 |paper|code|
 |---|---|
+|[frequency estimation using complex-valued shifted window transformer](https://arxiv.org/abs/2309.09352)|[spectral-super-resolution-swin](https://github.com/josiahwsmith10/spectral-super-resolution-swin)|
 |[scaling the time and fourier domains to align periodically and their convolution](https://arxiv.org/abs/2309.09645)|[fxt](https://github.com/flatmax/fxt)|
 |[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[optimal and robust category-level perception: object pose and shape estimation from 2d and 3d semantic keypoints](https://arxiv.org/abs/2206.12498)|[pace](https://github.com/mit-spark/pace)|
@@ -9,14 +26,21 @@
 |[self-supervised depth correction of lidar measurements from map consistency loss](https://arxiv.org/abs/2303.01123)|[depth_correction](https://github.com/ctu-vras/depth_correction)|
 |[stable and safe reinforcement learning via a barrier-lyapunov actor-critic approach](https://arxiv.org/abs/2304.04066)|[a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control](https://github.com/liqunzhao/a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control)|
 |[ctopprm: clustering topological prm for planning multiple distinct paths in 3d environments](https://arxiv.org/abs/2305.13969)|[ctopprm](https://github.com/ctu-mrs/ctopprm)|
+|[seip: simulation-based design and evaluation of infrastructure-based collective perception](https://arxiv.org/abs/2305.17892)|[seip](https://github.com/dajiangsuo/seip)|
 |[sonicverse: a multisensory simulation platform for embodied household agents that see and hear](https://arxiv.org/abs/2306.00923)|[sonicverse](https://github.com/stanfordvl/sonicverse)|
 |[zero-shot wireless indoor navigation through physics-informed reinforcement learning](https://arxiv.org/abs/2306.06766)|[pirl-win](https://github.com/panshark/pirl-win)|
 |[towards large-scale incremental dense mapping using robot-centric implicit neural representation](https://arxiv.org/abs/2306.10472)|[rim](https://github.com/hitsz-nrsl/rim)|
+|[rosso: a high-performance python package for robotic surveillance strategy optimization using jax](https://arxiv.org/abs/2309.08742)|[rosso](https://github.com/conhugh/rosso)|
 |[projected task-specific layers for multi-task reinforcement learning](https://arxiv.org/abs/2309.08776)|[ptsl](https://github.com/josselinsomervilleroberts/ptsl)|
 |[ura*: uncertainty-aware path planning using image-based aerial-to-ground traversability estimation for off-road environments](https://arxiv.org/abs/2309.08814)|[offroad-path-planning](https://github.com/shaswata09/offroad-path-planning)|
+|[distributionally robust cvar-based safety filtering for motion planning in uncertain environments](https://arxiv.org/abs/2309.08821)|[dr-cvar-safety_filtering](https://github.com/tsummerslab/dr-cvar-safety_filtering)|
 |[enhancing visual perception in novel environments via incremental data augmentation based on style transfer](https://arxiv.org/abs/2309.08851)|[robustifying_visual_perception](https://github.com/abhibha1807/robustifying_visual_perception)|
+|[safeshift: safety-informed distribution shifts for robust trajectory prediction in autonomous driving](https://arxiv.org/abs/2309.08889)|[safeshift](https://github.com/cmubig/safeshift)|
 |[rmp: a random mask pretrain framework for motion prediction](https://arxiv.org/abs/2309.08989)|[rmp](https://github.com/kth-rpl/rmp)|
 |[omnilrs: a photorealistic simulator for lunar robotics](https://arxiv.org/abs/2309.08997)|[lunarsim](https://github.com/antoinerichard/lunarsim)|
+|[monoforce: self-supervised learning of physics-aware grey-box model for predicting the robot-terrain interaction](https://arxiv.org/abs/2309.09007)|[monoforce](https://github.com/ctu-vras/monoforce)|
+|[efficient belief road map for planning under uncertainty](https://arxiv.org/abs/2309.09344)|[vimp](https://github.com/hzyu17/vimp)|
+|[coco-lic: continuous-time tightly-coupled lidar-inertial-camera odometry using non-uniform b-spline](https://arxiv.org/abs/2309.09808)|[coco-lic](https://github.com/april-zju/coco-lic)|
 |[gedepth: ground embedding for monocular depth estimation](https://arxiv.org/abs/2309.09975)|[gedepth](https://github.com/qcraftai/gedepth)|
 ## 2023-09-18
 |paper|code|
@@ -24,11 +48,15 @@
 |[validation of the reference impedance in multiline calibration with stepped impedance standards](https://arxiv.org/abs/2209.09163)|[verification-multiline-trl-calibration](https://github.com/ZiadHatab/verification-multiline-trl-calibration)|
 |[closed loop bci system for cybathlon 2020](https://arxiv.org/abs/2212.04172)|[GoPar](https://github.com/kolcs/GoPar)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
 |[gaussian processes with linear multiple kernel: spectrum design and distributed learning for multi-dimensional data](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
 |[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-kl-nmf-public](https://github.com/vleplat/deep-kl-nmf-public)|
 |[cross-tool and cross-behavior perceptual knowledge transfer for grounded object recognition](https://arxiv.org/abs/2303.04023)|[Tool-Knowledge-Transfer](https://github.com/gtatiya/Tool-Knowledge-Transfer)|
 |[just flip: flipped observation generation and optimization for neural radiance fields to cover unobserved view](https://arxiv.org/abs/2303.06335)|[just-flip](https://github.com/minjae-lulu/just-flip)|
-|[enabling the deployment of any-scale robotic applications in microservice architectures through automated containerization](https://arxiv.org/abs/2309.06611)|[dorotos](https://github.com/ika-rwth-aachen/dorotos)|
+|[mpcgpu: real-time nonlinear model predictive control through preconditioned conjugate gradient on the gpu](https://arxiv.org/abs/2309.08079)|[mpcgpu](https://github.com/a2r-lab/mpcgpu)|
+|[avm-slam: semantic visual slam with multi-sensor fusion in a bird's eye view for automated valet parking](https://arxiv.org/abs/2309.08180)|[avm-slam](https://github.com/yale-cv/avm-slam)|
+|[priest: projection guided sampling-based optimization for autonomous navigation](https://arxiv.org/abs/2309.08235)|[priest](https://github.com/fatemeh-rastgar/priest)|
+|[distributed behavior trees for heterogeneous robot teams](https://arxiv.org/abs/2309.08253)|[ros_bt_py](https://github.com/fzi-forschungszentrum-informatik/ros_bt_py)|
 |[t-uda: temporal unsupervised domain adaptation in sequential point clouds](https://arxiv.org/abs/2309.08302)|[t-uda](https://github.com/ctu-vras/t-uda)|
 |[occupancydetr: making semantic scene completion as straightforward as object detection](https://arxiv.org/abs/2309.08504)|[occupancydetr](https://github.com/jypjypjypjyp/occupancydetr)|
 |[mosaic: learning unified multi-sensory object property representations for robot perception](https://arxiv.org/abs/2309.08508)|[MOSAIC](https://github.com/gtatiya/MOSAIC)|
