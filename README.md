@@ -1,3 +1,19 @@
+## 2023-09-21
+|paper|code|
+|---|---|
+|[online learning of the transfer matrix of dynamic scattering media: wavefront shaping meets multidimensional time series](https://arxiv.org/abs/2210.04033)|[online_learning_tm](https://github.com/labogigan/online_learning_tm)|
+|[a geometric characterization of observability in inertial parameter identification](https://arxiv.org/abs/1711.03896)|[RPNA](https://github.com/pwensing/RPNA)|
+|[adaptive constrained kinematic control using partial or complete task-space measurements](https://arxiv.org/abs/2109.06375)|[tro2022_adaptivecontrol](https://github.com/mmmarinho/tro2022_adaptivecontrol)|
+|[umirobot: an open-{software, hardware} low-cost robotic manipulator for education](https://arxiv.org/abs/2301.06668)|[umirobot-py](https://github.com/mmmarinho/umirobot-py)|
+|[certifiably correct range-aided slam](https://arxiv.org/abs/2302.11614)|[cora](https://github.com/marineroboticsgroup/cora)|
+|[the treachery of images: bayesian scene keypoints for deep policy learning in robotic manipulation](https://arxiv.org/abs/2305.04718)|[bask](https://github.com/robot-learning-freiburg/bask)|
+|[h2-mapping: real-time dense mapping using hierarchical hybrid representation](https://arxiv.org/abs/2306.03207)|[h2-mapping](https://github.com/sysu-star/h2-mapping)|
+|[collaborative dynamic 3d scene graphs for automated driving](https://arxiv.org/abs/2309.06635)|[CURB-SG](https://github.com/robot-learning-freiburg/CURB-SG)|
+|[vapor: legged robot navigation in outdoor vegetation using offline reinforcement learning](https://arxiv.org/abs/2309.07832)|[VAPOR](https://github.com/kasunweerkoon/VAPOR)|
+|[plvs: a slam system with points, lines, volumetric mapping, and 3d incremental segmentation](https://arxiv.org/abs/2309.10896)|[plvs](https://github.com/luigifreda/plvs)|
+|[starnet: sensor trustworthiness and anomaly recognition via approximated likelihood regret for robust edge autonomy](https://arxiv.org/abs/2309.11006)|[STARNet](https://github.com/sinatayebati/STARNet)|
+|[multi-step model predictive safety filters: reducing chattering by increasing the prediction horizon](https://arxiv.org/abs/2309.11453)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
+|[model-free tracking control of complex dynamical trajectories with machine learning](https://arxiv.org/abs/2309.11470)|[TrackingControl](https://github.com/Zheng-Meng/TrackingControl)|
 ## 2023-09-20
 |paper|code|
 |---|---|
@@ -39,8 +55,11 @@
 |[rmp: a random mask pretrain framework for motion prediction](https://arxiv.org/abs/2309.08989)|[rmp](https://github.com/kth-rpl/rmp)|
 |[omnilrs: a photorealistic simulator for lunar robotics](https://arxiv.org/abs/2309.08997)|[lunarsim](https://github.com/antoinerichard/lunarsim)|
 |[monoforce: self-supervised learning of physics-aware grey-box model for predicting the robot-terrain interaction](https://arxiv.org/abs/2309.09007)|[monoforce](https://github.com/ctu-vras/monoforce)|
+|[pedestrian trajectory prediction using dynamics-based deep learning](https://arxiv.org/abs/2309.09021)|[pedestrianpathprediction](https://github.com/sydney-machine-learning/pedestrianpathprediction)|
+|[robotperf: an open-source, vendor-agnostic, benchmarking suite for evaluating robotics computing system performance](https://arxiv.org/abs/2309.09212)|[benchmarks](https://github.com/robotperf/benchmarks)|
 |[efficient belief road map for planning under uncertainty](https://arxiv.org/abs/2309.09344)|[vimp](https://github.com/hzyu17/vimp)|
 |[coco-lic: continuous-time tightly-coupled lidar-inertial-camera odometry using non-uniform b-spline](https://arxiv.org/abs/2309.09808)|[coco-lic](https://github.com/april-zju/coco-lic)|
+|[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
 |[gedepth: ground embedding for monocular depth estimation](https://arxiv.org/abs/2309.09975)|[gedepth](https://github.com/qcraftai/gedepth)|
 ## 2023-09-18
 |paper|code|
