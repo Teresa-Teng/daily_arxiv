@@ -1,3 +1,21 @@
+## 2023-09-22
+|paper|code|
+|---|---|
+|[an f-ratio-based method for estimating the number of active sources in meg](https://arxiv.org/abs/2306.05892)|[fratio-based-method-for-source-enumeration](https://github.com/amita-giri/fratio-based-method-for-source-enumeration)|
+|[limitations in odour recognition and generalisation in a neuromorphic olfactory circuit](https://arxiv.org/abs/2309.11555)|[eplnetwork_imamcleland2020](https://github.com/biomachinelearning/eplnetwork_imamcleland2020)|
+|[a class-weighted supervised contrastive learning long-tailed bearing fault diagnosis approach using quadratic neural network](https://arxiv.org/abs/2309.11717)|[CCQNet](https://github.com/yuweien1120/CCQNet)|
+|[dictionary attack on imu-based gait authentication](https://arxiv.org/abs/2309.11766)|[dictionaryattackonimugait](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
+|[multimodal transformers for wireless communications: a case study in beam prediction](https://arxiv.org/abs/2309.11811)|[deepsense6g_tii](https://github.com/itu-ai-ml-in-5g-challenge/deepsense6g_tii)|
+|[density planner: minimizing collision risk in motion planning with dynamic obstacles using density-based reachability](https://arxiv.org/abs/2210.02131)|[density_planner](https://github.com/MIT-REALM/density_planner)|
+|[identifying expert behavior in offline training datasets improves behavioral cloning of robotic manipulation policies](https://arxiv.org/abs/2301.13019)|[real-robot-challenge-2022](https://github.com/wq13552463699/real-robot-challenge-2022)|
+|[a joint modeling of vision-language-action for target-oriented grasping in clutter](https://arxiv.org/abs/2302.12610)|[Vision-Language-Grasping](https://github.com/xukechun/Vision-Language-Grasping)|
+|[materobot: material recognition in wearable robotics for people with visual impairments](https://arxiv.org/abs/2302.14595)|[materobot](https://github.com/junweizheng93/materobot)|
+|[covio: online continual learning for visual-inertial odometry](https://arxiv.org/abs/2303.10149)|[CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)|
+|[bio-inspired spike-based hippocampus and posterior parietal cortex models for robot navigation and environment pseudo-mapping](https://arxiv.org/abs/2305.12892)|[bio-inspired-spike-based-hippocampus-and-posterior-parietal-cortex-robotic-system-for-pseudo-mapping](https://github.com/dancasmor/bio-inspired-spike-based-hippocampus-and-posterior-parietal-cortex-robotic-system-for-pseudo-mapping)|
+|[singularity distance computations for 3-rpr manipulators using intrinsic metrics](https://arxiv.org/abs/2307.14721)|[Intrinsic-metrics](https://github.com/aditya-kapilavai/Intrinsic-metrics)|
+|[bridging zero-shot object navigation and foundation models through pixel-guided navigation skill](https://arxiv.org/abs/2309.10309)|[pixel-navigator](https://github.com/wzcai99/pixel-navigator)|
+|[unveiling the hidden realm: self-supervised skeleton-based action recognition in occluded environments](https://arxiv.org/abs/2309.12029)|[opstl](https://github.com/cyfml/opstl)|
+|[hicrisp: a hierarchical closed-loop robotic intelligent self-correction planner](https://arxiv.org/abs/2309.12089)|[HiCRISP](https://github.com/ming-bot/HiCRISP)|
 ## 2023-09-21
 |paper|code|
 |---|---|
@@ -10,8 +28,10 @@
 |[h2-mapping: real-time dense mapping using hierarchical hybrid representation](https://arxiv.org/abs/2306.03207)|[h2-mapping](https://github.com/sysu-star/h2-mapping)|
 |[collaborative dynamic 3d scene graphs for automated driving](https://arxiv.org/abs/2309.06635)|[CURB-SG](https://github.com/robot-learning-freiburg/CURB-SG)|
 |[vapor: legged robot navigation in outdoor vegetation using offline reinforcement learning](https://arxiv.org/abs/2309.07832)|[VAPOR](https://github.com/kasunweerkoon/VAPOR)|
+|[guarantees on robot system performance using stochastic simulation rollouts](https://arxiv.org/abs/2309.10874)|[performance_guarantees](https://github.com/stanfordmsl/performance_guarantees)|
 |[plvs: a slam system with points, lines, volumetric mapping, and 3d incremental segmentation](https://arxiv.org/abs/2309.10896)|[plvs](https://github.com/luigifreda/plvs)|
-|[starnet: sensor trustworthiness and anomaly recognition via approximated likelihood regret for robust edge autonomy](https://arxiv.org/abs/2309.11006)|[STARNet](https://github.com/sinatayebati/STARNet)|
+|[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
+|[cnn-based local features for navigation near an asteroid](https://arxiv.org/abs/2309.11156)|[navex](https://github.com/oknuutti/navex)|
 |[multi-step model predictive safety filters: reducing chattering by increasing the prediction horizon](https://arxiv.org/abs/2309.11453)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
 |[model-free tracking control of complex dynamical trajectories with machine learning](https://arxiv.org/abs/2309.11470)|[TrackingControl](https://github.com/Zheng-Meng/TrackingControl)|
 ## 2023-09-20
@@ -27,6 +47,8 @@
 |[grace: optimizing grasps to satisfy ranked criteria in complex scenarios](https://arxiv.org/abs/2309.08887)|[grace](https://github.com/clear-nus/grace)|
 |[vprtempo: a fast temporally encoded spiking neural network for visual place recognition](https://arxiv.org/abs/2309.10225)|[VPRTempo](https://github.com/QVPR/VPRTempo)|
 |[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
+|[asymptotically optimal belief space planning in discrete partially-observable domains](https://arxiv.org/abs/2309.10672)|[path-tree-optimization](https://github.com/janisfreund/path-tree-optimization)|
+|[drive: data-driven robot input vector exploration](https://arxiv.org/abs/2309.10718)|[drive](https://github.com/norlab-ulaval/drive)|
 |[lea*: an a* variant algorithm with improved edge efficiency for robot motion planning](https://arxiv.org/abs/2309.10722)|[leastar](https://github.com/dongliangch/leastar)|
 |[few-shot panoptic segmentation with foundation models](https://arxiv.org/abs/2309.10726)|[SPINO](https://github.com/robot-learning-freiburg/SPINO)|
 |[guide your agent with adaptive multimodal rewards](https://arxiv.org/abs/2309.10790)|[arp](https://github.com/csmile-1006/arp)|
