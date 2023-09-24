@@ -1,6 +1,7 @@
 ## 2023-09-22
 |paper|code|
 |---|---|
+|[deep sound-field denoiser: optically-measured sound-field denoising using deep neural network](https://arxiv.org/abs/2304.14923)|[deep-sound-field-denoiser](https://github.com/nttcslab/deep-sound-field-denoiser)|
 |[an f-ratio-based method for estimating the number of active sources in meg](https://arxiv.org/abs/2306.05892)|[fratio-based-method-for-source-enumeration](https://github.com/amita-giri/fratio-based-method-for-source-enumeration)|
 |[limitations in odour recognition and generalisation in a neuromorphic olfactory circuit](https://arxiv.org/abs/2309.11555)|[eplnetwork_imamcleland2020](https://github.com/biomachinelearning/eplnetwork_imamcleland2020)|
 |[a class-weighted supervised contrastive learning long-tailed bearing fault diagnosis approach using quadratic neural network](https://arxiv.org/abs/2309.11717)|[CCQNet](https://github.com/yuweien1120/CCQNet)|
@@ -11,9 +12,12 @@
 |[a joint modeling of vision-language-action for target-oriented grasping in clutter](https://arxiv.org/abs/2302.12610)|[Vision-Language-Grasping](https://github.com/xukechun/Vision-Language-Grasping)|
 |[materobot: material recognition in wearable robotics for people with visual impairments](https://arxiv.org/abs/2302.14595)|[materobot](https://github.com/junweizheng93/materobot)|
 |[covio: online continual learning for visual-inertial odometry](https://arxiv.org/abs/2303.10149)|[CL-SLAM](https://github.com/robot-learning-freiburg/CL-SLAM)|
+|[smart: self-morphing adaptive replanning tree](https://arxiv.org/abs/2305.06487)|[smart](https://github.com/zongyuanshen/smart)|
 |[bio-inspired spike-based hippocampus and posterior parietal cortex models for robot navigation and environment pseudo-mapping](https://arxiv.org/abs/2305.12892)|[bio-inspired-spike-based-hippocampus-and-posterior-parietal-cortex-robotic-system-for-pseudo-mapping](https://github.com/dancasmor/bio-inspired-spike-based-hippocampus-and-posterior-parietal-cortex-robotic-system-for-pseudo-mapping)|
 |[singularity distance computations for 3-rpr manipulators using intrinsic metrics](https://arxiv.org/abs/2307.14721)|[Intrinsic-metrics](https://github.com/aditya-kapilavai/Intrinsic-metrics)|
+|[raspectloc: raman spectroscopy-dependent robot localisation](https://arxiv.org/abs/2309.08301)|[raspectloc](https://github.com/thirgoodc/raspectloc)|
 |[bridging zero-shot object navigation and foundation models through pixel-guided navigation skill](https://arxiv.org/abs/2309.10309)|[pixel-navigator](https://github.com/wzcai99/pixel-navigator)|
+|[neurallabeling: a versatile toolset for labeling vision datasets using neural radiance fields](https://arxiv.org/abs/2309.11966)|[neural-labeling](https://github.com/FlorisE/neural-labeling)|
 |[unveiling the hidden realm: self-supervised skeleton-based action recognition in occluded environments](https://arxiv.org/abs/2309.12029)|[opstl](https://github.com/cyfml/opstl)|
 |[hicrisp: a hierarchical closed-loop robotic intelligent self-correction planner](https://arxiv.org/abs/2309.12089)|[HiCRISP](https://github.com/ming-bot/HiCRISP)|
 ## 2023-09-21
@@ -40,12 +44,15 @@
 |[trajectory pmb filters for extended object tracking using belief propagation](https://arxiv.org/abs/2207.10164)|[trajectory-pmb-eot-bp](https://github.com/yuhsuansia/trajectory-pmb-eot-bp)|
 |[electrocardioguard: preventing patient misidentification in electrocardiogram databases through neural networks](https://arxiv.org/abs/2306.06196)|[electrocardioguard](https://github.com/captaintrojan/electrocardioguard)|
 |[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[mixed graph signal analysis of joint image denoising / interpolation](https://arxiv.org/abs/2309.10114)|[icassp24-joint](https://github.com/sybernix/icassp24-joint)|
 |[unsupervised speech enhancement with diffusion-based generative models](https://arxiv.org/abs/2309.10450)|[sgmse](https://github.com/sp-uhh/sgmse)|
 |[practical collaborative perception: a framework for asynchronous and multi-agent 3d object detection](https://arxiv.org/abs/2307.01462)|[practical-collab-perception](https://github.com/quan-dao/practical-collab-perception)|
 |[recent advancements in end-to-end autonomous driving using deep learning: a survey](https://arxiv.org/abs/2307.04370)|[end-to-end-autonomous-driving](https://github.com/pranav-chib/end-to-end-autonomous-driving)|
 |[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
 |[grace: optimizing grasps to satisfy ranked criteria in complex scenarios](https://arxiv.org/abs/2309.08887)|[grace](https://github.com/clear-nus/grace)|
+|[reasoning about the unseen for efficient outdoor object navigation](https://arxiv.org/abs/2309.10103)|[reasonedexplorer](https://github.com/quantingxie/reasonedexplorer)|
 |[vprtempo: a fast temporally encoded spiking neural network for visual place recognition](https://arxiv.org/abs/2309.10225)|[VPRTempo](https://github.com/QVPR/VPRTempo)|
+|[augmenting tactile simulators with real-like and zero-shot capabilities](https://arxiv.org/abs/2309.10409)|[allsight_sim](https://github.com/osheraz/allsight_sim)|
 |[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
 |[asymptotically optimal belief space planning in discrete partially-observable domains](https://arxiv.org/abs/2309.10672)|[path-tree-optimization](https://github.com/janisfreund/path-tree-optimization)|
 |[drive: data-driven robot input vector exploration](https://arxiv.org/abs/2309.10718)|[drive](https://github.com/norlab-ulaval/drive)|
@@ -99,6 +106,7 @@
 |[priest: projection guided sampling-based optimization for autonomous navigation](https://arxiv.org/abs/2309.08235)|[priest](https://github.com/fatemeh-rastgar/priest)|
 |[distributed behavior trees for heterogeneous robot teams](https://arxiv.org/abs/2309.08253)|[ros_bt_py](https://github.com/fzi-forschungszentrum-informatik/ros_bt_py)|
 |[t-uda: temporal unsupervised domain adaptation in sequential point clouds](https://arxiv.org/abs/2309.08302)|[t-uda](https://github.com/ctu-vras/t-uda)|
+|[i-octree: a fast, lightweight, and dynamic octree for proximity search](https://arxiv.org/abs/2309.08315)|[i-octee](https://github.com/zhujun3753/i-octee)|
 |[occupancydetr: making semantic scene completion as straightforward as object detection](https://arxiv.org/abs/2309.08504)|[occupancydetr](https://github.com/jypjypjypjyp/occupancydetr)|
 |[mosaic: learning unified multi-sensory object property representations for robot perception](https://arxiv.org/abs/2309.08508)|[MOSAIC](https://github.com/gtatiya/MOSAIC)|
 |[robust e-nerf: nerf from sparse & noisy events under non-uniform motion](https://arxiv.org/abs/2309.08596)|[robust-e-nerf](https://github.com/wengflow/robust-e-nerf)|
