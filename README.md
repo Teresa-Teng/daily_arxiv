@@ -18,6 +18,7 @@
 |[raspectloc: raman spectroscopy-dependent robot localisation](https://arxiv.org/abs/2309.08301)|[raspectloc](https://github.com/thirgoodc/raspectloc)|
 |[bridging zero-shot object navigation and foundation models through pixel-guided navigation skill](https://arxiv.org/abs/2309.10309)|[pixel-navigator](https://github.com/wzcai99/pixel-navigator)|
 |[neurallabeling: a versatile toolset for labeling vision datasets using neural radiance fields](https://arxiv.org/abs/2309.11966)|[neural-labeling](https://github.com/FlorisE/neural-labeling)|
+|[elevating skeleton-based action recognition with efficient multi-modality self-supervision](https://arxiv.org/abs/2309.12009)|[ikem](https://github.com/desehuileng0o0/ikem)|
 |[unveiling the hidden realm: self-supervised skeleton-based action recognition in occluded environments](https://arxiv.org/abs/2309.12029)|[opstl](https://github.com/cyfml/opstl)|
 |[hicrisp: a hierarchical closed-loop robotic intelligent self-correction planner](https://arxiv.org/abs/2309.12089)|[HiCRISP](https://github.com/ming-bot/HiCRISP)|
 ## 2023-09-21
@@ -88,6 +89,7 @@
 |[robotperf: an open-source, vendor-agnostic, benchmarking suite for evaluating robotics computing system performance](https://arxiv.org/abs/2309.09212)|[benchmarks](https://github.com/robotperf/benchmarks)|
 |[efficient belief road map for planning under uncertainty](https://arxiv.org/abs/2309.09344)|[vimp](https://github.com/hzyu17/vimp)|
 |[coco-lic: continuous-time tightly-coupled lidar-inertial-camera odometry using non-uniform b-spline](https://arxiv.org/abs/2309.09808)|[coco-lic](https://github.com/april-zju/coco-lic)|
+|[grasp-anything: large-scale grasp dataset from foundation models](https://arxiv.org/abs/2309.09818)|[Grasp-Anything](https://github.com/andvg3/Grasp-Anything)|
 |[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
 |[gedepth: ground embedding for monocular depth estimation](https://arxiv.org/abs/2309.09975)|[gedepth](https://github.com/qcraftai/gedepth)|
 ## 2023-09-18
