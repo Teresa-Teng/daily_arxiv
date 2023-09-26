@@ -1,3 +1,15 @@
+## 2023-09-25
+|paper|code|
+|---|---|
+|[mean shift mask transformer for unseen object instance segmentation](https://arxiv.org/abs/2211.11679)|[unseenobjectswithmeanshift](https://github.com/youngsean/unseenobjectswithmeanshift)|
+|[environmental effects on emergent strategy in micro-scale multi-agent reinforcement learning](https://arxiv.org/abs/2307.00994)|[swarmrl](https://github.com/swarmrl/swarmrl)|
+|[crossway diffusion: improving diffusion-based visuomotor policy via self-supervised learning](https://arxiv.org/abs/2307.01849)|[crossway_diffusion](https://github.com/lostxine/crossway_diffusion)|
+|[multi-level map construction for dynamic scenes](https://arxiv.org/abs/2308.04000)|[dymlm-slam](https://github.com/hbelief1998/dymlm-slam)|
+|[focusflow: boosting key-points optical flow estimation for autonomous driving](https://arxiv.org/abs/2308.07104)|[focusflow_official](https://github.com/zhonghuayi/focusflow_official)|
+|[bridgedata v2: a dataset for robot learning at scale](https://arxiv.org/abs/2308.12952)|[BridgeData-V2](https://github.com/rail-berkeley/BridgeData-V2)|
+|[efficient reinforcement learning for jumping monopods](https://arxiv.org/abs/2309.07038)|[jump_rl](https://github.com/mfocchi/jump_rl)|
+|[occupancydetr: making semantic scene completion as straightforward as object detection](https://arxiv.org/abs/2309.08504)|[occupancydetr](https://github.com/jypjypjypjyp/occupancydetr)|
+|[a study on learning social robot navigation with multimodal perception](https://arxiv.org/abs/2309.12568)|[multimodal-fusion-network](https://github.com/robotixx/multimodal-fusion-network)|
 ## 2023-09-22
 |paper|code|
 |---|---|
@@ -54,6 +66,7 @@
 |[reasoning about the unseen for efficient outdoor object navigation](https://arxiv.org/abs/2309.10103)|[reasonedexplorer](https://github.com/quantingxie/reasonedexplorer)|
 |[vprtempo: a fast temporally encoded spiking neural network for visual place recognition](https://arxiv.org/abs/2309.10225)|[VPRTempo](https://github.com/QVPR/VPRTempo)|
 |[augmenting tactile simulators with real-like and zero-shot capabilities](https://arxiv.org/abs/2309.10409)|[allsight_sim](https://github.com/osheraz/allsight_sim)|
+|[lidar-generated images derived keypoints assisted point cloud registration scheme in odometry estimation](https://arxiv.org/abs/2309.10436)|[ws-lidar-as-camera-odom](https://github.com/tiers/ws-lidar-as-camera-odom)|
 |[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
 |[asymptotically optimal belief space planning in discrete partially-observable domains](https://arxiv.org/abs/2309.10672)|[path-tree-optimization](https://github.com/janisfreund/path-tree-optimization)|
 |[drive: data-driven robot input vector exploration](https://arxiv.org/abs/2309.10718)|[drive](https://github.com/norlab-ulaval/drive)|
