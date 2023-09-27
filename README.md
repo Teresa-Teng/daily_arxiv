@@ -1,3 +1,26 @@
+## 2023-09-26
+|paper|code|
+|---|---|
+|[a time-causal and time-recursive scale-covariant scale-space representation of temporal signals and past time](https://arxiv.org/abs/2202.09209)|[pytempscsp](https://github.com/tonylindeberg/pytempscsp)|
+|[toward reliable signals decoding for electroencephalogram: a benchmark study to eegnex](https://arxiv.org/abs/2207.12369)|[eegnex](https://github.com/chenxiachan/eegnex)|
+|[mm-fi: multi-modal non-intrusive 4d human dataset for versatile wireless sensing](https://arxiv.org/abs/2305.10345)|[mmfi_dataset](https://github.com/ybhbingo/mmfi_dataset)|
+|[ecg-qa: a comprehensive question answering dataset combined with electrocardiogram](https://arxiv.org/abs/2306.15681)|[ecg-qa](https://github.com/jwoo5/ecg-qa)|
+|[quantum and quantum-inspired stereographic k nearest-neighbour clustering](https://arxiv.org/abs/2308.03949)|[stereographic-quantum-embedding-clustering](https://github.com/alonsoviladomat/stereographic-quantum-embedding-clustering)|
+|[functional graph contrastive learning of hyperscanning eeg reveals emotional contagion evoked by stereotype-based stressors](https://arxiv.org/abs/2308.13546)|[Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG](https://github.com/Maxwell-Wong/Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[bgf-yolo: enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection](https://arxiv.org/abs/2309.12585)|[bgf-yolo](https://github.com/mkang315/bgf-yolo)|
+|[finding order in chaos: a novel data augmentation method for time series in contrastive learning](https://arxiv.org/abs/2309.13439)|[Finding_Order_in_Chaos](https://github.com/eth-siplab/Finding_Order_in_Chaos)|
+|[efficient multi-task rgb-d scene analysis for indoor environments](https://arxiv.org/abs/2207.04526)|[emsanet](https://github.com/tui-nicr/emsanet)|
+|[pre-training for robots: offline rl enables learning new tasks from a handful of trials](https://arxiv.org/abs/2210.05178)|[ptr](https://github.com/asap7772/ptr)|
+|[goal-guided transformer-enabled reinforcement learning for efficient autonomous navigation](https://arxiv.org/abs/2301.00362)|[drl-transformer-simtoreal-navigation](https://github.com/oscarhuangwind/drl-transformer-simtoreal-navigation)|
+|[improving surgical situational awareness with signed distance field: a pilot study in virtual reality](https://arxiv.org/abs/2303.01733)|[volumetric_drilling](https://github.com/jabarragann/volumetric_drilling)|
+|[deep reinforcement learning-based mapless crowd navigation with perceived risk of the moving crowd for mobile robots](https://arxiv.org/abs/2304.03593)|[drl-based-mapless-crowd-navigation-with-perceived-risk](https://github.com/ailabspace/drl-based-mapless-crowd-navigation-with-perceived-risk)|
+|[improving generalization of synthetically trained sonar image descriptors for underwater place recognition](https://arxiv.org/abs/2308.01058)|[sdpr](https://github.com/ivano-donadi/sdpr)|
+|[adaptive graduated non-convexity for pose graph optimization](https://arxiv.org/abs/2308.11444)|[agnc-pgo](https://github.com/snu-dllab/agnc-pgo)|
+|[misfit-v: misaligned image synthesis and fusion using information from thermal and visual](https://arxiv.org/abs/2309.13216)|[Visual_Thermal_Image_Fusion](https://github.com/Aadharc/Visual_Thermal_Image_Fusion)|
+|[panopticndt: efficient and robust panoptic mapping](https://arxiv.org/abs/2309.13635)|[panoptic-mapping](https://github.com/tui-nicr/panoptic-mapping)|
+|[design and evaluation of motion planners for quadrotors](https://arxiv.org/abs/2309.13720)|[kr_mp_design](https://github.com/KumarRobotics/kr_mp_design)|
+|[perception-and-energy-aware motion planning for uav using learning-based model under heteroscedastic uncertainty](https://arxiv.org/abs/2309.14272)|[perception-energy-planner](https://gitlab.com/rei08/perception-energy-planner)|
 ## 2023-09-25
 |paper|code|
 |---|---|
@@ -9,7 +32,9 @@
 |[bridgedata v2: a dataset for robot learning at scale](https://arxiv.org/abs/2308.12952)|[BridgeData-V2](https://github.com/rail-berkeley/BridgeData-V2)|
 |[efficient reinforcement learning for jumping monopods](https://arxiv.org/abs/2309.07038)|[jump_rl](https://github.com/mfocchi/jump_rl)|
 |[occupancydetr: making semantic scene completion as straightforward as object detection](https://arxiv.org/abs/2309.08504)|[occupancydetr](https://github.com/jypjypjypjyp/occupancydetr)|
+|[recent advances in path integral control for trajectory optimization: an overview in theoretical and algorithmic perspectives](https://arxiv.org/abs/2309.12566)|[an-overview-on-recent-advances-in-path-integral-control](https://github.com/inha-autonomous-systems-laboratory-asl/an-overview-on-recent-advances-in-path-integral-control)|
 |[a study on learning social robot navigation with multimodal perception](https://arxiv.org/abs/2309.12568)|[multimodal-fusion-network](https://github.com/robotixx/multimodal-fusion-network)|
+|[a multi-robot task assignment framework for search and rescue with heterogeneous teams](https://arxiv.org/abs/2309.12589)|[multi-robot-task-assignment](https://github.com/hamidosooli/multi-robot-task-assignment)|
 ## 2023-09-22
 |paper|code|
 |---|---|
