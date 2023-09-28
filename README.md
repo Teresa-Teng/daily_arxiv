@@ -1,3 +1,18 @@
+## 2023-09-27
+|paper|code|
+|---|---|
+|[joint communication and computation framework for goal-oriented semantic communication with distortion rate resilience](https://arxiv.org/abs/2309.14587)|[drgo-semcom](https://github.com/skyd-semantic/drgo-semcom)|
+|[kant: a tool for grounding and knowledge management](https://arxiv.org/abs/2204.08495)|[kant](https://github.com/uleroboticsgroup/kant)|
+|[openpodcar: an open source vehicle for self-driving car research](https://arxiv.org/abs/2205.04454)|[openpodcar](https://github.com/openpodcar/openpodcar)|
+|[team: a parameter-free algorithm to teach collaborative robots motions from user demonstrations](https://arxiv.org/abs/2209.06940)|[team](https://github.com/SchindlerReGIS/team)|
+|[pl-evio: robust monocular event-based visual inertial odometry with point and line features](https://arxiv.org/abs/2209.12160)|[event_based_vo-vio-slam](https://github.com/arclab-hku/event_based_vo-vio-slam)|
+|[solving continuous control via q-learning](https://arxiv.org/abs/2210.12566)|[decqn](https://github.com/tseyde/decqn)|
+|[micp-l: mesh-based icp for robot localization using hardware-accelerated ray casting](https://arxiv.org/abs/2210.13904)|[rmcl](https://github.com/uos/rmcl)|
+|[dynablox: real-time detection of diverse dynamic objects in complex environments](https://arxiv.org/abs/2304.10049)|[dynablox](https://github.com/ethz-asl/dynablox)|
+|[can chatgpt enable its? the case of mixed traffic control via reinforcement learning](https://arxiv.org/abs/2306.08094)|[its-study](https://github.com/tmvllrrl/its-study)|
+|[taming the panda with python: a powerful duo for seamless robotics programming and integration](https://arxiv.org/abs/2307.07633)|[panda-py](https://github.com/jeanelsner/panda-py)|
+|[volumetric semantically consistent 3d panoptic mapping](https://arxiv.org/abs/2309.14737)|[consistentpanopticslam](https://github.com/y9miao/consistentpanopticslam)|
+|[distillbev: boosting multi-camera 3d object detection with cross-modal knowledge distillation](https://arxiv.org/abs/2309.15109)|[distill-bev](https://github.com/qcraftai/distill-bev)|
 ## 2023-09-26
 |paper|code|
 |---|---|
@@ -9,17 +24,25 @@
 |[functional graph contrastive learning of hyperscanning eeg reveals emotional contagion evoked by stereotype-based stressors](https://arxiv.org/abs/2308.13546)|[Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG](https://github.com/Maxwell-Wong/Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[bgf-yolo: enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection](https://arxiv.org/abs/2309.12585)|[bgf-yolo](https://github.com/mkang315/bgf-yolo)|
+|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
 |[finding order in chaos: a novel data augmentation method for time series in contrastive learning](https://arxiv.org/abs/2309.13439)|[Finding_Order_in_Chaos](https://github.com/eth-siplab/Finding_Order_in_Chaos)|
+|[dnn-danm: a high-accuracy two-dimensional doa estimation method using practical ris](https://arxiv.org/abs/2309.13856)|[dnn-danm](https://github.com/chenpengseu/dnn-danm)|
+|[single-antenna jammers in mimo-ofdm can resemble multi-antenna jammers](https://arxiv.org/abs/2309.14059)|[ofdm-jammer](https://github.com/iip-group/ofdm-jammer)|
 |[efficient multi-task rgb-d scene analysis for indoor environments](https://arxiv.org/abs/2207.04526)|[emsanet](https://github.com/tui-nicr/emsanet)|
 |[pre-training for robots: offline rl enables learning new tasks from a handful of trials](https://arxiv.org/abs/2210.05178)|[ptr](https://github.com/asap7772/ptr)|
 |[goal-guided transformer-enabled reinforcement learning for efficient autonomous navigation](https://arxiv.org/abs/2301.00362)|[drl-transformer-simtoreal-navigation](https://github.com/oscarhuangwind/drl-transformer-simtoreal-navigation)|
 |[improving surgical situational awareness with signed distance field: a pilot study in virtual reality](https://arxiv.org/abs/2303.01733)|[volumetric_drilling](https://github.com/jabarragann/volumetric_drilling)|
+|[reducing safety interventions in provably safe reinforcement learning](https://arxiv.org/abs/2303.03339)|[safety-intervention-reduction](https://github.com/jakobthumm/safety-intervention-reduction)|
 |[deep reinforcement learning-based mapless crowd navigation with perceived risk of the moving crowd for mobile robots](https://arxiv.org/abs/2304.03593)|[drl-based-mapless-crowd-navigation-with-perceived-risk](https://github.com/ailabspace/drl-based-mapless-crowd-navigation-with-perceived-risk)|
+|[fusing odometry, uwb ranging, and spatial detections for relative multi-robot localization](https://arxiv.org/abs/2304.06264)|[uwb-cooperative-mrs-localization](https://github.com/tiers/uwb-cooperative-mrs-localization)|
 |[improving generalization of synthetically trained sonar image descriptors for underwater place recognition](https://arxiv.org/abs/2308.01058)|[sdpr](https://github.com/ivano-donadi/sdpr)|
 |[adaptive graduated non-convexity for pose graph optimization](https://arxiv.org/abs/2308.11444)|[agnc-pgo](https://github.com/snu-dllab/agnc-pgo)|
+|[exposing the unseen: exposure time emulation for offline benchmarking of vision algorithms](https://arxiv.org/abs/2309.13139)|[borealhdr](https://github.com/norlab-ulaval/borealhdr)|
 |[misfit-v: misaligned image synthesis and fusion using information from thermal and visual](https://arxiv.org/abs/2309.13216)|[Visual_Thermal_Image_Fusion](https://github.com/Aadharc/Visual_Thermal_Image_Fusion)|
+|[towards robust robot 3d perception in urban environments: the ut campus object dataset](https://arxiv.org/abs/2309.13549)|[coda-models](https://github.com/ut-amrl/coda-models)|
 |[panopticndt: efficient and robust panoptic mapping](https://arxiv.org/abs/2309.13635)|[panoptic-mapping](https://github.com/tui-nicr/panoptic-mapping)|
 |[design and evaluation of motion planners for quadrotors](https://arxiv.org/abs/2309.13720)|[kr_mp_design](https://github.com/KumarRobotics/kr_mp_design)|
+|[fc-planner: a skeleton-guided planning framework for fast aerial coverage of complex 3d scenes](https://arxiv.org/abs/2309.13882)|[fc-planner](https://github.com/hkust-aerial-robotics/fc-planner)|
 |[perception-and-energy-aware motion planning for uav using learning-based model under heteroscedastic uncertainty](https://arxiv.org/abs/2309.14272)|[perception-energy-planner](https://gitlab.com/rei08/perception-energy-planner)|
 ## 2023-09-25
 |paper|code|
