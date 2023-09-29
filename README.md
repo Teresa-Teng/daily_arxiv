@@ -1,3 +1,20 @@
+## 2023-09-28
+|paper|code|
+|---|---|
+|[data-driven identification of parametric governing equations of dynamical systems using the signed cumulative distribution transform](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[investigating the changes in bold responses during viewing of images with varied complexity: an fmri time-series based analysis on human vision](https://arxiv.org/abs/2309.15495)|[fmri-time-series-classification](https://github.com/naveen7102/fmri-time-series-classification)|
+|[discovering and exploiting sparse rewards in a learned behavior space](https://arxiv.org/abs/2111.01919)|[stax](https://github.com/gpaolo/stax)|
+|[delving into the devils of bird's-eye-view perception: a review, evaluation and recipe](https://arxiv.org/abs/2209.05324)|[birds-eye-view-perception](https://github.com/opendrivelab/birds-eye-view-perception)|
+|[latent-conditioned policy gradient for multi-objective deep reinforcement learning](https://arxiv.org/abs/2303.08909)|[lcmopg](https://github.com/tatksm/lcmopg)|
+|[lqr-cbf-rrt*: safe and optimal motion planning](https://arxiv.org/abs/2304.00790)|[lqr_cbf_rrtstar](https://github.com/mingyucai/lqr_cbf_rrtstar)|
+|[llm+p: empowering large language models with optimal planning proficiency](https://arxiv.org/abs/2304.11477)|[llm-pddl](https://github.com/Cranial-XIX/llm-pddl)|
+|[individuality in swarm robots with the case study of kilobots: noise, bug, or feature?](https://arxiv.org/abs/2305.16063)|[kilobots-individuality-alife-23](https://github.com/mohsen-raoufi/kilobots-individuality-alife-23)|
+|[optimized custom dataset for efficient detection of underwater trash](https://arxiv.org/abs/2305.16460)|[underwater-trash-detection](https://github.com/karanwxliaa/underwater-trash-detection)|
+|[autotamp: autoregressive task and motion planning with llms as translators and checkers](https://arxiv.org/abs/2306.06531)|[autotamp](https://github.com/yongchao98/autotamp)|
+|[scenereplica: benchmarking real-world robot manipulation by creating replicable scenes](https://arxiv.org/abs/2306.15620)|[SceneReplica](https://github.com/IRVLUTD/SceneReplica)|
+|[risk-averse trajectory optimization via sample average approximation](https://arxiv.org/abs/2307.03167)|[riskaversetrajopt](https://github.com/stanfordasl/riskaversetrajopt)|
+|[maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)|[maxdiffrl](https://github.com/murpheylab/maxdiffrl)|
+|[multimodal dataset for localization, mapping and crop monitoring in citrus tree farms](https://arxiv.org/abs/2309.15332)|[citrus-farm-dataset](https://github.com/ucr-robotics/citrus-farm-dataset)|
 ## 2023-09-27
 |paper|code|
 |---|---|
@@ -24,7 +41,6 @@
 |[functional graph contrastive learning of hyperscanning eeg reveals emotional contagion evoked by stereotype-based stressors](https://arxiv.org/abs/2308.13546)|[Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG](https://github.com/Maxwell-Wong/Functional-Graph-Contrastive-Learning-of-Hyperscanning-EEG)|
 |[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
 |[bgf-yolo: enhanced yolov8 with multiscale attentional feature fusion for brain tumor detection](https://arxiv.org/abs/2309.12585)|[bgf-yolo](https://github.com/mkang315/bgf-yolo)|
-|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
 |[finding order in chaos: a novel data augmentation method for time series in contrastive learning](https://arxiv.org/abs/2309.13439)|[Finding_Order_in_Chaos](https://github.com/eth-siplab/Finding_Order_in_Chaos)|
 |[dnn-danm: a high-accuracy two-dimensional doa estimation method using practical ris](https://arxiv.org/abs/2309.13856)|[dnn-danm](https://github.com/chenpengseu/dnn-danm)|
 |[single-antenna jammers in mimo-ofdm can resemble multi-antenna jammers](https://arxiv.org/abs/2309.14059)|[ofdm-jammer](https://github.com/iip-group/ofdm-jammer)|
