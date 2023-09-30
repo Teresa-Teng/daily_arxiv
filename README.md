@@ -1,3 +1,18 @@
+## 2023-09-29
+|paper|code|
+|---|---|
+|[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
+|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
+|[learning large-scale mtp$_2$ gaussian graphical models via bridge-block decomposition](https://arxiv.org/abs/2309.13405)|[mtp2-bbd](https://github.com/xiwen1997/mtp2-bbd)|
+|[safe imitation learning of nonlinear model predictive control for flexible robots](https://arxiv.org/abs/2212.02941)|[flexible_arm](https://github.com/shamilmamedov/flexible_arm)|
+|[wrapyfi: a wrapper for message-oriented and robotics middleware](https://arxiv.org/abs/2302.09648)|[wrapyfi](https://github.com/fabawi/wrapyfi)|
+|[tight collision probability for uav motion planning in uncertain environment](https://arxiv.org/abs/2303.02607)|[iros2023_com](https://github.com/acmece/iros2023_com)|
+|[trafficbots: towards world models for autonomous driving simulation and motion prediction](https://arxiv.org/abs/2303.04116)|[trafficbots](https://github.com/syscv/trafficbots)|
+|[ctopprm: clustering topological prm for planning multiple distinct paths in 3d environments](https://arxiv.org/abs/2305.13969)|[ctopprm](https://github.com/ctu-mrs/ctopprm)|
+|[semantic map learning of traffic light to lane assignment based on motion data](https://arxiv.org/abs/2309.14793)|[tl2la](https://github.com/map-learning/tl2la)|
+|[context-aware entity grounding with open-vocabulary 3d scene graphs](https://arxiv.org/abs/2309.15940)|[ovsg](https://github.com/changhaonan/ovsg)|
+|[enabling large-scale heterogeneous collaboration with opportunistic communications](https://arxiv.org/abs/2309.15975)|[MOCHA](https://github.com/KumarRobotics/MOCHA)|
+|[learning to terminate in object navigation](https://arxiv.org/abs/2309.16164)|[dita_acml2023](https://github.com/huskykingdom/dita_acml2023)|
 ## 2023-09-28
 |paper|code|
 |---|---|
@@ -28,7 +43,10 @@
 |[dynablox: real-time detection of diverse dynamic objects in complex environments](https://arxiv.org/abs/2304.10049)|[dynablox](https://github.com/ethz-asl/dynablox)|
 |[can chatgpt enable its? the case of mixed traffic control via reinforcement learning](https://arxiv.org/abs/2306.08094)|[its-study](https://github.com/tmvllrrl/its-study)|
 |[taming the panda with python: a powerful duo for seamless robotics programming and integration](https://arxiv.org/abs/2307.07633)|[panda-py](https://github.com/jeanelsner/panda-py)|
+|[continuous-time control synthesis under nested signal temporal logic specifications](https://arxiv.org/abs/2309.14347)|[stlt](https://github.com/xiaotankth/stlt)|
+|[on the effects of the variations in network characteristics in cyber physical systems](https://arxiv.org/abs/2309.14687)|[robot_hw_sim_latency](https://github.com/ericsson/robot_hw_sim_latency)|
 |[volumetric semantically consistent 3d panoptic mapping](https://arxiv.org/abs/2309.14737)|[consistentpanopticslam](https://github.com/y9miao/consistentpanopticslam)|
+|[less is more: robust robot learning via partially observable multi-agent reinforcement learning](https://arxiv.org/abs/2309.14792)|[partially-observable-marl](https://github.com/tiers/partially-observable-marl)|
 |[distillbev: boosting multi-camera 3d object detection with cross-modal knowledge distillation](https://arxiv.org/abs/2309.15109)|[distill-bev](https://github.com/qcraftai/distill-bev)|
 ## 2023-09-26
 |paper|code|
