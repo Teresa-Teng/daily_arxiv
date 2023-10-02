@@ -3,7 +3,7 @@
 |---|---|
 |[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
 |[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
-|[learning large-scale mtp$_2$ gaussian graphical models via bridge-block decomposition](https://arxiv.org/abs/2309.13405)|[mtp2-bbd](https://github.com/xiwen1997/mtp2-bbd)|
+|[optimal receive filter design for misaligned over-the-air computation](https://arxiv.org/abs/2309.16033)|[filteraircomp](https://github.com/henrikhellstrom93/filteraircomp)|
 |[safe imitation learning of nonlinear model predictive control for flexible robots](https://arxiv.org/abs/2212.02941)|[flexible_arm](https://github.com/shamilmamedov/flexible_arm)|
 |[wrapyfi: a wrapper for message-oriented and robotics middleware](https://arxiv.org/abs/2302.09648)|[wrapyfi](https://github.com/fabawi/wrapyfi)|
 |[tight collision probability for uav motion planning in uncertain environment](https://arxiv.org/abs/2303.02607)|[iros2023_com](https://github.com/acmece/iros2023_com)|
@@ -11,7 +11,9 @@
 |[ctopprm: clustering topological prm for planning multiple distinct paths in 3d environments](https://arxiv.org/abs/2305.13969)|[ctopprm](https://github.com/ctu-mrs/ctopprm)|
 |[semantic map learning of traffic light to lane assignment based on motion data](https://arxiv.org/abs/2309.14793)|[tl2la](https://github.com/map-learning/tl2la)|
 |[context-aware entity grounding with open-vocabulary 3d scene graphs](https://arxiv.org/abs/2309.15940)|[ovsg](https://github.com/changhaonan/ovsg)|
-|[enabling large-scale heterogeneous collaboration with opportunistic communications](https://arxiv.org/abs/2309.15975)|[MOCHA](https://github.com/KumarRobotics/MOCHA)|
+|[enabling large-scale heterogeneous collaboration with opportunistic communications](https://arxiv.org/abs/2309.15975)|[air_router](https://github.com/kumarrobotics/air_router)|
+|[wideview: an ultrawideband and vision dataset for deciphering pedestrian-vehicle interactions](https://arxiv.org/abs/2309.16057)|[uwb_dataset](https://github.com/unmannedlab/uwb_dataset)|
+|[stackelberg game-theoretic trajectory guidance for multi-robot systems with koopman operator](https://arxiv.org/abs/2309.16098)|[stackelberg-koopman-learning](https://github.com/yuhan16/stackelberg-koopman-learning)|
 |[comparing active learning performance driven by gaussian processes or bayesian neural networks for constrained trajectory exploration](https://arxiv.org/abs/2309.16114)|[al-bnn-gp](https://github.com/xfyna/al-bnn-gp)|
 |[learning to terminate in object navigation](https://arxiv.org/abs/2309.16164)|[dita_acml2023](https://github.com/huskykingdom/dita_acml2023)|
 ## 2023-09-28
@@ -19,7 +21,7 @@
 |---|---|
 |[data-driven identification of parametric governing equations of dynamical systems using the signed cumulative distribution transform](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
 |[fully adaptive time-varying wave-shape model: applications in biomedical signal processing](https://arxiv.org/abs/2309.15211)|[tvwse](https://github.com/joaquinr-uner/tvwse)|
-|[scaling representation learning from ubiquitous ecg with state-space models](https://arxiv.org/abs/2309.15292)|[tiles](https://github.com/klean2050/tiles)|
+|[scaling representation learning from ubiquitous ecg with state-space models](https://arxiv.org/abs/2309.15292)|[tiles_ecg_model](https://github.com/klean2050/tiles_ecg_model)|
 |[investigating the changes in bold responses during viewing of images with varied complexity: an fmri time-series based analysis on human vision](https://arxiv.org/abs/2309.15495)|[fmri-time-series-classification](https://github.com/naveen7102/fmri-time-series-classification)|
 |[discovering and exploiting sparse rewards in a learned behavior space](https://arxiv.org/abs/2111.01919)|[stax](https://github.com/gpaolo/stax)|
 |[delving into the devils of bird's-eye-view perception: a review, evaluation and recipe](https://arxiv.org/abs/2209.05324)|[birds-eye-view-perception](https://github.com/opendrivelab/birds-eye-view-perception)|
@@ -32,8 +34,6 @@
 |[scenereplica: benchmarking real-world robot manipulation by creating replicable scenes](https://arxiv.org/abs/2306.15620)|[SceneReplica](https://github.com/IRVLUTD/SceneReplica)|
 |[risk-averse trajectory optimization via sample average approximation](https://arxiv.org/abs/2307.03167)|[riskaversetrajopt](https://github.com/stanfordasl/riskaversetrajopt)|
 |[learning optimal trajectories for quadrotors](https://arxiv.org/abs/2309.15191)|[allocnet](https://github.com/yuwei-wu/allocnet)|
-|[maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)|[maxdiffrl](https://github.com/murpheylab/maxdiffrl)|
-|[multimodal dataset for localization, mapping and crop monitoring in citrus tree farms](https://arxiv.org/abs/2309.15332)|[citrus-farm-dataset](https://github.com/ucr-robotics/citrus-farm-dataset)|
 |[mins: efficient and robust multisensor-aided inertial navigation system](https://arxiv.org/abs/2309.15390)|[mins](https://github.com/rpng/mins)|
 ## 2023-09-27
 |paper|code|
