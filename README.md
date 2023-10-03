@@ -1,3 +1,14 @@
+## 2023-10-02
+|paper|code|
+|---|---|
+|[learning large-scale mtp$_2$ gaussian graphical models via bridge-block decomposition](https://arxiv.org/abs/2309.13405)|[mtp2-bbd](https://github.com/xiwen1997/mtp2-bbd)|
+|[safe and smooth: certified continuous-time range-only localization](https://arxiv.org/abs/2209.04266)|[safe_and_smooth](https://github.com/utiasasrl/safe_and_smooth)|
+|[oa-bug: an olfactory-auditory augmented bug algorithm for swarm robots in a denied environment](https://arxiv.org/abs/2209.14007)|[swarmsearchsimulation](https://github.com/kevintsq/swarmsearchsimulation)|
+|[hierarchical generative adversarial imitation learning with mid-level input generation for autonomous driving on urban environments](https://arxiv.org/abs/2302.04823)|[hgail](https://github.com/gustavokcouto/hgail)|
+|[stable and safe reinforcement learning via a barrier-lyapunov actor-critic approach](https://arxiv.org/abs/2304.04066)|[a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control](https://github.com/liqunzhao/a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control)|
+|[maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)|[maxdiffrl](https://github.com/murpheylab/maxdiffrl)|
+|[multimodal dataset for localization, mapping and crop monitoring in citrus tree farms](https://arxiv.org/abs/2309.15332)|[citrus-farm-dataset](https://github.com/ucr-robotics/citrus-farm-dataset)|
+|[comsd: balancing behavioral quality and diversity in unsupervised skill discovery](https://arxiv.org/abs/2309.17203)|[comsd](https://github.com/liuxin0824/comsd)|
 ## 2023-09-29
 |paper|code|
 |---|---|
