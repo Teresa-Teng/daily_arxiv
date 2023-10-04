@@ -1,3 +1,17 @@
+## 2023-10-03
+|paper|code|
+|---|---|
+|[short-length ssvep data extension by a novel generative adversarial networks based framework](https://arxiv.org/abs/2301.05599)|[tegan](https://github.com/yudongpan/tegan)|
+|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
+|[an optical control environment for benchmarking reinforcement learning algorithms](https://arxiv.org/abs/2203.12114)|[reinforcement-learning-pulse-stacking](https://github.com/walleclipse/reinforcement-learning-pulse-stacking)|
+|[fully proprioceptive slip-velocity-aware state estimation for mobile robots via invariant kalman filtering and disturbance observer](https://arxiv.org/abs/2209.15140)|[slip_detection_dob](https://github.com/umich-curly/slip_detection_dob)|
+|[scaling up and distilling down: language-guided robot skill acquisition](https://arxiv.org/abs/2307.14535)|[scalingup](https://github.com/real-stanford/scalingup)|
+|[dynamic open vocabulary enhanced safe-landing with intelligence (dovesei)](https://arxiv.org/abs/2308.11471)|[dovesei](https://github.com/mistlab/dovesei)|
+|[self-refined large language model as automated reward function designer for deep reinforcement learning in robotics](https://arxiv.org/abs/2309.06687)|[llm_reward_design](https://github.com/zhehuazhou/llm_reward_design)|
+|[asynchronous spatial allocation protocol for trajectory planning of heterogeneous multi-agent systems](https://arxiv.org/abs/2309.07431)|[asap](https://github.com/cydxyyj/asap)|
+|[grace: optimizing grasps to satisfy ranked criteria in complex scenarios](https://arxiv.org/abs/2309.08887)|[grace](https://github.com/clear-nus/grace)|
+|[towards robust robot 3d perception in urban environments: the ut campus object dataset](https://arxiv.org/abs/2309.13549)|[coda-models](https://github.com/ut-amrl/coda-models)|
+|[pc-nerf: parent-child neural radiance fields under partial sensor data loss in autonomous driving environments](https://arxiv.org/abs/2310.00874)|[pc-nerf](https://github.com/biter0088/pc-nerf)|
 ## 2023-10-02
 |paper|code|
 |---|---|
@@ -13,7 +27,6 @@
 |paper|code|
 |---|---|
 |[motion-robust free-running cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/syedmurtazaarshad/motion-robust-CMR)|
-|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
 |[optimal receive filter design for misaligned over-the-air computation](https://arxiv.org/abs/2309.16033)|[filteraircomp](https://github.com/henrikhellstrom93/filteraircomp)|
 |[safe imitation learning of nonlinear model predictive control for flexible robots](https://arxiv.org/abs/2212.02941)|[flexible_arm](https://github.com/shamilmamedov/flexible_arm)|
 |[wrapyfi: a wrapper for message-oriented and robotics middleware](https://arxiv.org/abs/2302.09648)|[wrapyfi](https://github.com/fabawi/wrapyfi)|
