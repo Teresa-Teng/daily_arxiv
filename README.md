@@ -1,3 +1,15 @@
+## 2023-10-04
+|paper|code|
+|---|---|
+|[maximum likelihood based phase-retrieval using fresnel propagation forward models with optional constraints](https://arxiv.org/abs/2305.00334)|[phasetorch](https://github.com/phasetorch/phasetorch)|
+|[rcs-yolo: a fast and high-accuracy object detector for brain tumor detection](https://arxiv.org/abs/2307.16412)|[rcs-yolo](https://github.com/mkang315/rcs-yolo)|
+|[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
+|[differentially encoded observation spaces for perceptive reinforcement learning](https://arxiv.org/abs/2310.01767)|[diffcompressdrl](https://github.com/a2r-lab/diffcompressdrl)|
+|[mini-behavior: a procedurally generated benchmark for long-horizon decision-making in embodied ai](https://arxiv.org/abs/2310.01824)|[mini_behavior](https://github.com/stanfordvl/mini_behavior)|
+|[learning and reusing primitive behaviours to improve hindsight experience replay sample efficiency](https://arxiv.org/abs/2310.01827)|[qmp-her](https://github.com/franroldans/qmp-her)|
+|[driving with llms: fusing object-level vector modality for explainable autonomous driving](https://arxiv.org/abs/2310.01957)|[driving-with-llms](https://github.com/wayveai/driving-with-llms)|
+|[video transformers under occlusion: how physics and background attributes impact large models for robotic manipulation](https://arxiv.org/abs/2310.02044)|[occlumanip](https://github.com/shutongjin/occlumanip)|
+|[towards end-to-end embodied decision making via multi-modal large language model: explorations with gpt4-vision and beyond](https://arxiv.org/abs/2310.02071)|[pca-eval](https://github.com/pkunlp-icler/pca-eval)|
 ## 2023-10-03
 |paper|code|
 |---|---|
@@ -12,6 +24,9 @@
 |[grace: optimizing grasps to satisfy ranked criteria in complex scenarios](https://arxiv.org/abs/2309.08887)|[grace](https://github.com/clear-nus/grace)|
 |[towards robust robot 3d perception in urban environments: the ut campus object dataset](https://arxiv.org/abs/2309.13549)|[coda-models](https://github.com/ut-amrl/coda-models)|
 |[pc-nerf: parent-child neural radiance fields under partial sensor data loss in autonomous driving environments](https://arxiv.org/abs/2310.00874)|[pc-nerf](https://github.com/biter0088/pc-nerf)|
+|[grid: a platform for general robot intelligence development](https://arxiv.org/abs/2310.00887)|[grid-playground](https://github.com/scaledfoundations/grid-playground)|
+|[gensim: generating robotic simulation tasks via large language models](https://arxiv.org/abs/2310.01361)|[gensim](https://github.com/liruiw/gensim)|
+|[fleet policy learning via weight merging and an application to robotic tool-use](https://arxiv.org/abs/2310.01362)|[fleet-tools](https://github.com/liruiw/fleet-tools)|
 ## 2023-10-02
 |paper|code|
 |---|---|
@@ -22,6 +37,11 @@
 |[stable and safe reinforcement learning via a barrier-lyapunov actor-critic approach](https://arxiv.org/abs/2304.04066)|[a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control](https://github.com/liqunzhao/a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control)|
 |[maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)|[maxdiffrl](https://github.com/murpheylab/maxdiffrl)|
 |[multimodal dataset for localization, mapping and crop monitoring in citrus tree farms](https://arxiv.org/abs/2309.15332)|[citrus-farm-dataset](https://github.com/ucr-robotics/citrus-farm-dataset)|
+|[mem: multi-modal elevation mapping for robotics and learning](https://arxiv.org/abs/2309.16818)|[elevation_mapping_cupy](https://github.com/leggedrobotics/elevation_mapping_cupy)|
+|[an attentional recurrent neural network for occlusion-aware proactive anomaly detection in field robot navigation](https://arxiv.org/abs/2309.16826)|[roar](https://github.com/andreschreiber/roar)|
+|[an mcts-drl based obstacle and occlusion avoidance methodology in robotic follow-ahead applications](https://arxiv.org/abs/2309.16884)|[follow-ahead-ros](https://github.com/saharleisiazar/follow-ahead-ros)|
+|[pong: probabilistic object normals for grasping via analytic bounds on force closure probability](https://arxiv.org/abs/2309.16930)|[pong](https://github.com/alberthli/pong)|
+|[simultaneous synchronization and calibration for wide-baseline stereo event cameras](https://arxiv.org/abs/2309.16990)|[ssac](https://github.com/forrest1901/ssac)|
 |[comsd: balancing behavioral quality and diversity in unsupervised skill discovery](https://arxiv.org/abs/2309.17203)|[comsd](https://github.com/liuxin0824/comsd)|
 ## 2023-09-29
 |paper|code|
