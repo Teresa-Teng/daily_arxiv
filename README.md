@@ -1,3 +1,12 @@
+## 2023-10-05
+|paper|code|
+|---|---|
+|[image-based navigation in real-world environments via multiple mid-level representations: fusion models, benchmark and efficient evaluation](https://arxiv.org/abs/2202.01069)|[mid-level-fusion-nav](https://github.com/fpv-iplab/mid-level-fusion-nav)|
+|[data-driven predictive tracking control based on koopman operators](https://arxiv.org/abs/2208.12000)|[ktmpc](https://github.com/autosysproj/ktmpc)|
+|[vision-based drl autonomous driving agent with sim2real transfer](https://arxiv.org/abs/2305.11589)|[sim2real_autonomous_vehicle](https://github.com/dailyl/sim2real_autonomous_vehicle)|
+|[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
+|[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
+|[cobev: elevating roadside 3d object detection with depth and height complementarity](https://arxiv.org/abs/2310.02815)|[CoBEV](https://github.com/MasterHow/CoBEV)|
 ## 2023-10-04
 |paper|code|
 |---|---|
@@ -14,7 +23,9 @@
 |paper|code|
 |---|---|
 |[short-length ssvep data extension by a novel generative adversarial networks based framework](https://arxiv.org/abs/2301.05599)|[tegan](https://github.com/yudongpan/tegan)|
-|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blno.jl](https://github.com/stanfordcbcl/blno.jl)|
+|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blnm.jl](https://github.com/stanfordcbcl/blnm.jl)|
+|[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
+|[an efficient algorithm for clustered multi-task compressive sensing](https://arxiv.org/abs/2310.00420)|[multics](https://github.com/al5250/multics)|
 |[an optical control environment for benchmarking reinforcement learning algorithms](https://arxiv.org/abs/2203.12114)|[reinforcement-learning-pulse-stacking](https://github.com/walleclipse/reinforcement-learning-pulse-stacking)|
 |[fully proprioceptive slip-velocity-aware state estimation for mobile robots via invariant kalman filtering and disturbance observer](https://arxiv.org/abs/2209.15140)|[slip_detection_dob](https://github.com/umich-curly/slip_detection_dob)|
 |[scaling up and distilling down: language-guided robot skill acquisition](https://arxiv.org/abs/2307.14535)|[scalingup](https://github.com/real-stanford/scalingup)|
@@ -30,10 +41,12 @@
 ## 2023-10-02
 |paper|code|
 |---|---|
+|[accelerated motion correction with deep generative diffusion models](https://arxiv.org/abs/2211.00199)|[motion_score_mri](https://github.com/utcsilab/motion_score_mri)|
 |[learning large-scale mtp$_2$ gaussian graphical models via bridge-block decomposition](https://arxiv.org/abs/2309.13405)|[mtp2-bbd](https://github.com/xiwen1997/mtp2-bbd)|
 |[safe and smooth: certified continuous-time range-only localization](https://arxiv.org/abs/2209.04266)|[safe_and_smooth](https://github.com/utiasasrl/safe_and_smooth)|
 |[oa-bug: an olfactory-auditory augmented bug algorithm for swarm robots in a denied environment](https://arxiv.org/abs/2209.14007)|[swarmsearchsimulation](https://github.com/kevintsq/swarmsearchsimulation)|
 |[hierarchical generative adversarial imitation learning with mid-level input generation for autonomous driving on urban environments](https://arxiv.org/abs/2302.04823)|[hgail](https://github.com/gustavokcouto/hgail)|
+|[visual contact pressure estimation for grippers in the wild](https://arxiv.org/abs/2303.07344)|[viper](https://github.com/healthcare-robotics/viper)|
 |[stable and safe reinforcement learning via a barrier-lyapunov actor-critic approach](https://arxiv.org/abs/2304.04066)|[a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control](https://github.com/liqunzhao/a-barrier-lyapunov-actor-critic-reinforcement-learning-approach-for-safe-and-stable-control)|
 |[maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)|[maxdiffrl](https://github.com/murpheylab/maxdiffrl)|
 |[multimodal dataset for localization, mapping and crop monitoring in citrus tree farms](https://arxiv.org/abs/2309.15332)|[citrus-farm-dataset](https://github.com/ucr-robotics/citrus-farm-dataset)|
