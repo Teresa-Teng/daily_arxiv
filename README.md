@@ -1,12 +1,21 @@
+## 2023-10-06
+|paper|code|
+|---|---|
+|[accoustate: auto-annotation of imu-generated activity signatures under smart infrastructure](https://arxiv.org/abs/2112.06651)|[acconotate](https://github.com/stilllearningsoumya/acconotate)|
+|[conditional generative models for simulation of emg during naturalistic movements](https://arxiv.org/abs/2211.01856)|[biomime](https://github.com/shihan-ma/biomime)|
+|[redmotion: motion prediction via redundancy reduction](https://arxiv.org/abs/2306.10840)|[red-motion](https://github.com/kit-mrt/red-motion)|
+|[reflect: summarizing robot experiences for failure explanation and correction](https://arxiv.org/abs/2306.15724)|[reflect](https://github.com/real-stanford/reflect)|
+|[occupancy grid mapping without ray-casting for high-resolution lidar sensors](https://arxiv.org/abs/2307.08493)|[d-map](https://github.com/hku-mars/d-map)|
+|[aligning text-to-image diffusion models with reward backpropagation](https://arxiv.org/abs/2310.03739)|[alignprop](https://github.com/mihirp1998/alignprop)|
 ## 2023-10-05
 |paper|code|
 |---|---|
 |[image-based navigation in real-world environments via multiple mid-level representations: fusion models, benchmark and efficient evaluation](https://arxiv.org/abs/2202.01069)|[mid-level-fusion-nav](https://github.com/fpv-iplab/mid-level-fusion-nav)|
 |[data-driven predictive tracking control based on koopman operators](https://arxiv.org/abs/2208.12000)|[ktmpc](https://github.com/autosysproj/ktmpc)|
 |[vision-based drl autonomous driving agent with sim2real transfer](https://arxiv.org/abs/2305.11589)|[sim2real_autonomous_vehicle](https://github.com/dailyl/sim2real_autonomous_vehicle)|
+|[probabilistic differentiable filters enable ubiquitous robot control with smartwatches](https://arxiv.org/abs/2309.06606)|[denkf](https://github.com/ir-lab/denkf)|
 |[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
 |[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
-|[cobev: elevating roadside 3d object detection with depth and height complementarity](https://arxiv.org/abs/2310.02815)|[CoBEV](https://github.com/MasterHow/CoBEV)|
 ## 2023-10-04
 |paper|code|
 |---|---|
@@ -54,6 +63,7 @@
 |[an attentional recurrent neural network for occlusion-aware proactive anomaly detection in field robot navigation](https://arxiv.org/abs/2309.16826)|[roar](https://github.com/andreschreiber/roar)|
 |[an mcts-drl based obstacle and occlusion avoidance methodology in robotic follow-ahead applications](https://arxiv.org/abs/2309.16884)|[follow-ahead-ros](https://github.com/saharleisiazar/follow-ahead-ros)|
 |[pong: probabilistic object normals for grasping via analytic bounds on force closure probability](https://arxiv.org/abs/2309.16930)|[pong](https://github.com/alberthli/pong)|
+|[robust asynchronous collaborative 3d detection via bird's eye view flow](https://arxiv.org/abs/2309.16940)|[CoBEVFlow](https://github.com/SizheWei/CoBEVFlow)|
 |[simultaneous synchronization and calibration for wide-baseline stereo event cameras](https://arxiv.org/abs/2309.16990)|[ssac](https://github.com/forrest1901/ssac)|
 |[comsd: balancing behavioral quality and diversity in unsupervised skill discovery](https://arxiv.org/abs/2309.17203)|[comsd](https://github.com/liuxin0824/comsd)|
 ## 2023-09-29
