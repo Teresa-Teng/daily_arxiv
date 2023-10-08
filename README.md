@@ -16,18 +16,25 @@
 |[probabilistic differentiable filters enable ubiquitous robot control with smartwatches](https://arxiv.org/abs/2309.06606)|[denkf](https://github.com/ir-lab/denkf)|
 |[learning adaptive safety for multi-agent systems](https://arxiv.org/abs/2309.10657)|[learning_adaptive_safety](https://github.com/luigiberducci/learning_adaptive_safety)|
 |[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
+|[a 3d mixed reality interface for human-robot teaming](https://arxiv.org/abs/2310.02392)|[hololens_ros](https://github.com/cvg/hololens_ros)|
+|[tightly joining positioning and control for trustworthy unmanned aerial vehicles based on factor graph optimization in urban transportation](https://arxiv.org/abs/2310.02542)|[ipn_mpc](https://github.com/roboticspolyu/ipn_mpc)|
+|[adaptive spatio-temporal voxels based trajectory planning for autonomous driving in highway traffic flow](https://arxiv.org/abs/2310.02625)|[traffic_flow_trajectory_planning](https://github.com/flztiii/traffic_flow_trajectory_planning)|
+|[long-term dynamic window approach for kinodynamic local planning in static and crowd environments](https://arxiv.org/abs/2310.02648)|[lt_dwa](https://github.com/flztiii/lt_dwa)|
 ## 2023-10-04
 |paper|code|
 |---|---|
 |[maximum likelihood based phase-retrieval using fresnel propagation forward models with optional constraints](https://arxiv.org/abs/2305.00334)|[phasetorch](https://github.com/phasetorch/phasetorch)|
 |[rcs-yolo: a fast and high-accuracy object detector for brain tumor detection](https://arxiv.org/abs/2307.16412)|[rcs-yolo](https://github.com/mkang315/rcs-yolo)|
 |[multi-static isac in cell-free massive mimo: precoder design and privacy assessment](https://arxiv.org/abs/2309.13368)|[globecom2023](https://github.com/isabella-gomes/globecom2023)|
+|[adamap: high-scalable real-time cooperative perception at the edge](https://arxiv.org/abs/2309.13526)|[atlas](https://github.com/int-unl/atlas)|
 |[differentially encoded observation spaces for perceptive reinforcement learning](https://arxiv.org/abs/2310.01767)|[diffcompressdrl](https://github.com/a2r-lab/diffcompressdrl)|
 |[mini-behavior: a procedurally generated benchmark for long-horizon decision-making in embodied ai](https://arxiv.org/abs/2310.01824)|[mini_behavior](https://github.com/stanfordvl/mini_behavior)|
 |[learning and reusing primitive behaviours to improve hindsight experience replay sample efficiency](https://arxiv.org/abs/2310.01827)|[qmp-her](https://github.com/franroldans/qmp-her)|
+|[automatic data processing for space robotics machine learning](https://arxiv.org/abs/2310.01932)|[automatic-data-processing-for-space-robotics-machine-learning](https://github.com/umfieldrobotics/automatic-data-processing-for-space-robotics-machine-learning)|
 |[driving with llms: fusing object-level vector modality for explainable autonomous driving](https://arxiv.org/abs/2310.01957)|[driving-with-llms](https://github.com/wayveai/driving-with-llms)|
 |[video transformers under occlusion: how physics and background attributes impact large models for robotic manipulation](https://arxiv.org/abs/2310.02044)|[occlumanip](https://github.com/shutongjin/occlumanip)|
 |[towards end-to-end embodied decision making via multi-modal large language model: explorations with gpt4-vision and beyond](https://arxiv.org/abs/2310.02071)|[pca-eval](https://github.com/pkunlp-icler/pca-eval)|
+|[treescope: an agricultural robotics dataset for lidar-based mapping of trees in forests and orchards](https://arxiv.org/abs/2310.02162)|[treescope](https://github.com/kumarrobotics/treescope)|
 ## 2023-10-03
 |paper|code|
 |---|---|
@@ -43,10 +50,18 @@
 |[asynchronous spatial allocation protocol for trajectory planning of heterogeneous multi-agent systems](https://arxiv.org/abs/2309.07431)|[asap](https://github.com/cydxyyj/asap)|
 |[grace: optimizing grasps to satisfy ranked criteria in complex scenarios](https://arxiv.org/abs/2309.08887)|[grace](https://github.com/clear-nus/grace)|
 |[towards robust robot 3d perception in urban environments: the ut campus object dataset](https://arxiv.org/abs/2309.13549)|[coda-models](https://github.com/ut-amrl/coda-models)|
+|[peace: prompt engineering automation for clipseg enhancement in aerial robotics](https://arxiv.org/abs/2310.00085)|[PEACE](https://github.com/MISTLab/PEACE)|
+|[consor: a context-aware semantic object rearrangement framework for partially arranged scenes](https://arxiv.org/abs/2310.00371)|[consor](https://github.com/kartikvrama/consor)|
+|[how many views are needed to reconstruct an unknown object using nerf?](https://arxiv.org/abs/2310.00684)|[nerf-prv](https://github.com/psc0628/nerf-prv)|
+|[active implicit reconstruction using one-shot view planning](https://arxiv.org/abs/2310.00685)|[air-osvp](https://github.com/psc0628/air-osvp)|
+|[uncertainty-aware hybrid paradigm of nonlinear mpc and model-based rl for offroad navigation: exploration of transformers in the predictive model](https://arxiv.org/abs/2310.00760)|[offroad_autonomous_navigation](https://github.com/farazlotfi/offroad_autonomous_navigation)|
+|[object manipulation through contact configuration regulation: multiple and intermittent contacts](https://arxiv.org/abs/2310.00798)|[pbal](https://github.com/mcubelab/pbal)|
 |[pc-nerf: parent-child neural radiance fields under partial sensor data loss in autonomous driving environments](https://arxiv.org/abs/2310.00874)|[pc-nerf](https://github.com/biter0088/pc-nerf)|
 |[grid: a platform for general robot intelligence development](https://arxiv.org/abs/2310.00887)|[grid-playground](https://github.com/scaledfoundations/grid-playground)|
+|[dynamic manipulation of a deformable linear object: simulation and learning](https://arxiv.org/abs/2310.00911)|[der_mujoco](https://github.com/qj25/der_mujoco)|
 |[gensim: generating robotic simulation tasks via large language models](https://arxiv.org/abs/2310.01361)|[gensim](https://github.com/liruiw/gensim)|
 |[fleet policy learning via weight merging and an application to robotic tool-use](https://arxiv.org/abs/2310.01362)|[fleet-tools](https://github.com/liruiw/fleet-tools)|
+|[east: environment aware safe tracking using planning and control co-design](https://arxiv.org/abs/2310.01363)|[erl_east](https://github.com/zhl355/erl_east)|
 ## 2023-10-02
 |paper|code|
 |---|---|
