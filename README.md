@@ -20,6 +20,7 @@
 |[tightly joining positioning and control for trustworthy unmanned aerial vehicles based on factor graph optimization in urban transportation](https://arxiv.org/abs/2310.02542)|[ipn_mpc](https://github.com/roboticspolyu/ipn_mpc)|
 |[adaptive spatio-temporal voxels based trajectory planning for autonomous driving in highway traffic flow](https://arxiv.org/abs/2310.02625)|[traffic_flow_trajectory_planning](https://github.com/flztiii/traffic_flow_trajectory_planning)|
 |[long-term dynamic window approach for kinodynamic local planning in static and crowd environments](https://arxiv.org/abs/2310.02648)|[lt_dwa](https://github.com/flztiii/lt_dwa)|
+|[cobev: elevating roadside 3d object detection with depth and height complementarity](https://arxiv.org/abs/2310.02815)|[CoBEV](https://github.com/MasterHow/CoBEV)|
 ## 2023-10-04
 |paper|code|
 |---|---|
@@ -50,7 +51,9 @@
 |[asynchronous spatial allocation protocol for trajectory planning of heterogeneous multi-agent systems](https://arxiv.org/abs/2309.07431)|[asap](https://github.com/cydxyyj/asap)|
 |[grace: optimizing grasps to satisfy ranked criteria in complex scenarios](https://arxiv.org/abs/2309.08887)|[grace](https://github.com/clear-nus/grace)|
 |[towards robust robot 3d perception in urban environments: the ut campus object dataset](https://arxiv.org/abs/2309.13549)|[coda-models](https://github.com/ut-amrl/coda-models)|
+|[pid optimization using lagrangian mechanics](https://arxiv.org/abs/2310.00016)|[pid](https://github.com/bubblybingbong/pid)|
 |[peace: prompt engineering automation for clipseg enhancement in aerial robotics](https://arxiv.org/abs/2310.00085)|[PEACE](https://github.com/MISTLab/PEACE)|
+|[cook2ltl: translating cooking recipes to ltl formulae using large language models](https://arxiv.org/abs/2310.00163)|[cook2ltl-translating-cooking-recipes-to-primitive-ltl-action-formulae](https://github.com/angmavrogiannis/cook2ltl-translating-cooking-recipes-to-primitive-ltl-action-formulae)|
 |[consor: a context-aware semantic object rearrangement framework for partially arranged scenes](https://arxiv.org/abs/2310.00371)|[consor](https://github.com/kartikvrama/consor)|
 |[how many views are needed to reconstruct an unknown object using nerf?](https://arxiv.org/abs/2310.00684)|[nerf-prv](https://github.com/psc0628/nerf-prv)|
 |[active implicit reconstruction using one-shot view planning](https://arxiv.org/abs/2310.00685)|[air-osvp](https://github.com/psc0628/air-osvp)|
@@ -59,9 +62,11 @@
 |[pc-nerf: parent-child neural radiance fields under partial sensor data loss in autonomous driving environments](https://arxiv.org/abs/2310.00874)|[pc-nerf](https://github.com/biter0088/pc-nerf)|
 |[grid: a platform for general robot intelligence development](https://arxiv.org/abs/2310.00887)|[grid-playground](https://github.com/scaledfoundations/grid-playground)|
 |[dynamic manipulation of a deformable linear object: simulation and learning](https://arxiv.org/abs/2310.00911)|[der_mujoco](https://github.com/qj25/der_mujoco)|
+|[viplanner: visual semantic imperative learning for local navigation](https://arxiv.org/abs/2310.00982)|[iplanner](https://github.com/leggedrobotics/iplanner)|
 |[gensim: generating robotic simulation tasks via large language models](https://arxiv.org/abs/2310.01361)|[gensim](https://github.com/liruiw/gensim)|
 |[fleet policy learning via weight merging and an application to robotic tool-use](https://arxiv.org/abs/2310.01362)|[fleet-tools](https://github.com/liruiw/fleet-tools)|
 |[east: environment aware safe tracking using planning and control co-design](https://arxiv.org/abs/2310.01363)|[erl_east](https://github.com/zhl355/erl_east)|
+|[h-index: visual reinforcement learning with hand-informed representations for dexterous manipulation](https://arxiv.org/abs/2310.01404)|[H-InDex](https://github.com/YanjieZe/H-InDex)|
 ## 2023-10-02
 |paper|code|
 |---|---|
