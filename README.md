@@ -6,6 +6,7 @@
 |[redmotion: motion prediction via redundancy reduction](https://arxiv.org/abs/2306.10840)|[red-motion](https://github.com/kit-mrt/red-motion)|
 |[reflect: summarizing robot experiences for failure explanation and correction](https://arxiv.org/abs/2306.15724)|[reflect](https://github.com/real-stanford/reflect)|
 |[occupancy grid mapping without ray-casting for high-resolution lidar sensors](https://arxiv.org/abs/2307.08493)|[d-map](https://github.com/hku-mars/d-map)|
+|[radarays: real-time simulation of rotating fmcw radar for mobile robotics via hardware-accelerated ray tracing](https://arxiv.org/abs/2310.03505)|[radarays_ros](https://github.com/uos/radarays_ros)|
 |[aligning text-to-image diffusion models with reward backpropagation](https://arxiv.org/abs/2310.03739)|[alignprop](https://github.com/mihirp1998/alignprop)|
 ## 2023-10-05
 |paper|code|
