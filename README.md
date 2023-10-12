@@ -1,3 +1,53 @@
+## 2023-10-11
+|paper|code|
+|---|---|
+|[tiny-ppg: a lightweight deep neural network for real-time detection of motion artifacts in photoplethysmogram signals on edge devices](https://arxiv.org/abs/2305.03308)|[tiny-ppg](https://github.com/sztu-wearable/tiny-ppg)|
+|[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blnm.jl](https://github.com/stanfordcbcl/blnm.jl)|
+|[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[mixnet: structured deep neural motion prediction for autonomous racing](https://arxiv.org/abs/2208.01862)|[mixnet](https://github.com/tumftm/mixnet)|
+|[robust mader: decentralized multiagent trajectory planner robust to communication delay in dynamic environments](https://arxiv.org/abs/2303.06222)|[rmader](https://github.com/mit-acl/rmader)|
+|[sample efficient model-free reinforcement learning from ltl specifications with optimality guarantees](https://arxiv.org/abs/2305.01381)|[rl-from-ltl](https://github.com/shaodaqian/rl-from-ltl)|
+|[motionbev: attention-aware online lidar moving object segmentation with bird's eye view based appearance and motion features](https://arxiv.org/abs/2305.07336)|[motionbev](https://github.com/xiekkki/motionbev)|
+|[efficient reinforcement learning for jumping monopods](https://arxiv.org/abs/2309.07038)|[jump_rl](https://github.com/mfocchi/jump_rl)|
+|[3ds-slam: a 3d object detection based semantic slam towards dynamic indoor environments](https://arxiv.org/abs/2310.06385)|[3DS-SLAM](https://github.com/sai-krishna-ghanta/3DS-SLAM)|
+|[v2x-ahd:vehicle-to-everything cooperation perception via asymmetric heterogenous distillation network](https://arxiv.org/abs/2310.06603)|[V2X-AHD](https://github.com/feeling0414-lab/V2X-AHD)|
+|[efficient graduated non-convexity for pose graph optimization](https://arxiv.org/abs/2310.06765)|[EGNC-PGO](https://github.com/SNU-DLLAB/EGNC-PGO)|
+## 2023-10-10
+|paper|code|
+|---|---|
+|[neural vocoder is all you need for speech super-resolution](https://arxiv.org/abs/2203.14941)|[ssr_eval](https://github.com/haoheliu/ssr_eval)|
+|[voicefixer: a unified framework for high-fidelity speech restoration](https://arxiv.org/abs/2204.05841)|[voicefixer](https://github.com/haoheliu/voicefixer)|
+|[distributed deep joint source-channel coding over a multiple access channel](https://arxiv.org/abs/2211.09920)|[deepjscc-noma](https://github.com/ipc-lab/deepjscc-noma)|
+|[ontology-aware learning and evaluation for audio tagging](https://arxiv.org/abs/2211.12195)|[ontology-aware-audio-tagging](https://github.com/haoheliu/ontology-aware-audio-tagging)|
+|[the first cadenza signal processing challenge: improving music for those with a hearing loss](https://arxiv.org/abs/2310.05799)|[task1](https://github.com/claritychallenge/clarity/tree/main/recipes/cad1/task1)|
+|[online multi camera-imu calibration](https://arxiv.org/abs/2209.13821)|[multi-cam-imu-cal](https://github.com/unmannedlab/multi-cam-imu-cal)|
+|[dmap: a distributed morphological attention policy for learning to locomote with a changing body](https://arxiv.org/abs/2209.14218)|[dmap](https://github.com/amathislab/dmap)|
+|[hierarchical generative adversarial imitation learning with mid-level input generation for autonomous driving on urban environments](https://arxiv.org/abs/2302.04823)|[hgail](https://github.com/gustavokcouto/hgail)|
+|[differentiable compliant contact primitives for estimation and model predictive control](https://arxiv.org/abs/2303.17476)|[full-state-estimator](https://github.com/khaninger/full-state-estimator)|
+|[uniscene: multi-camera unified pre-training via 3d scene reconstruction](https://arxiv.org/abs/2305.18829)|[uniscene](https://github.com/chaytonmin/uniscene)|
+|[latent exploration for reinforcement learning](https://arxiv.org/abs/2305.20065)|[lattice](https://github.com/amathislab/lattice)|
+|[stackelberg driver model for continual policy improvement in scenario-based closed-loop autonomous driving](https://arxiv.org/abs/2309.14235)|[SDM](https://github.com/BlueCat-de/SDM)|
+|[asynchrony-robust collaborative perception via bird's eye view flow](https://arxiv.org/abs/2309.16940)|[CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow)|
+|[grid: a platform for general robot intelligence development](https://arxiv.org/abs/2310.00887)|[grid-playground](https://github.com/scaledfoundations/grid-playground)|
+|[deep model predictive optimization](https://arxiv.org/abs/2310.04590)|[dmpo](https://github.com/jisacks/dmpo)|
+|[surgical gym: a high-performance gpu-based platform for reinforcement learning with surgical robots](https://arxiv.org/abs/2310.04676)|[surgicalgym](https://github.com/samuelschmidgall/surgicalgym)|
+|[deepqtest: testing autonomous driving systems with reinforcement learning and real-world weather data](https://arxiv.org/abs/2310.05170)|[deepqtest](https://github.com/simula-complex/deepqtest)|
+|[care3d: an active 3d object detection dataset of real robotic-care environments](https://arxiv.org/abs/2310.05600)|[care3d](https://github.com/m-g-a/care3d)|
+## 2023-10-09
+|paper|code|
+|---|---|
+|[link scheduling using graph neural networks](https://arxiv.org/abs/2109.05536)|[distgcn](https://github.com/zhongyuanzhao/distgcn)|
+|[a comprehensive indoor environment dataset from single-family houses in the us](https://arxiv.org/abs/2310.03771)|[bdl_data_1](https://github.com/anik801/bdl_data_1)|
+|[eda: explicit text-decoupling and dense alignment for 3d visual grounding](https://arxiv.org/abs/2209.14941)|[eda](https://github.com/yanmin-wu/eda)|
+|[cvtnet: a cross-view transformer network for place recognition using lidar data](https://arxiv.org/abs/2302.01665)|[cvtnet](https://github.com/bit-mjy/cvtnet)|
+|[integrating action knowledge and llms for task planning and situation handling in open worlds](https://arxiv.org/abs/2305.17590)|[GPT-Planner](https://github.com/yding25/GPT-Planner)|
+|[doppler-only single-scan 3d vehicle odometry](https://arxiv.org/abs/2310.04113)|[doppler_odometry](https://github.com/andresgalu/doppler_odometry)|
+|[light-loam: a lightweight lidar odometry and mapping based on graph-matching](https://arxiv.org/abs/2310.04162)|[light-loam](https://github.com/brenyi/light-loam)|
+|[towards 6d mcl for lidars in 3d tsdf maps on embedded systems with gpus](https://arxiv.org/abs/2310.04172)|[tsdf_localization](https://github.com/uos/tsdf_localization)|
+|[drift: deep reinforcement learning for intelligent floating platforms trajectories](https://arxiv.org/abs/2310.04266)|[rans](https://github.com/elharirymatteo/rans)|
+|[a dataset of anatomical environments for medical robots: modeling respiratory deformation](https://arxiv.org/abs/2310.04289)|[med-rad](https://github.com/unc-robotics/med-rad)|
+|[learning to grasp: from somewhere to anywhere](https://arxiv.org/abs/2310.04349)|[qd_grasp](https://github.com/Johann-Huber/qd_grasp)|
 ## 2023-10-06
 |paper|code|
 |---|---|
