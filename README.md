@@ -1,18 +1,32 @@
+## 2023-10-12
+|paper|code|
+|---|---|
+|[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
+|[ecg-qa: a comprehensive question answering dataset combined with electrocardiogram](https://arxiv.org/abs/2306.15681)|[ecg-qa](https://github.com/jwoo5/ecg-qa)|
+|[uncovering ecg changes during healthy aging using explainable ai](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
+|[game-theoretic objective space planning](https://arxiv.org/abs/2209.07758)|[objective_space_cfr](https://github.com/hzheng40/objective_space_cfr)|
+|[chat with the environment: interactive multimodal perception using large language models](https://arxiv.org/abs/2303.08268)|[Matcha-agent](https://github.com/xf-zhao/Matcha-agent)|
+|[tidybot: personalized robot assistance with large language models](https://arxiv.org/abs/2305.05658)|[tidybot](https://github.com/jimmyyhwu/tidybot)|
+|[singularity distance computations for 3-rpr manipulators using intrinsic metrics](https://arxiv.org/abs/2307.14721)|[Intrinsic-metrics](https://github.com/aditya-kapilavai/Intrinsic-metrics)|
+|[video transformers under occlusion: how physics and background attributes impact large models for robotic manipulation](https://arxiv.org/abs/2310.02044)|[occlumanip](https://github.com/shutongjin/occlumanip)|
 ## 2023-10-11
 |paper|code|
 |---|---|
 |[tiny-ppg: a lightweight deep neural network for real-time detection of motion artifacts in photoplethysmogram signals on edge devices](https://arxiv.org/abs/2305.03308)|[tiny-ppg](https://github.com/sztu-wearable/tiny-ppg)|
 |[branched latent neural maps](https://arxiv.org/abs/2308.02599)|[blnm.jl](https://github.com/stanfordcbcl/blnm.jl)|
+|[isac 4d imaging system based on 5g downlink millimeter wave signal](https://arxiv.org/abs/2310.06401)|[ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|
 |[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
 |[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
 |[mixnet: structured deep neural motion prediction for autonomous racing](https://arxiv.org/abs/2208.01862)|[mixnet](https://github.com/tumftm/mixnet)|
+|[flexible attention-based multi-policy fusion for efficient deep reinforcement learning](https://arxiv.org/abs/2210.03729)|[kgrl](https://github.com/pascalson/kgrl)|
 |[robust mader: decentralized multiagent trajectory planner robust to communication delay in dynamic environments](https://arxiv.org/abs/2303.06222)|[rmader](https://github.com/mit-acl/rmader)|
 |[sample efficient model-free reinforcement learning from ltl specifications with optimality guarantees](https://arxiv.org/abs/2305.01381)|[rl-from-ltl](https://github.com/shaodaqian/rl-from-ltl)|
 |[motionbev: attention-aware online lidar moving object segmentation with bird's eye view based appearance and motion features](https://arxiv.org/abs/2305.07336)|[motionbev](https://github.com/xiekkki/motionbev)|
+|[towards efficient mppi trajectory generation with unscented guidance: u-mppi control strategy](https://arxiv.org/abs/2306.12369)|[u-mppi](https://github.com/ihabmohamed/u-mppi)|
 |[efficient reinforcement learning for jumping monopods](https://arxiv.org/abs/2309.07038)|[jump_rl](https://github.com/mfocchi/jump_rl)|
-|[3ds-slam: a 3d object detection based semantic slam towards dynamic indoor environments](https://arxiv.org/abs/2310.06385)|[3DS-SLAM](https://github.com/sai-krishna-ghanta/3DS-SLAM)|
 |[v2x-ahd:vehicle-to-everything cooperation perception via asymmetric heterogenous distillation network](https://arxiv.org/abs/2310.06603)|[V2X-AHD](https://github.com/feeling0414-lab/V2X-AHD)|
 |[efficient graduated non-convexity for pose graph optimization](https://arxiv.org/abs/2310.06765)|[EGNC-PGO](https://github.com/SNU-DLLAB/EGNC-PGO)|
+|[robohive: a unified framework for robot learning](https://arxiv.org/abs/2310.06828)|[robohive](https://github.com/vikashplus/robohive)|
 ## 2023-10-10
 |paper|code|
 |---|---|
@@ -30,9 +44,12 @@
 |[stackelberg driver model for continual policy improvement in scenario-based closed-loop autonomous driving](https://arxiv.org/abs/2309.14235)|[SDM](https://github.com/BlueCat-de/SDM)|
 |[asynchrony-robust collaborative perception via bird's eye view flow](https://arxiv.org/abs/2309.16940)|[CoBEVFlow](https://github.com/MediaBrain-SJTU/CoBEVFlow)|
 |[grid: a platform for general robot intelligence development](https://arxiv.org/abs/2310.00887)|[grid-playground](https://github.com/scaledfoundations/grid-playground)|
+|[extended kalman filter state estimation for autonomous competition robots](https://arxiv.org/abs/2310.04459)|[ekf](https://github.com/bubblybingbong/ekf)|
 |[deep model predictive optimization](https://arxiv.org/abs/2310.04590)|[dmpo](https://github.com/jisacks/dmpo)|
 |[surgical gym: a high-performance gpu-based platform for reinforcement learning with surgical robots](https://arxiv.org/abs/2310.04676)|[surgicalgym](https://github.com/samuelschmidgall/surgicalgym)|
 |[deepqtest: testing autonomous driving systems with reinforcement learning and real-world weather data](https://arxiv.org/abs/2310.05170)|[deepqtest](https://github.com/simula-complex/deepqtest)|
+|[influence of camera-lidar configuration on 3d object detection for autonomous driving](https://arxiv.org/abs/2310.05245)|[lidar-camera-placement](https://github.com/safeai-lab/lidar-camera-placement)|
+|[colmap-pcd: an open-source tool for fine image-to-point cloud registration](https://arxiv.org/abs/2310.05504)|[colmap-pcd](https://github.com/xiaobaiiiiii/colmap-pcd)|
 |[care3d: an active 3d object detection dataset of real robotic-care environments](https://arxiv.org/abs/2310.05600)|[care3d](https://github.com/m-g-a/care3d)|
 ## 2023-10-09
 |paper|code|
