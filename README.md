@@ -1,14 +1,25 @@
+## 2023-10-13
+|paper|code|
+|---|---|
+|[semantic-forward relaying: a novel framework towards 6g cooperative communications](https://arxiv.org/abs/2310.07987)|[Semantic_Forward](https://github.com/linwest/Semantic_Forward)|
+|[lf-vislam: a slam framework for large field-of-view cameras with negative imaging plane on mobile agents](https://arxiv.org/abs/2209.05167)|[lf-slam](https://github.com/flysoaryun/lf-slam)|
+|[grade: generating realistic animated dynamic environments for robotics research](https://arxiv.org/abs/2303.04466)|[GRADE-RR](https://github.com/eliabntt/GRADE-RR)|
+|[learning-based nlos detection and uncertainty prediction of gnss observations with transformer-enhanced lstm network](https://arxiv.org/abs/2309.00480)|[deepnlosdetection](https://github.com/rwth-irt/deepnlosdetection)|
+|[offline retraining for online rl: decoupled policy learning to mitigate exploration bias](https://arxiv.org/abs/2310.08558)|[OOO](https://github.com/MaxSobolMark/OOO)|
 ## 2023-10-12
 |paper|code|
 |---|---|
 |[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
 |[ecg-qa: a comprehensive question answering dataset combined with electrocardiogram](https://arxiv.org/abs/2306.15681)|[ecg-qa](https://github.com/jwoo5/ecg-qa)|
+|[reconfigurable intelligent surfaces-enabled intra-cell pilot reuse in massive mimo systems](https://arxiv.org/abs/2310.06975)|[ris-pilot-reuse](https://github.com/josecarlos-marinello/ris-pilot-reuse)|
+|[brain age revisited: investigating the state vs. trait hypotheses of eeg-derived brain-age dynamics with deep learning](https://arxiv.org/abs/2310.07029)|[eeg-brain-age](https://github.com/gemeinl/eeg-brain-age)|
 |[uncovering ecg changes during healthy aging using explainable ai](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
 |[game-theoretic objective space planning](https://arxiv.org/abs/2209.07758)|[objective_space_cfr](https://github.com/hzheng40/objective_space_cfr)|
 |[chat with the environment: interactive multimodal perception using large language models](https://arxiv.org/abs/2303.08268)|[Matcha-agent](https://github.com/xf-zhao/Matcha-agent)|
 |[tidybot: personalized robot assistance with large language models](https://arxiv.org/abs/2305.05658)|[tidybot](https://github.com/jimmyyhwu/tidybot)|
 |[singularity distance computations for 3-rpr manipulators using intrinsic metrics](https://arxiv.org/abs/2307.14721)|[Intrinsic-metrics](https://github.com/aditya-kapilavai/Intrinsic-metrics)|
 |[video transformers under occlusion: how physics and background attributes impact large models for robotic manipulation](https://arxiv.org/abs/2310.02044)|[occlumanip](https://github.com/shutongjin/occlumanip)|
+|[efficient path planning in large unknown environments with switchable system models for automated vehicles](https://arxiv.org/abs/2310.06974)|[guided-extended-hybrid-astar](https://github.com/oliver-schumann/guided-extended-hybrid-astar)|
 ## 2023-10-11
 |paper|code|
 |---|---|
