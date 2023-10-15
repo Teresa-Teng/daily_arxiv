@@ -2,10 +2,12 @@
 |paper|code|
 |---|---|
 |[semantic-forward relaying: a novel framework towards 6g cooperative communications](https://arxiv.org/abs/2310.07987)|[Semantic_Forward](https://github.com/linwest/Semantic_Forward)|
-|[lf-vislam: a slam framework for large field-of-view cameras with negative imaging plane on mobile agents](https://arxiv.org/abs/2209.05167)|[lf-slam](https://github.com/flysoaryun/lf-slam)|
+|[lf-vislam: a slam framework for large field-of-view cameras with negative imaging plane on mobile agents](https://arxiv.org/abs/2209.05167)|[lf-vislam](https://github.com/flysoaryun/lf-vislam)|
 |[grade: generating realistic animated dynamic environments for robotics research](https://arxiv.org/abs/2303.04466)|[GRADE-RR](https://github.com/eliabntt/GRADE-RR)|
+|[joint metrics matter: a better standard for trajectory forecasting](https://arxiv.org/abs/2305.06292)|[joint-metrics-matter](https://github.com/ericaweng/joint-metrics-matter)|
 |[learning-based nlos detection and uncertainty prediction of gnss observations with transformer-enhanced lstm network](https://arxiv.org/abs/2309.00480)|[deepnlosdetection](https://github.com/rwth-irt/deepnlosdetection)|
 |[offline retraining for online rl: decoupled policy learning to mitigate exploration bias](https://arxiv.org/abs/2310.08558)|[OOO](https://github.com/MaxSobolMark/OOO)|
+|[octopus: embodied vision-language programmer from environmental feedback](https://arxiv.org/abs/2310.08588)|[octopus](https://github.com/dongyh20/octopus)|
 ## 2023-10-12
 |paper|code|
 |---|---|
