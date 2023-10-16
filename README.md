@@ -36,7 +36,6 @@
 |[sample efficient model-free reinforcement learning from ltl specifications with optimality guarantees](https://arxiv.org/abs/2305.01381)|[rl-from-ltl](https://github.com/shaodaqian/rl-from-ltl)|
 |[motionbev: attention-aware online lidar moving object segmentation with bird's eye view based appearance and motion features](https://arxiv.org/abs/2305.07336)|[motionbev](https://github.com/xiekkki/motionbev)|
 |[towards efficient mppi trajectory generation with unscented guidance: u-mppi control strategy](https://arxiv.org/abs/2306.12369)|[u-mppi](https://github.com/ihabmohamed/u-mppi)|
-|[efficient reinforcement learning for jumping monopods](https://arxiv.org/abs/2309.07038)|[jump_rl](https://github.com/mfocchi/jump_rl)|
 |[v2x-ahd:vehicle-to-everything cooperation perception via asymmetric heterogenous distillation network](https://arxiv.org/abs/2310.06603)|[V2X-AHD](https://github.com/feeling0414-lab/V2X-AHD)|
 |[efficient graduated non-convexity for pose graph optimization](https://arxiv.org/abs/2310.06765)|[EGNC-PGO](https://github.com/SNU-DLLAB/EGNC-PGO)|
 |[robohive: a unified framework for robot learning](https://arxiv.org/abs/2310.06828)|[robohive](https://github.com/vikashplus/robohive)|
