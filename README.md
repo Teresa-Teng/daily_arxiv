@@ -1,3 +1,15 @@
+## 2023-10-16
+|paper|code|
+|---|---|
+|[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
+|[zson: zero-shot object-goal navigation using multimodal goal embeddings](https://arxiv.org/abs/2206.12403)|[zson](https://github.com/gunagg/zson)|
+|[vinl: visual navigation and locomotion over obstacles](https://arxiv.org/abs/2210.14791)|[legged_gym](https://github.com/SimarKareer/legged_gym)|
+|[learning from guided play: improving exploration for adversarial imitation learning with simple auxiliary tasks](https://arxiv.org/abs/2301.00051)|[lfgp](https://github.com/utiasstars/lfgp)|
+|[constructing metric-semantic maps using floor plan priors for long-term indoor localization](https://arxiv.org/abs/2303.10959)|[simp](https://github.com/prbonn/simp)|
+|[efficient reinforcement learning for jumping monopods](https://arxiv.org/abs/2309.07038)|[jump_rl](https://github.com/mfocchi/jump_rl)|
+|[h-index: visual reinforcement learning with hand-informed representations for dexterous manipulation](https://arxiv.org/abs/2310.01404)|[H-InDex](https://github.com/YanjieZe/H-InDex)|
+|[a framework for few-shot policy transfer through observation mapping and behavior cloning](https://arxiv.org/abs/2310.08836)|[few-shot-policy-transfer](https://github.com/shukla-yash/few-shot-policy-transfer)|
+|[metra: scalable unsupervised rl with metric-aware abstraction](https://arxiv.org/abs/2310.08887)|[metra](https://github.com/seohongpark/metra)|
 ## 2023-10-13
 |paper|code|
 |---|---|
@@ -22,6 +34,7 @@
 |[singularity distance computations for 3-rpr manipulators using intrinsic metrics](https://arxiv.org/abs/2307.14721)|[Intrinsic-metrics](https://github.com/aditya-kapilavai/Intrinsic-metrics)|
 |[video transformers under occlusion: how physics and background attributes impact large models for robotic manipulation](https://arxiv.org/abs/2310.02044)|[occlumanip](https://github.com/shutongjin/occlumanip)|
 |[efficient path planning in large unknown environments with switchable system models for automated vehicles](https://arxiv.org/abs/2310.06974)|[guided-extended-hybrid-astar](https://github.com/oliver-schumann/guided-extended-hybrid-astar)|
+|[rans: highly-parallelised simulator for reinforcement learning based autonomous navigating spacecrafts](https://arxiv.org/abs/2310.07393)|[rans](https://github.com/elharirymatteo/rans)|
 ## 2023-10-11
 |paper|code|
 |---|---|
