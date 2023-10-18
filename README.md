@@ -1,3 +1,20 @@
+## 2023-10-17
+|paper|code|
+|---|---|
+|[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[stochastic occupancy grid map prediction in dynamic scenes](https://arxiv.org/abs/2210.08577)|[SOGMP](https://github.com/TempleRAIL/SOGMP)|
+|[optimal control for quadruped locomotion using ltv mpc](https://arxiv.org/abs/2212.05154)|[quad_convexmpc](https://github.com/andrewzheng-1011/quad_convexmpc)|
+|[audio-based roughness sensing and tactile feedback for haptic perception in telepresence](https://arxiv.org/abs/2303.07186)|[roughness_sensing](https://github.com/ais-bonn/roughness_sensing)|
+|[se(3) koopman-mpc: data-driven learning and control of quadrotor uavs](https://arxiv.org/abs/2305.03868)|[koopmanmpc_quadrotor](https://github.com/sriram-2502/koopmanmpc_quadrotor)|
+|[safe navigation using density functions](https://arxiv.org/abs/2306.15830)|[density_feedback_control](https://github.com/clemson-dira/density_feedback_control)|
+|[posynda: multi-hypothesis pose synthesis domain adaptation for robust 3d human pose estimation](https://arxiv.org/abs/2308.09678)|[posynda](https://github.com/hbing-l/posynda)|
+|[driving with llms: fusing object-level vector modality for explainable autonomous driving](https://arxiv.org/abs/2310.01957)|[driving-with-llms](https://github.com/wayveai/driving-with-llms)|
+|[towards end-to-end embodied decision making via multi-modal large language model: explorations with gpt4-vision and beyond](https://arxiv.org/abs/2310.02071)|[pca-eval](https://github.com/pkunlp-icler/pca-eval)|
+|[energy-aware ergodic search: continuous exploration for multi-agent systems with battery constraints](https://arxiv.org/abs/2310.09470)|[enerergo](https://github.com/adamseew/enerergo)|
+|[robollm: robotic vision tasks grounded on multimodal large language models](https://arxiv.org/abs/2310.10221)|[armbench](https://github.com/longkukuhi/armbench)|
+|[multi-body neural scene flow](https://arxiv.org/abs/2310.10301)|[MBNSF](https://github.com/kavisha725/MBNSF)|
+|[learning visual-based deformable object rearrangement with local graph neural networks](https://arxiv.org/abs/2310.10307)|[deformable-gnn](https://github.com/dengyh16code/deformable-gnn)|
+|[bioplanner: automatic evaluation of llms on protocol planning in biology](https://arxiv.org/abs/2310.10632)|[bioplanner](https://github.com/bioplanner/bioplanner)|
 ## 2023-10-16
 |paper|code|
 |---|---|
