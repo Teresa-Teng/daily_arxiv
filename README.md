@@ -1,3 +1,15 @@
+## 2023-10-18
+|paper|code|
+|---|---|
+|[removing structured noise with diffusion models](https://arxiv.org/abs/2302.05290)|[joint-diffusion](https://github.com/tristan-deep/joint-diffusion)|
+|[dido: deep inertial quadrotor dynamical odometry](https://arxiv.org/abs/2203.03149)|[dido](https://github.com/zhangkunyi/dido)|
+|[tuning legged locomotion controllers via safe bayesian optimization](https://arxiv.org/abs/2306.07092)|[gosafeopt](https://github.com/lasgroup/gosafeopt)|
+|[reflect: summarizing robot experiences for failure explanation and correction](https://arxiv.org/abs/2306.15724)|[reflect](https://github.com/real-stanford/reflect)|
+|[grid cell-inspired fragmentation and recall for efficient map building](https://arxiv.org/abs/2307.05793)|[farmap](https://github.com/fietelab/farmap)|
+|[towards a modular architecture for science factories](https://arxiv.org/abs/2308.09793)|[rpl_wei](https://github.com/ad-sdl/rpl_wei)|
+|[gpt-driver: learning to drive with gpt](https://arxiv.org/abs/2310.01415)|[gpt-driver](https://github.com/pointscoder/gpt-driver)|
+|[extended kalman filter state estimation for autonomous competition robots](https://arxiv.org/abs/2310.04459)|[ekf](https://github.com/bubblybingbong/ekf)|
+|[open-structure: a structural benchmark dataset for slam algorithms](https://arxiv.org/abs/2310.10931)|[open-structure](https://github.com/yanyan-li/open-structure)|
 ## 2023-10-17
 |paper|code|
 |---|---|
@@ -6,10 +18,12 @@
 |[optimal control for quadruped locomotion using ltv mpc](https://arxiv.org/abs/2212.05154)|[quad_convexmpc](https://github.com/andrewzheng-1011/quad_convexmpc)|
 |[audio-based roughness sensing and tactile feedback for haptic perception in telepresence](https://arxiv.org/abs/2303.07186)|[roughness_sensing](https://github.com/ais-bonn/roughness_sensing)|
 |[se(3) koopman-mpc: data-driven learning and control of quadrotor uavs](https://arxiv.org/abs/2305.03868)|[koopmanmpc_quadrotor](https://github.com/sriram-2502/koopmanmpc_quadrotor)|
+|[keep it upright: model predictive control for nonprehensile object transportation with obstacle avoidance on a mobile manipulator](https://arxiv.org/abs/2305.17484)|[upright](https://github.com/utiasdsl/upright)|
 |[safe navigation using density functions](https://arxiv.org/abs/2306.15830)|[density_feedback_control](https://github.com/clemson-dira/density_feedback_control)|
 |[posynda: multi-hypothesis pose synthesis domain adaptation for robust 3d human pose estimation](https://arxiv.org/abs/2308.09678)|[posynda](https://github.com/hbing-l/posynda)|
 |[driving with llms: fusing object-level vector modality for explainable autonomous driving](https://arxiv.org/abs/2310.01957)|[driving-with-llms](https://github.com/wayveai/driving-with-llms)|
 |[towards end-to-end embodied decision making via multi-modal large language model: explorations with gpt4-vision and beyond](https://arxiv.org/abs/2310.02071)|[pca-eval](https://github.com/pkunlp-icler/pca-eval)|
+|[learning agile locomotion and adaptive behaviors via rl-augmented mpc](https://arxiv.org/abs/2310.09442)|[rl_augmented_mpc](https://github.com/drcl-usc/rl_augmented_mpc)|
 |[energy-aware ergodic search: continuous exploration for multi-agent systems with battery constraints](https://arxiv.org/abs/2310.09470)|[enerergo](https://github.com/adamseew/enerergo)|
 |[robollm: robotic vision tasks grounded on multimodal large language models](https://arxiv.org/abs/2310.10221)|[armbench](https://github.com/longkukuhi/armbench)|
 |[multi-body neural scene flow](https://arxiv.org/abs/2310.10301)|[MBNSF](https://github.com/kavisha725/MBNSF)|
@@ -22,11 +36,13 @@
 |[zson: zero-shot object-goal navigation using multimodal goal embeddings](https://arxiv.org/abs/2206.12403)|[zson](https://github.com/gunagg/zson)|
 |[vinl: visual navigation and locomotion over obstacles](https://arxiv.org/abs/2210.14791)|[legged_gym](https://github.com/SimarKareer/legged_gym)|
 |[learning from guided play: improving exploration for adversarial imitation learning with simple auxiliary tasks](https://arxiv.org/abs/2301.00051)|[lfgp](https://github.com/utiasstars/lfgp)|
+|[mimicplay: long-horizon imitation learning by watching human play](https://arxiv.org/abs/2302.12422)|[mimicplay](https://github.com/j96w/mimicplay)|
 |[constructing metric-semantic maps using floor plan priors for long-term indoor localization](https://arxiv.org/abs/2303.10959)|[simp](https://github.com/prbonn/simp)|
 |[efficient reinforcement learning for jumping monopods](https://arxiv.org/abs/2309.07038)|[jump_rl](https://github.com/mfocchi/jump_rl)|
 |[h-index: visual reinforcement learning with hand-informed representations for dexterous manipulation](https://arxiv.org/abs/2310.01404)|[H-InDex](https://github.com/YanjieZe/H-InDex)|
 |[a framework for few-shot policy transfer through observation mapping and behavior cloning](https://arxiv.org/abs/2310.08836)|[few-shot-policy-transfer](https://github.com/shukla-yash/few-shot-policy-transfer)|
 |[metra: scalable unsupervised rl with metric-aware abstraction](https://arxiv.org/abs/2310.08887)|[metra](https://github.com/seohongpark/metra)|
+|[towards robust uav tracking in gnss-denied environments: a multi-lidar multi-uav dataset](https://arxiv.org/abs/2310.09165)|[uav_multi_lidar_dataset](https://github.com/tiers/uav_multi_lidar_dataset)|
 ## 2023-10-13
 |paper|code|
 |---|---|
@@ -35,6 +51,8 @@
 |[grade: generating realistic animated dynamic environments for robotics research](https://arxiv.org/abs/2303.04466)|[GRADE-RR](https://github.com/eliabntt/GRADE-RR)|
 |[joint metrics matter: a better standard for trajectory forecasting](https://arxiv.org/abs/2305.06292)|[joint-metrics-matter](https://github.com/ericaweng/joint-metrics-matter)|
 |[learning-based nlos detection and uncertainty prediction of gnss observations with transformer-enhanced lstm network](https://arxiv.org/abs/2309.00480)|[deepnlosdetection](https://github.com/rwth-irt/deepnlosdetection)|
+|[saturation-aware angular velocity estimation: extending the robustness of slam to aggressive motions](https://arxiv.org/abs/2310.07844)|[norlab_wiki](https://github.com/norlab-ulaval/norlab_wiki)|
+|[multi-modal sensor fusion and object tracking for autonomous racing](https://arxiv.org/abs/2310.08114)|[fusiontracking](https://github.com/tumftm/fusiontracking)|
 |[offline retraining for online rl: decoupled policy learning to mitigate exploration bias](https://arxiv.org/abs/2310.08558)|[OOO](https://github.com/MaxSobolMark/OOO)|
 |[octopus: embodied vision-language programmer from environmental feedback](https://arxiv.org/abs/2310.08588)|[octopus](https://github.com/dongyh20/octopus)|
 ## 2023-10-12
