@@ -1,3 +1,11 @@
+## 2023-10-19
+|paper|code|
+|---|---|
+|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
+|[anytime, anywhere: human arm pose from smartwatch data for ubiquitous robot control and teleoperation](https://arxiv.org/abs/2306.13192)|[arm-pose-visualization](https://github.com/wearable-motion-capture/arm-pose-visualization)|
+|[cobev: elevating roadside 3d object detection with depth and height complementarity](https://arxiv.org/abs/2310.02815)|[CoBEV](https://github.com/MasterHow/CoBEV)|
+|[flymation: interactive animation for flying robots](https://arxiv.org/abs/2310.11659)|[flymation](https://github.com/uzh-rpg/flymation)|
+|[forward kinematics of object transport by a multi-robot system with deformable sheet](https://arxiv.org/abs/2310.11665)|[vvcm_forwardkinematics](https://github.com/sjtuhjw/vvcm_forwardkinematics)|
 ## 2023-10-18
 |paper|code|
 |---|---|
@@ -14,6 +22,7 @@
 |paper|code|
 |---|---|
 |[unique sparse decomposition of low rank matrices](https://arxiv.org/abs/2106.07736)|[Unique_Fac_of_Low_Rank](https://github.com/Jindiande/Unique_Fac_of_Low_Rank)|
+|[semi-supervised end-to-end learning for integrated sensing and communications](https://arxiv.org/abs/2310.09940)|[sslisac](https://github.com/josemateosramos/sslisac)|
 |[stochastic occupancy grid map prediction in dynamic scenes](https://arxiv.org/abs/2210.08577)|[SOGMP](https://github.com/TempleRAIL/SOGMP)|
 |[optimal control for quadruped locomotion using ltv mpc](https://arxiv.org/abs/2212.05154)|[quad_convexmpc](https://github.com/andrewzheng-1011/quad_convexmpc)|
 |[audio-based roughness sensing and tactile feedback for haptic perception in telepresence](https://arxiv.org/abs/2303.07186)|[roughness_sensing](https://github.com/ais-bonn/roughness_sensing)|
@@ -25,6 +34,7 @@
 |[towards end-to-end embodied decision making via multi-modal large language model: explorations with gpt4-vision and beyond](https://arxiv.org/abs/2310.02071)|[pca-eval](https://github.com/pkunlp-icler/pca-eval)|
 |[learning agile locomotion and adaptive behaviors via rl-augmented mpc](https://arxiv.org/abs/2310.09442)|[rl_augmented_mpc](https://github.com/drcl-usc/rl_augmented_mpc)|
 |[energy-aware ergodic search: continuous exploration for multi-agent systems with battery constraints](https://arxiv.org/abs/2310.09470)|[enerergo](https://github.com/adamseew/enerergo)|
+|[3d-bbs: global localization for 3d point cloud scan matching using branch-and-bound algorithm](https://arxiv.org/abs/2310.10023)|[3d_bbs](https://github.com/kokiaoki/3d_bbs)|
 |[robollm: robotic vision tasks grounded on multimodal large language models](https://arxiv.org/abs/2310.10221)|[armbench](https://github.com/longkukuhi/armbench)|
 |[multi-body neural scene flow](https://arxiv.org/abs/2310.10301)|[MBNSF](https://github.com/kavisha725/MBNSF)|
 |[learning visual-based deformable object rearrangement with local graph neural networks](https://arxiv.org/abs/2310.10307)|[deformable-gnn](https://github.com/dengyh16code/deformable-gnn)|
@@ -33,6 +43,7 @@
 |paper|code|
 |---|---|
 |[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
+|[multi-sensor multi-scan radar sensing of multiple extended targets](https://arxiv.org/abs/2310.09011)|[di-gsncp-radar-sensing](https://github.com/martin497/di-gsncp-radar-sensing)|
 |[zson: zero-shot object-goal navigation using multimodal goal embeddings](https://arxiv.org/abs/2206.12403)|[zson](https://github.com/gunagg/zson)|
 |[vinl: visual navigation and locomotion over obstacles](https://arxiv.org/abs/2210.14791)|[legged_gym](https://github.com/SimarKareer/legged_gym)|
 |[learning from guided play: improving exploration for adversarial imitation learning with simple auxiliary tasks](https://arxiv.org/abs/2301.00051)|[lfgp](https://github.com/utiasstars/lfgp)|
