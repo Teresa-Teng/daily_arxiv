@@ -1,3 +1,19 @@
+## 2023-10-20
+|paper|code|
+|---|---|
+|[semantic: semantic interference cancellation towards 6g wireless communications](https://arxiv.org/abs/2310.12768)|[SemantIC](https://github.com/linwest/SemantIC)|
+|[continuous occupancy mapping in dynamic environments using particles](https://arxiv.org/abs/2202.06273)|[dsp-map](https://github.com/g-ch/dsp-map)|
+|[ectlo: effective continuous-time odometry using range image for lidar with small fov](https://arxiv.org/abs/2206.08517)|[ectlo](https://github.com/kevin2431/ectlo)|
+|[motionbev: attention-aware online lidar moving object segmentation with bird's eye view based appearance and motion features](https://arxiv.org/abs/2305.07336)|[motionbev](https://github.com/xiekkki/motionbev)|
+|[reward learning with intractable normalizing functions](https://arxiv.org/abs/2305.09606)|[reward-learning-with-intractable-normalizers](https://github.com/vt-collab/reward-learning-with-intractable-normalizers)|
+|[navgpt: explicit reasoning in vision-and-language navigation with large language models](https://arxiv.org/abs/2305.16986)|[navgpt](https://github.com/gengzezhou/navgpt)|
+|[towards anytime optical flow estimation with event cameras](https://arxiv.org/abs/2307.05033)|[eva-flow](https://github.com/yaozhuwa/eva-flow)|
+|[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
+|[online multi-imu calibration using visual-inertial odometry](https://arxiv.org/abs/2310.12411)|[ekf-cal](https://github.com/unmannedlab/ekf-cal)|
+|[lidar panoptic segmentation and tracking without bells and whistles](https://arxiv.org/abs/2310.12464)|[most-lps](https://github.com/abhinavagarwalla/most-lps)|
+|[fully onboard low-power localization with semantic sensor fusion on a nano-uav using floor plans](https://arxiv.org/abs/2310.12536)|[nano-smcl](https://github.com/eth-pbl/nano-smcl)|
+|[multi-robot local motion planning using dynamic optimization fabrics](https://arxiv.org/abs/2310.12816)|[multi-robot-fabrics](https://github.com/tud-amr/multi-robot-fabrics)|
+|[real-time motion prediction via heterogeneous polyline transformer with relative pose encoding](https://arxiv.org/abs/2310.12970)|[hptr](https://github.com/zhejz/hptr)|
 ## 2023-10-19
 |paper|code|
 |---|---|
