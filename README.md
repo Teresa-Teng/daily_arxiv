@@ -1,6 +1,7 @@
 ## 2023-10-20
 |paper|code|
 |---|---|
+|[mutual information-based integrated sensing and communications: a wmmse framework](https://arxiv.org/abs/2310.12686)|[MI-based-WMMSE-ISAC-algorithm](https://github.com/ROCASSO/MI-based-WMMSE-ISAC-algorithm)|
 |[semantic: semantic interference cancellation towards 6g wireless communications](https://arxiv.org/abs/2310.12768)|[SemantIC](https://github.com/linwest/SemantIC)|
 |[continuous occupancy mapping in dynamic environments using particles](https://arxiv.org/abs/2202.06273)|[dsp-map](https://github.com/g-ch/dsp-map)|
 |[ectlo: effective continuous-time odometry using range image for lidar with small fov](https://arxiv.org/abs/2206.08517)|[ectlo](https://github.com/kevin2431/ectlo)|
@@ -22,6 +23,7 @@
 |[cobev: elevating roadside 3d object detection with depth and height complementarity](https://arxiv.org/abs/2310.02815)|[CoBEV](https://github.com/MasterHow/CoBEV)|
 |[flymation: interactive animation for flying robots](https://arxiv.org/abs/2310.11659)|[flymation](https://github.com/uzh-rpg/flymation)|
 |[forward kinematics of object transport by a multi-robot system with deformable sheet](https://arxiv.org/abs/2310.11665)|[vvcm_forwardkinematics](https://github.com/sjtuhjw/vvcm_forwardkinematics)|
+|[unav-sim: a visually realistic underwater robotics simulator and synthetic data-generation framework](https://arxiv.org/abs/2310.11927)|[unav-sim](https://github.com/open-airlab/unav-sim)|
 ## 2023-10-18
 |paper|code|
 |---|---|
@@ -34,6 +36,7 @@
 |[gpt-driver: learning to drive with gpt](https://arxiv.org/abs/2310.01415)|[gpt-driver](https://github.com/pointscoder/gpt-driver)|
 |[extended kalman filter state estimation for autonomous competition robots](https://arxiv.org/abs/2310.04459)|[ekf](https://github.com/bubblybingbong/ekf)|
 |[open-structure: a structural benchmark dataset for slam algorithms](https://arxiv.org/abs/2310.10931)|[open-structure](https://github.com/yanyan-li/open-structure)|
+|[lidar-based 4d occupancy completion and forecasting](https://arxiv.org/abs/2310.11239)|[occ4cast](https://github.com/ai4ce/occ4cast)|
 ## 2023-10-17
 |paper|code|
 |---|---|
