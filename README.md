@@ -14,11 +14,11 @@
 |[lidar panoptic segmentation and tracking without bells and whistles](https://arxiv.org/abs/2310.12464)|[most-lps](https://github.com/abhinavagarwalla/most-lps)|
 |[fully onboard low-power localization with semantic sensor fusion on a nano-uav using floor plans](https://arxiv.org/abs/2310.12536)|[nano-smcl](https://github.com/eth-pbl/nano-smcl)|
 |[multi-robot local motion planning using dynamic optimization fabrics](https://arxiv.org/abs/2310.12816)|[multi-robot-fabrics](https://github.com/tud-amr/multi-robot-fabrics)|
+|[eureka: human-level reward design via coding large language models](https://arxiv.org/abs/2310.12931)|[Eureka](https://github.com/eureka-research/Eureka)|
 |[real-time motion prediction via heterogeneous polyline transformer with relative pose encoding](https://arxiv.org/abs/2310.12970)|[hptr](https://github.com/zhejz/hptr)|
 ## 2023-10-19
 |paper|code|
 |---|---|
-|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
 |[anytime, anywhere: human arm pose from smartwatch data for ubiquitous robot control and teleoperation](https://arxiv.org/abs/2306.13192)|[arm-pose-visualization](https://github.com/wearable-motion-capture/arm-pose-visualization)|
 |[cobev: elevating roadside 3d object detection with depth and height complementarity](https://arxiv.org/abs/2310.02815)|[CoBEV](https://github.com/MasterHow/CoBEV)|
 |[flymation: interactive animation for flying robots](https://arxiv.org/abs/2310.11659)|[flymation](https://github.com/uzh-rpg/flymation)|
