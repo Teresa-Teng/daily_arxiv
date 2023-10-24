@@ -1,3 +1,15 @@
+## 2023-10-23
+|paper|code|
+|---|---|
+|[equivariant bootstrapping for uncertainty quantification in imaging inverse problems](https://arxiv.org/abs/2310.11838)|[equivariant_bootstrap](https://github.com/tachella/equivariant_bootstrap)|
+|[online probabilistic model identification using adaptive recursive mcmc](https://arxiv.org/abs/2210.12595)|[armcmc](https://github.com/pagand/armcmc)|
+|[learning to control and coordinate mixed traffic through robot vehicles at complex and unsignalized intersections](https://arxiv.org/abs/2301.05294)|[mixedtrafficcontrol](https://github.com/daweidavidwang/mixedtrafficcontrol)|
+|[virtual omnidirectional perception for downwash prediction within a team of nano multirotors flying in close proximity](https://arxiv.org/abs/2303.03898)|[dataset-cv-rel-pos](https://github.com/imrclab/dataset-cv-rel-pos)|
+|[iifl: implicit interactive fleet learning from heterogeneous human supervisors](https://arxiv.org/abs/2306.15228)|[iifl](https://github.com/berkeleyautomation/iifl)|
+|[rmap: millimeter-wave radar mapping through volumetric upsampling](https://arxiv.org/abs/2310.13188)|[RMap](https://github.com/arpg/RMap)|
+|[simultaneous shape tracking of multiple deformable linear objects with global-local topology preservation](https://arxiv.org/abs/2310.13245)|[multi-dlo](https://github.com/RMDLO/multi-dlo)|
+|[cylindertag: an accurate and flexible marker for cylinder-shape objects pose estimation based on projective invariants](https://arxiv.org/abs/2310.13320)|[cylindertag](https://github.com/wsakobe/cylindertag)|
+|[what you see is what you get: experience ranking with deep neural dataset-to-dataset similarity for topological localisation](https://arxiv.org/abs/2310.13622)|[vdna-experience-selection](https://github.com/mttgdd/vdna-experience-selection)|
 ## 2023-10-20
 |paper|code|
 |---|---|
