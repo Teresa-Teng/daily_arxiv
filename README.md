@@ -1,3 +1,33 @@
+## 2023-10-24
+|paper|code|
+|---|---|
+|[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
+|[learning informative representation for fairness-aware multivariate time-series forecasting: a group-based perspective](https://arxiv.org/abs/2301.11535)|[fairfor](https://github.com/huihevv/fairfor)|
+|[distributed variational inference for online supervised learning](https://arxiv.org/abs/2309.02606)|[distributed-mapping](https://github.com/pptx/distributed-mapping)|
+|[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
+|[federated learning compression designed for lightweight communications](https://arxiv.org/abs/2310.14693)|[fl_exps](https://github.com/lgrativol/fl_exps)|
+|[multilevel motion planning: a fiber bundle formulation](https://arxiv.org/abs/2007.09435)|[MotionExplorer](https://github.com/aorthey/MotionExplorer)|
+|[depth-based sampling and steering constraints for memoryless local planners](https://arxiv.org/abs/2211.03018)|[dess](https://github.com/thethaibinh/dess)|
+|[implicit shape model trees: recognition of 3-d indoor scenes and prediction of object poses for mobile robots](https://arxiv.org/abs/2301.10672)|[asr-ros-pkg](https://github.com/asr-ros/asr-ros-pkg)|
+|[conceptfusion: open-set multimodal 3d mapping](https://arxiv.org/abs/2302.07241)|[concept-fusion](https://github.com/concept-fusion/concept-fusion)|
+|[zenseact open dataset: a large-scale and diverse multimodal dataset for autonomous driving](https://arxiv.org/abs/2305.02008)|[zod](https://github.com/zenseact/zod)|
+|[scenarionet: open-source platform for large-scale traffic scenario simulation and modeling](https://arxiv.org/abs/2306.12241)|[scenarionet](https://github.com/metadriverse/scenarionet)|
+|[solving multi-agent target assignment and path finding with a single constraint tree](https://arxiv.org/abs/2307.00663)|[ita-cbs2](https://github.com/tachikakamin/ita-cbs2)|
+|[marbler: an open platform for standardized evaluation of multi-robot reinforcement learning algorithms](https://arxiv.org/abs/2307.03891)|[MARBLER](https://github.com/ShashwatNigam99/MARBLER)|
+|[hiql: offline goal-conditioned rl with latent states as actions](https://arxiv.org/abs/2307.11949)|[hiql](https://github.com/seohongpark/hiql)|
+|[recovery policies for safe exploration of lunar permanently shadowed regions by a solar-powered rover](https://arxiv.org/abs/2307.16786)|[gplanetary-nav](https://github.com/utiasSTARS/gplanetary-nav)|
+|[kidnapping deep learning-based multirotors using optimized flying adversarial patches](https://arxiv.org/abs/2308.00344)|[flying_adversarial_patch](https://github.com/imrclab/flying_adversarial_patch)|
+|[sem-gat: explainable semantic pose estimation using learned graph attention](https://arxiv.org/abs/2308.03718)|[sem-gat](https://github.com/cognitive-robots/sem-gat)|
+|[find what you want: learning demand-conditioned object attribute space for demand-driven navigation](https://arxiv.org/abs/2309.08138)|[demand-driven-navigation](https://github.com/whcpumpkin/demand-driven-navigation)|
+|[obvi-slam: long-term object-visual slam](https://arxiv.org/abs/2309.15268)|[obvi-slam](https://github.com/ut-amrl/obvi-slam)|
+|[enhanced low-dimensional sensing mapless navigation of terrestrial mobile robots using double deep reinforcement learning techniques](https://arxiv.org/abs/2310.13809)|[turtlebot-project](https://github.com/lindamoraes/turtlebot-project)|
+|[visual tracking nonlinear model predictive control method for autonomous wind turbine inspection](https://arxiv.org/abs/2310.14030)|[VTNMPC-Autonomous-Wind-Turbine-Inspection](https://github.com/open-airlab/VTNMPC-Autonomous-Wind-Turbine-Inspection)|
+|[detrive: imitation learning with transformer detection for end-to-end autonomous driving](https://arxiv.org/abs/2310.14224)|[Detrive](https://github.com/Alexbeast-CN/Detrive)|
+|[a generalized likelihood-weighted optimal sampling algorithm for rare-event probability quantification](https://arxiv.org/abs/2310.14457)|[gpextreme](https://github.com/umbrellagong/gpextreme)|
+|[bm2cp: efficient collaborative perception with lidar-camera modalities](https://arxiv.org/abs/2310.14702)|[bm2cp](https://github.com/byzhaoai/bm2cp)|
+|[converting depth images and point clouds for feature-based pose estimation](https://arxiv.org/abs/2310.14924)|[depth-conversions](https://github.com/rlsch/depth-conversions)|
+|[autotrans: a complete planning and control framework for autonomous uav payload transportation](https://arxiv.org/abs/2310.15050)|[AutoTrans](https://github.com/HKUST-Aerial-Robotics/AutoTrans)|
+|[robodepth: robust out-of-distribution depth estimation under corruptions](https://arxiv.org/abs/2310.15171)|[robodepth](https://github.com/ldkong1205/robodepth)|
 ## 2023-10-23
 |paper|code|
 |---|---|
@@ -7,8 +37,11 @@
 |[virtual omnidirectional perception for downwash prediction within a team of nano multirotors flying in close proximity](https://arxiv.org/abs/2303.03898)|[dataset-cv-rel-pos](https://github.com/imrclab/dataset-cv-rel-pos)|
 |[iifl: implicit interactive fleet learning from heterogeneous human supervisors](https://arxiv.org/abs/2306.15228)|[iifl](https://github.com/berkeleyautomation/iifl)|
 |[rmap: millimeter-wave radar mapping through volumetric upsampling](https://arxiv.org/abs/2310.13188)|[RMap](https://github.com/arpg/RMap)|
-|[simultaneous shape tracking of multiple deformable linear objects with global-local topology preservation](https://arxiv.org/abs/2310.13245)|[multi-dlo](https://github.com/RMDLO/multi-dlo)|
+|[dynamic object detection in range data using spatiotemporal normals](https://arxiv.org/abs/2310.13273)|[dynamic_object_detection](https://github.com/uts-ri/dynamic_object_detection)|
 |[cylindertag: an accurate and flexible marker for cylinder-shape objects pose estimation based on projective invariants](https://arxiv.org/abs/2310.13320)|[cylindertag](https://github.com/wsakobe/cylindertag)|
+|[colag: a collaborative air-ground framework for perception-limited ugvs' navigation](https://arxiv.org/abs/2310.13324)|[colag](https://github.com/fast-fire/colag)|
+|[rl-x: a deep reinforcement learning library (not only) for robocup](https://arxiv.org/abs/2310.13396)|[rl-x](https://github.com/nico-bohlinger/rl-x)|
+|[quadrotor dead recooking with multiple inertial sensors](https://arxiv.org/abs/2310.13452)|[quadrotor-dead-recooking-with-multiple-inertial-sensors](https://github.com/ansfl/quadrotor-dead-recooking-with-multiple-inertial-sensors)|
 |[what you see is what you get: experience ranking with deep neural dataset-to-dataset similarity for topological localisation](https://arxiv.org/abs/2310.13622)|[vdna-experience-selection](https://github.com/mttgdd/vdna-experience-selection)|
 ## 2023-10-20
 |paper|code|
