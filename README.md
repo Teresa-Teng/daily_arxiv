@@ -1,7 +1,17 @@
+## 2023-10-25
+|paper|code|
+|---|---|
+|[segment any point cloud sequences by distilling vision foundation models](https://arxiv.org/abs/2306.09347)|[segment-any-point-cloud](https://github.com/youquanl/segment-any-point-cloud)|
+|[simultaneous shape tracking of multiple deformable linear objects with global-local topology preservation](https://arxiv.org/abs/2310.13245)|[multi-dlo](https://github.com/RMDLO/multi-dlo)|
+|[revisiting implicit differentiation for learning problems in optimal control](https://arxiv.org/abs/2310.14468)|[implicit-diff-optimal-control](https://github.com/mingu6/implicit-diff-optimal-control)|
+|[tage: enabling an embodied agent to understand human instructions](https://arxiv.org/abs/2310.15605)|[tage](https://github.com/csarkar/tage)|
+|[adaptix -- a transitional xr framework for development and evaluation of shared control applications in assistive robotics](https://arxiv.org/abs/2310.15887)|[AdaptiX](https://github.com/maxpascher/AdaptiX)|
+|[timewarpvae: simultaneous time-warping and representation learning of trajectories](https://arxiv.org/abs/2310.16027)|[timewarpvae](https://github.com/travers-rhodes/timewarpvae)|
 ## 2023-10-24
 |paper|code|
 |---|---|
 |[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
+|[riscatter: unifying backscatter communication and reconfigurable intelligent surface](https://arxiv.org/abs/2212.09121)|[riscatter](https://github.com/snowztail/riscatter)|
 |[learning informative representation for fairness-aware multivariate time-series forecasting: a group-based perspective](https://arxiv.org/abs/2301.11535)|[fairfor](https://github.com/huihevv/fairfor)|
 |[distributed variational inference for online supervised learning](https://arxiv.org/abs/2309.02606)|[distributed-mapping](https://github.com/pptx/distributed-mapping)|
 |[learning state-augmented policies for information routing in communication networks](https://arxiv.org/abs/2310.00248)|[state-augmeted-information-routing](https://github.com/sourajitdas/state-augmeted-information-routing)|
@@ -11,6 +21,7 @@
 |[implicit shape model trees: recognition of 3-d indoor scenes and prediction of object poses for mobile robots](https://arxiv.org/abs/2301.10672)|[asr-ros-pkg](https://github.com/asr-ros/asr-ros-pkg)|
 |[conceptfusion: open-set multimodal 3d mapping](https://arxiv.org/abs/2302.07241)|[concept-fusion](https://github.com/concept-fusion/concept-fusion)|
 |[zenseact open dataset: a large-scale and diverse multimodal dataset for autonomous driving](https://arxiv.org/abs/2305.02008)|[zod](https://github.com/zenseact/zod)|
+|[geometric mechanics of contact-switching systems](https://arxiv.org/abs/2306.10276)|[paper-geometric-mechanics-of-contact-switching-systems](https://github.com/animal-inspired-motion-and-robotics-lab/paper-geometric-mechanics-of-contact-switching-systems)|
 |[scenarionet: open-source platform for large-scale traffic scenario simulation and modeling](https://arxiv.org/abs/2306.12241)|[scenarionet](https://github.com/metadriverse/scenarionet)|
 |[solving multi-agent target assignment and path finding with a single constraint tree](https://arxiv.org/abs/2307.00663)|[ita-cbs2](https://github.com/tachikakamin/ita-cbs2)|
 |[marbler: an open platform for standardized evaluation of multi-robot reinforcement learning algorithms](https://arxiv.org/abs/2307.03891)|[MARBLER](https://github.com/ShashwatNigam99/MARBLER)|
@@ -21,12 +32,15 @@
 |[find what you want: learning demand-conditioned object attribute space for demand-driven navigation](https://arxiv.org/abs/2309.08138)|[demand-driven-navigation](https://github.com/whcpumpkin/demand-driven-navigation)|
 |[obvi-slam: long-term object-visual slam](https://arxiv.org/abs/2309.15268)|[obvi-slam](https://github.com/ut-amrl/obvi-slam)|
 |[enhanced low-dimensional sensing mapless navigation of terrestrial mobile robots using double deep reinforcement learning techniques](https://arxiv.org/abs/2310.13809)|[turtlebot-project](https://github.com/lindamoraes/turtlebot-project)|
+|[an experimental study of model-based control for planar handed shearing auxetics robots](https://arxiv.org/abs/2310.13889)|[hsa-planar-control](https://github.com/tud-cor-sr/hsa-planar-control)|
 |[visual tracking nonlinear model predictive control method for autonomous wind turbine inspection](https://arxiv.org/abs/2310.14030)|[VTNMPC-Autonomous-Wind-Turbine-Inspection](https://github.com/open-airlab/VTNMPC-Autonomous-Wind-Turbine-Inspection)|
+|[povnav: a pareto-optimal mapless visual navigator](https://arxiv.org/abs/2310.14065)|[povnav](https://github.com/dpushp/povnav)|
 |[detrive: imitation learning with transformer detection for end-to-end autonomous driving](https://arxiv.org/abs/2310.14224)|[Detrive](https://github.com/Alexbeast-CN/Detrive)|
 |[a generalized likelihood-weighted optimal sampling algorithm for rare-event probability quantification](https://arxiv.org/abs/2310.14457)|[gpextreme](https://github.com/umbrellagong/gpextreme)|
 |[bm2cp: efficient collaborative perception with lidar-camera modalities](https://arxiv.org/abs/2310.14702)|[bm2cp](https://github.com/byzhaoai/bm2cp)|
+|[end-to-end learning of behavioural inputs for autonomous driving in dense traffic](https://arxiv.org/abs/2310.14766)|[diffproj](https://github.com/jatan12/diffproj)|
 |[converting depth images and point clouds for feature-based pose estimation](https://arxiv.org/abs/2310.14924)|[depth-conversions](https://github.com/rlsch/depth-conversions)|
-|[autotrans: a complete planning and control framework for autonomous uav payload transportation](https://arxiv.org/abs/2310.15050)|[AutoTrans](https://github.com/HKUST-Aerial-Robotics/AutoTrans)|
+|[autotrans: a complete planning and control framework for autonomous uav payload transportation](https://arxiv.org/abs/2310.15050)|[autotrans](https://github.com/sysu-star/autotrans)|
 |[robodepth: robust out-of-distribution depth estimation under corruptions](https://arxiv.org/abs/2310.15171)|[robodepth](https://github.com/ldkong1205/robodepth)|
 ## 2023-10-23
 |paper|code|
@@ -54,7 +68,6 @@
 |[reward learning with intractable normalizing functions](https://arxiv.org/abs/2305.09606)|[reward-learning-with-intractable-normalizers](https://github.com/vt-collab/reward-learning-with-intractable-normalizers)|
 |[navgpt: explicit reasoning in vision-and-language navigation with large language models](https://arxiv.org/abs/2305.16986)|[navgpt](https://github.com/gengzezhou/navgpt)|
 |[towards anytime optical flow estimation with event cameras](https://arxiv.org/abs/2307.05033)|[eva-flow](https://github.com/yaozhuwa/eva-flow)|
-|[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
 |[online multi-imu calibration using visual-inertial odometry](https://arxiv.org/abs/2310.12411)|[ekf-cal](https://github.com/unmannedlab/ekf-cal)|
 |[lidar panoptic segmentation and tracking without bells and whistles](https://arxiv.org/abs/2310.12464)|[most-lps](https://github.com/abhinavagarwalla/most-lps)|
 |[fully onboard low-power localization with semantic sensor fusion on a nano-uav using floor plans](https://arxiv.org/abs/2310.12536)|[nano-smcl](https://github.com/eth-pbl/nano-smcl)|
