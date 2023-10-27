@@ -1,3 +1,13 @@
+## 2023-10-26
+|paper|code|
+|---|---|
+|[learning bilinear models of actuated koopman generators from partially-observed trajectories](https://arxiv.org/abs/2209.09977)|[koopmangeneratorem](https://github.com/samotto1/koopmangeneratorem)|
+|[sample efficient model-free reinforcement learning from ltl specifications with optimality guarantees](https://arxiv.org/abs/2305.01381)|[rl-from-ltl](https://github.com/shaodaqian/rl-from-ltl)|
+|[neural foundations of mental simulation: future prediction of latent representations on dynamic scenes](https://arxiv.org/abs/2305.11772)|[mental-sim](https://github.com/anayebi/mental-sim)|
+|[guide your agent with adaptive multimodal rewards](https://arxiv.org/abs/2309.10790)|[arp](https://github.com/csmile-1006/arp)|
+|[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
+|[neural potential field for obstacle-aware local motion planning](https://arxiv.org/abs/2310.16362)|[npfield](https://github.com/cog-isa/npfield)|
+|[metrically scaled monocular depth estimation through sparse priors for underwater robots](https://arxiv.org/abs/2310.16750)|[uw_depth](https://github.com/ebnerluca/uw_depth)|
 ## 2023-10-25
 |paper|code|
 |---|---|
@@ -5,6 +15,8 @@
 |[simultaneous shape tracking of multiple deformable linear objects with global-local topology preservation](https://arxiv.org/abs/2310.13245)|[multi-dlo](https://github.com/RMDLO/multi-dlo)|
 |[revisiting implicit differentiation for learning problems in optimal control](https://arxiv.org/abs/2310.14468)|[implicit-diff-optimal-control](https://github.com/mingu6/implicit-diff-optimal-control)|
 |[tage: enabling an embodied agent to understand human instructions](https://arxiv.org/abs/2310.15605)|[tage](https://github.com/csarkar/tage)|
+|[dacoop-a: decentralized adaptive cooperative pursuit via attention](https://arxiv.org/abs/2310.15699)|[dacoop-a](https://github.com/zero8319/dacoop-a)|
+|[navlie: a python package for state estimation on lie groups](https://arxiv.org/abs/2310.15774)|[navlie](https://github.com/decargroup/navlie)|
 |[adaptix -- a transitional xr framework for development and evaluation of shared control applications in assistive robotics](https://arxiv.org/abs/2310.15887)|[AdaptiX](https://github.com/maxpascher/AdaptiX)|
 |[timewarpvae: simultaneous time-warping and representation learning of trajectories](https://arxiv.org/abs/2310.16027)|[timewarpvae](https://github.com/travers-rhodes/timewarpvae)|
 ## 2023-10-24
@@ -55,7 +67,6 @@
 |[cylindertag: an accurate and flexible marker for cylinder-shape objects pose estimation based on projective invariants](https://arxiv.org/abs/2310.13320)|[cylindertag](https://github.com/wsakobe/cylindertag)|
 |[colag: a collaborative air-ground framework for perception-limited ugvs' navigation](https://arxiv.org/abs/2310.13324)|[colag](https://github.com/fast-fire/colag)|
 |[rl-x: a deep reinforcement learning library (not only) for robocup](https://arxiv.org/abs/2310.13396)|[rl-x](https://github.com/nico-bohlinger/rl-x)|
-|[quadrotor dead recooking with multiple inertial sensors](https://arxiv.org/abs/2310.13452)|[quadrotor-dead-recooking-with-multiple-inertial-sensors](https://github.com/ansfl/quadrotor-dead-recooking-with-multiple-inertial-sensors)|
 |[what you see is what you get: experience ranking with deep neural dataset-to-dataset similarity for topological localisation](https://arxiv.org/abs/2310.13622)|[vdna-experience-selection](https://github.com/mttgdd/vdna-experience-selection)|
 ## 2023-10-20
 |paper|code|
