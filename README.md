@@ -1,3 +1,14 @@
+## 2023-10-27
+|paper|code|
+|---|---|
+|[statistical component separation for targeted signal recovery in noisy mixtures](https://arxiv.org/abs/2306.15012)|[stat_comp_sep](https://github.com/bregaldo/stat_comp_sep)|
+|[detection of stealthy adversaries for networked unmanned aerial vehicles*](https://arxiv.org/abs/2202.09661)|[telloswarm](https://github.com/saslabstevens/telloswarm)|
+|[tuning legged locomotion controllers via safe bayesian optimization](https://arxiv.org/abs/2306.07092)|[gosafeopt](https://github.com/lasgroup/gosafeopt)|
+|[quadrotor dead reckoning with multiple inertial sensors](https://arxiv.org/abs/2310.13452)|[quadrotor-dead-recooking-with-multiple-inertial-sensors](https://github.com/ansfl/quadrotor-dead-recooking-with-multiple-inertial-sensors)|
+|[conditionally combining robot skills using large language models](https://arxiv.org/abs/2310.17019)|[language-world](https://github.com/krzentner/language-world)|
+|[isometric motion manifold primitives](https://arxiv.org/abs/2310.17072)|[immp-public](https://github.com/gabe-yhlee/immp-public)|
+|[optimal robotic assembly sequence planning: a sequential decision-making approach](https://arxiv.org/abs/2310.17115)|[ORASP-Code](https://github.com/labicon/ORASP-Code)|
+|[dialogue-based generation of self-driving simulation scenarios using large language models](https://arxiv.org/abs/2310.17372)|[dialogllmscenic](https://github.com/avmb/dialogllmscenic)|
 ## 2023-10-26
 |paper|code|
 |---|---|
@@ -7,6 +18,7 @@
 |[guide your agent with adaptive multimodal rewards](https://arxiv.org/abs/2309.10790)|[arp](https://github.com/csmile-1006/arp)|
 |[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
 |[neural potential field for obstacle-aware local motion planning](https://arxiv.org/abs/2310.16362)|[npfield](https://github.com/cog-isa/npfield)|
+|[certifying bimanual rrt motion plans in a second](https://arxiv.org/abs/2310.16603)|[drake](https://github.com/alexandreamice/drake)|
 |[metrically scaled monocular depth estimation through sparse priors for underwater robots](https://arxiv.org/abs/2310.16750)|[uw_depth](https://github.com/ebnerluca/uw_depth)|
 ## 2023-10-25
 |paper|code|
