@@ -4,7 +4,7 @@
 |[statistical component separation for targeted signal recovery in noisy mixtures](https://arxiv.org/abs/2306.15012)|[stat_comp_sep](https://github.com/bregaldo/stat_comp_sep)|
 |[detection of stealthy adversaries for networked unmanned aerial vehicles*](https://arxiv.org/abs/2202.09661)|[telloswarm](https://github.com/saslabstevens/telloswarm)|
 |[tuning legged locomotion controllers via safe bayesian optimization](https://arxiv.org/abs/2306.07092)|[gosafeopt](https://github.com/lasgroup/gosafeopt)|
-|[quadrotor dead reckoning with multiple inertial sensors](https://arxiv.org/abs/2310.13452)|[quadrotor-dead-recooking-with-multiple-inertial-sensors](https://github.com/ansfl/quadrotor-dead-recooking-with-multiple-inertial-sensors)|
+|[quadrotor dead reckoning with multiple inertial sensors](https://arxiv.org/abs/2310.13452)|[quadrotor-dead-reckoning-with-multiple-inertial-sensors](https://github.com/ansfl/quadrotor-dead-reckoning-with-multiple-inertial-sensors)|
 |[conditionally combining robot skills using large language models](https://arxiv.org/abs/2310.17019)|[language-world](https://github.com/krzentner/language-world)|
 |[isometric motion manifold primitives](https://arxiv.org/abs/2310.17072)|[immp-public](https://github.com/gabe-yhlee/immp-public)|
 |[optimal robotic assembly sequence planning: a sequential decision-making approach](https://arxiv.org/abs/2310.17115)|[ORASP-Code](https://github.com/labicon/ORASP-Code)|
