@@ -1,3 +1,11 @@
+## 2023-10-30
+|paper|code|
+|---|---|
+|[novel models for multiple dependent heteroskedastic time series](https://arxiv.org/abs/2310.17760)|[stat40710](https://github.com/13204942/stat40710)|
+|[pre-training contextualized world models with in-the-wild videos for reinforcement learning](https://arxiv.org/abs/2305.18499)|[ContextWM](https://github.com/thuml/ContextWM)|
+|[bin assignment and decentralized path planning for multi-robot parcel sorting](https://arxiv.org/abs/2310.17753)|[mrps](https://github.com/arc-l/mrps)|
+|[what you see is what you detect: towards better object densification in 3d detection](https://arxiv.org/abs/2310.17842)|[wysiwyd](https://github.com/orbis36/wysiwyd)|
+|[do we need scan-matching in radar odometry?](https://arxiv.org/abs/2310.18117)|[mine-and-forest-radar-dataset](https://github.com/kubelvla/mine-and-forest-radar-dataset)|
 ## 2023-10-27
 |paper|code|
 |---|---|
@@ -27,7 +35,6 @@
 |[simultaneous shape tracking of multiple deformable linear objects with global-local topology preservation](https://arxiv.org/abs/2310.13245)|[multi-dlo](https://github.com/RMDLO/multi-dlo)|
 |[revisiting implicit differentiation for learning problems in optimal control](https://arxiv.org/abs/2310.14468)|[implicit-diff-optimal-control](https://github.com/mingu6/implicit-diff-optimal-control)|
 |[tage: enabling an embodied agent to understand human instructions](https://arxiv.org/abs/2310.15605)|[tage](https://github.com/csarkar/tage)|
-|[dacoop-a: decentralized adaptive cooperative pursuit via attention](https://arxiv.org/abs/2310.15699)|[dacoop-a](https://github.com/zero8319/dacoop-a)|
 |[navlie: a python package for state estimation on lie groups](https://arxiv.org/abs/2310.15774)|[navlie](https://github.com/decargroup/navlie)|
 |[adaptix -- a transitional xr framework for development and evaluation of shared control applications in assistive robotics](https://arxiv.org/abs/2310.15887)|[AdaptiX](https://github.com/maxpascher/AdaptiX)|
 |[timewarpvae: simultaneous time-warping and representation learning of trajectories](https://arxiv.org/abs/2310.16027)|[timewarpvae](https://github.com/travers-rhodes/timewarpvae)|
