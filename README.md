@@ -1,3 +1,25 @@
+## 2023-10-31
+|paper|code|
+|---|---|
+|[ipdp: on partial dependence plots in dynamic modeling scenarios](https://arxiv.org/abs/2306.07775)|[ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios](https://github.com/mmschlk/ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios)|
+|[towards multi-user activity recognition through facilitated training data and deep learning for human-robot collaboration applications](https://arxiv.org/abs/2302.05763)|[multi_user_through_single_user](https://github.com/francescosemeraro/multi_user_through_single_user)|
+|[programmatic imitation learning from unlabeled and noisy demonstrations](https://arxiv.org/abs/2303.01440)|[plunder](https://github.com/ut-amrl/plunder)|
+|[handloom: learned tracing of one-dimensional objects for inspection and manipulation](https://arxiv.org/abs/2303.08975)|[handloom](https://github.com/vainaviv/handloom)|
+|[multi-robot coordination and layout design for automated warehousing](https://arxiv.org/abs/2305.06436)|[warehouse_env_gen_public](https://github.com/lunjohnzhang/warehouse_env_gen_public)|
+|[relamix: exploring few-shot adaptation in video-based action recognition](https://arxiv.org/abs/2305.08420)|[relamix](https://github.com/kpeng9510/relamix)|
+|[adaptive and explainable deployment of navigation skills via hierarchical deep reinforcement learning](https://arxiv.org/abs/2305.19746)|[hrl-nav](https://github.com/leekwoon/hrl-nav)|
+|[latent exploration for reinforcement learning](https://arxiv.org/abs/2305.20065)|[lattice](https://github.com/amathislab/lattice)|
+|[scenarionet: open-source platform for large-scale traffic scenario simulation and modeling](https://arxiv.org/abs/2306.12241)|[scenarionet](https://github.com/metadriverse/scenarionet)|
+|[hiql: offline goal-conditioned rl with latent states as actions](https://arxiv.org/abs/2307.11949)|[hiql](https://github.com/seohongpark/hiql)|
+|[accelerating motion planning via optimal transport](https://arxiv.org/abs/2309.15970)|[ssax](https://github.com/anindex/ssax)|
+|[dacoop-a: decentralized adaptive cooperative pursuit via attention](https://arxiv.org/abs/2310.15699)|[dacoop-a](https://github.com/zero8319/dacoop-a)|
+|[arbitrarily scalable environment generators via neural cellular automata](https://arxiv.org/abs/2310.18622)|[warehouse_env_gen_nca_public](https://github.com/lunjohnzhang/warehouse_env_gen_nca_public)|
+|[rgb-x object detection via scene-specific fusion modules](https://arxiv.org/abs/2310.19372)|[rgbxfusion](https://github.com/dsriaditya999/rgbxfusion)|
+|[variational curriculum reinforcement learning for unsupervised discovery of skills](https://arxiv.org/abs/2310.19424)|[vcrl](https://github.com/seongun-kim/vcrl)|
+|[refining diffusion planner for reliable behavior synthesis by automatic detection of infeasible plans](https://arxiv.org/abs/2310.19427)|[rgg](https://github.com/leekwoon/rgg)|
+|[large trajectory models are scalable motion predictors and planners](https://arxiv.org/abs/2310.19620)|[statetransformer](https://github.com/tsinghua-mars-lab/statetransformer)|
+|[raydf: neural ray-surface distance fields with multi-view consistency](https://arxiv.org/abs/2310.19629)|[raydf](https://github.com/vlar-group/raydf)|
+|[deft: dexterous fine-tuning for real-world hand policies](https://arxiv.org/abs/2310.19797)|[deft-data](https://github.com/adityak77/deft-data)|
 ## 2023-10-30
 |paper|code|
 |---|---|
