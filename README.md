@@ -1,3 +1,11 @@
+## 2023-11-02
+|paper|code|
+|---|---|
+|[active uncertainty reduction for safe and efficient interaction planning: a shielding-aware dual control approach](https://arxiv.org/abs/2302.00171)|[dual_control_hri](https://github.com/saferoboticslab/dual_control_hri)|
+|[surrogate assisted generation of human-robot interaction scenarios](https://arxiv.org/abs/2304.13787)|[dsas](https://github.com/icaros-usc/dsas)|
+|[efficient baselines for motion prediction in autonomous driving](https://arxiv.org/abs/2309.03387)|[mapfe4mp](https://github.com/cram3r95/mapfe4mp)|
+|[few-shot panoptic segmentation with foundation models](https://arxiv.org/abs/2309.10726)|[SPINO](https://github.com/robot-learning-freiburg/SPINO)|
+|[large-scale multi-robot assembly planning for autonomous manufacturing](https://arxiv.org/abs/2311.00192)|[constructionbots.jl](https://github.com/sisl/constructionbots.jl)|
 ## 2023-11-01
 |paper|code|
 |---|---|
