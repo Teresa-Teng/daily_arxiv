@@ -1,3 +1,16 @@
+## 2023-11-03
+|paper|code|
+|---|---|
+|[exclusive group lasso for structured variable selection](https://arxiv.org/abs/2108.10284)|[exclusive-lasso](https://github.com/gregdvd/exclusive-lasso)|
+|[a ris-based vehicle doa estimation method with integrated sensing and communication system](https://arxiv.org/abs/2204.11626)|[passivedoa-isac-ris](https://github.com/chenpengseu/passivedoa-isac-ris)|
+|[representing edge flows on graphs via sparse cell complexes](https://arxiv.org/abs/2309.01632)|[edge-flow-cell-complexes](https://github.com/josefhoppe/edge-flow-cell-complexes)|
+|[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
+|[can't touch this: real-time, safe motion planning and control for manipulators under uncertainty](https://arxiv.org/abs/2301.13308)|[armour-dev](https://github.com/roahmlab/armour-dev)|
+|[parting with misconceptions about learning-based vehicle motion planning](https://arxiv.org/abs/2306.07962)|[tuplan_garage](https://github.com/autonomousvision/tuplan_garage)|
+|[voxposer: composable 3d value maps for robotic manipulation with language models](https://arxiv.org/abs/2307.05973)|[voxposer](https://github.com/huangwl18/voxposer)|
+|[selectively sharing experiences improves multi-agent reinforcement learning](https://arxiv.org/abs/2311.00865)|[super](https://github.com/mgerstgrasser/super)|
+|[vision-language interpreter for robot task planning](https://arxiv.org/abs/2311.00967)|[vilain](https://github.com/omron-sinicx/vilain)|
+|[sim2real bilevel adaptation for object surface classification using vision-based tactile sensors](https://arxiv.org/abs/2311.01380)|[sim2real-surface-classification](https://github.com/hsp-iit/sim2real-surface-classification)|
 ## 2023-11-02
 |paper|code|
 |---|---|
@@ -15,10 +28,13 @@
 |[energy-aware adaptive sampling for self-sustainability in resource-constrained iot devices](https://arxiv.org/abs/2310.20331)|[EcoTrack](https://github.com/ETH-PBL/EcoTrack)|
 |[robopianist: dexterous piano playing with deep reinforcement learning](https://arxiv.org/abs/2304.04150)|[robopianist](https://github.com/google-research/robopianist)|
 |[quality diversity under sparse reward and sparse interaction: application to grasping in robotics](https://arxiv.org/abs/2308.05483)|[qd_grasp](https://github.com/Johann-Huber/qd_grasp)|
+|[near-optimal coverage path planning with turn costs](https://arxiv.org/abs/2310.20340)|[alenex24-partial-coverage-path-planning](https://github.com/d-krupke/alenex24-partial-coverage-path-planning)|
+|[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
 ## 2023-10-31
 |paper|code|
 |---|---|
 |[ipdp: on partial dependence plots in dynamic modeling scenarios](https://arxiv.org/abs/2306.07775)|[ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios](https://github.com/mmschlk/ipdp-on-partial-dependence-plots-in-dynamic-modeling-scenarios)|
+|[optimal status updates for minimizing age of correlated information in iot networks with energy harvesting sensors](https://arxiv.org/abs/2310.19216)|[RSS_algorithm](https://github.com/CXU-NWAFU/RSS_algorithm)|
 |[towards multi-user activity recognition through facilitated training data and deep learning for human-robot collaboration applications](https://arxiv.org/abs/2302.05763)|[multi_user_through_single_user](https://github.com/francescosemeraro/multi_user_through_single_user)|
 |[programmatic imitation learning from unlabeled and noisy demonstrations](https://arxiv.org/abs/2303.01440)|[plunder](https://github.com/ut-amrl/plunder)|
 |[handloom: learned tracing of one-dimensional objects for inspection and manipulation](https://arxiv.org/abs/2303.08975)|[handloom](https://github.com/vainaviv/handloom)|
@@ -34,6 +50,7 @@
 |[rgb-x object detection via scene-specific fusion modules](https://arxiv.org/abs/2310.19372)|[rgbxfusion](https://github.com/dsriaditya999/rgbxfusion)|
 |[variational curriculum reinforcement learning for unsupervised discovery of skills](https://arxiv.org/abs/2310.19424)|[vcrl](https://github.com/seongun-kim/vcrl)|
 |[refining diffusion planner for reliable behavior synthesis by automatic detection of infeasible plans](https://arxiv.org/abs/2310.19427)|[rgg](https://github.com/leekwoon/rgg)|
+|[rule-based lloyd algorithm for multi-robot motion planning and control with safety and convergence guarantees](https://arxiv.org/abs/2310.19511)|[rbl](https://github.com/manuelboldrer/rbl)|
 |[large trajectory models are scalable motion predictors and planners](https://arxiv.org/abs/2310.19620)|[statetransformer](https://github.com/tsinghua-mars-lab/statetransformer)|
 |[raydf: neural ray-surface distance fields with multi-view consistency](https://arxiv.org/abs/2310.19629)|[raydf](https://github.com/vlar-group/raydf)|
 |[deft: dexterous fine-tuning for real-world hand policies](https://arxiv.org/abs/2310.19797)|[deft-data](https://github.com/adityak77/deft-data)|
