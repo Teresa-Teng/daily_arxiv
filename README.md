@@ -8,12 +8,16 @@
 |[can't touch this: real-time, safe motion planning and control for manipulators under uncertainty](https://arxiv.org/abs/2301.13308)|[armour-dev](https://github.com/roahmlab/armour-dev)|
 |[parting with misconceptions about learning-based vehicle motion planning](https://arxiv.org/abs/2306.07962)|[tuplan_garage](https://github.com/autonomousvision/tuplan_garage)|
 |[voxposer: composable 3d value maps for robotic manipulation with language models](https://arxiv.org/abs/2307.05973)|[voxposer](https://github.com/huangwl18/voxposer)|
+|[getting the ball rolling: learning a dexterous policy for a biomimetic tendon-driven hand with rolling contact joints](https://arxiv.org/abs/2308.02453)|[faive_gym_oss](https://github.com/srl-ethz/faive_gym_oss)|
 |[selectively sharing experiences improves multi-agent reinforcement learning](https://arxiv.org/abs/2311.00865)|[super](https://github.com/mgerstgrasser/super)|
 |[vision-language interpreter for robot task planning](https://arxiv.org/abs/2311.00967)|[vilain](https://github.com/omron-sinicx/vilain)|
+|[look at robot base once: hand-eye calibration with point clouds of robot base leveraging learning-based 3d vision](https://arxiv.org/abs/2311.01335)|[lrbo](https://github.com/leihui6/lrbo)|
 |[sim2real bilevel adaptation for object surface classification using vision-based tactile sensors](https://arxiv.org/abs/2311.01380)|[sim2real-surface-classification](https://github.com/hsp-iit/sim2real-surface-classification)|
 ## 2023-11-02
 |paper|code|
 |---|---|
+|[robust waveform design for integrated sensing and communication](https://arxiv.org/abs/2311.00071)|[robust-waveform](https://github.com/spratm-asleaf/robust-waveform)|
+|[generating hsr bogie vibration signals via pulse voltage-guided conditional diffusion model](https://arxiv.org/abs/2311.00496)|[vgcdm](https://github.com/xuanliu2000/vgcdm)|
 |[active uncertainty reduction for safe and efficient interaction planning: a shielding-aware dual control approach](https://arxiv.org/abs/2302.00171)|[dual_control_hri](https://github.com/saferoboticslab/dual_control_hri)|
 |[surrogate assisted generation of human-robot interaction scenarios](https://arxiv.org/abs/2304.13787)|[dsas](https://github.com/icaros-usc/dsas)|
 |[efficient baselines for motion prediction in autonomous driving](https://arxiv.org/abs/2309.03387)|[mapfe4mp](https://github.com/cram3r95/mapfe4mp)|
