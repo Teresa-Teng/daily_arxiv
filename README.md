@@ -5,7 +5,8 @@
 |[a ris-based vehicle doa estimation method with integrated sensing and communication system](https://arxiv.org/abs/2204.11626)|[passivedoa-isac-ris](https://github.com/chenpengseu/passivedoa-isac-ris)|
 |[representing edge flows on graphs via sparse cell complexes](https://arxiv.org/abs/2309.01632)|[edge-flow-cell-complexes](https://github.com/josefhoppe/edge-flow-cell-complexes)|
 |[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
-|[can't touch this: real-time, safe motion planning and control for manipulators under uncertainty](https://arxiv.org/abs/2301.13308)|[armour-dev](https://github.com/roahmlab/armour-dev)|
+|[can't touch this: real-time, safe motion planning and control for manipulators under uncertainty](https://arxiv.org/abs/2301.13308)|[armour](https://github.com/roahmlab/armour)|
+|[demo2code: from summarizing demonstrations to synthesizing code via extended chain-of-thought](https://arxiv.org/abs/2305.16744)|[robotouille](https://github.com/portal-cornell/robotouille)|
 |[parting with misconceptions about learning-based vehicle motion planning](https://arxiv.org/abs/2306.07962)|[tuplan_garage](https://github.com/autonomousvision/tuplan_garage)|
 |[voxposer: composable 3d value maps for robotic manipulation with language models](https://arxiv.org/abs/2307.05973)|[voxposer](https://github.com/huangwl18/voxposer)|
 |[getting the ball rolling: learning a dexterous policy for a biomimetic tendon-driven hand with rolling contact joints](https://arxiv.org/abs/2308.02453)|[faive_gym_oss](https://github.com/srl-ethz/faive_gym_oss)|
@@ -23,6 +24,7 @@
 |[efficient baselines for motion prediction in autonomous driving](https://arxiv.org/abs/2309.03387)|[mapfe4mp](https://github.com/cram3r95/mapfe4mp)|
 |[few-shot panoptic segmentation with foundation models](https://arxiv.org/abs/2309.10726)|[SPINO](https://github.com/robot-learning-freiburg/SPINO)|
 |[large-scale multi-robot assembly planning for autonomous manufacturing](https://arxiv.org/abs/2311.00192)|[constructionbots.jl](https://github.com/sisl/constructionbots.jl)|
+|[nvblox: gpu-accelerated incremental signed distance field mapping](https://arxiv.org/abs/2311.00626)|[isaac_ros_nvblox](https://github.com/nvidia-isaac-ros/isaac_ros_nvblox)|
 ## 2023-11-01
 |paper|code|
 |---|---|
