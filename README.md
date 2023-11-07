@@ -1,3 +1,10 @@
+## 2023-11-06
+|paper|code|
+|---|---|
+|[vehicular visible light positioning for collision avoidance and platooning: a survey](https://arxiv.org/abs/2010.09858)|[vehicular-vlp-simulations](https://github.com/sonebu/vehicular-vlp-simulations)|
+|[time-optimal path planning in a constant wind for uncrewed aerial vehicles using dubins set classification](https://arxiv.org/abs/2306.11845)|[trochoids](https://github.com/castacks/trochoids)|
+|[image-based geolocalization by ground-to-2.5d map matching](https://arxiv.org/abs/2308.05993)|[2-5dmap-dataset](https://github.com/zhoumengjie/2-5dmap-dataset)|
+|[curobo: parallelized collision-free minimum-jerk robot motion generation](https://arxiv.org/abs/2310.17274)|[curobo](https://github.com/nvlabs/curobo)|
 ## 2023-11-03
 |paper|code|
 |---|---|
