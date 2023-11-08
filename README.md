@@ -1,3 +1,16 @@
+## 2023-11-07
+|paper|code|
+|---|---|
+|[quantifying non-linear dependencies in blind source separation of power system signals using copula statistics](https://arxiv.org/abs/2309.07814)|[ccca](https://github.com/apooja1/ccca)|
+|[can an embodied agent find your "cat-shaped mug"? llm-guided exploration for zero-shot object navigation](https://arxiv.org/abs/2303.03480)|[LGX](https://github.com/vdorbala/LGX)|
+|[active vision reinforcement learning under limited visual observability](https://arxiv.org/abs/2306.00975)|[active-gym](https://github.com/elicassion/active-gym)|
+|[enabling efficient, reliable real-world reinforcement learning with approximate physics-based models](https://arxiv.org/abs/2307.08168)|[learningwithsimplemodels.jl](https://github.com/clearoboticslab/learningwithsimplemodels.jl)|
+|[find what you want: learning demand-conditioned object attribute space for demand-driven navigation](https://arxiv.org/abs/2309.08138)|[demand-driven-navigation](https://github.com/whcpumpkin/demand-driven-navigation)|
+|[locomujoco: a comprehensive imitation learning benchmark for locomotion](https://arxiv.org/abs/2311.02496)|[loco-mujoco](https://github.com/robfiras/loco-mujoco)|
+|[race against the machine: a fully-annotated, open-design dataset of autonomous and piloted high-speed flight](https://arxiv.org/abs/2311.02667)|[drone-racing-dataset](https://github.com/tii-racing/drone-racing-dataset)|
+|[kinematic-aware prompting for generalizable articulated object manipulation with llms](https://arxiv.org/abs/2311.02847)|[llm_articulated_object_manipulation](https://github.com/xwinks/llm_articulated_object_manipulation)|
+|[ovir-3d: open-vocabulary 3d instance retrieval without training on 3d data](https://arxiv.org/abs/2311.02873)|[ovir-3d](https://github.com/shiyoung77/ovir-3d)|
+|[lcpr: a multi-scale attention-based lidar-camera fusion network for place recognition](https://arxiv.org/abs/2311.03198)|[LCPR](https://github.com/ZhouZijie77/LCPR)|
 ## 2023-11-06
 |paper|code|
 |---|---|
