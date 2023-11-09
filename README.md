@@ -1,14 +1,26 @@
+## 2023-11-08
+|paper|code|
+|---|---|
+|[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[accurate 3d object detection using energy-based models](https://arxiv.org/abs/2012.04634)|[ebms_3dod](https://github.com/fregu856/ebms_3dod)|
+|[task-driven detection of distribution shifts with statistical guarantees for robot learning](https://arxiv.org/abs/2106.13703)|[Task_Relevant_OOD_Detection](https://github.com/irom-lab/Task_Relevant_OOD_Detection)|
+|[k-lane: lidar lane dataset and benchmark for urban roads and highways](https://arxiv.org/abs/2110.11048)|[k-lane](https://github.com/kaist-avelab/k-lane)|
+|[equivariant descriptor fields: se(3)-equivariant energy-based models for end-to-end visual robotic manipulation learning](https://arxiv.org/abs/2206.08321)|[edf](https://github.com/tomato1mule/edf)|
+|[guaranteed conformance of neurosymbolic models to natural constraints](https://arxiv.org/abs/2212.01346)|[constrained_models](https://github.com/kaustubhsridhar/constrained_models)|
+|[asynchronous multiple lidar-inertial odometry using point-wise inter-lidar uncertainty propagation](https://arxiv.org/abs/2305.16792)|[ma-lio](https://github.com/minwoo0611/ma-lio)|
+|[rgb-d mapping and tracking in a plenoxel radiance field](https://arxiv.org/abs/2307.03404)|[rgb-d_plenoxel_mapping_tracking](https://github.com/ysus33/rgb-d_plenoxel_mapping_tracking)|
+|[a skeleton-based approach for rock crack detection towards a climbing robot application](https://arxiv.org/abs/2309.05139)|[reachbot-predictor](https://github.com/josselinsomervilleroberts/reachbot-predictor)|
+|[sero: self-supervised reinforcement learning for recovery from out-of-distribution situations](https://arxiv.org/abs/2311.03651)|[sero](https://github.com/snuchankim/sero)|
 ## 2023-11-07
 |paper|code|
 |---|---|
-|[quantifying non-linear dependencies in blind source separation of power system signals using copula statistics](https://arxiv.org/abs/2309.07814)|[ccca](https://github.com/apooja1/ccca)|
 |[can an embodied agent find your "cat-shaped mug"? llm-guided exploration for zero-shot object navigation](https://arxiv.org/abs/2303.03480)|[LGX](https://github.com/vdorbala/LGX)|
 |[active vision reinforcement learning under limited visual observability](https://arxiv.org/abs/2306.00975)|[active-gym](https://github.com/elicassion/active-gym)|
 |[enabling efficient, reliable real-world reinforcement learning with approximate physics-based models](https://arxiv.org/abs/2307.08168)|[learningwithsimplemodels.jl](https://github.com/clearoboticslab/learningwithsimplemodels.jl)|
 |[find what you want: learning demand-conditioned object attribute space for demand-driven navigation](https://arxiv.org/abs/2309.08138)|[demand-driven-navigation](https://github.com/whcpumpkin/demand-driven-navigation)|
 |[locomujoco: a comprehensive imitation learning benchmark for locomotion](https://arxiv.org/abs/2311.02496)|[loco-mujoco](https://github.com/robfiras/loco-mujoco)|
 |[race against the machine: a fully-annotated, open-design dataset of autonomous and piloted high-speed flight](https://arxiv.org/abs/2311.02667)|[drone-racing-dataset](https://github.com/tii-racing/drone-racing-dataset)|
-|[kinematic-aware prompting for generalizable articulated object manipulation with llms](https://arxiv.org/abs/2311.02847)|[llm_articulated_object_manipulation](https://github.com/xwinks/llm_articulated_object_manipulation)|
+|[jrdb-traj: a dataset and benchmark for trajectory forecasting in crowds](https://arxiv.org/abs/2311.02736)|[jrdb-traj](https://github.com/vita-epfl/jrdb-traj)|
 |[ovir-3d: open-vocabulary 3d instance retrieval without training on 3d data](https://arxiv.org/abs/2311.02873)|[ovir-3d](https://github.com/shiyoung77/ovir-3d)|
 |[lcpr: a multi-scale attention-based lidar-camera fusion network for place recognition](https://arxiv.org/abs/2311.03198)|[LCPR](https://github.com/ZhouZijie77/LCPR)|
 ## 2023-11-06
