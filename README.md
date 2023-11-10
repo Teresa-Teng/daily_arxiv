@@ -1,7 +1,19 @@
+## 2023-11-09
+|paper|code|
+|---|---|
+|[leveraging large (visual) language models for robot 3d scene understanding](https://arxiv.org/abs/2209.05629)|[llm_scene_understanding](https://github.com/mit-spark/llm_scene_understanding)|
+|[robotic learning the sequence of packing irregular objects from human demonstrations](https://arxiv.org/abs/2210.01645)|[boxed](https://github.com/andrejfsantos4/boxed)|
+|[goal-guided transformer-enabled reinforcement learning for efficient autonomous navigation](https://arxiv.org/abs/2301.00362)|[drl-transformer-simtoreal-navigation](https://github.com/oscarhuangwind/drl-transformer-simtoreal-navigation)|
+|[system identification and control of front-steered ackermann vehicles through differentiable physics](https://arxiv.org/abs/2308.03898)|[diffsteered](https://github.com/gonultasbu/diffsteered)|
+|[kinematic-aware prompting for generalizable articulated object manipulation with llms](https://arxiv.org/abs/2311.02847)|[llm_articulated_object_manipulation](https://github.com/gewu-lab/llm_articulated_object_manipulation)|
+|[syntax-guided transformers: elevating compositional generalization and grounding in multimodal environments](https://arxiv.org/abs/2311.04364)|[syntax-guided-transformers](https://github.com/hlr/syntax-guided-transformers)|
+|[the voraus-ad dataset for anomaly detection in robot applications](https://arxiv.org/abs/2311.04765)|[voraus-ad-dataset](https://github.com/vorausrobotik/voraus-ad-dataset)|
+|[lidar annotation is all you need](https://arxiv.org/abs/2311.04777)|[lidar-annotation-is-all-you-need](https://github.com/evocargo/lidar-annotation-is-all-you-need)|
 ## 2023-11-08
 |paper|code|
 |---|---|
 |[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[classification of various types of damages in honeycomb composite sandwich structures using guided wave structural health monitoring](https://arxiv.org/abs/2311.03765)|[damage-classification-using-feature-engineering](https://github.com/shrutisawant099/damage-classification-using-feature-engineering)|
 |[accurate 3d object detection using energy-based models](https://arxiv.org/abs/2012.04634)|[ebms_3dod](https://github.com/fregu856/ebms_3dod)|
 |[task-driven detection of distribution shifts with statistical guarantees for robot learning](https://arxiv.org/abs/2106.13703)|[Task_Relevant_OOD_Detection](https://github.com/irom-lab/Task_Relevant_OOD_Detection)|
 |[k-lane: lidar lane dataset and benchmark for urban roads and highways](https://arxiv.org/abs/2110.11048)|[k-lane](https://github.com/kaist-avelab/k-lane)|
@@ -21,6 +33,7 @@
 |[locomujoco: a comprehensive imitation learning benchmark for locomotion](https://arxiv.org/abs/2311.02496)|[loco-mujoco](https://github.com/robfiras/loco-mujoco)|
 |[race against the machine: a fully-annotated, open-design dataset of autonomous and piloted high-speed flight](https://arxiv.org/abs/2311.02667)|[drone-racing-dataset](https://github.com/tii-racing/drone-racing-dataset)|
 |[jrdb-traj: a dataset and benchmark for trajectory forecasting in crowds](https://arxiv.org/abs/2311.02736)|[jrdb-traj](https://github.com/vita-epfl/jrdb-traj)|
+|[ir-stp: enhancing autonomous driving with interaction reasoning in spatio-temporal planning](https://arxiv.org/abs/2311.02850)|[ir-stp-planner](https://github.com/chenyingbing/ir-stp-planner)|
 |[ovir-3d: open-vocabulary 3d instance retrieval without training on 3d data](https://arxiv.org/abs/2311.02873)|[ovir-3d](https://github.com/shiyoung77/ovir-3d)|
 |[lcpr: a multi-scale attention-based lidar-camera fusion network for place recognition](https://arxiv.org/abs/2311.03198)|[LCPR](https://github.com/ZhouZijie77/LCPR)|
 ## 2023-11-06
