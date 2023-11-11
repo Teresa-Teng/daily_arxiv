@@ -1,12 +1,21 @@
+## 2023-11-10
+|paper|code|
+|---|---|
+|[principled pruning of bayesian neural networks through variational free energy minimization](https://arxiv.org/abs/2210.09134)|[principledpruningbnn](https://github.com/biaslab/principledpruningbnn)|
+|[spectral cross-domain neural network with soft-adaptive threshold spectral enhancement](https://arxiv.org/abs/2301.10171)|[scdnn-ts](https://github.com/dl-wg/scdnn-ts)|
+|[pay less but get more: a dual-attention-based channel estimation network for massive mimo systems with low-density pilots](https://arxiv.org/abs/2303.00986)|[dacen](https://github.com/bgzhou/dacen)|
+|[rethinking human pose estimation for autonomous driving with 3d event representations](https://arxiv.org/abs/2311.04591)|[eventpointpose](https://github.com/masterhow/eventpointpose)|
+|[on the road with gpt-4v(ision): early explorations of visual-language model on autonomous driving](https://arxiv.org/abs/2311.05332)|[gpt4v-ad-exploration](https://github.com/pjlab-adg/gpt4v-ad-exploration)|
 ## 2023-11-09
 |paper|code|
 |---|---|
+|[exploring best practices for ecg signal processing in machine learning](https://arxiv.org/abs/2311.04229)|[ecg_augmentation](https://github.com/imilas/ecg_augmentation)|
+|[discerning and enhancing the weighted sum-rate maximization algorithms in communications](https://arxiv.org/abs/2311.04546)|[ratemax](https://github.com/zepengzhang/ratemax)|
 |[leveraging large (visual) language models for robot 3d scene understanding](https://arxiv.org/abs/2209.05629)|[llm_scene_understanding](https://github.com/mit-spark/llm_scene_understanding)|
 |[robotic learning the sequence of packing irregular objects from human demonstrations](https://arxiv.org/abs/2210.01645)|[boxed](https://github.com/andrejfsantos4/boxed)|
 |[goal-guided transformer-enabled reinforcement learning for efficient autonomous navigation](https://arxiv.org/abs/2301.00362)|[drl-transformer-simtoreal-navigation](https://github.com/oscarhuangwind/drl-transformer-simtoreal-navigation)|
 |[system identification and control of front-steered ackermann vehicles through differentiable physics](https://arxiv.org/abs/2308.03898)|[diffsteered](https://github.com/gonultasbu/diffsteered)|
 |[kinematic-aware prompting for generalizable articulated object manipulation with llms](https://arxiv.org/abs/2311.02847)|[llm_articulated_object_manipulation](https://github.com/gewu-lab/llm_articulated_object_manipulation)|
-|[syntax-guided transformers: elevating compositional generalization and grounding in multimodal environments](https://arxiv.org/abs/2311.04364)|[syntax-guided-transformers](https://github.com/hlr/syntax-guided-transformers)|
 |[the voraus-ad dataset for anomaly detection in robot applications](https://arxiv.org/abs/2311.04765)|[voraus-ad-dataset](https://github.com/vorausrobotik/voraus-ad-dataset)|
 |[lidar annotation is all you need](https://arxiv.org/abs/2311.04777)|[lidar-annotation-is-all-you-need](https://github.com/evocargo/lidar-annotation-is-all-you-need)|
 ## 2023-11-08
@@ -21,8 +30,11 @@
 |[guaranteed conformance of neurosymbolic models to natural constraints](https://arxiv.org/abs/2212.01346)|[constrained_models](https://github.com/kaustubhsridhar/constrained_models)|
 |[asynchronous multiple lidar-inertial odometry using point-wise inter-lidar uncertainty propagation](https://arxiv.org/abs/2305.16792)|[ma-lio](https://github.com/minwoo0611/ma-lio)|
 |[rgb-d mapping and tracking in a plenoxel radiance field](https://arxiv.org/abs/2307.03404)|[rgb-d_plenoxel_mapping_tracking](https://github.com/ysus33/rgb-d_plenoxel_mapping_tracking)|
+|[autonomros: a reconros-based autonomous driving unit](https://arxiv.org/abs/2309.02026)|[autonomros](https://github.com/lien182/autonomros)|
 |[a skeleton-based approach for rock crack detection towards a climbing robot application](https://arxiv.org/abs/2309.05139)|[reachbot-predictor](https://github.com/josselinsomervilleroberts/reachbot-predictor)|
 |[sero: self-supervised reinforcement learning for recovery from out-of-distribution situations](https://arxiv.org/abs/2311.03651)|[sero](https://github.com/snuchankim/sero)|
+|[puma: fully decentralized uncertainty-aware multiagent trajectory planner with real-time image segmentation-based frame alignment](https://arxiv.org/abs/2311.03655)|[puma](https://github.com/mit-acl/puma)|
+|[terrain recognition and contact force estimation through a sensorized paw for legged robots](https://arxiv.org/abs/2311.03855)|[trace_paw](https://github.com/ntnu-arl/trace_paw)|
 ## 2023-11-07
 |paper|code|
 |---|---|
