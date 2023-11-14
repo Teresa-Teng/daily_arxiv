@@ -1,3 +1,10 @@
+## 2023-11-13
+|paper|code|
+|---|---|
+|[driving style recognition using interval type-2 fuzzy inference system and multiple experts decision making](https://arxiv.org/abs/2110.13805)|[t2fis_driving_style](https://github.com/iag0g0mes/t2fis_driving_style)|
+|[language-guided robot grasping: clip-based referring grasp synthesis in clutter](https://arxiv.org/abs/2311.05779)|[ocid-vlg](https://github.com/gtziafas/ocid-vlg)|
+|[real-time control of electric autonomous mobility-on-demand systems via graph reinforcement learning](https://arxiv.org/abs/2311.05780)|[graph-rl-for-eamod](https://github.com/stanfordasl/graph-rl-for-eamod)|
+|[quantized distillation: optimizing driver activity recognition models for resource-constrained environments](https://arxiv.org/abs/2311.05970)|[qd-driver-activity-reco](https://github.com/calvintanama/qd-driver-activity-reco)|
 ## 2023-11-10
 |paper|code|
 |---|---|
