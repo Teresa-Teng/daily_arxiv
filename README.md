@@ -1,3 +1,22 @@
+## 2023-11-14
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[data-driven denoising of stationary accelerometer signals](https://arxiv.org/abs/2206.05937)|[MEMS-IMU-Denoising](https://github.com/ansfl/MEMS-IMU-Denoising)|
+|[hkf: hierarchical kalman filtering with online learned evolution priors for adaptive ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
+|[convolutional monge mapping normalization for learning on sleep data](https://arxiv.org/abs/2305.18831)|[convolutional-monge-mapping-normalization](https://github.com/pythonot/convolutional-monge-mapping-normalization)|
+|[alpcah: sample-wise heteroscedastic pca with tail singular value regularization](https://arxiv.org/abs/2307.02745)|[alpcah](https://github.com/javiersc1/alpcah)|
+|[successive linear approximation vbi for joint sparse signal recovery and dynamic grid parameters estimation](https://arxiv.org/abs/2307.09149)|[sla-vbi](https://github.com/zju-xwk/sla-vbi)|
+|[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
+|[chatgpt in the context of precision agriculture data analytics](https://arxiv.org/abs/2311.06390)|[chatgpt-in-the-context-of-precision-agriculture-data-analytics](https://github.com/potamitis123/chatgpt-in-the-context-of-precision-agriculture-data-analytics)|
+|[immesh: an immediate lidar localization and meshing framework](https://arxiv.org/abs/2301.05206)|[immesh](https://github.com/hku-mars/immesh)|
+|[from rolling over to walking: enabling humanoid robots to develop complex motor skills](https://arxiv.org/abs/2303.02581)|[rl_games](https://github.com/Denys88/rl_games)|
+|[individuality in swarm robots with the case study of kilobots: noise, bug, or feature?](https://arxiv.org/abs/2305.16063)|[kilobots-individuality-alife-23](https://github.com/mohsen-raoufi/kilobots-individuality-alife-23)|
+|[sim-suction: learning a suction grasp policy for cluttered environments using a synthetic benchmark](https://arxiv.org/abs/2305.16378)|[Sim-Suction-API](https://github.com/junchengli1/Sim-Suction-API)|
+|[gici-lib: a gnss/ins/camera integrated navigation library](https://arxiv.org/abs/2306.13268)|[gici-open](https://github.com/chichengcn/gici-open)|
+|[allsight: a low-cost and high-resolution round tactile sensor with zero-shot learning capability](https://arxiv.org/abs/2307.02928)|[allsight](https://github.com/osheraz/allsight)|
+|[dialmat: dialogue-enabled transformer with moment-based adversarial training](https://arxiv.org/abs/2311.06855)|[dialmat](https://github.com/keio-smilab23/dialmat)|
+|[interaction is all you need? a study of robots ability to understand and execute](https://arxiv.org/abs/2311.07150)|[teach_edh](https://github.com/nid989/teach_edh)|
 ## 2023-11-13
 |paper|code|
 |---|---|
@@ -5,6 +24,7 @@
 |[language-guided robot grasping: clip-based referring grasp synthesis in clutter](https://arxiv.org/abs/2311.05779)|[ocid-vlg](https://github.com/gtziafas/ocid-vlg)|
 |[real-time control of electric autonomous mobility-on-demand systems via graph reinforcement learning](https://arxiv.org/abs/2311.05780)|[graph-rl-for-eamod](https://github.com/stanfordasl/graph-rl-for-eamod)|
 |[quantized distillation: optimizing driver activity recognition models for resource-constrained environments](https://arxiv.org/abs/2311.05970)|[qd-driver-activity-reco](https://github.com/calvintanama/qd-driver-activity-reco)|
+|[multi-agent reinforcement learning for the low-level control of a quadrotor uav](https://arxiv.org/abs/2311.06144)|[marl-quad-control](https://github.com/fdcl-gwu/marl-quad-control)|
 ## 2023-11-10
 |paper|code|
 |---|---|
