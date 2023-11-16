@@ -1,3 +1,9 @@
+## 2023-11-15
+|paper|code|
+|---|---|
+|[cslp-ae: a contrastive split-latent permutation autoencoder framework for zero-shot electroencephalography signal conversion](https://arxiv.org/abs/2311.07788)|[cslp-ae](https://github.com/andersxa/cslp-ae)|
+|[neural moving horizon estimation for robust flight control](https://arxiv.org/abs/2206.10397)|[neuromhe](https://github.com/rcl-nus/neuromhe)|
+|[human-centric autonomous systems with llms for user command reasoning](https://arxiv.org/abs/2311.08206)|[drivecmd_llm](https://github.com/kth-rpl/drivecmd_llm)|
 ## 2023-11-14
 |paper|code|
 |---|---|
@@ -9,6 +15,7 @@
 |[successive linear approximation vbi for joint sparse signal recovery and dynamic grid parameters estimation](https://arxiv.org/abs/2307.09149)|[sla-vbi](https://github.com/zju-xwk/sla-vbi)|
 |[learning rl-policies for joint beamforming without exploration: a batch constrained off-policy approach](https://arxiv.org/abs/2310.08660)|[safe-rl-deployment-for-5g](https://github.com/heasung-kim/safe-rl-deployment-for-5g)|
 |[chatgpt in the context of precision agriculture data analytics](https://arxiv.org/abs/2311.06390)|[chatgpt-in-the-context-of-precision-agriculture-data-analytics](https://github.com/potamitis123/chatgpt-in-the-context-of-precision-agriculture-data-analytics)|
+|[caster: a computer-vision-assisted wireless channel simulator for gesture recognition](https://arxiv.org/abs/2311.07169)|[testspectrogram](https://github.com/rzy0901/testspectrogram)|
 |[immesh: an immediate lidar localization and meshing framework](https://arxiv.org/abs/2301.05206)|[immesh](https://github.com/hku-mars/immesh)|
 |[from rolling over to walking: enabling humanoid robots to develop complex motor skills](https://arxiv.org/abs/2303.02581)|[rl_games](https://github.com/Denys88/rl_games)|
 |[individuality in swarm robots with the case study of kilobots: noise, bug, or feature?](https://arxiv.org/abs/2305.16063)|[kilobots-individuality-alife-23](https://github.com/mohsen-raoufi/kilobots-individuality-alife-23)|
@@ -17,6 +24,8 @@
 |[allsight: a low-cost and high-resolution round tactile sensor with zero-shot learning capability](https://arxiv.org/abs/2307.02928)|[allsight](https://github.com/osheraz/allsight)|
 |[dialmat: dialogue-enabled transformer with moment-based adversarial training](https://arxiv.org/abs/2311.06855)|[dialmat](https://github.com/keio-smilab23/dialmat)|
 |[interaction is all you need? a study of robots ability to understand and execute](https://arxiv.org/abs/2311.07150)|[teach_edh](https://github.com/nid989/teach_edh)|
+|[bio-inspired grasping controller for sensorized 2-dof grippers](https://arxiv.org/abs/2311.07257)|[ta11_sensor_tools](https://github.com/llach/ta11_sensor_tools)|
+|[lilo: lightweight and low-bias lidar odometry method based on spherical range image filtering](https://arxiv.org/abs/2311.07291)|[applications](https://github.com/aurova-lab/applications)|
 ## 2023-11-13
 |paper|code|
 |---|---|
