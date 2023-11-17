@@ -1,3 +1,14 @@
+## 2023-11-16
+|paper|code|
+|---|---|
+|[data-driven identification of parametric governing equations of dynamical systems using the signed cumulative distribution transform](https://arxiv.org/abs/2308.12259)|[PyTransKit](https://github.com/rohdelab/PyTransKit)|
+|[topology of surface electromyogram signals: hand gesture decoding on riemannian manifolds](https://arxiv.org/abs/2311.08548)|[geometryofsemg](https://github.com/harshavardhanatg/geometryofsemg)|
+|[towards multi-user activity recognition through facilitated training data and deep learning for human-robot collaboration applications](https://arxiv.org/abs/2302.05763)|[multi_user_through_single_user](https://github.com/francescosemeraro/multi_user_through_single_user)|
+|[ovenet: offset vector network for semantic segmentation](https://arxiv.org/abs/2303.14516)|[ovenet](https://github.com/stamatisalex/ovenet)|
+|[rltools: a fast, portable deep reinforcement learning library for continuous control](https://arxiv.org/abs/2306.03530)|[backproptools](https://github.com/backproptools/backproptools)|
+|[what you see is what you detect: towards better object densification in 3d detection](https://arxiv.org/abs/2310.17842)|[wysiwyd](https://github.com/orbis36/wysiwyd)|
+|[exploring large language models as a source of common-sense knowledge for robots](https://arxiv.org/abs/2311.08412)|[common_sense_for_robots](https://github.com/hri-eu/common_sense_for_robots)|
+|[range-visual-inertial sensor fusion for micro aerial vehicle localization and navigation](https://arxiv.org/abs/2311.09056)|[ra_lan](https://github.com/utiasdsl/ra_lan)|
 ## 2023-11-15
 |paper|code|
 |---|---|
@@ -22,6 +33,7 @@
 |[sim-suction: learning a suction grasp policy for cluttered environments using a synthetic benchmark](https://arxiv.org/abs/2305.16378)|[Sim-Suction-API](https://github.com/junchengli1/Sim-Suction-API)|
 |[gici-lib: a gnss/ins/camera integrated navigation library](https://arxiv.org/abs/2306.13268)|[gici-open](https://github.com/chichengcn/gici-open)|
 |[allsight: a low-cost and high-resolution round tactile sensor with zero-shot learning capability](https://arxiv.org/abs/2307.02928)|[allsight](https://github.com/osheraz/allsight)|
+|[newsgpt: chatgpt integration for robot-reporter](https://arxiv.org/abs/2311.06640)|[NewsGPT_Pepper](https://github.com/aeh1707/NewsGPT_Pepper)|
 |[dialmat: dialogue-enabled transformer with moment-based adversarial training](https://arxiv.org/abs/2311.06855)|[dialmat](https://github.com/keio-smilab23/dialmat)|
 |[interaction is all you need? a study of robots ability to understand and execute](https://arxiv.org/abs/2311.07150)|[teach_edh](https://github.com/nid989/teach_edh)|
 |[bio-inspired grasping controller for sensorized 2-dof grippers](https://arxiv.org/abs/2311.07257)|[ta11_sensor_tools](https://github.com/llach/ta11_sensor_tools)|
