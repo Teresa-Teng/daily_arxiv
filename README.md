@@ -4,6 +4,7 @@
 |[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
 |[mitfas: mutual information based temporal feature alignment and sampling for aerial video action recognition](https://arxiv.org/abs/2303.02575)|[mitfas](https://github.com/ricky-xian/mitfas)|
 |[flexible and adaptive manufacturing by complementing knowledge representation, reasoning and planning with reinforcement learning](https://arxiv.org/abs/2311.09353)|[skireil](https://github.com/matthias-mayr/skireil)|
+|[interpretable reinforcement learning for robotics and continuous control](https://arxiv.org/abs/2311.10041)|[icct](https://github.com/core-robotics-lab/icct)|
 ## 2023-11-16
 |paper|code|
 |---|---|
