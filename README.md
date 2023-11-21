@@ -1,3 +1,11 @@
+## 2023-11-20
+|paper|code|
+|---|---|
+|[tims: a tactile internet-based micromanipulation system with haptic guidance for surgical training](https://arxiv.org/abs/2303.03566)|[tims](https://github.com/leen-coding/tims)|
+|[model-based reinforcement learning with isolated imaginations](https://arxiv.org/abs/2303.14889)|[mbrl_with_isolated_imaginations](https://github.com/panmt/mbrl_with_isolated_imaginations)|
+|[tidybot: personalized robot assistance with large language models](https://arxiv.org/abs/2305.05658)|[tidybot](https://github.com/jimmyyhwu/tidybot)|
+|[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
+|[distilling and retrieving generalizable knowledge for robot manipulation via language corrections](https://arxiv.org/abs/2311.10678)|[droc](https://github.com/Stanford-ILIAD/droc)|
 ## 2023-11-17
 |paper|code|
 |---|---|
