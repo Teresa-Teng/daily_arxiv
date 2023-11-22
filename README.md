@@ -1,10 +1,29 @@
+## 2023-11-21
+|paper|code|
+|---|---|
+|[rtsnet: learning to smooth in partially known state-space models](https://arxiv.org/abs/2110.04717)|[rtsnet_tsp](https://github.com/kalmannet/rtsnet_tsp)|
+|[hkf: hierarchical kalman filtering with online learned evolution priors for adaptive ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
+|[outage performance and novel loss function for an ml-assisted resource allocation: an exact analytical framework](https://arxiv.org/abs/2305.09739)|[greedy-resource-allocation-outage-classification](https://github.com/ml4comms/greedy-resource-allocation-outage-classification)|
+|[source-free domain adaptation for ssvep-based brain-computer interfaces](https://arxiv.org/abs/2305.17403)|[sfda-ssvep-bci](https://github.com/osmanberke/sfda-ssvep-bci)|
+|[ro-map: real-time multi-object mapping with neural radiance fields](https://arxiv.org/abs/2304.05735)|[ro-map](https://github.com/xiaohan-git/ro-map)|
+|[geometric algebra transformer](https://arxiv.org/abs/2305.18415)|[geometric-algebra-transformer](https://github.com/qualcomm-ai-research/geometric-algebra-transformer)|
+|[a mixed-integer approach for motion planning of nonholonomic robots under visible light communication constraints](https://arxiv.org/abs/2306.15590)|[milp_vlc_motion_planning](https://gitlab.com/caregnato_neto_open/milp_vlc_motion_planning)|
+|[allsight: a low-cost and high-resolution round tactile sensor with zero-shot learning capability](https://arxiv.org/abs/2307.02928)|[allsight](https://github.com/osheraz/allsight)|
+|[learning and reusing primitive behaviours to improve hindsight experience replay sample efficiency](https://arxiv.org/abs/2310.01827)|[qmp-her](https://github.com/franroldans/qmp-her)|
+|[a language agent for autonomous driving](https://arxiv.org/abs/2311.10813)|[agent-driver](https://github.com/usc-gvl/agent-driver)|
+|[curriculumloc: enhancing cross-domain geolocalization through multi-stage refinement](https://arxiv.org/abs/2311.11604)|[curriculumloc](https://github.com/npupilab/curriculumloc)|
+|[sparse4d v3: advancing end-to-end 3d detection and tracking](https://arxiv.org/abs/2311.11722)|[sparse4d](https://github.com/linxuewu/sparse4d)|
+|[real-time surface-to-air missile engagement zone prediction using simulation and machine learning](https://arxiv.org/abs/2311.11905)|[sam-ez](https://github.com/jpadantas/sam-ez)|
 ## 2023-11-20
 |paper|code|
 |---|---|
+|[onboard dynamic-object detection and tracking for autonomous robot navigation with rgb-d camera](https://arxiv.org/abs/2303.00132)|[onboard_detector](https://github.com/zhefan-xu/onboard_detector)|
 |[tims: a tactile internet-based micromanipulation system with haptic guidance for surgical training](https://arxiv.org/abs/2303.03566)|[tims](https://github.com/leen-coding/tims)|
 |[model-based reinforcement learning with isolated imaginations](https://arxiv.org/abs/2303.14889)|[mbrl_with_isolated_imaginations](https://github.com/panmt/mbrl_with_isolated_imaginations)|
 |[tidybot: personalized robot assistance with large language models](https://arxiv.org/abs/2305.05658)|[tidybot](https://github.com/jimmyyhwu/tidybot)|
 |[prompt a robot to walk with large language models](https://arxiv.org/abs/2309.09969)|[prompt2walk](https://github.com/HybridRobotics/prompt2walk)|
+|[dimensionality reduction of dynamics on lie manifolds via structure-aware canonical correlation analysis](https://arxiv.org/abs/2311.10327)|[icca](https://github.com/jwk7/icca)|
+|[from concept to field tests: accelerated development of multi-auv missions using a high-fidelity faster-than-real-time simulator](https://arxiv.org/abs/2311.10377)|[lrauv](https://github.com/osrf/lrauv)|
 |[distilling and retrieving generalizable knowledge for robot manipulation via language corrections](https://arxiv.org/abs/2311.10678)|[droc](https://github.com/Stanford-ILIAD/droc)|
 ## 2023-11-17
 |paper|code|
