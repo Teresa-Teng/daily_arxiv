@@ -1,3 +1,11 @@
+## 2023-11-22
+|paper|code|
+|---|---|
+|[ssvep-dan: a data alignment network for ssvep-based brain computer interfaces](https://arxiv.org/abs/2311.12666)|[ssvep-dan](https://github.com/cecnl/ssvep-dan)|
+|[ergodic exploration using tensor train: applications in insertion tasks](https://arxiv.org/abs/2101.04428)|[Ergodic_Exploration_using_Tensor_Train](https://github.com/SuhanNShetty/Ergodic_Exploration_using_Tensor_Train)|
+|[formalizing and evaluating requirements of perception systems for automated vehicles using spatio-temporal perception logic](https://arxiv.org/abs/2206.14372)|[stpl](https://gitlab.com/vnv-tools/stpl)|
+|[swarm-slam : sparse decentralized collaborative simultaneous localization and mapping framework for multi-robot systems](https://arxiv.org/abs/2301.06230)|[swarm-slam](https://github.com/mistlab/swarm-slam)|
+|[large car-following data based on lyft level-5 open dataset: following autonomous vehicles vs. human-driven vehicles](https://arxiv.org/abs/2305.18921)|[car-following-dataset-hv-vs-av](https://github.com/romainlitud/car-following-dataset-hv-vs-av)|
 ## 2023-11-21
 |paper|code|
 |---|---|
@@ -10,7 +18,6 @@
 |[a mixed-integer approach for motion planning of nonholonomic robots under visible light communication constraints](https://arxiv.org/abs/2306.15590)|[milp_vlc_motion_planning](https://gitlab.com/caregnato_neto_open/milp_vlc_motion_planning)|
 |[allsight: a low-cost and high-resolution round tactile sensor with zero-shot learning capability](https://arxiv.org/abs/2307.02928)|[allsight](https://github.com/osheraz/allsight)|
 |[learning and reusing primitive behaviours to improve hindsight experience replay sample efficiency](https://arxiv.org/abs/2310.01827)|[qmp-her](https://github.com/franroldans/qmp-her)|
-|[a language agent for autonomous driving](https://arxiv.org/abs/2311.10813)|[agent-driver](https://github.com/usc-gvl/agent-driver)|
 |[curriculumloc: enhancing cross-domain geolocalization through multi-stage refinement](https://arxiv.org/abs/2311.11604)|[curriculumloc](https://github.com/npupilab/curriculumloc)|
 |[sparse4d v3: advancing end-to-end 3d detection and tracking](https://arxiv.org/abs/2311.11722)|[sparse4d](https://github.com/linxuewu/sparse4d)|
 |[real-time surface-to-air missile engagement zone prediction using simulation and machine learning](https://arxiv.org/abs/2311.11905)|[sam-ez](https://github.com/jpadantas/sam-ez)|
@@ -30,6 +37,7 @@
 |---|---|
 |[learning to reconstruct signals from binary measurements](https://arxiv.org/abs/2303.08691)|[ssbm](https://github.com/tachella/ssbm)|
 |[mitfas: mutual information based temporal feature alignment and sampling for aerial video action recognition](https://arxiv.org/abs/2303.02575)|[mitfas](https://github.com/ricky-xian/mitfas)|
+|[autonomous driving using spiking neural networks on dynamic vision sensor data: a case study of traffic light change detection](https://arxiv.org/abs/2311.09225)|[snn-dvs-carla](https://github.com/xueleichen/snn-dvs-carla)|
 |[flexible and adaptive manufacturing by complementing knowledge representation, reasoning and planning with reinforcement learning](https://arxiv.org/abs/2311.09353)|[skireil](https://github.com/matthias-mayr/skireil)|
 |[interpretable reinforcement learning for robotics and continuous control](https://arxiv.org/abs/2311.10041)|[icct](https://github.com/core-robotics-lab/icct)|
 ## 2023-11-16
