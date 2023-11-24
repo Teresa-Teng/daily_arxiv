@@ -1,3 +1,10 @@
+## 2023-11-23
+|paper|code|
+|---|---|
+|[symphonize 3d semantic scene completion with contextual instance queries](https://arxiv.org/abs/2306.15670)|[symphonies](https://github.com/hustvl/symphonies)|
+|[artifacts mapping: multi-modal semantic mapping for object detection and 3d localization](https://arxiv.org/abs/2307.01121)|[artifacts_mapping](https://github.com/federicorollo/artifacts_mapping)|
+|[a language agent for autonomous driving](https://arxiv.org/abs/2311.10813)|[agent-driver](https://github.com/usc-gvl/agent-driver)|
+|[applications of spiking neural networks in visual place recognition](https://arxiv.org/abs/2311.13186)|[vprsnn](https://github.com/qvpr/vprsnn)|
 ## 2023-11-22
 |paper|code|
 |---|---|
@@ -18,7 +25,10 @@
 |[a mixed-integer approach for motion planning of nonholonomic robots under visible light communication constraints](https://arxiv.org/abs/2306.15590)|[milp_vlc_motion_planning](https://gitlab.com/caregnato_neto_open/milp_vlc_motion_planning)|
 |[allsight: a low-cost and high-resolution round tactile sensor with zero-shot learning capability](https://arxiv.org/abs/2307.02928)|[allsight](https://github.com/osheraz/allsight)|
 |[learning and reusing primitive behaviours to improve hindsight experience replay sample efficiency](https://arxiv.org/abs/2310.01827)|[qmp-her](https://github.com/franroldans/qmp-her)|
+|[safe navigation: training autonomous vehicles using deep reinforcement learning in carla](https://arxiv.org/abs/2311.10735)|[safe-navigation-training-autonomous-vehicles-using-deep-reinforcement-learning-in-carla](https://github.com/tejas-deo/safe-navigation-training-autonomous-vehicles-using-deep-reinforcement-learning-in-carla)|
+|[proagent: from robotic process automation to agentic process automation](https://arxiv.org/abs/2311.10751)|[proagent](https://github.com/openbmb/proagent)|
 |[curriculumloc: enhancing cross-domain geolocalization through multi-stage refinement](https://arxiv.org/abs/2311.11604)|[curriculumloc](https://github.com/npupilab/curriculumloc)|
+|[msceqf: a multi state constraint equivariant filter for vision-aided inertial navigation](https://arxiv.org/abs/2311.11649)|[msceqf](https://github.com/aau-cns/msceqf)|
 |[sparse4d v3: advancing end-to-end 3d detection and tracking](https://arxiv.org/abs/2311.11722)|[sparse4d](https://github.com/linxuewu/sparse4d)|
 |[real-time surface-to-air missile engagement zone prediction using simulation and machine learning](https://arxiv.org/abs/2311.11905)|[sam-ez](https://github.com/jpadantas/sam-ez)|
 ## 2023-11-20
