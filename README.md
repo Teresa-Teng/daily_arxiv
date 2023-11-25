@@ -1,10 +1,14 @@
 ## 2023-11-23
 |paper|code|
 |---|---|
+|[applying dimensionality reduction as precursor to lstm-cnn models for classifying imagery and motor signals in ecog-based bcis](https://arxiv.org/abs/2311.13507)|[dim-reduction-with-cnn-lstm](https://github.com/bafanas/dim-reduction-with-cnn-lstm)|
 |[symphonize 3d semantic scene completion with contextual instance queries](https://arxiv.org/abs/2306.15670)|[symphonies](https://github.com/hustvl/symphonies)|
 |[artifacts mapping: multi-modal semantic mapping for object detection and 3d localization](https://arxiv.org/abs/2307.01121)|[artifacts_mapping](https://github.com/federicorollo/artifacts_mapping)|
 |[a language agent for autonomous driving](https://arxiv.org/abs/2311.10813)|[agent-driver](https://github.com/usc-gvl/agent-driver)|
+|[followme: a robust person following framework based on re-identification and gestures](https://arxiv.org/abs/2311.12992)|[followme](https://github.com/federicorollo/followme)|
+|[learning to fly in seconds](https://arxiv.org/abs/2311.13081)|[learning-to-fly](https://github.com/arplaboratory/learning-to-fly)|
 |[applications of spiking neural networks in visual place recognition](https://arxiv.org/abs/2311.13186)|[vprsnn](https://github.com/qvpr/vprsnn)|
+|[robot at the mirror: learning to imitate via associating self-supervised models](https://arxiv.org/abs/2311.13226)|[learningimitation](https://github.com/andylucny/learningimitation)|
 ## 2023-11-22
 |paper|code|
 |---|---|
@@ -13,6 +17,8 @@
 |[formalizing and evaluating requirements of perception systems for automated vehicles using spatio-temporal perception logic](https://arxiv.org/abs/2206.14372)|[stpl](https://gitlab.com/vnv-tools/stpl)|
 |[swarm-slam : sparse decentralized collaborative simultaneous localization and mapping framework for multi-robot systems](https://arxiv.org/abs/2301.06230)|[swarm-slam](https://github.com/mistlab/swarm-slam)|
 |[large car-following data based on lyft level-5 open dataset: following autonomous vehicles vs. human-driven vehicles](https://arxiv.org/abs/2305.18921)|[car-following-dataset-hv-vs-av](https://github.com/romainlitud/car-following-dataset-hv-vs-av)|
+|[autonomous exploration of unknown 3d environments using a frontier-based collector strategy](https://arxiv.org/abs/2311.12408)|[uav_frontier_based_collector](https://github.com/davidchangoluisa/uav_frontier_based_collector)|
+|[robust hole-detection in triangular meshes irrespective of the presence of singular vertices](https://arxiv.org/abs/2311.12466)|[hole-detection-on-triangle-mesh](https://github.com/mauhing/hole-detection-on-triangle-mesh)|
 ## 2023-11-21
 |paper|code|
 |---|---|
@@ -20,6 +26,7 @@
 |[hkf: hierarchical kalman filtering with online learned evolution priors for adaptive ecg denoising](https://arxiv.org/abs/2210.12807)|[hkf_icassp23](https://github.com/kalmannet/hkf_icassp23)|
 |[outage performance and novel loss function for an ml-assisted resource allocation: an exact analytical framework](https://arxiv.org/abs/2305.09739)|[greedy-resource-allocation-outage-classification](https://github.com/ml4comms/greedy-resource-allocation-outage-classification)|
 |[source-free domain adaptation for ssvep-based brain-computer interfaces](https://arxiv.org/abs/2305.17403)|[sfda-ssvep-bci](https://github.com/osmanberke/sfda-ssvep-bci)|
+|[non-iterative slam for warehouse robots using ground textures](https://arxiv.org/abs/1710.05502)|[ni-slam](https://github.com/sair-lab/ni-slam)|
 |[ro-map: real-time multi-object mapping with neural radiance fields](https://arxiv.org/abs/2304.05735)|[ro-map](https://github.com/xiaohan-git/ro-map)|
 |[geometric algebra transformer](https://arxiv.org/abs/2305.18415)|[geometric-algebra-transformer](https://github.com/qualcomm-ai-research/geometric-algebra-transformer)|
 |[a mixed-integer approach for motion planning of nonholonomic robots under visible light communication constraints](https://arxiv.org/abs/2306.15590)|[milp_vlc_motion_planning](https://gitlab.com/caregnato_neto_open/milp_vlc_motion_planning)|
