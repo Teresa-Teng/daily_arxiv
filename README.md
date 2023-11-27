@@ -34,7 +34,6 @@
 |[allsight: a low-cost and high-resolution round tactile sensor with zero-shot learning capability](https://arxiv.org/abs/2307.02928)|[allsight](https://github.com/osheraz/allsight)|
 |[learning and reusing primitive behaviours to improve hindsight experience replay sample efficiency](https://arxiv.org/abs/2310.01827)|[qmp-her](https://github.com/franroldans/qmp-her)|
 |[safe navigation: training autonomous vehicles using deep reinforcement learning in carla](https://arxiv.org/abs/2311.10735)|[safe-navigation-training-autonomous-vehicles-using-deep-reinforcement-learning-in-carla](https://github.com/tejas-deo/safe-navigation-training-autonomous-vehicles-using-deep-reinforcement-learning-in-carla)|
-|[proagent: from robotic process automation to agentic process automation](https://arxiv.org/abs/2311.10751)|[proagent](https://github.com/openbmb/proagent)|
 |[curriculumloc: enhancing cross-domain geolocalization through multi-stage refinement](https://arxiv.org/abs/2311.11604)|[curriculumloc](https://github.com/npupilab/curriculumloc)|
 |[msceqf: a multi state constraint equivariant filter for vision-aided inertial navigation](https://arxiv.org/abs/2311.11649)|[msceqf](https://github.com/aau-cns/msceqf)|
 |[sparse4d v3: advancing end-to-end 3d detection and tracking](https://arxiv.org/abs/2311.11722)|[sparse4d](https://github.com/linxuewu/sparse4d)|
