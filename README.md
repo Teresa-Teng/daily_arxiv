@@ -1,3 +1,17 @@
+## 2023-11-27
+|paper|code|
+|---|---|
+|[non-stationary transformers: exploring the stationarity in time series forecasting](https://arxiv.org/abs/2205.14415)|[Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers)|
+|[windformer:bi-directional long-distance spatio-temporal network for wind speed prediction](https://arxiv.org/abs/2311.14316)|[windformer](https://github.com/szwszwszw123/windformer)|
+|[cmx: cross-modal fusion for rgb-x semantic segmentation with transformers](https://arxiv.org/abs/2203.04838)|[rgbx_semantic_segmentation](https://github.com/huaaaliu/rgbx_semantic_segmentation)|
+|[visual dexterity: in-hand reorientation of novel and complex object shapes](https://arxiv.org/abs/2211.11744)|[dexenv](https://github.com/Improbable-AI/dexenv)|
+|[implicit shape model trees: recognition of 3-d indoor scenes and prediction of object poses for mobile robots](https://arxiv.org/abs/2301.10672)|[asr-ros-pkg](https://github.com/asr-ros/asr-ros-pkg)|
+|[onboard dynamic-object detection and tracking for autonomous robot navigation with rgb-d camera](https://arxiv.org/abs/2303.00132)|[onboard_detector](https://github.com/zhefan-xu/onboard_detector)|
+|[radar-camera fusion for object detection and semantic segmentation in autonomous driving: a comprehensive review](https://arxiv.org/abs/2304.10410)|[Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion)|
+|[proagent: from robotic process automation to agentic process automation](https://arxiv.org/abs/2311.10751)|[proagent](https://github.com/openbmb/proagent)|
+|[mobile-seed: joint semantic segmentation and boundary detection for mobile robots](https://arxiv.org/abs/2311.12651)|[mobile-seed](https://github.com/whu-usi3dv/mobile-seed)|
+|[low latency instance segmentation by continuous clustering for rotating lidar sensors](https://arxiv.org/abs/2311.13976)|[continuous_clustering](https://github.com/unibwtas/continuous_clustering)|
+|[racing with ros 2 a navigation system for an autonomous formula student race car](https://arxiv.org/abs/2311.14276)|[qutms_nav_integration](https://github.com/qut-motorsport/qutms_nav_integration)|
 ## 2023-11-23
 |paper|code|
 |---|---|
