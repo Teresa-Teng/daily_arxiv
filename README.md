@@ -1,7 +1,22 @@
+## 2023-11-28
+|paper|code|
+|---|---|
+|[towards interpretable sleep stage classification using cross-modal transformers](https://arxiv.org/abs/2208.06991)|[cross-modal-transformer](https://github.com/jathurshan0330/cross-modal-transformer)|
+|[a distributed block-split gibbs sampler with hypergraph structure for high-dimensional inverse problems](https://arxiv.org/abs/2210.02341)|[dsgs](https://gitlab.cristal.univ-lille.fr/pthouven/dsgs)|
+|[optimal discrete beamforming of ris-aided wireless communications: an inner product maximization approach](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[mpcnn: a novel matrix profile approach for cnn-based sleep apnea classification](https://arxiv.org/abs/2311.15041)|[mpcnn-sleep-apnea](https://github.com/vinuni-vishc/mpcnn-sleep-apnea)|
+|[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
+|[collaborative target search with a visual drone swarm: an adaptive curriculum embedded multistage reinforcement learning approach](https://arxiv.org/abs/2204.12181)|[cts-visual-drone-swarm](https://github.com/ntu-uavg/cts-visual-drone-swarm)|
+|[g-pecnet: towards a generalizable pedestrian trajectory prediction system](https://arxiv.org/abs/2210.09846)|[pecnet-pedestrian-trajectory-prediction](https://github.com/aryan-garg/pecnet-pedestrian-trajectory-prediction)|
+|[dounseen: tuning-free class-adaptive object detection of unseen objects for robotic grasping](https://arxiv.org/abs/2304.02833)|[image_agnostic_segmentation](https://github.com/AnasIbrahim/image_agnostic_segmentation)|
+|[automatic robot hand-eye calibration enabled by learning-based 3d vision](https://arxiv.org/abs/2311.01335)|[lrbo](https://github.com/leihui6/lrbo)|
+|[on bringing robots home](https://arxiv.org/abs/2311.16098)|[dobb-e](https://github.com/notmahi/dobb-e)|
 ## 2023-11-27
 |paper|code|
 |---|---|
 |[non-stationary transformers: exploring the stationarity in time series forecasting](https://arxiv.org/abs/2205.14415)|[Nonstationary_Transformers](https://github.com/thuml/Nonstationary_Transformers)|
+|[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
 |[windformer:bi-directional long-distance spatio-temporal network for wind speed prediction](https://arxiv.org/abs/2311.14316)|[windformer](https://github.com/szwszwszw123/windformer)|
 |[cmx: cross-modal fusion for rgb-x semantic segmentation with transformers](https://arxiv.org/abs/2203.04838)|[rgbx_semantic_segmentation](https://github.com/huaaaliu/rgbx_semantic_segmentation)|
 |[visual dexterity: in-hand reorientation of novel and complex object shapes](https://arxiv.org/abs/2211.11744)|[dexenv](https://github.com/Improbable-AI/dexenv)|
@@ -10,6 +25,8 @@
 |[radar-camera fusion for object detection and semantic segmentation in autonomous driving: a comprehensive review](https://arxiv.org/abs/2304.10410)|[Awesome-Radar-Camera-Fusion](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion)|
 |[proagent: from robotic process automation to agentic process automation](https://arxiv.org/abs/2311.10751)|[proagent](https://github.com/openbmb/proagent)|
 |[mobile-seed: joint semantic segmentation and boundary detection for mobile robots](https://arxiv.org/abs/2311.12651)|[mobile-seed](https://github.com/whu-usi3dv/mobile-seed)|
+|[recursive rigid-body dynamics algorithms for systems with kinematic loops](https://arxiv.org/abs/2311.13732)|[generalized_rbda](https://github.com/roam-lab-nd/generalized_rbda)|
+|[data-driven robot fault detection and diagnosis using generative models: a modified sfdd algorithm](https://arxiv.org/abs/2311.13866)|[generative-model-fdd](https://github.com/alex-mitrevski/generative-model-fdd)|
 |[low latency instance segmentation by continuous clustering for rotating lidar sensors](https://arxiv.org/abs/2311.13976)|[continuous_clustering](https://github.com/unibwtas/continuous_clustering)|
 |[racing with ros 2 a navigation system for an autonomous formula student race car](https://arxiv.org/abs/2311.14276)|[qutms_nav_integration](https://github.com/qut-motorsport/qutms_nav_integration)|
 ## 2023-11-23
