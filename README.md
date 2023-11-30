@@ -1,3 +1,14 @@
+## 2023-11-29
+|paper|code|
+|---|---|
+|[foundations of user-centric cell-free massive mimo](https://arxiv.org/abs/2108.02541)|[cell-free-book](https://github.com/emilbjornson/cell-free-book)|
+|[robust mader: decentralized multiagent trajectory planner robust to communication delay in dynamic environments](https://arxiv.org/abs/2303.06222)|[rmader](https://github.com/mit-acl/rmader)|
+|[event-free moving object segmentation from moving ego vehicle](https://arxiv.org/abs/2305.00126)|[dsec-mos](https://github.com/zzy-zhou/dsec-mos)|
+|[sim-suction: learning a suction grasp policy for cluttered environments using a synthetic benchmark](https://arxiv.org/abs/2305.16378)|[Sim-Suction-API](https://github.com/junchengli1/Sim-Suction-API)|
+|[towards end-to-end embodied decision making via multi-modal large language model: explorations with gpt4-vision and beyond](https://arxiv.org/abs/2310.02071)|[pca-eval](https://github.com/pkunlp-icler/pca-eval)|
+|[on the road with gpt-4v(ision): early explorations of visual-language model on autonomous driving](https://arxiv.org/abs/2311.05332)|[gpt4v-ad-exploration](https://github.com/pjlab-adg/gpt4v-ad-exploration)|
+|[visual semantic navigation with real robots](https://arxiv.org/abs/2311.16623)|[ros4vsn](https://github.com/gramuah/ros4vsn)|
+|[ugg: unified generative grasping](https://arxiv.org/abs/2311.16917)|[shape_as_points](https://github.com/autonomousvision/shape_as_points)|
 ## 2023-11-28
 |paper|code|
 |---|---|
@@ -5,12 +16,14 @@
 |[a distributed block-split gibbs sampler with hypergraph structure for high-dimensional inverse problems](https://arxiv.org/abs/2210.02341)|[dsgs](https://gitlab.cristal.univ-lille.fr/pthouven/dsgs)|
 |[optimal discrete beamforming of ris-aided wireless communications: an inner product maximization approach](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
 |[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[robust joint estimation of galaxy redshift and spectral templates using online dictionary learning](https://arxiv.org/abs/2311.14812)|[bryanetal2023](https://github.com/hyperspectraldictionarylearning/bryanetal2023)|
 |[mpcnn: a novel matrix profile approach for cnn-based sleep apnea classification](https://arxiv.org/abs/2311.15041)|[mpcnn-sleep-apnea](https://github.com/vinuni-vishc/mpcnn-sleep-apnea)|
 |[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
 |[collaborative target search with a visual drone swarm: an adaptive curriculum embedded multistage reinforcement learning approach](https://arxiv.org/abs/2204.12181)|[cts-visual-drone-swarm](https://github.com/ntu-uavg/cts-visual-drone-swarm)|
 |[g-pecnet: towards a generalizable pedestrian trajectory prediction system](https://arxiv.org/abs/2210.09846)|[pecnet-pedestrian-trajectory-prediction](https://github.com/aryan-garg/pecnet-pedestrian-trajectory-prediction)|
 |[dounseen: tuning-free class-adaptive object detection of unseen objects for robotic grasping](https://arxiv.org/abs/2304.02833)|[image_agnostic_segmentation](https://github.com/AnasIbrahim/image_agnostic_segmentation)|
 |[automatic robot hand-eye calibration enabled by learning-based 3d vision](https://arxiv.org/abs/2311.01335)|[lrbo](https://github.com/leihui6/lrbo)|
+|[mot-detr: 3d single shot detection and tracking with transformers to build 3d representations for agro-food robots](https://arxiv.org/abs/2311.15674)|[mot-detr](https://github.com/drapado/mot-detr)|
 |[on bringing robots home](https://arxiv.org/abs/2311.16098)|[dobb-e](https://github.com/notmahi/dobb-e)|
 ## 2023-11-27
 |paper|code|
