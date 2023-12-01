@@ -1,3 +1,13 @@
+## 2023-11-30
+|paper|code|
+|---|---|
+|[zero-shot self-supervised learning for mri reconstruction](https://arxiv.org/abs/2102.07737)|[ZS-SSL](https://github.com/byaman14/ZS-SSL)|
+|[fast and expressive gesture recognition using a combination-homomorphic electromyogram encoder](https://arxiv.org/abs/2311.14675)|[com-hom-emg](https://github.com/nik-sm/com-hom-emg)|
+|[intelligent robotic sonographer: mutual information-based disentangled reward learning from few demonstrations](https://arxiv.org/abs/2307.03705)|[mi-gpsr](https://github.com/yuan-12138/mi-gpsr)|
+|[anyloc: towards universal visual place recognition](https://arxiv.org/abs/2308.00688)|[AnyLoc](https://github.com/AnyLoc/AnyLoc)|
+|[a counterfactual safety margin perspective on the scoring of autonomous vehicles' riskiness](https://arxiv.org/abs/2308.01050)|[dg-commons](https://github.com/idsc-frazzoli/dg-commons)|
+|[diffusion-edfs: bi-equivariant denoising generative modeling on se(3) for visual robotic manipulation](https://arxiv.org/abs/2309.02685)|[diffusion_edf](https://github.com/tomato1mule/diffusion_edf)|
+|[a language agent for autonomous driving](https://arxiv.org/abs/2311.10813)|[agent-driver](https://github.com/usc-gvl/agent-driver)|
 ## 2023-11-29
 |paper|code|
 |---|---|
