@@ -1,3 +1,8 @@
+## 2023-12-01
+|paper|code|
+|---|---|
+|[integrated behavior planning and motion control for autonomous vehicles with traffic rules compliance](https://arxiv.org/abs/2304.01041)|[optimization-based-idmc_carla](https://github.com/hkust-jm/optimization-based-idmc_carla)|
+|[locomujoco: a comprehensive imitation learning benchmark for locomotion](https://arxiv.org/abs/2311.02496)|[loco-mujoco](https://github.com/robfiras/loco-mujoco)|
 ## 2023-11-30
 |paper|code|
 |---|---|
