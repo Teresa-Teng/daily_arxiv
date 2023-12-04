@@ -1,8 +1,13 @@
 ## 2023-12-01
 |paper|code|
 |---|---|
+|[2d signal estimation for sparse distributed target photon counting data](https://arxiv.org/abs/2311.18037)|[signal-estimation-sparse-data](https://github.com/ncar/signal-estimation-sparse-data)|
 |[integrated behavior planning and motion control for autonomous vehicles with traffic rules compliance](https://arxiv.org/abs/2304.01041)|[optimization-based-idmc_carla](https://github.com/hkust-jm/optimization-based-idmc_carla)|
 |[locomujoco: a comprehensive imitation learning benchmark for locomotion](https://arxiv.org/abs/2311.02496)|[loco-mujoco](https://github.com/robfiras/loco-mujoco)|
+|[relu-qp: a gpu-accelerated quadratic programming solver for model-predictive control](https://arxiv.org/abs/2311.18056)|[reluqp.jl](https://github.com/roboticexplorationlab/reluqp.jl)|
+|[dismech: a discrete differential geometry-based physical simulator for soft robots and structures](https://arxiv.org/abs/2311.18126)|[dismech-rods](https://github.com/structurescomp/dismech-rods)|
+|[openmore: an open-source tool for sampling-based path replanning in ros](https://arxiv.org/abs/2311.18406)|[openmore](https://github.com/jrl-cari-cnr-unibs/openmore)|
+|[cls-cad: synthesizing cad assemblies in fusion 360](https://arxiv.org/abs/2311.18492)|[cls-cad](https://github.com/tudo-seal/cls-cad)|
 ## 2023-11-30
 |paper|code|
 |---|---|
