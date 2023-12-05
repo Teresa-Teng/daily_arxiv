@@ -1,3 +1,9 @@
+## 2023-12-04
+|paper|code|
+|---|---|
+|[deepjscc-l++: robust and bandwidth-adaptive wireless image transmission](https://arxiv.org/abs/2305.13161)|[deepjscc-lplusplus](https://github.com/aprilbian/deepjscc-lplusplus)|
+|[isac 4d imaging system based on 5g downlink millimeter wave signal](https://arxiv.org/abs/2310.06401)|[ISAC_4D_IMaging](https://github.com/MrHaobolu/ISAC_4D_IMaging)|
+|[rethinking event-based human pose estimation with 3d event representations](https://arxiv.org/abs/2311.04591)|[eventpointpose](https://github.com/masterhow/eventpointpose)|
 ## 2023-12-01
 |paper|code|
 |---|---|
@@ -22,7 +28,6 @@
 |paper|code|
 |---|---|
 |[foundations of user-centric cell-free massive mimo](https://arxiv.org/abs/2108.02541)|[cell-free-book](https://github.com/emilbjornson/cell-free-book)|
-|[robust mader: decentralized multiagent trajectory planner robust to communication delay in dynamic environments](https://arxiv.org/abs/2303.06222)|[rmader](https://github.com/mit-acl/rmader)|
 |[event-free moving object segmentation from moving ego vehicle](https://arxiv.org/abs/2305.00126)|[dsec-mos](https://github.com/zzy-zhou/dsec-mos)|
 |[sim-suction: learning a suction grasp policy for cluttered environments using a synthetic benchmark](https://arxiv.org/abs/2305.16378)|[Sim-Suction-API](https://github.com/junchengli1/Sim-Suction-API)|
 |[towards end-to-end embodied decision making via multi-modal large language model: explorations with gpt4-vision and beyond](https://arxiv.org/abs/2310.02071)|[pca-eval](https://github.com/pkunlp-icler/pca-eval)|
