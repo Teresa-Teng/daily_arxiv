@@ -1,3 +1,19 @@
+## 2023-12-05
+|paper|code|
+|---|---|
+|[w-transformers : a wavelet-based transformer framework for univariate time series forecasting](https://arxiv.org/abs/2209.03945)|[w-transformer](https://github.com/capwidow/w-transformer)|
+|[ensemble machine learning model trained on a new synthesized dataset generalizes well for stress prediction using wearable devices](https://arxiv.org/abs/2209.15146)|[stress](https://github.com/xalentis/stress)|
+|[a generalized bandsplit neural network for cinematic audio source separation](https://arxiv.org/abs/2309.02539)|[bandit](https://github.com/karnwatcharasupat/bandit)|
+|[fast and robust sparsity-aware block diagonal representation](https://arxiv.org/abs/2312.01137)|[frs-bdr](https://github.com/a-tastan/frs-bdr)|
+|[robust mader: decentralized multiagent trajectory planner robust to communication delay in dynamic environments](https://arxiv.org/abs/2303.06222)|[rmader](https://github.com/mit-acl/rmader)|
+|[robopianist: dexterous piano playing with deep reinforcement learning](https://arxiv.org/abs/2304.04150)|[robopianist](https://github.com/google-research/robopianist)|
+|[time-optimal path planning in a constant wind for uncrewed aerial vehicles using dubins set classification](https://arxiv.org/abs/2306.11845)|[trochoids](https://github.com/castacks/trochoids)|
+|[sampling-based model predictive control leveraging parallelizable physics simulations](https://arxiv.org/abs/2307.09105)|[mppi-isaac](https://github.com/tud-airlab/mppi-isaac)|
+|[recent advances in path integral control for trajectory optimization: an overview in theoretical and algorithmic perspectives](https://arxiv.org/abs/2309.12566)|[an-overview-on-recent-advances-in-path-integral-control](https://github.com/inha-autonomous-systems-laboratory-asl/an-overview-on-recent-advances-in-path-integral-control)|
+|[deep learning for optimization of trajectories for quadrotors](https://arxiv.org/abs/2309.15191)|[allocnet](https://github.com/yuwei-wu/allocnet)|
+|[planning as in-painting: a diffusion-based embodied task planning framework for environments under uncertainty](https://arxiv.org/abs/2312.01097)|[planning-as-inpainting](https://github.com/joeyy5588/planning-as-inpainting)|
+|[paved2paradise: cost-effective and scalable lidar simulation by factoring the real world](https://arxiv.org/abs/2312.01117)|[paved2paradise](https://github.com/airalcorn2/paved2paradise)|
+|[energy-based potential games for joint motion forecasting and control](https://arxiv.org/abs/2312.01811)|[diff_epo_planner](https://github.com/rst-tu-dortmund/diff_epo_planner)|
 ## 2023-12-04
 |paper|code|
 |---|---|
