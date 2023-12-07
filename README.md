@@ -1,3 +1,16 @@
+## 2023-12-06
+|paper|code|
+|---|---|
+|[distributed two-tier drl framework for cell-free network: association, beamforming and power allocation](https://arxiv.org/abs/2303.12479)|[dhdrl](https://github.com/kiven-ykw/dhdrl)|
+|[faultformer: transformer-based prediction of bearing faults](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[mirror-descent inverse kinematics for box-constrained joint space](https://arxiv.org/abs/2101.07625)|[mdik](https://github.com/kbys-t/mdik)|
+|[bayesian soft actor-critic: a directed acyclic strategy graph based deep reinforcement learning](https://arxiv.org/abs/2208.06033)|[bayesian-soft-actor-critic--bsac](https://github.com/rickyang2016/bayesian-soft-actor-critic--bsac)|
+|[a framework for neurosymbolic robot action planning using large language models](https://arxiv.org/abs/2303.00438)|[teriyaki](https://github.com/alessiocpt/teriyaki)|
+|[value functions are control barrier functions: verification of safe policies using control theory](https://arxiv.org/abs/2306.04026)|[rl_cbf](https://github.com/dtch1997/rl_cbf)|
+|[stackelberg driver model for continual policy improvement in scenario-based closed-loop autonomous driving](https://arxiv.org/abs/2309.14235)|[SDM](https://github.com/BlueCat-de/SDM)|
+|[gpt-driver: learning to drive with gpt](https://arxiv.org/abs/2310.01415)|[gpt-driver](https://github.com/pointscoder/gpt-driver)|
+|[real-time surface-to-air missile engagement zone prediction using simulation and machine learning](https://arxiv.org/abs/2311.11905)|[sam-ez](https://github.com/jpadantas/sam-ez)|
+|[unsupervised change detection for space habitats using 3d point clouds](https://arxiv.org/abs/2312.02396)|[isaac](https://github.com/nasa/isaac)|
 ## 2023-12-05
 |paper|code|
 |---|---|
