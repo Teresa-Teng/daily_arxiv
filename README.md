@@ -1,8 +1,15 @@
+## 2023-12-07
+|paper|code|
+|---|---|
+|[fastpillars: a deployment-friendly pillar-based 3d detector](https://arxiv.org/abs/2302.02367)|[FastPillars](https://github.com/StiphyJay/FastPillars)|
+|[continual driving policy optimization with closed-loop individualized curricula](https://arxiv.org/abs/2309.14209)|[CLIC](https://github.com/YizhouXu-THU/CLIC)|
 ## 2023-12-06
 |paper|code|
 |---|---|
 |[distributed two-tier drl framework for cell-free network: association, beamforming and power allocation](https://arxiv.org/abs/2303.12479)|[dhdrl](https://github.com/kiven-ykw/dhdrl)|
+|[spectral temporal graph neural network for massive mimo csi prediction](https://arxiv.org/abs/2312.02159)|[csi-prediction](https://github.com/sharanmourya/csi-prediction)|
 |[faultformer: transformer-based prediction of bearing faults](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
 |[mirror-descent inverse kinematics for box-constrained joint space](https://arxiv.org/abs/2101.07625)|[mdik](https://github.com/kbys-t/mdik)|
 |[bayesian soft actor-critic: a directed acyclic strategy graph based deep reinforcement learning](https://arxiv.org/abs/2208.06033)|[bayesian-soft-actor-critic--bsac](https://github.com/rickyang2016/bayesian-soft-actor-critic--bsac)|
 |[a framework for neurosymbolic robot action planning using large language models](https://arxiv.org/abs/2303.00438)|[teriyaki](https://github.com/alessiocpt/teriyaki)|
@@ -10,7 +17,11 @@
 |[stackelberg driver model for continual policy improvement in scenario-based closed-loop autonomous driving](https://arxiv.org/abs/2309.14235)|[SDM](https://github.com/BlueCat-de/SDM)|
 |[gpt-driver: learning to drive with gpt](https://arxiv.org/abs/2310.01415)|[gpt-driver](https://github.com/pointscoder/gpt-driver)|
 |[real-time surface-to-air missile engagement zone prediction using simulation and machine learning](https://arxiv.org/abs/2311.11905)|[sam-ez](https://github.com/jpadantas/sam-ez)|
+|[using human and robot synthetic data for training smart hand tools](https://arxiv.org/abs/2312.01550)|[smart-tools](https://github.com/utaustin-swarmlab/smart-tools)|
+|[efficient 2d graph slam for sparse sensing](https://arxiv.org/abs/2312.02353)|[sparse-gslam](https://github.com/shiftlab-nanodrone/sparse-gslam)|
 |[unsupervised change detection for space habitats using 3d point clouds](https://arxiv.org/abs/2312.02396)|[isaac](https://github.com/nasa/isaac)|
+|[6d assembly pose estimation by point cloud registration for robot manipulation](https://arxiv.org/abs/2312.02593)|[6dapose](https://github.com/kulunuos/6dapose)|
+|[automatic robot path planning for visual inspection from object shape](https://arxiv.org/abs/2312.02603)|[auto-path-planner](https://github.com/curiouslad1000/auto-path-planner)|
 ## 2023-12-05
 |paper|code|
 |---|---|
@@ -18,14 +29,18 @@
 |[ensemble machine learning model trained on a new synthesized dataset generalizes well for stress prediction using wearable devices](https://arxiv.org/abs/2209.15146)|[stress](https://github.com/xalentis/stress)|
 |[a generalized bandsplit neural network for cinematic audio source separation](https://arxiv.org/abs/2309.02539)|[bandit](https://github.com/karnwatcharasupat/bandit)|
 |[fast and robust sparsity-aware block diagonal representation](https://arxiv.org/abs/2312.01137)|[frs-bdr](https://github.com/a-tastan/frs-bdr)|
+|[towards decentralized task offloading and resource allocation in user-centric mobile edge computing](https://arxiv.org/abs/2312.01499)|[ucmec-mmwave-fronthaul](https://github.com/qlt315/ucmec-mmwave-fronthaul)|
+|[augmenting channel charting with classical wireless source localization techniques](https://arxiv.org/abs/2312.01968)|[toa-aoa-augmented-channelcharting](https://github.com/jeija/toa-aoa-augmented-channelcharting)|
 |[robust mader: decentralized multiagent trajectory planner robust to communication delay in dynamic environments](https://arxiv.org/abs/2303.06222)|[rmader](https://github.com/mit-acl/rmader)|
 |[robopianist: dexterous piano playing with deep reinforcement learning](https://arxiv.org/abs/2304.04150)|[robopianist](https://github.com/google-research/robopianist)|
 |[time-optimal path planning in a constant wind for uncrewed aerial vehicles using dubins set classification](https://arxiv.org/abs/2306.11845)|[trochoids](https://github.com/castacks/trochoids)|
 |[sampling-based model predictive control leveraging parallelizable physics simulations](https://arxiv.org/abs/2307.09105)|[mppi-isaac](https://github.com/tud-airlab/mppi-isaac)|
 |[recent advances in path integral control for trajectory optimization: an overview in theoretical and algorithmic perspectives](https://arxiv.org/abs/2309.12566)|[an-overview-on-recent-advances-in-path-integral-control](https://github.com/inha-autonomous-systems-laboratory-asl/an-overview-on-recent-advances-in-path-integral-control)|
-|[deep learning for optimization of trajectories for quadrotors](https://arxiv.org/abs/2309.15191)|[allocnet](https://github.com/yuwei-wu/allocnet)|
+|[deep learning for optimization of trajectories for quadrotors](https://arxiv.org/abs/2309.15191)|[allocnet](https://github.com/kumarrobotics/allocnet)|
+|[a review of communicating robot learning during human-robot interaction](https://arxiv.org/abs/2312.00948)|[communicating-robot-learning](https://github.com/vt-collab/communicating-robot-learning)|
 |[planning as in-painting: a diffusion-based embodied task planning framework for environments under uncertainty](https://arxiv.org/abs/2312.01097)|[planning-as-inpainting](https://github.com/joeyy5588/planning-as-inpainting)|
 |[paved2paradise: cost-effective and scalable lidar simulation by factoring the real world](https://arxiv.org/abs/2312.01117)|[paved2paradise](https://github.com/airalcorn2/paved2paradise)|
+|[stream: software tool for routing efficiently advanced macrofluidics](https://arxiv.org/abs/2312.01130)|[fluidlogic](https://github.com/roboticmaterialsgroup/fluidlogic)|
 |[energy-based potential games for joint motion forecasting and control](https://arxiv.org/abs/2312.01811)|[diff_epo_planner](https://github.com/rst-tu-dortmund/diff_epo_planner)|
 ## 2023-12-04
 |paper|code|
