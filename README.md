@@ -1,3 +1,16 @@
+## 2023-12-08
+|paper|code|
+|---|---|
+|[neural network based generation of a 1-dimensional stochastic field with turbulent velocity statistics](https://arxiv.org/abs/2211.11580)|[nn-turb](https://github.com/cgranerob/nn-turb)|
+|[low-complexity subspace-descent over symmetric positive definite manifold](https://arxiv.org/abs/2305.02041)|[subspace_descent_over_SPD_manifold](https://github.com/yogeshd-iitk/subspace_descent_over_SPD_manifold)|
+|[domain invariant representation learning and sleep dynamics modeling for automatic sleep staging](https://arxiv.org/abs/2312.03196)|[dream](https://github.com/yeon-lab/dream)|
+|[a scalable and generalizable pathloss map prediction](https://arxiv.org/abs/2312.03950)|[pmnet](https://github.com/abman23/pmnet)|
+|[antifragile control systems: the case of mobile robot trajectory tracking in the presence of uncertainty](https://arxiv.org/abs/2302.05117)|[antifragile-robot-control](https://gitlab.com/akii-microlab/antifragile-robot-control)|
+|[towards autonomous system: flexible modular production system enhanced with large language model agents](https://arxiv.org/abs/2304.14721)|[gpt4industrialautomation](https://github.com/yuchenxia/gpt4industrialautomation)|
+|[d2s: representing local descriptors and global scene coordinates for camera relocalization](https://arxiv.org/abs/2307.15250)|[feat2map](https://github.com/ais-lab/feat2map)|
+|[bm2cp: efficient collaborative perception with lidar-camera modalities](https://arxiv.org/abs/2310.14702)|[bm2cp](https://github.com/byzhaoai/bm2cp)|
+|[towards knowledge-driven autonomous driving](https://arxiv.org/abs/2312.04316)|[awesome-knowledge-driven-ad](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)|
+|[frnet: frustum-range networks for scalable lidar segmentation](https://arxiv.org/abs/2312.04484)|[FRNet](https://github.com/Xiangxu-0103/FRNet)|
 ## 2023-12-07
 |paper|code|
 |---|---|
