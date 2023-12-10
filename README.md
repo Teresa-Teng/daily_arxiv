@@ -10,6 +10,7 @@
 |[d2s: representing local descriptors and global scene coordinates for camera relocalization](https://arxiv.org/abs/2307.15250)|[feat2map](https://github.com/ais-lab/feat2map)|
 |[bm2cp: efficient collaborative perception with lidar-camera modalities](https://arxiv.org/abs/2310.14702)|[bm2cp](https://github.com/byzhaoai/bm2cp)|
 |[towards knowledge-driven autonomous driving](https://arxiv.org/abs/2312.04316)|[awesome-knowledge-driven-ad](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)|
+|[semi-supervised active learning for semantic segmentation in unknown environments using informative path planning](https://arxiv.org/abs/2312.04402)|[ipp-ssl](https://github.com/dmar-bonn/ipp-ssl)|
 |[frnet: frustum-range networks for scalable lidar segmentation](https://arxiv.org/abs/2312.04484)|[FRNet](https://github.com/Xiangxu-0103/FRNet)|
 ## 2023-12-07
 |paper|code|
