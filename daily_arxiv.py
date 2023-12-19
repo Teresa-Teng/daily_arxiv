@@ -108,8 +108,7 @@ if __name__ == "__main__":
         # you can add the categories in cats "eess":["eess.SP"],
         cats = {
             "eess":["eess.SP"],    
-            "cs":["cs.RO"]
-    }
+            "cs":["cs.RO"] }
         data = get_daily_code(day,cats)
         data_all.append(data)
     update_daily_json("daily.json",data_all)
