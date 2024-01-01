@@ -1,3 +1,51 @@
+## 2023-12-29
+|paper|code|
+|---|---|
+|[gasper: graph signal processing in r](https://arxiv.org/abs/2007.10642)|[SGWT-SURE](https://github.com/fabnavarro/SGWT-SURE)|
+|[robust kalman filters based on the sub-gaussian $\alpha$-stable distribution](https://arxiv.org/abs/2305.07890)|[robust-kalman-filters-based-on-the-sub-gaussian-alpha-stable-distribution](https://github.com/pengchengh/robust-kalman-filters-based-on-the-sub-gaussian-alpha-stable-distribution)|
+|[robofisense: attention-based robotic arm activity recognition with wifi sensing](https://arxiv.org/abs/2312.15345)|[robofisense](https://github.com/siamilab/robofisense)|
+|[a generalization of the convolution theorem and its connections to non-stationarity and the graph frequency domain](https://arxiv.org/abs/2312.16922)|[genconv](https://github.com/albertonat/genconv)|
+|[efficient physics-based learned reconstruction methods for real-time 3d near-field mimo radar imaging](https://arxiv.org/abs/2312.16959)|[efficient-learned-3d-near-field-mimo-imaging](https://github.com/metu-space-lab/efficient-learned-3d-near-field-mimo-imaging)|
+|[dcl-slam: a distributed collaborative lidar slam framework for a robotic swarm](https://arxiv.org/abs/2210.11978)|[dcl-slam](https://github.com/pengyu-team/dcl-slam)|
+|[neural grasp distance fields for robot manipulation](https://arxiv.org/abs/2211.02647)|[NGDF](https://github.com/facebookresearch/NGDF)|
+|[liwo: lidar-inertial-wheel odometry](https://arxiv.org/abs/2302.14298)|[liw_oam](https://github.com/ZikangYuan/liw_oam)|
+|[sky-gvins: a sky-segmentation aided gnss-visual-inertial system for robust navigation in urban canyons](https://arxiv.org/abs/2304.04007)|[sky-gvins](https://github.com/sjtu-visys/sky-gvins)|
+|[mini-behavior: a procedurally generated benchmark for long-horizon decision-making in embodied ai](https://arxiv.org/abs/2310.01824)|[mini_behavior](https://github.com/stanfordvl/mini_behavior)|
+|[towards knowledge-driven autonomous driving](https://arxiv.org/abs/2312.04316)|[awesome-knowledge-driven-ad](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)|
+|[clustered orienteering problem with subgroups](https://arxiv.org/abs/2312.16154)|[cops](https://github.com/verlab/cops)|
+|[generalizable visual reinforcement learning with segment anything model](https://arxiv.org/abs/2312.17116)|[sam-g](https://github.com/wadiuvatzy/sam-g)|
+## 2023-12-27
+|paper|code|
+|---|---|
+|[nuv-doa: nuv prior-based bayesian sparse reconstruction with spatial filtering for super-resolution doa estimation](https://arxiv.org/abs/2309.03114)|[ICASSP24-NUV-DoA](https://github.com/MengyuanZha0/ICASSP24-NUV-DoA)|
+|[sparsity-aware distributed learning for gaussian processes with linear multiple kernel](https://arxiv.org/abs/2309.08201)|[distributed-gsm](https://github.com/richardcsuwandi/distributed-gsm)|
+|[ensemble kalman filtering-aided variational inference for gaussian process state-space models](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[harmonics of learning: universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550)|[spectral-universality](https://github.com/sophiaas/spectral-universality)|
+|[a refining underlying information framework for monaural speech enhancement](https://arxiv.org/abs/2312.11201)|[rui_se](https://github.com/caoruitju/rui_se)|
+|[robust stochastically-descending unrolled networks](https://arxiv.org/abs/2312.15788)|[unrolledglow](https://github.com/smrhadou/unrolledglow)|
+|[transkd: transformer knowledge distillation for efficient semantic segmentation](https://arxiv.org/abs/2202.13393)|[transkd](https://github.com/ruipingl/transkd)|
+|[enhancing generalizable 6d pose tracking of an in-hand object with tactile sensing](https://arxiv.org/abs/2210.04026)|[teg-track](https://github.com/leolyliu/teg-track)|
+|[missbeamnet: learning missing doppler velocity log beam measurements](https://arxiv.org/abs/2301.11597)|[missbeamnet](https://github.com/ansfl/missbeamnet)|
+|[musclemap: towards video-based activated muscle group estimation in the wild](https://arxiv.org/abs/2303.00952)|[musclemap](https://github.com/kpeng9510/musclemap)|
+|[robust mader: decentralized multiagent trajectory planner robust to communication delay in dynamic environments](https://arxiv.org/abs/2303.06222)|[rmader](https://github.com/mit-acl/rmader)|
+|[crn: camera radar net for accurate, robust, efficient 3d perception](https://arxiv.org/abs/2304.00670)|[CRN](https://github.com/youngskkim/CRN)|
+|[integrating one-shot view planning with a single next-best view via long-tail multiview sampling](https://arxiv.org/abs/2304.00910)|[ma-scvp](https://github.com/psc0628/ma-scvp)|
+|[temporal-controlled frame swap for generating high-fidelity stereo driving data for autonomy analysis](https://arxiv.org/abs/2306.01704)|[temporal-controlled-frame-swap-gtav-tefs-](https://github.com/ostadabbas/temporal-controlled-frame-swap-gtav-tefs-)|
+|[exact point cloud downsampling for fast and accurate global trajectory optimization](https://arxiv.org/abs/2307.02948)|[caratheodory2](https://github.com/koide3/caratheodory2)|
+|[a study in zucker: insights on interactions between humans and small service robots](https://arxiv.org/abs/2307.08668)|[zuckerdataset](https://github.com/alexanderdavid/zuckerdataset)|
+|[ev-planner: energy-efficient robot navigation via event-based physics-guided neuromorphic planner](https://arxiv.org/abs/2307.11349)|[ev-planner](https://github.com/souravsanyal06/ev-planner)|
+|[efficient real-time path planning with self-evolving particle swarm optimization in dynamic scenarios](https://arxiv.org/abs/2308.10169)|[real-time-path-planning-with-sepso](https://github.com/xinjinghao/real-time-path-planning-with-sepso)|
+|[recurrent hypernetworks are surprisingly strong in meta-rl](https://arxiv.org/abs/2309.14970)|[hyper](https://github.com/jacooba/hyper)|
+|[quadrotor dead reckoning with multiple inertial sensors](https://arxiv.org/abs/2310.13452)|[quadrotor-dead-reckoning-with-multiple-inertial-sensors](https://github.com/ansfl/quadrotor-dead-reckoning-with-multiple-inertial-sensors)|
+|[bridging the gaps: learning verifiable model-free quadratic programming controllers inspired by model predictive control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
+|[madi: learning to mask distractions for generalization in visual deep reinforcement learning](https://arxiv.org/abs/2312.15339)|[mask-distractions](https://github.com/bramgrooten/mask-distractions)|
+|[globally optimal inverse kinematics as a quadratic program](https://arxiv.org/abs/2312.15569)|[ik.jl](https://github.com/votroto/ik.jl)|
+|[bdis-slam: a lightweight cpu-based dense stereo slam for surgery](https://arxiv.org/abs/2312.15679)|[bdis-slam](https://github.com/jingweisong/bdis-slam)|
+|[contrastive learning-based framework for sim-to-real mapping of lidar point clouds in autonomous driving systems](https://arxiv.org/abs/2312.15817)|[cls2r](https://github.com/hamedhaghighi/cls2r)|
+|[learning-to-rank approach for identifying everyday objects using a physical-world search engine](https://arxiv.org/abs/2312.15844)|[multirankit](https://github.com/keio-smilab23/multirankit)|
+|[pdit: interleaving perception and decision-making transformers for deep reinforcement learning](https://arxiv.org/abs/2312.15863)|[pdit](https://github.com/maohangyu/pdit)|
+|[social-transmotion: promptable human trajectory prediction](https://arxiv.org/abs/2312.16168)|[social-transmotion](https://github.com/vita-epfl/social-transmotion)|
+|[embodiedscan: a holistic multi-modal 3d perception suite towards embodied ai](https://arxiv.org/abs/2312.16170)|[embodiedscan](https://github.com/openrobotlab/embodiedscan)|
 ## 2023-12-22
 |paper|code|
 |---|---|
