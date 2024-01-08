@@ -1,3 +1,39 @@
+## 2024-01-05
+|paper|code|
+|---|---|
+|[transmusic: a transformer-aided subspace method for doa estimation with low-resolution adcs](https://arxiv.org/abs/2309.08174)|[transformer_music](https://github.com/jijunkai/transformer_music)|
+|[strol: stabilized and robust online learning from humans](https://arxiv.org/abs/2308.09863)|[strol_ral](https://github.com/vt-collab/strol_ral)|
+|[online multi-imu calibration using visual-inertial odometry](https://arxiv.org/abs/2310.12411)|[ekf-cal](https://github.com/unmannedlab/ekf-cal)|
+|[range-visual-inertial sensor fusion for micro aerial vehicle localization and navigation](https://arxiv.org/abs/2311.09056)|[ra_lan](https://github.com/utiasdsl/ra_lan)|
+## 2024-01-04
+|paper|code|
+|---|---|
+|[dextreme: transfer of agile in-hand manipulation from simulation to reality](https://arxiv.org/abs/2210.13702)|[rl_games](https://github.com/Denys88/rl_games)|
+|[context-aware robot control using gesture episodes](https://arxiv.org/abs/2301.09899)|[context-based-gesture-operation](https://github.com/imitrob/context-based-gesture-operation)|
+|[impact: a toolchain for nonlinear model predictive control specification, prototyping, and deployment](https://arxiv.org/abs/2303.08850)|[impact](https://gitlab.kuleuven.be/meco-software/impact)|
+|[autorl hyperparameter landscapes](https://arxiv.org/abs/2304.02396)|[autorl-landscape](https://github.com/automl/autorl-landscape)|
+|[fast path planning through large collections of safe boxes](https://arxiv.org/abs/2305.01072)|[fastpathplanning](https://github.com/cvxgrp/fastpathplanning)|
+|[ev-planner: energy-efficient robot navigation via event-based physics-guided neuromorphic planner](https://arxiv.org/abs/2307.11349)|[ev-planner](https://github.com/souravsanyal06/ev-planner)|
+|[off-road lidar intensity based semantic segmentation](https://arxiv.org/abs/2401.01439)|[lidar-intensity-predictor](https://github.com/moonlabiiserb/lidar-intensity-predictor)|
+|[indoor obstacle discovery on reflective ground via monocular camera](https://arxiv.org/abs/2401.01445)|[indoorobstaclediscovery-rg](https://github.com/xuefengbupt/indoorobstaclediscovery-rg)|
+|[fuzzy logic controller design for mobile robot outdoor navigation](https://arxiv.org/abs/2401.01756)|[FuzzyMobileRobotGuidance](https://github.com/WondesenB/FuzzyMobileRobotGuidance)|
+## 2024-01-03
+|paper|code|
+|---|---|
+|[data-adaptive graph framelets with generalized vanishing moments for graph signal processing](https://arxiv.org/abs/2309.03537)|[graph-involved-frame](https://github.com/zrgcityu/graph-involved-frame)|
+|[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
+|[bridging the gaps: learning verifiable model-free quadratic programming controllers inspired by model predictive control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
+|[hybrid internal model: learning agile legged locomotion with simulated robot response](https://arxiv.org/abs/2312.11460)|[himloco](https://github.com/openrobotlab/himloco)|
+## 2024-01-02
+|paper|code|
+|---|---|
+|[dictionary attack on imu-based gait authentication](https://arxiv.org/abs/2309.11766)|[dictionaryattackonimugait](https://github.com/rajeshjnu2006/dictionaryattackonimugait)|
+|[line coverage with multiple robots: algorithms and experiments](https://arxiv.org/abs/2208.09419)|[LineCoverage-library](https://github.com/UNCCharlotte-CS-Robotics/LineCoverage-library)|
+|[distilled feature fields enable few-shot language-guided manipulation](https://arxiv.org/abs/2308.07931)|[f3rm](https://github.com/f3rm/f3rm)|
+|[lcpr: a multi-scale attention-based lidar-camera fusion network for place recognition](https://arxiv.org/abs/2311.03198)|[LCPR](https://github.com/ZhouZijie77/LCPR)|
+|[physics-informed multi-agent reinforcement learning for distributed multi-robot problems](https://arxiv.org/abs/2401.00212)|[phmarl](https://github.com/eduardosebastianrodriguez/phmarl)|
+|[laboratory experiments of model-based reinforcement learning for adaptive optics control](https://arxiv.org/abs/2401.00242)|[po4ao](https://github.com/jnousi/po4ao)|
+|[effect of optimizer, initializer, and architecture of hypernetworks on continual learning from demonstration](https://arxiv.org/abs/2401.00524)|[exploringclfd](https://github.com/sebastianbergner/exploringclfd)|
 ## 2023-12-29
 |paper|code|
 |---|---|
