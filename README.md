@@ -1,3 +1,57 @@
+## 2024-01-12
+|paper|code|
+|---|---|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[online action recognition for human risk prediction with anticipated haptic alert via wearables](https://arxiv.org/abs/2401.05365)|[paper_guo_2023_humanoids_lifting_risk_prediction](https://github.com/ami-iit/paper_guo_2023_humanoids_lifting_risk_prediction)|
+|[adf & transapp: a transformer-based framework for appliance detection using smart meter consumption series](https://arxiv.org/abs/2401.05381)|[transapp](https://github.com/adrienpetralia/transapp)|
+|[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
+|[selfeeg: a python library for self-supervised learning in electroencephalography](https://arxiv.org/abs/2401.05405)|[selfeeg](https://github.com/medmaxlab/selfeeg)|
+|[rfrl gym: a reinforcement learning testbed for cognitive radio applications](https://arxiv.org/abs/2401.05406)|[rfrl-gym](https://github.com/vtnsisdd/rfrl-gym)|
+|[weiss-weinstein bound of frequency estimation error for very weak gnss signals](https://arxiv.org/abs/2401.05606)|[WWB](https://github.com/TMBOC/WWB)|
+|[se(3) koopman-mpc: data-driven learning and control of quadrotor uavs](https://arxiv.org/abs/2305.03868)|[koopmanmpc_quadrotor](https://github.com/sriram-2502/koopmanmpc_quadrotor)|
+|[safe navigation using density functions](https://arxiv.org/abs/2306.15830)|[density_feedback_control](https://github.com/clemson-dira/density_feedback_control)|
+|[crossway diffusion: improving diffusion-based visuomotor policy via self-supervised learning](https://arxiv.org/abs/2307.01849)|[crossway_diffusion](https://github.com/lostxine/crossway_diffusion)|
+|[elevating skeleton-based action recognition with efficient multi-modality self-supervision](https://arxiv.org/abs/2309.12009)|[ikem](https://github.com/desehuileng0o0/ikem)|
+|[cylindertag: an accurate and flexible marker for cylinder-shape objects pose estimation based on projective invariants](https://arxiv.org/abs/2310.13320)|[cylindertag](https://github.com/wsakobe/cylindertag)|
+|[open-source reinforcement learning environments implemented in mujoco with franka manipulator](https://arxiv.org/abs/2312.13788)|[panda_mujoco_gym](https://github.com/zichunxx/panda_mujoco_gym)|
+|[safe reinforcement learning in uncertain contexts](https://arxiv.org/abs/2401.05876)|[cme_based_classification_bounds](https://github.com/baumanndominik/cme_based_classification_bounds)|
+## 2024-01-11
+|paper|code|
+|---|---|
+|[verifiable obstacle detection](https://arxiv.org/abs/2208.14403)|[verifiable-od](https://github.com/cps-il/verifiable-od)|
+|[correcting motion distortion for lidar hd-map localization](https://arxiv.org/abs/2308.13694)|[vicet](https://github.com/mcdermatt/vicet)|
+|[distributed pose-graph optimization with multi-level partitioning for collaborative slam](https://arxiv.org/abs/2401.01657)|[distributed-pose-graph](https://github.com/tjcunhao/distributed-pose-graph)|
+|[fuzzy logic controller design for mobile robot outdoor navigation](https://arxiv.org/abs/2401.01756)|[FuzzyMobileRobotGuidance](https://github.com/WondesenB/FuzzyMobileRobotGuidance)|
+|[human as ai mentor: enhanced human-in-the-loop reinforcement learning for safe and efficient autonomous driving](https://arxiv.org/abs/2401.03160)|[HAIM-DRL](https://github.com/zilin-huang/HAIM-DRL)|
+|[safe low-altitude navigation in steep terrain with fixed-wing aerial vehicles](https://arxiv.org/abs/2401.04831)|[terrain-navigation](https://github.com/ethz-asl/terrain-navigation)|
+|[okayplan: obstacle kinematics augmented dynamic real-time path planning via particle swarm optimization](https://arxiv.org/abs/2401.05019)|[okayplan](https://github.com/xinjinghao/okayplan)|
+|[multi s-graphs: an efficient real-time distributed semantic-relational collaborative slam](https://arxiv.org/abs/2401.05152)|[multi_s_graphs_docker](https://github.com/snt-arg/multi_s_graphs_docker)|
+|[cinempc: a fully autonomous drone cinematography system incorporating zoom, focus, pose, and scene composition](https://arxiv.org/abs/2401.05272)|[cinempc_ros](https://github.com/ppueyor/cinempc_ros)|
+## 2024-01-10
+|paper|code|
+|---|---|
+|[adaptive kalmannet: data-driven kalman filter with fast adaptation](https://arxiv.org/abs/2309.07016)|[adaptive-knet-icassp24](https://github.com/kalmannet/adaptive-knet-icassp24)|
+|[online test-time adaptation of spatial-temporal traffic flow forecasting](https://arxiv.org/abs/2401.04148)|[adcsd](https://github.com/pengxin-guo/adcsd)|
+|[rotortm: a flexible simulator for aerial transportation and manipulation](https://arxiv.org/abs/2205.05140)|[rotortm](https://github.com/arplaboratory/rotortm)|
+|[data-efficient policy selection for navigation in partial maps via subgoal-based abstraction](https://arxiv.org/abs/2304.01094)|[RAIL-group-software](https://github.com/RAIL-group/RAIL-group-software)|
+|[towards real-world aerial vision guidance with categorical 6d pose tracker](https://arxiv.org/abs/2401.04377)|[ick-track](https://github.com/s-jingtao/ick-track)|
+## 2024-01-09
+|paper|code|
+|---|---|
+|[qcm-sgm+: improved quantized compressed sensing with score-based generative models](https://arxiv.org/abs/2302.00919)|[qcs-sgm-plus](https://github.com/mengxiangming/qcs-sgm-plus)|
+|[calibration-free online test-time adaptation for electroencephalography motor imagery decoding](https://arxiv.org/abs/2311.18520)|[eeg-otta](https://github.com/martinwimpff/eeg-otta)|
+|[faultformer: pretraining transformers for adaptable bearing fault classification](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[improving transferability of network intrusion detection in a federated learning setup](https://arxiv.org/abs/2401.03560)|[transferability](https://github.com/ghosh64/transferability)|
+|[ddd: a perceptually superior low-response-time dnn-based declipper](https://arxiv.org/abs/2401.03650)|[ddd](https://github.com/stet-stet/ddd)|
+|[lofi user scheduling for multiuser mimo wireless systems](https://arxiv.org/abs/2401.04077)|[lofi-user-scheduling](https://github.com/iip-group/lofi-user-scheduling)|
+|[a review of path following control strategies for autonomous robotic vehicles: theory, simulations, and experiments](https://arxiv.org/abs/2204.07319)|[path-following-matlab](https://github.com/hungrepo/path-following-matlab)|
+|[moss: monocular shape sensing for continuum robots](https://arxiv.org/abs/2303.00891)|[mossnet](https://github.com/continuumroboticslab/mossnet)|
+|[distributed formation-enforcing control for uavs robust to observation noise in relative pose measurements](https://arxiv.org/abs/2304.03057)|[difec-ron](https://github.com/ctu-mrs/difec-ron)|
+|[interactive spatiotemporal token attention network for skeleton-based general interactive action recognition](https://arxiv.org/abs/2307.07469)|[ISTA-Net](https://github.com/Necolizer/ISTA-Net)|
+|[nuscenes knowledge graph -- a comprehensive semantic representation of traffic scenes for trajectory prediction](https://arxiv.org/abs/2312.09676)|[nuscenes_knowledge_graph](https://github.com/boschresearch/nuscenes_knowledge_graph)|
+|[improving dribbling, passing, and marking actions in soccer simulation 2d games using machine learning](https://arxiv.org/abs/2401.03406)|[cyrus2014](https://github.com/naderzare/cyrus2014)|
+|[using reinforcement learning to improve drone-based inference of greenhouse gas fluxes](https://arxiv.org/abs/2401.03932)|[hotspot_nmi](https://github.com/alouetteuio/hotspot_nmi)|
 ## 2024-01-05
 |paper|code|
 |---|---|
