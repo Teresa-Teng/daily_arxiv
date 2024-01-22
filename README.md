@@ -1,3 +1,58 @@
+## 2024-01-19
+|paper|code|
+|---|---|
+|[learning to extract distributed polarization sensing data from noisy jones matrices](https://arxiv.org/abs/2401.09917)|[physics-based-distributed-polarization-sensing](https://github.com/mohammadfarsi1994/physics-based-distributed-polarization-sensing)|
+|[predrecon: a prediction-boosted planning framework for fast and high-quality autonomous aerial reconstruction](https://arxiv.org/abs/2302.04488)|[predrecon](https://github.com/hkust-aerial-robotics/predrecon)|
+|[simulation-based counterfactual causal discovery on real world driver behaviour](https://arxiv.org/abs/2306.03354)|[counterfactual-cd-paper-resources](https://github.com/cognitive-robots/counterfactual-cd-paper-resources)|
+|[cqlite: communication-efficient multi-robot exploration using coverage-biased distributed q-learning](https://arxiv.org/abs/2307.00500)|[cqlite](https://github.com/herolab-uga/cqlite)|
+|[bridgedata v2: a dataset for robot learning at scale](https://arxiv.org/abs/2308.12952)|[BridgeData-V2](https://github.com/rail-berkeley/BridgeData-V2)|
+|[port-hamiltonian neural ode networks on lie groups for robot dynamics learning and control](https://arxiv.org/abs/2401.09520)|[LieGroupHamDL](https://github.com/thaipduong/LieGroupHamDL)|
+|[ppnet: a novel neural network structure for end-to-end near-optimal path planning](https://arxiv.org/abs/2401.09819)|[ppnet](https://github.com/adamqlmeng/ppnet)|
+## 2024-01-18
+|paper|code|
+|---|---|
+|[a comparative study of deep learning and iterative algorithms for joint channel estimation and signal detection](https://arxiv.org/abs/2303.03678)|[mimo_jcesd](https://github.com/j991222/mimo_jcesd)|
+|[score-based source separation with applications to digital communication signals](https://arxiv.org/abs/2306.14411)|[score_based_source_separation](https://github.com/tkj516/score_based_source_separation)|
+|[a densenet-based method for decoding auditory spatial attention with eeg](https://arxiv.org/abs/2309.07690)|[asad_densenet](https://github.com/xuxiran/asad_densenet)|
+|[neural network equalizers and successive interference cancellation for bandlimited channels with a nonlinearity](https://arxiv.org/abs/2401.09217)|[nn-mi](https://github.com/dplabst/nn-mi)|
+|[scene completeness-aware lidar depth completion for driving scenario](https://arxiv.org/abs/2003.06945)|[SCADC-DepthCompletion](https://github.com/choyingw/SCADC-DepthCompletion)|
+|[from rgb images to dynamic movement primitives for planar tasks](https://arxiv.org/abs/2303.03204)|[resnet_dmp](https://github.com/slifer64/resnet_dmp)|
+|[train a real-world local path planner in one hour via partially decoupled reinforcement learning and vectorized diversity](https://arxiv.org/abs/2305.04180)|[color](https://github.com/xinjinghao/color)|
+|[allsight: a low-cost and high-resolution round tactile sensor with zero-shot learning capability](https://arxiv.org/abs/2307.02928)|[allsight](https://github.com/osheraz/allsight)|
+|[autonomous catheterization with open-source simulator and expert trajectory](https://arxiv.org/abs/2401.09059)|[cathsim](https://github.com/airvlab/cathsim)|
+|[pin-slam: lidar slam using a point-based implicit neural representation for achieving global map consistency](https://arxiv.org/abs/2401.09101)|[pin_slam](https://github.com/prbonn/pin_slam)|
+|[dafoes: mixing datasets towards the generalization of vision-state deep-learning force estimation in minimally invasive robotic surgery](https://arxiv.org/abs/2401.09239)|[dafoes](https://github.com/mikelitu/dafoes)|
+|[deployable reinforcement learning with variable control rate](https://arxiv.org/abs/2401.09286)|[SEAC_Pytorch_release](https://github.com/alpaficia/SEAC_Pytorch_release)|
+|[event-based visual odometry on non-holonomic ground vehicles](https://arxiv.org/abs/2401.09331)|[nhevo](https://github.com/gowanting/nhevo)|
+|[vision-driven autonomous flight of uav along river using deep reinforcement learning with dynamic expert guidance](https://arxiv.org/abs/2401.09332)|[deep-reinforcement-learning-with-dynamic-expert-guidance](https://github.com/lijianwen1997/deep-reinforcement-learning-with-dynamic-expert-guidance)|
+## 2024-01-17
+|paper|code|
+|---|---|
+|[resource-efficient separation transformer](https://arxiv.org/abs/2206.09507)|[speechbrain](https://github.com/speechbrain/speechbrain)|
+|[optimal discrete beamforming of ris-aided wireless communications: an inner product maximization approach](https://arxiv.org/abs/2211.04167)|[RIS_Optimization](https://github.com/RujingXiong/RIS_Optimization)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[frequency analysis and filter design for directed graphs with polar decomposition](https://arxiv.org/abs/2312.11421)|[ICASSP2024](https://github.com/semink/ICASSP2024)|
+|[unsupervised harmonic parameter estimation using differentiable dsp and spectral optimal transport](https://arxiv.org/abs/2312.14507)|[1d-spectral-optimal-transport](https://github.com/bernardo-torres/1d-spectral-optimal-transport)|
+|[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
+|[remaining useful life prediction for aircraft engines using lstm](https://arxiv.org/abs/2401.07590)|[rul-prediction](https://github.com/aneesperingal/rul-prediction)|
+|[calibration of an ska-low prototype station using holographic techniques](https://arxiv.org/abs/2401.08039)|[zenodo.8237885](https://zenodo.org/record/zenodo.8237885)|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[vision-aided uav navigation and dynamic obstacle avoidance using gradient-based b-spline trajectory optimization](https://arxiv.org/abs/2209.07003)|[cerlab-uav-autonomy](https://github.com/zhefan-xu/cerlab-uav-autonomy)|
+|[a real-time dynamic obstacle tracking and mapping system for uav navigation and collision avoidance with an rgb-d camera](https://arxiv.org/abs/2209.08258)|[cerlab-uav-autonomy](https://github.com/zhefan-xu/cerlab-uav-autonomy)|
+|[ralacs: action recognition in autonomous vehicles using interaction encoding and optical flow](https://arxiv.org/abs/2209.14408)|[action-classification](https://github.com/watonomous/action-classification)|
+|[swarm-slam : sparse decentralized collaborative simultaneous localization and mapping framework for multi-robot systems](https://arxiv.org/abs/2301.06230)|[swarm-slam](https://github.com/mistlab/swarm-slam)|
+|[a vision-based autonomous uav inspection framework for unknown tunnel construction sites with dynamic obstacles](https://arxiv.org/abs/2301.08422)|[cerlab-uav-autonomy](https://github.com/zhefan-xu/cerlab-uav-autonomy)|
+|[shakingbot: dynamic manipulation for bagging](https://arxiv.org/abs/2304.04558)|[shakingbot](https://github.com/zhangxiaozhier/shakingbot)|
+|[formal modelling and analysis of a self-adaptive robotic system](https://arxiv.org/abs/2308.14663)|[auv_profeat](https://github.com/julianepa/auv_profeat)|
+|[edgar: an autonomous driving research platform -- from feature development to real-world application](https://arxiv.org/abs/2309.15492)|[edgar_digital_twin](https://github.com/tumftm/edgar_digital_twin)|
+|[immp++: isometric motion manifold primitives with parametric curve models](https://arxiv.org/abs/2310.17072)|[immp-public](https://github.com/gabe-yhlee/immp-public)|
+|[ir-stp: enhancing autonomous driving with interaction reasoning in spatio-temporal planning](https://arxiv.org/abs/2311.02850)|[ir-stp-planner](https://github.com/chenyingbing/ir-stp-planner)|
+|[unsupervised change detection for space habitats using 3d point clouds](https://arxiv.org/abs/2312.02396)|[isaac](https://github.com/nasa/isaac)|
+|[multi-agent reinforcement learning for connected and automated vehicles control: recent advancements and future prospects](https://arxiv.org/abs/2312.11084)|[MARL_in_CAV_control_review](https://github.com/huahuaedi/MARL_in_CAV_control_review)|
+|[towards assessing compliant robotic grasping from first-object perspective via instrumented objects](https://arxiv.org/abs/2312.14466)|[inst-obj](https://github.com/fangyizhang-x/inst-obj)|
+|[towards real-world aerial vision guidance with categorical 6d pose tracker](https://arxiv.org/abs/2401.04377)|[ick-track](https://github.com/s-jingtao/ick-track)|
+|[preserving power optimizations across the high level synthesis of distinct application-specific circuits](https://arxiv.org/abs/2401.07726)|[higher-abstraction-hls](https://github.com/paulo-chula/higher-abstraction-hls)|
+|[cross-modal semi-dense 6-dof tracking of an event camera in challenging conditions](https://arxiv.org/abs/2401.08043)|[canny-evt](https://github.com/zyfff/canny-evt)|
 ## 2024-01-12
 |paper|code|
 |---|---|
