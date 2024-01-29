@@ -1,3 +1,51 @@
+## 2024-01-26
+|paper|code|
+|---|---|
+|[a strong and simple deep learning baseline for bci mi decoding](https://arxiv.org/abs/2309.07159)|[eegsimpleconv](https://github.com/elouayas/eegsimpleconv)|
+|[energy-efficient power allocation in cell-free massive mimo via graph neural networks](https://arxiv.org/abs/2401.14281)|[ee_cell_free](https://gitlab.com/ichbinram/ee_cell_free)|
+|[geometric interpretation of the general poe model for a serial-link robot via conversion into d-h parameterization](https://arxiv.org/abs/1902.00198)|[generalpoe2dh](https://github.com/drliaowu/generalpoe2dh)|
+|[camera frame misalignment in a teleoperated eye-in-hand robot: effects and a simple correction method](https://arxiv.org/abs/2105.08466)|[CameraMisalignmentCorrection](https://github.com/drliaowu/CameraMisalignmentCorrection)|
+|[dittogym: learning to control soft shape-shifting robots](https://arxiv.org/abs/2401.13231)|[cfp](https://github.com/suninghuang19/cfp)|
+|[dataset and benchmark: novel sensors for autonomous vehicle perception](https://arxiv.org/abs/2401.13853)|[nsavp_tools](https://github.com/umautobots/nsavp_tools)|
+## 2024-01-25
+|paper|code|
+|---|---|
+|[data-driven estimation of capacity upper bounds](https://arxiv.org/abs/2205.06471)|[upper_capacity_bounds](https://github.com/chaeger/upper_capacity_bounds)|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[a generalized multiscale bundle-based hyperspectral sparse unmixing algorithm](https://arxiv.org/abs/2401.13161)|[gmbua](https://github.com/lucayress/gmbua)|
+|[dafoes: mixing datasets towards the generalization of vision-state deep-learning force estimation in minimally invasive robotic surgery](https://arxiv.org/abs/2401.09239)|[dafoes](https://github.com/mikelitu/dafoes)|
+|[the conversation is the command: interacting with real-world autonomous robot through natural language](https://arxiv.org/abs/2401.11838)|[tcc_ironl](https://github.com/linusnep/tcc_ironl)|
+|[semanticslam: learning based semantic map construction and robust camera localization](https://arxiv.org/abs/2401.13076)|[semanticslam](https://github.com/leomingyangli/semanticslam)|
+|[open-source, cost-aware kinematically feasible planning for mobile and surface robotics](https://arxiv.org/abs/2401.13078)|[navigation2](https://github.com/ros-planning/navigation2)|
+|[nlbac: a neural ordinary differential equations-based framework for stable and safe reinforcement learning](https://arxiv.org/abs/2401.13148)|[neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac](https://github.com/liqunzhao/neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac)|
+|[guiding soft robots with motor-imagery brain signals and impedance control](https://arxiv.org/abs/2401.13441)|[sr-brain-control](https://github.com/tud-phi/sr-brain-control)|
+## 2024-01-24
+|paper|code|
+|---|---|
+|[afs-bm: enhancing model performance through adaptive feature selection with binary masking](https://arxiv.org/abs/2401.11250)|[afs_bm-algorithm](https://github.com/yigitturali/afs_bm-algorithm)|
+|[towards adaptive subspace detection in heterogeneous environment](https://arxiv.org/abs/2401.12469)|[heterogeneous_detector](https://github.com/arekavandi/heterogeneous_detector)|
+|[a review of deep learning methods for photoplethysmography data](https://arxiv.org/abs/2401.12783)|[dl_ppg_review](https://github.com/ngk03/dl_ppg_review)|
+|[continuous-time control synthesis under nested signal temporal logic specifications](https://arxiv.org/abs/2309.14347)|[stlt](https://github.com/xiaotan-git/stlt)|
+|[icy moon surface simulation and stereo depth estimation for sampling autonomy](https://arxiv.org/abs/2401.12414)|[guiss](https://github.com/nasa-jpl/guiss)|
+## 2024-01-23
+|paper|code|
+|---|---|
+|[the icanclean algorithm: how to remove artifacts using reference noise recordings](https://arxiv.org/abs/2201.11798)|[iCanClean](https://github.com/downeyryanj/iCanClean)|
+|[the manifold scattering transform for high-dimensional point cloud data](https://arxiv.org/abs/2206.10078)|[pointcloud_scattering](https://github.com/steachhr/pointcloud_scattering)|
+|[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
+|[modulate your spectrum in self-supervised learning](https://arxiv.org/abs/2305.16789)|[intl](https://github.com/winci-ai/intl)|
+|[congestion-aware distributed task offloading in wireless multi-hop networks using graph neural networks](https://arxiv.org/abs/2312.02471)|[multihop-offload](https://github.com/zhongyuanzhao/multihop-offload)|
+|[fully differentiable ray tracing via discontinuity smoothing for radio network optimization](https://arxiv.org/abs/2401.11882)|[differt2d](https://github.com/jeertmans/differt2d)|
+|[nlcg-net: a model-based zero-shot learning framework for undersampled quantitative mri reconstruction](https://arxiv.org/abs/2401.12004)|[NLCG-Net](https://github.com/Xinrui-Jiang/NLCG-Net)|
+|[diagnosis-guided attack recovery for securing robotic vehicles from sensor deception attacks](https://arxiv.org/abs/2209.04554)|[delorean](https://github.com/dependablesystemslab/delorean)|
+|[etpnav: evolving topological planning for vision-language navigation in continuous environments](https://arxiv.org/abs/2304.03047)|[etpnav](https://github.com/marsaki/etpnav)|
+|[residual dynamics learning for trajectory tracking for multi-rotor aerial vehicles](https://arxiv.org/abs/2305.15791)|[trajectory-tracker](https://github.com/GPrathap/trajectory-tracker)|
+|[gmmap: memory-efficient continuous occupancy map using gaussian mixture model](https://arxiv.org/abs/2306.03740)|[gmmap](https://github.com/mit-lean/gmmap)|
+|[getting the ball rolling: learning a dexterous policy for a biomimetic tendon-driven hand with rolling contact joints](https://arxiv.org/abs/2308.02453)|[faive_gym_oss](https://github.com/srl-ethz/faive_gym_oss)|
+|[engineering lacam$^\ast$: towards real-time, large-scale, and near-optimal multi-agent pathfinding](https://arxiv.org/abs/2308.04292)|[lacam3](https://github.com/Kei18/lacam3)|
+|[gensim: generating robotic simulation tasks via large language models](https://arxiv.org/abs/2310.01361)|[gensim](https://github.com/liruiw/gensim)|
+|[autonomous catheterization with open-source simulator and expert trajectory](https://arxiv.org/abs/2401.09059)|[cathsim](https://github.com/airvlab/cathsim)|
+|[deformable endoscopic tissues reconstruction with gaussian splatting](https://arxiv.org/abs/2401.11535)|[endogs](https://github.com/hku-medai/endogs)|
 ## 2024-01-19
 |paper|code|
 |---|---|
