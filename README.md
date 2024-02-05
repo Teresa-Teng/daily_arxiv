@@ -1,3 +1,65 @@
+## 2024-02-02
+|paper|code|
+|---|---|
+|[self-supervised speech representation and contextual text embedding for match-mismatch classification with eeg recording](https://arxiv.org/abs/2401.04964)|[eeg-stimulus-match-mismatch](https://github.com/bobwangpku/eeg-stimulus-match-mismatch)|
+|[energy-efficient power allocation in cell-free massive mimo via graph neural networks](https://arxiv.org/abs/2401.14281)|[ee_cell_free](https://gitlab.com/ichbinram/ee_cell_free)|
+|[online speaker diarization of meetings guided by speech separation](https://arxiv.org/abs/2402.00067)|[sspavaldo](https://github.com/egruttadauria98/sspavaldo)|
+|[determination of trace organic contaminant concentration via machine classification of surface-enhanced raman spectra](https://arxiv.org/abs/2402.00197)|[Determination-of-Trace-Organic-Contaminant-Concentration-via-Machine-Classification-of-Raman-Spectra](https://github.com/VishnuJay/Determination-of-Trace-Organic-Contaminant-Concentration-via-Machine-Classification-of-Raman-Spectra)|
+|[foresee: prediction with expansion-compression unscented transform for online policy optimization](https://arxiv.org/abs/2209.12644)|[foresee](https://github.com/hardikparwana/foresee)|
+|[optistate: state estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/abs/2401.16719)|[optistate](https://github.com/alexs28/optistate)|
+|[night-rider: nocturnal vision-aided localization in streetlight maps using invariant extended kalman filtering](https://arxiv.org/abs/2402.00330)|[night-rider](https://github.com/imrl/night-rider)|
+|[can you see me now? blind spot estimation for autonomous vehicles using scenario-based simulation with random reference sensors](https://arxiv.org/abs/2402.00467)|[numpy_cukd](https://github.com/pyrestone/numpy_cukd)|
+|[benchmarking human-robot collaborative assembly tasks](https://arxiv.org/abs/2402.00708)|[collaborative-tasks-benchmark](https://github.com/robotics-and-ai/collaborative-tasks-benchmark)|
+## 2024-02-01
+|paper|code|
+|---|---|
+|[gaussian adaptive attention is all you need: robust contextual representations across multiple modalities](https://arxiv.org/abs/2401.11143)|[gaussian-adaptive-attention](https://github.com/gioannides/gaussian-adaptive-attention)|
+|[an iot system for smart building combining multiple mmwave fmcw radars applied to people counting](https://arxiv.org/abs/2401.17949)|[mmwave_cluster](https://github.com/gtec-udc/mmwave_cluster)|
+|[plvs: a slam system with points, lines, volumetric mapping, and 3d incremental segmentation](https://arxiv.org/abs/2309.10896)|[plvs](https://github.com/luigifreda/plvs)|
+|[large trajectory models are scalable motion predictors and planners](https://arxiv.org/abs/2310.19620)|[statetransformer](https://github.com/tsinghua-mars-lab/statetransformer)|
+|[leto: learning constrained visuomotor policy with differentiable trajectory optimization](https://arxiv.org/abs/2401.17500)|[leto](https://github.com/zhengtongxu/leto)|
+|[force push: robust single-point pushing with force feedback](https://arxiv.org/abs/2401.17517)|[force_push](https://github.com/utiasDSL/force_push)|
+|[paloc: advancing slam benchmarking with prior-assisted 6-dof trajectory generation and uncertainty estimation](https://arxiv.org/abs/2401.17826)|[paloc](https://github.com/jokerjohn/paloc)|
+|[subpipe: a submarine pipeline inspection dataset for segmentation and visual-inertial localization](https://arxiv.org/abs/2401.17907)|[subpipe-dataset](https://github.com/remaro-network/subpipe-dataset)|
+|[development and adaptation of robotic vision in the real-world: the challenge of door detection](https://arxiv.org/abs/2401.17996)|[gibsonenv](https://github.com/micheleantonazzi/gibsonenv)|
+|[improved scene landmark detection for camera localization](https://arxiv.org/abs/2401.18083)|[scenelandmarklocalization](https://github.com/microsoft/scenelandmarklocalization)|
+## 2024-01-31
+|paper|code|
+|---|---|
+|[enn: a neural network with dct adaptive activation functions](https://arxiv.org/abs/2307.00673)|[enn](https://github.com/marcmartinezgost/enn)|
+|[mt-hccar: multi-task deep learning with hierarchical classification and attention-based regression for cloud property retrieval](https://arxiv.org/abs/2401.16520)|[mt-hccar](https://github.com/ai-4-atmosphere-remote-sensing/mt-hccar)|
+|[a fully differentiable model for unsupervised singing voice separation](https://arxiv.org/abs/2401.16837)|[umss_icassp](https://github.com/pierrechouteau/umss_icassp)|
+|[channel characterization of uav-ris-aided systems with adaptive phase-shift configuration](https://arxiv.org/abs/2401.17180)|[uav-ris-blockage](https://github.com/thanhluannguyen/uav-ris-blockage)|
+|[fredsnet: joint monocular depth and semantic segmentation with fast fourier convolutions](https://arxiv.org/abs/2210.01595)|[fredsnet](https://github.com/sbrunoberenguel/fredsnet)|
+|[augmenting tactile simulators with real-like and zero-shot capabilities](https://arxiv.org/abs/2309.10409)|[allsight_sim](https://github.com/osheraz/allsight_sim)|
+|[inspacetype: reconsider space type in indoor monocular depth estimation](https://arxiv.org/abs/2309.13516)|[InSpaceType_Benchmark](https://github.com/DepthComputation/InSpaceType_Benchmark)|
+|[garchingsim: an autonomous driving simulator with photorealistic scenes and minimalist workflow](https://arxiv.org/abs/2401.15803)|[autonomous-driving-simulator](https://github.com/tum-autonomousdriving/autonomous-driving-simulator)|
+|[collaborative manipulation of deformable objects with predictive obstacle avoidance](https://arxiv.org/abs/2401.16560)|[deformable_manipulations](https://github.com/burakaksoy/deformable_manipulations)|
+|[a comparison of rl-based and pid controllers for 6-dof swimming robots: hybrid underwater object tracking](https://arxiv.org/abs/2401.16618)|[underwater-object-tracking](https://github.com/farazlotfi/underwater-object-tracking)|
+|[lf tracy: a unified single-pipeline approach for salient object detection in light field cameras](https://arxiv.org/abs/2401.16712)|[lf-tracy](https://github.com/feibryantkit/lf-tracy)|
+|[atlanta scaled layouts from non-central panoramas](https://arxiv.org/abs/2401.17058)|[noncentralindoordataset](https://github.com/jesusbermudezcameo/noncentralindoordataset)|
+|[physical priors augmented event-based 3d reconstruction](https://arxiv.org/abs/2401.17121)|[paev3d](https://github.com/mercerai/paev3d)|
+## 2024-01-30
+|paper|code|
+|---|---|
+|[cell-free massive mimo in o-ran: energy-aware joint orchestration of cloud, fronthaul, and radio resources](https://arxiv.org/abs/2301.06166)|[o-ran-cell-free](https://github.com/ozlemtugfedemir/o-ran-cell-free)|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
+|[biodiffusion: a versatile diffusion model for biomedical signal synthesis](https://arxiv.org/abs/2401.10282)|[biodiffusion](https://github.com/imics-lab/biodiffusion)|
+|[geometric interpretation of the general poe model for a serial-link robot via conversion into d-h parameterization](https://arxiv.org/abs/1902.00198)|[generalpoe2dh](https://github.com/drliaowu/generalpoe2dh)|
+|[an intuitive tutorial to gaussian process regression](https://arxiv.org/abs/2009.10862)|[gaussian-process-regression-tutorial](https://github.com/jwangjie/gaussian-process-regression-tutorial)|
+|[camera frame misalignment in a teleoperated eye-in-hand robot: effects and a simple correction method](https://arxiv.org/abs/2105.08466)|[CameraMisalignmentCorrection](https://github.com/drliaowu/CameraMisalignmentCorrection)|
+|[signal temporal logic meets convex-concave programming: a structure-exploiting sqp algorithm for stl specifications](https://arxiv.org/abs/2304.01475)|[stlccp](https://github.com/yotakayama/stlccp)|
+|[predicting routine object usage for proactive robot assistance](https://arxiv.org/abs/2309.06252)|[slate-pro](https://github.com/maithili/slate-pro)|
+|[robotperf: an open-source, vendor-agnostic, benchmarking suite for evaluating robotics computing system performance](https://arxiv.org/abs/2309.09212)|[benchmarks](https://github.com/robotperf/benchmarks)|
+|[surgical gym: a high-performance gpu-based platform for reinforcement learning with surgical robots](https://arxiv.org/abs/2310.04676)|[surgicalgym](https://github.com/samuelschmidgall/surgicalgym)|
+|[an experimental study of model-based control for planar handed shearing auxetics robots](https://arxiv.org/abs/2310.13889)|[jax-soft-robot-modelling](https://github.com/tud-phi/jax-soft-robot-modelling)|
+|[simplifying complex observation models in continuous pomdp planning with probabilistic guarantees and practice](https://arxiv.org/abs/2311.07745)|[SimplifyingObsPOMDP](https://github.com/IdanLevYehudi/SimplifyingObsPOMDP)|
+|[dittogym: learning to control soft shape-shifting robots](https://arxiv.org/abs/2401.13231)|[cfp](https://github.com/suninghuang19/cfp)|
+|[open-radvlad: fast and robust radar place recognition](https://arxiv.org/abs/2401.15380)|[open-radvlad](https://github.com/mttgdd/open-radvlad)|
+|[parallel self-assembly for modular usvs with diverse docking mechanism layouts](https://arxiv.org/abs/2401.15399)|[dockplanning](https://github.com/joyyy821/dockplanning)|
+|[deflow: decoder of scene flow network in autonomous driving](https://arxiv.org/abs/2401.16122)|[deflow](https://github.com/kth-rpl/deflow)|
+|[mixsup: mixed-grained supervision for label-efficient lidar-based 3d object detection](https://arxiv.org/abs/2401.16305)|[pointsam-for-mixsup](https://github.com/bravegroup/pointsam-for-mixsup)|
 ## 2024-01-26
 |paper|code|
 |---|---|
