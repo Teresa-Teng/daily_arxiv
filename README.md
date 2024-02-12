@@ -1,3 +1,54 @@
+## 2024-02-09
+|paper|code|
+|---|---|
+|[spiking neural networks in the alexiewicz topology: a new perspective on analysis and error bounds](https://arxiv.org/abs/2305.05772)|[alexsnn](https://github.com/lunglmayrmoser/alexsnn)|
+|[multi-timescale ensemble q-learning for markov decision process policy optimization](https://arxiv.org/abs/2402.05476)|[tsp_23_supplementary_file](https://github.com/talhabozkus/tsp_23_supplementary_file)|
+|[robust imaging sonar-based place recognition and localization in underwater environments](https://arxiv.org/abs/2305.14773)|[sonar_context](https://github.com/sparolab/sonar_context)|
+|[wlst: weak labels guided self-training for weakly-supervised domain adaptation on 3d object detection](https://arxiv.org/abs/2310.03821)|[wlst](https://github.com/jacky121298/wlst)|
+|[real-time holistic robot pose estimation with unknown states](https://arxiv.org/abs/2402.05655)|[Hollistic-Robot-Pose-Estimation](https://github.com/Oliverbansk/Hollistic-Robot-Pose-Estimation)|
+## 2024-02-08
+|paper|code|
+|---|---|
+|[stochastic unrolled federated learning](https://arxiv.org/abs/2305.15371)|[fed-surf](https://github.com/smrhadou/fed-surf)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
+|[continuous monte carlo graph search](https://arxiv.org/abs/2210.01426)|[cmcgs](https://github.com/kallekku/cmcgs)|
+|[detection and depth estimation for domestic waste in outdoor environments by sensors fusion](https://arxiv.org/abs/2211.04085)|[lidar-camera-fusion](https://github.com/epvelasco/lidar-camera-fusion)|
+|[exploring deep reinforcement learning for robust target tracking using micro aerial vehicles](https://arxiv.org/abs/2312.17552)|[trackingmav](https://github.com/isarlab-department-engineering/trackingmav)|
+|[human observation-inspired trajectory prediction for autonomous driving in mixed-autonomy traffic environments](https://arxiv.org/abs/2402.04318)|[gava](https://github.com/petrichor625/gava)|
+|[munes: multifloor navigation including elevators and stairs](https://arxiv.org/abs/2402.04535)|[munes](https://github.com/donghwijung/munes)|
+|[a comprehensive survey of cross-domain policy transfer for embodied agents](https://arxiv.org/abs/2402.04580)|[awesome-cross-domain-policy-transfer-for-embodied-agents](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents)|
+|[investigating driving interactions: a robust multi-agent simulation framework for autonomous vehicles](https://arxiv.org/abs/2402.04720)|[frenetix-motion-planner](https://github.com/tum-avs/frenetix-motion-planner)|
+|[deep reinforcement learning with dynamic graphs for adaptive informative path planning](https://arxiv.org/abs/2402.04894)|[ipp-rl-3d](https://github.com/dmar-bonn/ipp-rl-3d)|
+## 2024-02-07
+|paper|code|
+|---|---|
+|[task-oriented communication with out-of-distribution detection: an information bottleneck framework](https://arxiv.org/abs/2305.12423)|[VCCIB](https://github.com/hlidmhkust/VCCIB)|
+|[deep nonnegative matrix factorization with beta divergences](https://arxiv.org/abs/2309.08249)|[deep-beta-nmf-public](https://github.com/vleplat/deep-beta-nmf-public)|
+|[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
+|[learning neural force manifolds for sim2real robotic symmetrical paper folding](https://arxiv.org/abs/2301.01968)|[deep-robotic-paper-folding](https://github.com/structurescomp/deep-robotic-paper-folding)|
+|[orchnet: a robust global feature aggregation approach for 3d lidar-based place recognition in orchards](https://arxiv.org/abs/2303.00477)|[orchnet](https://github.com/cybonic/orchnet)|
+|[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
+|[multi-body neural scene flow](https://arxiv.org/abs/2310.10301)|[MBNSF](https://github.com/kavisha725/MBNSF)|
+|[paloc: advancing slam benchmarking with prior-assisted 6-dof trajectory generation and uncertainty estimation](https://arxiv.org/abs/2401.17826)|[paloc](https://github.com/jokerjohn/paloc)|
+|[subpipe: a submarine pipeline inspection dataset for segmentation and visual-inertial localization](https://arxiv.org/abs/2401.17907)|[subpipe-dataset](https://github.com/remaro-network/subpipe-dataset)|
+|[mmaud: a comprehensive multi-modal anti-uav dataset for modern miniature drone threats](https://arxiv.org/abs/2402.03706)|[mmaud](https://github.com/ntu-aris/mmaud)|
+|[mission planning and safety assessment for pipeline inspection using autonomous underwater vehicles: a framework based on behavior trees](https://arxiv.org/abs/2402.04045)|[pipe_inspection_mission](https://github.com/remaro-network/pipe_inspection_mission)|
+|[spatial assisted human-drone collaborative navigation and interaction through immersive mixed reality](https://arxiv.org/abs/2402.04070)|[mri_ros_public](https://github.com/arplaboratory/mri_ros_public)|
+## 2024-02-06
+|paper|code|
+|---|---|
+|[hierarchical control for head-to-head autonomous racing](https://arxiv.org/abs/2202.12861)|[HierarchicalKarting](https://github.com/ribsthakkar/HierarchicalKarting)|
+|[fredsnet: joint monocular depth and semantic segmentation with fast fourier convolutions](https://arxiv.org/abs/2210.01595)|[fredsnet](https://github.com/sbrunoberenguel/fredsnet)|
+|[monopic -- a monocular low-latency pedestrian intention classification framework for iot edges using id3 modelled decision trees](https://arxiv.org/abs/2304.00206)|[pedestrian-intention-fuzzy-classifier](https://github.com/sr42-dev/pedestrian-intention-fuzzy-classifier)|
+|[distributed behavior trees for heterogeneous robot teams](https://arxiv.org/abs/2309.08253)|[ros_bt_py](https://github.com/fzi-forschungszentrum-informatik/ros_bt_py)|
+|[safeshift: safety-informed distribution shifts for robust trajectory prediction in autonomous driving](https://arxiv.org/abs/2309.08889)|[safeshift](https://github.com/cmubig/safeshift)|
+|[fully onboard low-power localization with semantic sensor fusion on a nano-uav using floor plans](https://arxiv.org/abs/2310.12536)|[nano-smcl](https://github.com/eth-pbl/nano-smcl)|
+|[bridging the gaps: learning verifiable model-free quadratic programming controllers inspired by model predictive control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
+|[language-conditioned learning for robotic manipulation: a survey](https://arxiv.org/abs/2312.10807)|[language-conditioned-robot-manipulation-models](https://github.com/hk-zh/language-conditioned-robot-manipulation-models)|
+|[denoising diffusion-based control of nonlinear systems](https://arxiv.org/abs/2402.02297)|[diffusion-nonlinear-control](https://github.com/darshangm/diffusion-nonlinear-control)|
+|[robot trajectron: trajectory prediction-based shared control for robot manipulation](https://arxiv.org/abs/2402.02499)|[robot-trajectron](https://github.com/mousecpn/robot-trajectron)|
+|[simpl: a simple and efficient multi-agent motion prediction baseline for autonomous driving](https://arxiv.org/abs/2402.02519)|[simpl](https://github.com/hkust-aerial-robotics/simpl)|
+|[fast explicit-input assistance for teleoperation in clutter](https://arxiv.org/abs/2402.02612)|[fast-explicit-teleop](https://github.com/nvlabs/fast-explicit-teleop)|
 ## 2024-02-02
 |paper|code|
 |---|---|
