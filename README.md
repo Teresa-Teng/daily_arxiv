@@ -1,3 +1,60 @@
+## 2024-02-16
+|paper|code|
+|---|---|
+|[outlier-insensitive kalman filtering: theory and applications](https://arxiv.org/abs/2309.09505)|[oikf-nuv](https://github.com/kalmannet/oikf-nuv)|
+|[multidimensional gabor-like filters derived from gaussian functions on logarithmic frequency axes](https://arxiv.org/abs/2402.09419)|[gabor-like-filters](https://gitlab.com/eidheim/gabor-like-filters)|
+|[improving eeg signal classification accuracy using wasserstein generative adversarial networks](https://arxiv.org/abs/2402.09453)|[eeg-wgan](https://github.com/joshparksj/eeg-wgan)|
+|[pixtrack: precise 6dof object pose tracking using nerf templates and feature-metric alignment](https://arxiv.org/abs/2209.03910)|[pixtrack](https://github.com/giantai/pixtrack)|
+|[programmatic imitation learning from unlabeled and noisy demonstrations](https://arxiv.org/abs/2303.01440)|[plunder](https://github.com/ut-amrl/plunder)|
+|[uniscene: multi-camera unified pre-training via 3d scene reconstruction](https://arxiv.org/abs/2305.18829)|[uniscene](https://github.com/chaytonmin/uniscene)|
+|[medl-u: uncertainty-aware 3d automatic annotation based on evidential deep learning](https://arxiv.org/abs/2309.09599)|[MEDL-U](https://github.com/paathelb/MEDL-U)|
+|[stein variational guided model predictive path integral control: proposal and experiments with fast maneuvering vehicles](https://arxiv.org/abs/2309.11040)|[proj-svg_mppi](https://github.com/kohonda/proj-svg_mppi)|
+|[fleet learning via policy merging](https://arxiv.org/abs/2310.01362)|[fleet-tools](https://github.com/liruiw/fleet-tools)|
+|[absolute policy optimization](https://arxiv.org/abs/2310.13230)|[absolute-policy-optimization](https://github.com/intelligent-control-lab/absolute-policy-optimization)|
+|[tactile-informed action primitives mitigate jamming in dense clutter](https://arxiv.org/abs/2402.09564)|[clutter-jamming](https://github.com/danebrouwer/clutter-jamming)|
+|[self-supervised learning of visual robot localization using led state prediction as a pretext task](https://arxiv.org/abs/2402.09886)|[leds-as-pretext](https://github.com/idsia-robotics/leds-as-pretext)|
+## 2024-02-15
+|paper|code|
+|---|---|
+|[prediction, communication, and computing duration optimization for vr video streaming](https://arxiv.org/abs/1910.13884)|[code4vr-prediction-communication-and-computing](https://github.com/xizhicher/code4vr-prediction-communication-and-computing)|
+|[introducing rsess: an open source enumerative sphere shaping implementation coded in rust](https://arxiv.org/abs/2402.08771)|[rsess](https://github.com/kit-cel/rsess)|
+|[lightweight deep learning based channel estimation for extremely large-scale massive mimo systems](https://arxiv.org/abs/2402.08916)|[XLCNet](https://github.com/gaoshen90/XLCNet)|
+|[causal explanations for sequential decision-making in multi-agent systems](https://arxiv.org/abs/2302.10809)|[cema](https://github.com/uoe-agents/cema)|
+|[an approach for generating families of energetically optimal gaits from passive dynamic walking gaits](https://arxiv.org/abs/2303.14750)|[optimalgaitsforcompassgait](https://github.com/nr-codes/optimalgaitsforcompassgait)|
+|[on-the-fly sfm: what you capture is what you get](https://arxiv.org/abs/2309.11883)|[On_the_fly_SfM](https://github.com/RayShark0605/On_the_fly_SfM)|
+|[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
+|[mot-detr: 3d single shot detection and tracking with transformers to build 3d representations for agro-food robots](https://arxiv.org/abs/2311.15674)|[mot-detr](https://github.com/drapado/mot-detr)|
+|[can you see me now? blind spot estimation for autonomous vehicles using scenario-based simulation with random reference sensors](https://arxiv.org/abs/2402.00467)|[numpy_cukd](https://github.com/pyrestone/numpy_cukd)|
+|[prompt optimization in multi-step tasks (promst): integrating human feedback and preference alignment](https://arxiv.org/abs/2402.08702)|[promst](https://github.com/yongchao98/promst)|
+|[approximate sequential optimization for informative path planning](https://arxiv.org/abs/2402.08841)|[InformativePathPlanning](https://github.com/sisl/InformativePathPlanning)|
+|[rb5 low-cost explorer: implementing autonomous long-term exploration on low-cost robotic hardware](https://arxiv.org/abs/2402.08897)|[rb5](https://github.com/adamseew/rb5)|
+|[pc-nerf: parent-child neural radiance fields using sparse lidar frames in autonomous driving environments](https://arxiv.org/abs/2402.09325)|[pc-nerf](https://github.com/biter0088/pc-nerf)|
+## 2024-02-14
+|paper|code|
+|---|---|
+|[compressing sign information in dct-based image coding via deep sign retrieval](https://arxiv.org/abs/2209.10712)|[dsr](https://github.com/ctsutake/dsr)|
+|[optimized gradient tracking for decentralized online learning](https://arxiv.org/abs/2306.06375)|[Optimized-Gradient-Tracking](https://github.com/Shivangi-Dubey-Sharma/Optimized-Gradient-Tracking)|
+|[self-supervised blind source separation via multi-encoder autoencoders](https://arxiv.org/abs/2309.07138)|[self-supervised-bss-via-multi-encoder-ae](https://github.com/webstah/self-supervised-bss-via-multi-encoder-ae)|
+|[leveraging digital cousins for ensemble q-learning in large-scale wireless networks](https://arxiv.org/abs/2402.08022)|[digital-cousins-for-ensemble-q-learning](https://github.com/talhabozkus/digital-cousins-for-ensemble-q-learning)|
+|[how many views are needed to reconstruct an unknown object using nerf?](https://arxiv.org/abs/2310.00684)|[nerf-prv](https://github.com/psc0628/nerf-prv)|
+|[active implicit reconstruction using one-shot view planning](https://arxiv.org/abs/2310.00685)|[air-osvp](https://github.com/psc0628/air-osvp)|
+|[customizable perturbation synthesis for robust slam benchmarking](https://arxiv.org/abs/2402.08125)|[slam-under-perturbation](https://github.com/xiaohao-xu/slam-under-perturbation)|
+|[self-reconfigurable v-shape formation of multiple uavs in narrow space environments](https://arxiv.org/abs/2402.08245)|[reconfigurable_vshape](https://github.com/duynamrcv/reconfigurable_vshape)|
+|[conditional neural expert processes for learning from demonstration](https://arxiv.org/abs/2402.08424)|[cnep](https://github.com/yildirimyigit/cnep)|
+## 2024-02-13
+|paper|code|
+|---|---|
+|[harpa: high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[design space exploration on efficient and accurate human pose estimation from sparse imu-sensing](https://arxiv.org/abs/2308.02397)|[dse-sparse-imu](https://github.com/itiv-kit/dse-sparse-imu)|
+|[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
+|[implementation of kalman filter approach for active noise control by using matlab: dynamic noise cancellation](https://arxiv.org/abs/2402.06896)|[kalman_filter_for_anc](https://github.com/shidongyuan/kalman_filter_for_anc)|
+|[wrapyfi: a python wrapper for integrating robots, sensors, and applications across multiple middleware](https://arxiv.org/abs/2302.09648)|[wrapyfi](https://github.com/fabawi/wrapyfi)|
+|[follow anything: open-set detection, tracking, and following in real-time](https://arxiv.org/abs/2308.05737)|[followanything](https://github.com/alaamaalouf/followanything)|
+|[endogs: deformable endoscopic tissues reconstruction with gaussian splatting](https://arxiv.org/abs/2401.11535)|[endogs](https://github.com/hku-medai/endogs)|
+|[neural trajectory model: implicit neural trajectory representation for trajectories generation](https://arxiv.org/abs/2402.01254)|[neural-trajectory-model](https://github.com/laser2099/neural-trajectory-model)|
+|[ossar: towards open-set surgical activity recognition in robot-assisted surgery](https://arxiv.org/abs/2402.06985)|[ossar](https://github.com/longbai1006/ossar)|
+|[unified inverse dynamics of modular serial mechanical systems with application to soft robotics](https://arxiv.org/abs/2402.07037)|[jelly](https://github.com/piepustina/jelly)|
+|[aydiv: adaptable yielding 3d object detection via integrated contextual vision transformer](https://arxiv.org/abs/2402.07680)|[aydiv2](https://github.com/sanjay-810/aydiv2)|
 ## 2024-02-09
 |paper|code|
 |---|---|
