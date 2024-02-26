@@ -1,3 +1,60 @@
+## 2024-02-23
+|paper|code|
+|---|---|
+|[approximate message passing with rigorous guarantees for pooled data and quantitative group testing](https://arxiv.org/abs/2309.15507)|[amp_pooled_qgt](https://github.com/pablopasc/amp_pooled_qgt)|
+|[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
+|[random forests for detecting weak signals and extracting physical information: a case study of magnetic navigation](https://arxiv.org/abs/2402.14131)|[magnav](https://github.com/aminmoradixl/magnav)|
+|[gdtm: an indoor geospatial tracking dataset with distributed multimodal sensors](https://arxiv.org/abs/2402.14136)|[gdtm](https://github.com/nesl/gdtm)|
+|[a spatial calibration method for robust cooperative perception](https://arxiv.org/abs/2304.12033)|[cbm](https://github.com/zhyings/cbm)|
+|[dilu: a knowledge-driven approach to autonomous driving with large language models](https://arxiv.org/abs/2309.16292)|[DiLu](https://github.com/PJLab-ADG/DiLu)|
+|[deploying and evaluating llms to program service mobile robots](https://arxiv.org/abs/2311.11183)|[codebotler](https://github.com/ut-amrl/codebotler)|
+|[radarmoseve: a spatial-temporal transformer network for radar-only moving object segmentation and ego-velocity estimation](https://arxiv.org/abs/2402.14380)|[radarmoseve](https://github.com/orca-uboat/radarmoseve)|
+|[transformable gaussian reward function for socially-aware navigation with deep reinforcement learning](https://arxiv.org/abs/2402.14569)|[tgrf](https://github.com/jinnnk/tgrf)|
+## 2024-02-22
+|paper|code|
+|---|---|
+|[ris-admm: a ris and admm-based passive and sparse sensing method with interference removal](https://arxiv.org/abs/2206.06172)|[ris-admm](https://github.com/chenpengseu/ris-admm)|
+|[motor imagery decoding using ensemble curriculum learning and collaborative training](https://arxiv.org/abs/2211.11460)|[ensemble-mi](https://github.com/gzoumpourlis/ensemble-mi)|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[diffplf: a conditional diffusion model for probabilistic forecasting of ev charging load](https://arxiv.org/abs/2402.13548)|[DiffPLF](https://github.com/LSY-Cython/DiffPLF)|
+|[learning multi-pursuit evasion for safe targeted navigation of drones](https://arxiv.org/abs/2304.03443)|[ams-drl-for-pursuit-evasion](https://github.com/ntu-icg/ams-drl-for-pursuit-evasion)|
+|[energy-aware ergodic search: continuous exploration for multi-agent systems with battery constraints](https://arxiv.org/abs/2310.09470)|[enerergo](https://github.com/adamseew/enerergo)|
+|[kinematic-aware prompting for generalizable articulated object manipulation with llms](https://arxiv.org/abs/2311.02847)|[llm_articulated_object_manipulation](https://github.com/gewu-lab/llm_articulated_object_manipulation)|
+|[proprioceptive invariant robot state estimation](https://arxiv.org/abs/2311.04320)|[drift](https://github.com/umich-curly/drift)|
+|[voom: robust visual object odometry and mapping using hierarchical landmarks](https://arxiv.org/abs/2402.13609)|[voom](https://github.com/yutongwangbit/voom)|
+|[khronos: a unified approach for spatio-temporal metric-semantic slam in dynamic environments](https://arxiv.org/abs/2402.13817)|[khronos](https://github.com/mit-spark/khronos)|
+## 2024-02-21
+|paper|code|
+|---|---|
+|[a complex quasi-newton proximal method for image reconstruction in compressed sensing mri](https://arxiv.org/abs/2303.02586)|[cqnpcs_mrireco](https://github.com/hongtao-argmin/cqnpcs_mrireco)|
+|[beyond diagonal reconfigurable intelligent surfaces utilizing graph theory: modeling, architecture design, and optimization](https://arxiv.org/abs/2305.05013)|[bdris-utilizing-graph-theory](https://github.com/matteonerini/bdris-utilizing-graph-theory)|
+|[on the impact of mutual coupling on ris-assisted channel estimation](https://arxiv.org/abs/2309.04990)|[communication](https://github.com/zpinjun/communication)|
+|[behaverify: verifying temporal logic specifications for behavior trees](https://arxiv.org/abs/2208.05360)|[behaverify](https://github.com/verivital/behaverify)|
+|[learning neural force manifolds for sim2real robotic symmetrical paper folding](https://arxiv.org/abs/2301.01968)|[deep-robotic-paper-folding](https://github.com/structurescomp/deep-robotic-paper-folding)|
+|[mbest: realtime deformable linear object detection through minimal bending energy skeleton pixel traversals](https://arxiv.org/abs/2302.09444)|[mbest](https://github.com/structurescomp/mbest)|
+|[differentiable boustrophedon paths that enable optimization via gradient descent](https://arxiv.org/abs/2309.09882)|[differentiableboustrophedonpathplans](https://github.com/tmanzini/differentiableboustrophedonpathplans)|
+|[gnss/multi-sensor fusion using continuous-time factor graph optimization for robust localization](https://arxiv.org/abs/2309.11134)|[gnssfgo](https://github.com/rwth-irt/gnssfgo)|
+|[vision-language interpreter for robot task planning](https://arxiv.org/abs/2311.00967)|[vilain](https://github.com/omron-sinicx/vilain)|
+|[dismech: a discrete differential geometry-based physical simulator for soft robots and structures](https://arxiv.org/abs/2311.18126)|[dismech-rods](https://github.com/structurescomp/dismech-rods)|
+|[safe low-altitude navigation in steep terrain with fixed-wing aerial vehicles](https://arxiv.org/abs/2401.04831)|[terrain-navigation](https://github.com/ethz-asl/terrain-navigation)|
+|[tiny reinforcement learning for quadruped locomotion using decision transformers](https://arxiv.org/abs/2402.13201)|[dt-quadruped-locomotion](https://github.com/dagabo98/dt-quadruped-locomotion)|
+## 2024-02-20
+|paper|code|
+|---|---|
+|[deep, deep learning with bart](https://arxiv.org/abs/2202.14005)|[deep-deep-learning-with-bart](https://github.com/mrirecon/deep-deep-learning-with-bart)|
+|[apsense: data-driven algorithm in ppg-based sleep apnea sensing](https://arxiv.org/abs/2306.10863)|[apsense](https://github.com/iobt-vistec/apsense)|
+|[iterative regularization with k-support norm: an important complement to sparse recovery](https://arxiv.org/abs/2401.05394)|[irksn_aaai2024](https://github.com/wdevazelhes/irksn_aaai2024)|
+|[integrating pre-trained language model with physical layer communications](https://arxiv.org/abs/2402.11656)|[on-device-ai-comm](https://github.com/abman23/on-device-ai-comm)|
+|[self-supervised learning for joint pushing and grasping policies in highly cluttered environments](https://arxiv.org/abs/2203.02511)|[Self-Supervised-Learning-for-pushing-and-grasping](https://github.com/Kamalnl92/Self-Supervised-Learning-for-pushing-and-grasping)|
+|[ik-geo: unified robot inverse kinematics using subproblem decomposition](https://arxiv.org/abs/2211.05737)|[ik-geo](https://github.com/rpirobotics/ik-geo)|
+|[planar friction modelling with lugre dynamics and limit surfaces](https://arxiv.org/abs/2308.01123)|[frictionmodelling](https://github.com/gabrieleenx/frictionmodelling)|
+|[learning-based nlos detection and uncertainty prediction of gnss observations with transformer-enhanced lstm network](https://arxiv.org/abs/2309.00480)|[deepnlosdetection](https://github.com/rwth-irt/deepnlosdetection)|
+|[prograsp: pragmatic human-robot communication for object grasping](https://arxiv.org/abs/2309.07759)|[prograsp](https://github.com/gicheonkang/prograsp)|
+|[scene informer: anchor-based occlusion inference and trajectory prediction in partially observable environments](https://arxiv.org/abs/2309.13893)|[sceneinformer](https://github.com/sisl/sceneinformer)|
+|[human as ai mentor: enhanced human-in-the-loop reinforcement learning for safe and efficient autonomous driving](https://arxiv.org/abs/2401.03160)|[HAIM-DRL](https://github.com/zilin-huang/HAIM-DRL)|
+|[point-wise vibration pattern production via a sparse actuator array for surface tactile feedback](https://arxiv.org/abs/2402.11496)|[vibrationpattern](https://github.com/lixiaosa1996/vibrationpattern)|
+|[decentralized multi-robot navigation for autonomous surface vehicles with distributional reinforcement learning](https://arxiv.org/abs/2402.11799)|[multi_robot_distributional_rl_navigation](https://github.com/robustfieldautonomylab/multi_robot_distributional_rl_navigation)|
+|[real-time 3d semantic scene perception for egocentric robots with binocular vision](https://arxiv.org/abs/2402.11872)|[semantic_scene_perception](https://github.com/mkhangg/semantic_scene_perception)|
 ## 2024-02-16
 |paper|code|
 |---|---|
