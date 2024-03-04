@@ -1,3 +1,68 @@
+## 2024-03-01
+|paper|code|
+|---|---|
+|[statistical component separation for targeted signal recovery in noisy mixtures](https://arxiv.org/abs/2306.15012)|[stat_comp_sep](https://github.com/bregaldo/stat_comp_sep)|
+|[listening to the noise: blind denoising with gibbs diffusion](https://arxiv.org/abs/2402.19455)|[gibbs-diffusion](https://github.com/rubenohana/gibbs-diffusion)|
+|[convex hulls of reachable sets](https://arxiv.org/abs/2303.17674)|[chreach](https://github.com/stanfordasl/chreach)|
+|[dimensionless policies based on the buckingham $\pi$ theorem: is this a good way to generalize numerical results?](https://arxiv.org/abs/2307.15852)|[dimensionlesspolicies](https://github.com/alx87grd/dimensionlesspolicies)|
+|[improving generalization in reinforcement learning training regimes for social robot navigation](https://arxiv.org/abs/2308.14947)|[soc-nav-training](https://github.com/raise-lab/soc-nav-training)|
+|[i-octree: a fast, lightweight, and dynamic octree for proximity search](https://arxiv.org/abs/2309.08315)|[i-octree](https://github.com/zhujun3753/i-octree)|
+|[rms: redundancy-minimizing point cloud sampling for real-time pose estimation](https://arxiv.org/abs/2312.07337)|[rms](https://github.com/ctu-mrs/rms)|
+|[ok-robot: what really matters in integrating open-knowledge models for robotics](https://arxiv.org/abs/2401.12202)|[ok-robot](https://github.com/ok-robot/ok-robot)|
+|[ros-causal: a ros-based causal analysis framework for human-robot interaction applications](https://arxiv.org/abs/2402.16068)|[ros-causal_hrisim](https://github.com/lcastri/ros-causal_hrisim)|
+|[active propulsion noise shaping for multi-rotor aircraft localization](https://arxiv.org/abs/2402.17289)|[ears_code](https://github.com/tamirshor7/ears_code)|
+|[a probabilistic motion model for skid-steer wheeled mobile robot navigation on off-road terrains](https://arxiv.org/abs/2402.18065)|[multiterrain-gp-model](https://github.com/river-lab/multiterrain-gp-model)|
+|[fault tolerant neural control barrier functions for robotic systems under sensor faults and attacks](https://arxiv.org/abs/2402.18677)|[ftncbf](https://github.com/hongchaozhang-hz/ftncbf)|
+|[aligning knowledge graph with visual perception for object-goal navigation](https://arxiv.org/abs/2402.18892)|[akgvp](https://github.com/nuoxu/akgvp)|
+|[dmsa -- dense multi scan adjustment for lidar inertial odometry and global optimization](https://arxiv.org/abs/2402.19044)|[dmsa_lidar_slam](https://github.com/davidskdds/dmsa_lidar_slam)|
+|[cricavpr: cross-image correlation-aware representation learning for visual place recognition](https://arxiv.org/abs/2402.19231)|[cricavpr](https://github.com/lu-feng/cricavpr)|
+|[a cognitive-based trajectory prediction approach for autonomous driving](https://arxiv.org/abs/2402.19251)|[hltp](https://github.com/petrichor625/hltp)|
+## 2024-02-29
+|paper|code|
+|---|---|
+|[eeg2rep: enhancing self-supervised eeg representation through informative masked inputs](https://arxiv.org/abs/2402.17772)|[eeg2rep](https://github.com/navidfoumani/eeg2rep)|
+|[task-driven hybrid model reduction for dexterous manipulation](https://arxiv.org/abs/2211.16657)|[task-driven-hybrid-reduction](https://github.com/wanxinjin/task-driven-hybrid-reduction)|
+|[kvn: keypoints voting network with differentiable ransac for stereo pose estimation](https://arxiv.org/abs/2307.11543)|[kvn](https://github.com/ivano-donadi/kvn)|
+|[robust single rotation averaging revisited](https://arxiv.org/abs/2309.05388)|[singlerotationaveraging_tlud](https://github.com/sunghoon031/singlerotationaveraging_tlud)|
+|[large trajectory models are scalable motion predictors and planners](https://arxiv.org/abs/2310.19620)|[statetransformer](https://github.com/tsinghua-mars-lab/statetransformer)|
+|[large-scale multi-robot coverage path planning via local search](https://arxiv.org/abs/2312.10797)|[ls-mcpp](https://github.com/reso1/ls-mcpp)|
+|[pcr-99: a practical method for point cloud registration with 99% outliers](https://arxiv.org/abs/2402.16598)|[pcr-99](https://github.com/sunghoon031/pcr-99)|
+|[spannotation: enhancing semantic segmentation for autonomous navigation with efficient image annotation](https://arxiv.org/abs/2402.18084)|[spannotation](https://github.com/sof-danny/spannotation)|
+|[echotrack: auditory referring multi-object tracking for autonomous driving](https://arxiv.org/abs/2402.18302)|[echotrack](https://github.com/lab206/echotrack)|
+|[unifying f1tenth autonomous racing: survey, methods and benchmarks](https://arxiv.org/abs/2402.18558)|[f1tenth_benchmarks](https://github.com/bdevan5/f1tenth_benchmarks)|
+## 2024-02-28
+|paper|code|
+|---|---|
+|[multi-kernel correntropy-based orientation estimation of imus: gradient descent methods](https://arxiv.org/abs/2304.06548)|[mc_gd_imu](https://github.com/lsl-zsj/mc_gd_imu)|
+|[hrtf upsampling with a generative adversarial network using a gnomonic equiangular projection](https://arxiv.org/abs/2306.05812)|[hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection](https://github.com/ahogg/hrtf-upsampling-with-a-generative-adversarial-network-using-a-gnomonic-equiangular-projection)|
+|[onboard dynamic-object detection and tracking for autonomous robot navigation with rgb-d camera](https://arxiv.org/abs/2303.00132)|[onboard_detector](https://github.com/zhefan-xu/onboard_detector)|
+|[conditional unscented autoencoders for trajectory prediction](https://arxiv.org/abs/2310.19944)|[cuae-prediction](https://github.com/boschresearch/cuae-prediction)|
+|[multi-agent reinforcement learning for the low-level control of a quadrotor uav](https://arxiv.org/abs/2311.06144)|[gym-rotor](https://github.com/fdcl-gwu/gym-rotor)|
+|[privacy-preserving map-free exploration for confirming the absence of a radioactive source](https://arxiv.org/abs/2402.17130)|[verification](https://github.com/elepowsky/verification)|
+|[explicit interaction for fusion-based place recognition](https://arxiv.org/abs/2402.17264)|[einet](https://github.com/bit-xjy/einet)|
+|[using programmable drone in educational projects and competitions](https://arxiv.org/abs/2402.17409)|[softverova-podpora](https://github.com/robocup-junior-slovensko/softverova-podpora)|
+## 2024-02-27
+|paper|code|
+|---|---|
+|[a complex quasi-newton proximal method for image reconstruction in compressed sensing mri](https://arxiv.org/abs/2303.02586)|[cqnpcs_mrireco](https://github.com/hongtao-argmin/cqnpcs_mrireco)|
+|[semi-supervised end-to-end learning for integrated sensing and communications](https://arxiv.org/abs/2310.09940)|[sslisac](https://github.com/josemateosramos/sslisac)|
+|[deep, convergent, unrolled half-quadratic splitting for image deconvolution](https://arxiv.org/abs/2402.12872)|[decun](https://github.com/6zhc/decun)|
+|[flexible robust beamforming for multibeam satellite downlink using reinforcement learning](https://arxiv.org/abs/2402.16563)|[2310_beamforming_learner_2](https://github.com/steffengra/2310_beamforming_learner_2)|
+|[rltools: a fast, portable deep reinforcement learning library for continuous control](https://arxiv.org/abs/2306.03530)|[rl-tools](https://github.com/rl-tools/rl-tools)|
+|[cnn-based local features for navigation near an asteroid](https://arxiv.org/abs/2309.11156)|[navex](https://github.com/oknuutti/navex)|
+|[probabilistic 3d multi-object cooperative tracking for autonomous driving via differentiable multi-sensor kalman filter](https://arxiv.org/abs/2309.14655)|[DMSTrack](https://github.com/eddyhkchiu/DMSTrack)|
+|[dtpp: differentiable joint conditional prediction and cost evaluation for tree policy planning in autonomous driving](https://arxiv.org/abs/2310.05885)|[dtpp](https://github.com/mczhi/dtpp)|
+|[think, act, and ask: open-world interactive personalized robot navigation](https://arxiv.org/abs/2310.07968)|[navchat](https://github.com/sled-group/navchat)|
+|[certifying bimanual rrt motion plans in a second](https://arxiv.org/abs/2310.16603)|[drake](https://github.com/alexandreamice/drake)|
+|[race against the machine: a fully-annotated, open-design dataset of autonomous and piloted high-speed flight](https://arxiv.org/abs/2311.02667)|[drone-racing-dataset](https://github.com/tii-racing/drone-racing-dataset)|
+|[robot at the mirror: learning to imitate via associating self-supervised models](https://arxiv.org/abs/2311.13226)|[learningimitation](https://github.com/andylucny/learningimitation)|
+|[voom: robust visual object odometry and mapping using hierarchical landmarks](https://arxiv.org/abs/2402.13609)|[voom](https://github.com/yutongwangbit/voom)|
+|[himap: learning heuristics-informed policies for large-scale multi-agent pathfinding](https://arxiv.org/abs/2402.15546)|[himap](https://github.com/kaist-silab/himap)|
+|[morphological symmetries in robotics](https://arxiv.org/abs/2402.15552)|[morphosymm](https://github.com/danfoa/morphosymm)|
+|[foundation policies with hilbert representations](https://arxiv.org/abs/2402.15567)|[hilp](https://github.com/seohongpark/hilp)|
+|[phyplan: compositional and adaptive physical task reasoning with physics-informed skill networks for robot manipulators](https://arxiv.org/abs/2402.15767)|[phyplan](https://github.com/phyplan/phyplan)|
+|[iklink: end-effector trajectory tracking with minimal reconfigurations](https://arxiv.org/abs/2402.16154)|[iklink](https://github.com/uwgraphics/iklink)|
+|[contingency planning using bi-level markov decision processes for space missions](https://arxiv.org/abs/2402.16342)|[bimdps.jl](https://github.com/somritabanerjee/bimdps.jl)|
 ## 2024-02-23
 |paper|code|
 |---|---|
