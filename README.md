@@ -1,3 +1,79 @@
+## 2024-03-08
+|paper|code|
+|---|---|
+|[dtp-net: learning to reconstruct eeg signals in time-frequency domain by multi-scale feature reuse](https://arxiv.org/abs/2312.09417)|[eeg-denoise](https://github.com/williamro/eeg-denoise)|
+|[articulated object interaction in unknown scenes with whole-body mobile manipulation](https://arxiv.org/abs/2103.10534)|[ocs2](https://github.com/leggedrobotics/ocs2)|
+|[transferring dexterous manipulation from gpu simulation to a remote real-world trifinger](https://arxiv.org/abs/2108.09779)|[rl_games](https://github.com/Denys88/rl_games)|
+|[vision-based drl autonomous driving agent with sim2real transfer](https://arxiv.org/abs/2305.11589)|[sim2real_autonomous_vehicle](https://github.com/dailyl/sim2real_autonomous_vehicle)|
+|[improving reliable navigation under uncertainty via predictions informed by non-local information](https://arxiv.org/abs/2307.14501)|[lsp_gnn](https://github.com/RAIL-group/RAIL-group-software/tree/main/modules/lsp_gnn)|
+|[trust-region neural moving horizon estimation for robots](https://arxiv.org/abs/2309.05955)|[tr-neuromhe](https://github.com/binghengnus/tr-neuromhe)|
+|[learning model predictive control with error dynamics regression for autonomous racing](https://arxiv.org/abs/2309.10716)|[racing-lmpc-ros2](https://github.com/mpc-berkeley/racing-lmpc-ros2)|
+|[neural informed rrt*: learning-based path planning with point cloud state representations under admissible ellipsoidal constraints](https://arxiv.org/abs/2309.14595)|[nirrt_star](https://github.com/tedhuang96/nirrt_star)|
+|[cook2ltl: translating cooking recipes to ltl formulae using large language models](https://arxiv.org/abs/2310.00163)|[cook2ltl-translating-cooking-recipes-to-primitive-ltl-action-formulae](https://github.com/angmavrogiannis/cook2ltl-translating-cooking-recipes-to-primitive-ltl-action-formulae)|
+|[puma: fully decentralized uncertainty-aware multiagent trajectory planner with real-time image segmentation-based frame alignment](https://arxiv.org/abs/2311.03655)|[puma](https://github.com/mit-acl/puma)|
+|[decentralized multi-robot navigation for autonomous surface vehicles with distributional reinforcement learning](https://arxiv.org/abs/2402.11799)|[multi_robot_distributional_rl_navigation](https://github.com/robustfieldautonomylab/multi_robot_distributional_rl_navigation)|
+|[closing the visual sim-to-real gap with object-composable nerfs](https://arxiv.org/abs/2403.04114)|[cov-nerf](https://github.com/nikhilmishra000/cov-nerf)|
+|[minimum-time planar paths with up to two constant acceleration inputs and $l_2$ velocity and acceleration constraints](https://arxiv.org/abs/2403.04602)|[mintimel2pathsconstraints](https://github.com/roboticswarmcontrol/mintimel2pathsconstraints)|
+## 2024-03-07
+|paper|code|
+|---|---|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[tsrnet: simple framework for real-time ecg anomaly detection with multimodal time and spectrogram restoration network](https://arxiv.org/abs/2312.10187)|[tsrnet](https://github.com/uark-aicv/tsrnet)|
+|[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
+|[arnn: attentive recurrent neural network for multi-channel eeg signals to identify epileptic seizures](https://arxiv.org/abs/2403.03276)|[arnn](https://github.com/salim-lysiun/arnn)|
+|[diffusion-based generative prior for low-complexity mimo channel estimation](https://arxiv.org/abs/2403.03545)|[diffusion_channel_est](https://github.com/benediktfesl/diffusion_channel_est)|
+|[evaluating temporal observation-based causal discovery techniques applied to road driver behaviour](https://arxiv.org/abs/2302.00064)|[temporal-cd-evaluation-paper-resources](https://github.com/cognitive-robots/temporal-cd-evaluation-paper-resources)|
+|[materobot: material recognition in wearable robotics for people with visual impairments](https://arxiv.org/abs/2302.14595)|[materobot](https://github.com/junweizheng93/materobot)|
+|[simulation-based counterfactual causal discovery on real world driver behaviour](https://arxiv.org/abs/2306.03354)|[counterfactual-cd-paper-resources](https://github.com/cognitive-robots/counterfactual-cd-paper-resources)|
+|[projected task-specific layers for multi-task reinforcement learning](https://arxiv.org/abs/2309.08776)|[ptsl](https://github.com/josselinsomervilleroberts/ptsl)|
+|[continual driving policy optimization with closed-loop individualized curricula](https://arxiv.org/abs/2309.14209)|[CLIC](https://github.com/YizhouXu-THU/CLIC)|
+|[3d-bbs: global localization for 3d point cloud scan matching using branch-and-bound algorithm](https://arxiv.org/abs/2310.10023)|[3d_bbs](https://github.com/kokiaoki/3d_bbs)|
+|[robust mitl planning under uncertain navigation times](https://arxiv.org/abs/2403.03727)|[mitl_task_solver_temporal_robustness](https://github.com/kth-rpl-planiacs/mitl_task_solver_temporal_robustness)|
+|[3d diffusion policy](https://arxiv.org/abs/2403.03954)|[3D-Diffusion-Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)|
+## 2024-03-06
+|paper|code|
+|---|---|
+|[towards motion forecasting with real-world perception inputs: are end-to-end approaches competitive?](https://arxiv.org/abs/2306.09281)|[MFEval](https://github.com/valeoai/MFEval)|
+|[co-design optimisation of morphing topology and control of winged drones](https://arxiv.org/abs/2309.13948)|[paper_bergonti_2024_icra_codesign-morphing-drones](https://github.com/ami-iit/paper_bergonti_2024_icra_codesign-morphing-drones)|
+|[volumetric semantically consistent 3d panoptic mapping](https://arxiv.org/abs/2309.14737)|[consistentpanopticslam](https://github.com/y9miao/consistentpanopticslam)|
+|[db-cbs: discontinuity-bounded conflict-based search for multi-robot kinodynamic motion planning](https://arxiv.org/abs/2309.16445)|[db-cbs](https://github.com/imrclab/db-cbs)|
+|[riskbench: a scenario-based benchmark for risk identification](https://arxiv.org/abs/2312.01659)|[RiskBench](https://github.com/HCIS-Lab/RiskBench)|
+|[lodestar: maritime radar descriptor for semi-direct radar odometry](https://arxiv.org/abs/2403.02773)|[lodestar](https://github.com/hyesu-jang/lodestar)|
+|[oord: the oxford offroad radar dataset](https://arxiv.org/abs/2403.02845)|[oord-dataset](https://github.com/mttgdd/oord-dataset)|
+|[behavior generation with latent actions](https://arxiv.org/abs/2403.03181)|[vq_bet_official](https://github.com/jayLEE0301/vq_bet_official)|
+## 2024-03-05
+|paper|code|
+|---|---|
+|[matnet: multi-level fusion transformer-based model for day-ahead pv generation forecasting](https://arxiv.org/abs/2306.10356)|[matnet](https://github.com/cosbidev/matnet)|
+|[improving robustness via tilted exponential layer: a communication-theoretic perspective](https://arxiv.org/abs/2311.01047)|[texp_for_robustness](https://github.com/bhagyapuranik/texp_for_robustness)|
+|[neuro-gpt: towards a foundation model for eeg](https://arxiv.org/abs/2311.03764)|[neurogpt](https://github.com/wenhui0206/neurogpt)|
+|[arbitrary discrete fourier analysis and its application in replayed speech detection](https://arxiv.org/abs/2403.01130)|[adfa](https://github.com/shihkuanglee/adfa)|
+|[lum-vit: learnable under-sampling mask vision transformer for bandwidth limited optical signal acquisition](https://arxiv.org/abs/2403.01412)|[lum-vit](https://github.com/maxllf/lum-vit)|
+|[powerskel: a device-free framework using csi signal for human skeleton estimation in power station](https://arxiv.org/abs/2403.01913)|[ckdformer](https://github.com/power-operation/ckdformer)|
+|[hybrid quantum neural network advantage for radar-based drone detection and classification in low signal-to-noise ratio](https://arxiv.org/abs/2403.02080)|[hybrid-quantum-classical-Neural-Network-for-radar-data](https://github.com/AishSweety/hybrid-quantum-classical-Neural-Network-for-radar-data)|
+|[formulating event-based image reconstruction as a linear inverse problem with deep regularization using optical flow](https://arxiv.org/abs/2112.06242)|[event_based_image_rec_inverse_problem](https://github.com/tub-rip/event_based_image_rec_inverse_problem)|
+|[secrets of event-based optical flow](https://arxiv.org/abs/2207.10022)|[event_based_optical_flow](https://github.com/tub-rip/event_based_optical_flow)|
+|[to compute or not to compute? adaptive smart sensing in resource-constrained edge computing](https://arxiv.org/abs/2209.02166)|[processingnetworks-rl](https://github.com/lucaballotta/processingnetworks-rl)|
+|[a fast geometric regularizer to mitigate event collapse in the contrast maximization framework](https://arxiv.org/abs/2212.07350)|[event_collapse](https://github.com/tub-rip/event_collapse)|
+|[complementary random masking for rgb-thermal semantic segmentation](https://arxiv.org/abs/2303.17386)|[CRM_RGBTSeg](https://github.com/UkcheolShin/CRM_RGBTSeg)|
+|[safe offline reinforcement learning with real-time budget constraints](https://arxiv.org/abs/2306.00603)|[safe-offline-rl-with-diffusion-model](https://github.com/qianlin04/safe-offline-rl-with-diffusion-model)|
+|[botanicgarden: a high-quality dataset for robot navigation in unstructured natural environments](https://arxiv.org/abs/2306.14137)|[botanicgarden](https://github.com/robot-pesg/botanicgarden)|
+|[kvn: keypoints voting network with differentiable ransac for stereo pose estimation](https://arxiv.org/abs/2307.11543)|[kvn](https://github.com/ivano-donadi/kvn)|
+|[symmetric stair preconditioning of linear systems for parallel trajectory optimization](https://arxiv.org/abs/2309.06427)|[symstair](https://github.com/a2r-lab/symstair)|
+|[collaborative dynamic 3d scene graphs for automated driving](https://arxiv.org/abs/2309.06635)|[CURB-SG](https://github.com/robot-learning-freiburg/CURB-SG)|
+|[mpcgpu: real-time nonlinear model predictive control through preconditioned conjugate gradient on the gpu](https://arxiv.org/abs/2309.08079)|[mpcgpu](https://github.com/a2r-lab/mpcgpu)|
+|[lidar data synthesis with denoising diffusion probabilistic models](https://arxiv.org/abs/2309.09256)|[r2dm](https://github.com/kazuto1011/r2dm)|
+|[pixel-wise smoothing for certified robustness against camera motion perturbations](https://arxiv.org/abs/2309.13150)|[pixel-wise-smoothing](https://github.com/hanjianghu/pixel-wise-smoothing)|
+|[stackelberg game-theoretic trajectory guidance for multi-robot systems with koopman operator](https://arxiv.org/abs/2309.16098)|[stackelberg-koopman-learning](https://github.com/yuhan16/stackelberg-koopman-learning)|
+|[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
+|[influence of camera-lidar configuration on 3d object detection for autonomous driving](https://arxiv.org/abs/2310.05245)|[lidar-camera-placement](https://github.com/ywyeli/lidar-camera-placement)|
+|[open-radvlad: fast and robust radar place recognition](https://arxiv.org/abs/2401.15380)|[open-radvlad](https://github.com/mttgdd/open-radvlad)|
+|[curriculum-based reinforcement learning for quadrupedal jumping: a reference-free design](https://arxiv.org/abs/2401.16337)|[curriculum-quadruped-jumping-drl](https://github.com/vassil17/curriculum-quadruped-jumping-drl)|
+|[night-rider: nocturnal vision-aided localization in streetlight maps using invariant extended kalman filtering](https://arxiv.org/abs/2402.00330)|[night-rider](https://github.com/imrl/night-rider)|
+|[dufomap: efficient dynamic awareness mapping](https://arxiv.org/abs/2403.01449)|[dynamicmap_benchmark](https://github.com/kth-rpl/dynamicmap_benchmark)|
+|[kick back & relax++: scaling beyond ground-truth depth with slowtv & cribstv](https://arxiv.org/abs/2403.01569)|[slowtv_monodepth](https://github.com/jspenmar/slowtv_monodepth)|
+|[offline goal-conditioned reinforcement learning for safety-critical tasks with recovery policy](https://arxiv.org/abs/2403.01734)|[rbsl](https://github.com/sunlighted/rbsl)|
+|[scalable vision-based 3d object detection and monocular depth estimation for autonomous driving](https://arxiv.org/abs/2403.02037)|[visionfactory](https://github.com/owen-liuyuxuan/visionfactory)|
 ## 2024-03-01
 |paper|code|
 |---|---|
