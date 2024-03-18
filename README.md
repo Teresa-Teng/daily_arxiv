@@ -1,3 +1,85 @@
+## 2024-03-15
+|paper|code|
+|---|---|
+|[compressing sign information in dct-based image coding via deep sign retrieval](https://arxiv.org/abs/2209.10712)|[dsr](https://github.com/ctsutake/dsr)|
+|[uncertainty-aware and reliable neural mimo receivers via modular bayesian deep learning](https://arxiv.org/abs/2302.02436)|[bayesian-learning-for-receivers](https://github.com/tomerraviv95/bayesian-learning-for-receivers)|
+|[model-free reinforcement learning of semantic communication by stochastic policy gradient](https://arxiv.org/abs/2305.03571)|[sinfony](https://github.com/ant-uni-bremen/sinfony)|
+|[plug-and-play regularization on magnitude with deep priors for 3d near-field mimo imaging](https://arxiv.org/abs/2312.16024)|[PnP-Regularization-on-Magnitude](https://github.com/METU-SPACE-Lab/PnP-Regularization-on-Magnitude)|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
+|[meta-learning-based fronthaul compression for cloud radio access networks](https://arxiv.org/abs/2403.09004)|[Meta-Learning-Fronthaul-Compression-CRAN](https://github.com/RuihuaQiao/Meta-Learning-Fronthaul-Compression-CRAN)|
+|[dcpt: darkness clue-prompted tracking in nighttime uavs](https://arxiv.org/abs/2309.10491)|[dcpt](https://github.com/bearyi26/dcpt)|
+|[zero-shot object goal visual navigation with class-independent relationship network](https://arxiv.org/abs/2310.09883)|[icra-cirn](https://github.com/smartandcleverrobot/icra-cirn)|
+|[grasp multiple objects with one hand](https://arxiv.org/abs/2310.15599)|[MultiGrasp](https://github.com/MultiGrasp/MultiGrasp)|
+|[tta-nav: test-time adaptive reconstruction for point-goal navigation under visual corruptions](https://arxiv.org/abs/2403.01977)|[tta-nav](https://github.com/maytusp/tta-nav)|
+|[v-prism: probabilistic mapping of unknown tabletop scenes](https://arxiv.org/abs/2403.08106)|[v-prism](https://github.com/herb-wright/v-prism)|
+|[cart: caltech aerial rgb-thermal dataset in the wild](https://arxiv.org/abs/2403.08997)|[caltech-aerial-rgbt-dataset](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)|
+|[opengraph: open-vocabulary hierarchical 3d graph representation in large-scale outdoor environments](https://arxiv.org/abs/2403.09412)|[opengraph](https://github.com/bit-dyn/opengraph)|
+## 2024-03-14
+|paper|code|
+|---|---|
+|[slicertms: real-time visualization of transcranial magnetic stimulation for mental health treatment](https://arxiv.org/abs/2305.06459)|[SlicerTMS](https://github.com/lorifranke/SlicerTMS)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[prograsp: pragmatic human-robot communication for object grasping](https://arxiv.org/abs/2309.07759)|[prograsp](https://github.com/gicheonkang/prograsp)|
+|[hamiltonian dynamics learning from point cloud observations for nonholonomic mobile robot control](https://arxiv.org/abs/2309.09163)|[Differential-Drive-Hamiltonian-NeuralODE](https://github.com/ExistentialRobotics/Differential-Drive-Hamiltonian-NeuralODE)|
+|[ratrack: moving object detection and tracking with 4d radar point cloud](https://arxiv.org/abs/2309.09737)|[ratrack](https://github.com/ljacksonpan/ratrack)|
+|[rts-gt: robotic total stations ground truthing dataset](https://arxiv.org/abs/2309.11935)|[rts_project](https://github.com/norlab-ulaval/rts_project)|
+|[online continual learning for interactive instruction following agents](https://arxiv.org/abs/2403.07548)|[cl-alfred](https://github.com/snumprlab/cl-alfred)|
+|[cmax-slam: event-based rotational-motion bundle adjustment and slam system using contrast maximization](https://arxiv.org/abs/2403.08119)|[cmax_slam](https://github.com/tub-rip/cmax_slam)|
+|[learning barrier-certified polynomial dynamical systems for obstacle avoidance with robots](https://arxiv.org/abs/2403.08178)|[abc-ds](https://github.com/martinschonger/abc-ds)|
+|[empowering robotics with large language models: osmag map comprehension with llms](https://arxiv.org/abs/2403.08228)|[llm-osmag-comprehension](https://github.com/xiefujing/llm-osmag-comprehension)|
+|[apace: agile and perception-aware trajectory generation for quadrotor flights](https://arxiv.org/abs/2403.08365)|[apace](https://github.com/hkust-aerial-robotics/apace)|
+|[fastmac: stochastic spectral sampling of correspondence graph](https://arxiv.org/abs/2403.08770)|[fastmac](https://github.com/forrest-110/fastmac)|
+## 2024-03-13
+|paper|code|
+|---|---|
+|[wimans: a benchmark dataset for wifi-based multi-user activity sensing](https://arxiv.org/abs/2402.09430)|[wimans](https://github.com/huangshk/wimans)|
+|[exploring challenges in deep learning of single-station ground motion records](https://arxiv.org/abs/2403.07569)|[mage](https://github.com/caglarmert/mage)|
+|[lf-pgvio: a visual-inertial-odometry framework for large field-of-view cameras using points and geodesic segments](https://arxiv.org/abs/2306.06663)|[lf-pgvio](https://github.com/flysoaryun/lf-pgvio)|
+|[robust 3d object detection from lidar-radar point clouds via cross-modal feature augmentation](https://arxiv.org/abs/2309.17336)|[see_beyond_seeing](https://github.com/djning/see_beyond_seeing)|
+|[toward a plug-and-play vision-based grasping module for robotics](https://arxiv.org/abs/2310.04349)|[qd_grasp](https://github.com/Johann-Huber/qd_grasp)|
+|[goal-reaching trajectory design near danger with piecewise affine reach-avoid computation](https://arxiv.org/abs/2402.15604)|[parc](https://github.com/safe-robotics-lab-gt/parc)|
+|[unidoormanip: learning universal door manipulation policy over large-scale and diverse door manipulation environments](https://arxiv.org/abs/2403.02604)|[UniDoorManip](https://github.com/sectionZ6/UniDoorManip)|
+|[using fiber optic bundles to miniaturize vision-based tactile sensors](https://arxiv.org/abs/2403.05500)|[digit-design](https://github.com/facebookresearch/digit-design)|
+|[accelerating interface adaptation with user-friendly priors](https://arxiv.org/abs/2403.07192)|[interfaces-human-priors](https://github.com/vt-collab/interfaces-human-priors)|
+|[multi-task manipulation policy modeling with visuomotor latent diffusion](https://arxiv.org/abs/2403.07312)|[rold](https://github.com/alberttan404/rold)|
+|[navcot: boosting llm-based vision-and-language navigation via learning disentangled reasoning](https://arxiv.org/abs/2403.07376)|[navcot](https://github.com/expectorlin/navcot)|
+|[drplanner: diagnosis and repair of motion planners using large language models](https://arxiv.org/abs/2403.07470)|[drplanner](https://github.com/commonroad/drplanner)|
+|[ensembling prioritized hybrid policies for multi-agent pathfinding](https://arxiv.org/abs/2403.07559)|[eph-mapf](https://github.com/ai4co/eph-mapf)|
+|[federated learning of socially appropriate agent behaviours in simulated home environments](https://arxiv.org/abs/2403.07586)|[fcl-mannersdb](https://github.com/nchuramani/fcl-mannersdb)|
+|[efficient global navigational planning in 3d structures based on point cloud tomography](https://arxiv.org/abs/2403.07631)|[pct_planner](https://github.com/byangw/pct_planner)|
+## 2024-03-12
+|paper|code|
+|---|---|
+|[tfn: an interpretable neural network with time-frequency transform embedded for intelligent fault diagnosis](https://arxiv.org/abs/2209.01992)|[tfn](https://github.com/chenqian0618/tfn)|
+|[ul-dl duality for cell-free massive mimo with per-ap power and information constraints](https://arxiv.org/abs/2301.06520)|[duality](https://github.com/lorenzomiretti/duality)|
+|[symmetric-reciprocal-match method for vector network analyzer calibration](https://arxiv.org/abs/2309.02886)|[srm-calibration](https://github.com/ZiadHatab/srm-calibration)|
+|[guiding masked representation learning to capture spatio-temporal relationship of electrocardiogram](https://arxiv.org/abs/2402.09450)|[st-mem](https://github.com/bakqui/st-mem)|
+|[blockchain-enabled variational information bottleneck for iot networks](https://arxiv.org/abs/2403.06129)|[blockchain-enabled-variational-information-bottleneck-for-iot-networks](https://github.com/qiongwu86/blockchain-enabled-variational-information-bottleneck-for-iot-networks)|
+|[esvio: event-based stereo visual inertial odometry](https://arxiv.org/abs/2212.13184)|[esvio](https://github.com/arclab-hku/esvio)|
+|[robust imaging sonar-based place recognition and localization in underwater environments](https://arxiv.org/abs/2305.14773)|[sonar_context](https://github.com/sparolab/sonar_context)|
+|[racecar -- the dataset for high-speed autonomous racing](https://arxiv.org/abs/2306.03252)|[racecar_data](https://github.com/linklab-uva/racecar_data)|
+|[scenereplica: benchmarking real-world robot manipulation by creating replicable scenes](https://arxiv.org/abs/2306.15620)|[SceneReplica](https://github.com/IRVLUTD/SceneReplica)|
+|[hiql: offline goal-conditioned rl with latent states as actions](https://arxiv.org/abs/2307.11949)|[hiql](https://github.com/seohongpark/hiql)|
+|[a unifying variational framework for gaussian process motion planning](https://arxiv.org/abs/2309.00854)|[vgpmp](https://github.com/luke-ck/vgpmp)|
+|[grid: scene-graph-based instruction-driven robotic task planning](https://arxiv.org/abs/2309.07726)|[GRID](https://github.com/jackyzengl/GRID)|
+|[pedestrian trajectory prediction using dynamics-based deep learning](https://arxiv.org/abs/2309.09021)|[pedestrianpathprediction](https://github.com/sydney-machine-learning/pedestrianpathprediction)|
+|[scene informer: anchor-based occlusion inference and trajectory prediction in partially observable environments](https://arxiv.org/abs/2309.13893)|[sceneinformer](https://github.com/sisl/sceneinformer)|
+|[metra: scalable unsupervised rl with metric-aware abstraction](https://arxiv.org/abs/2310.08887)|[metra](https://github.com/seohongpark/metra)|
+|[robust conformal prediction for stl runtime verification under distribution shift](https://arxiv.org/abs/2311.09482)|[Robust-Conformal-Prediction-for-STL-Runtime-Verification-under-Distribution-Shift](https://github.com/SAIDS-Lab/Robust-Conformal-Prediction-for-STL-Runtime-Verification-under-Distribution-Shift)|
+|[mobile-seed: joint semantic segmentation and boundary detection for mobile robots](https://arxiv.org/abs/2311.12651)|[mobile-seed](https://github.com/whu-usi3dv/mobile-seed)|
+|[multi-agent motion planning with b\'ezier curve optimization under kinodynamic constraints](https://arxiv.org/abs/2311.14145)|[psb-ral](https://github.com/jingtianyan/psb-ral)|
+|[wayfaster: a self-supervised traversability prediction for increased navigation awareness](https://arxiv.org/abs/2402.00683)|[wayfaster](https://github.com/matval/wayfaster)|
+|[lhmap-loc: cross-modal monocular localization using lidar point cloud heat map](https://arxiv.org/abs/2403.05002)|[lhmap-loc](https://github.com/irmvlab/lhmap-loc)|
+|[are large language models aligned with people's social intuitions for human-robot interactions?](https://arxiv.org/abs/2403.05701)|[llms-for-social-robotics](https://github.com/lwachowiak/llms-for-social-robotics)|
+|[providing safety assurances for systems with unknown dynamics](https://arxiv.org/abs/2403.05771)|[safety_assurances_for_unknown_dynamics](https://github.com/haowwang/safety_assurances_for_unknown_dynamics)|
+|[spaformer: sequential 3d part assembly with transformers](https://arxiv.org/abs/2403.05874)|[spaformer](https://github.com/xuboshen/spaformer)|
+|[lightning nerf: efficient hybrid scene representation for autonomous driving](https://arxiv.org/abs/2403.05907)|[lightning-nerf](https://github.com/vision-sjtu/lightning-nerf)|
+|[imu as an input vs. a measurement of the state in inertial-aided state estimation](https://arxiv.org/abs/2403.05968)|[steam_icp](https://github.com/utiasasrl/steam_icp)|
+|[robust predictive motion planning by learning obstacle uncertainty](https://arxiv.org/abs/2403.06222)|[robust-mpc-motion-planning-by-learning-obstacle-uncertainties](https://github.com/jianzhou1212/robust-mpc-motion-planning-by-learning-obstacle-uncertainties)|
+|[a study on domain generalization for failure detection through human reactions in hri](https://arxiv.org/abs/2403.06315)|[baddata](https://github.com/mteresaparreira/baddata)|
+|[an efficient solution to the 2d visibility problem in cartesian grid maps and its application in heuristic path planning](https://arxiv.org/abs/2403.06494)|[visibility-heuristic-path-planner](https://github.com/ibrahimsquared/visibility-heuristic-path-planner)|
+|[multimodal transformers for real-time surgical activity prediction](https://arxiv.org/abs/2403.06705)|[mtrsap](https://github.com/uva-dsa/mtrsap)|
+|[generalising multi-agent cooperation through task-agnostic communication](https://arxiv.org/abs/2403.06750)|[task-agnostic-comms](https://github.com/proroklab/task-agnostic-comms)|
 ## 2024-03-08
 |paper|code|
 |---|---|
