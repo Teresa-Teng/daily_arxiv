@@ -1,3 +1,84 @@
+## 2024-03-29
+|paper|code|
+|---|---|
+|[efficient deep learning-based estimation of the vital signs on smartphones](https://arxiv.org/abs/2204.08989)|[medvse](https://github.com/mahdifarvardin/medvse)|
+|[identifying tbi physiological states by clustering multivariate clinical time-series data](https://arxiv.org/abs/2303.13024)|[slac-time](https://github.com/vsubbian/slac-time)|
+|[leveraging variational autoencoders for parameterized mmse estimation](https://arxiv.org/abs/2307.05352)|[vae-estimator](https://github.com/tum-msv/vae-estimator)|
+|[channel estimation in underdetermined systems utilizing variational autoencoders](https://arxiv.org/abs/2309.08411)|[vae-est-ud](https://github.com/baurmichael/vae-est-ud)|
+|[gan-supervised seismic data reconstruction: an enhanced-learning for improved generalization](https://arxiv.org/abs/2311.10910)|[gan_guided_seismic](https://github.com/paulgoyes/gan_guided_seismic)|
+|[brant-2: foundation model for brain signals](https://arxiv.org/abs/2402.10251)|[brant-2](https://github.com/yzz673/brant-2)|
+|[deep csi compression for dual-polarized massive mimo channels with disentangled representation learning](https://arxiv.org/abs/2403.19185)|[direnet](https://github.com/seushf/direnet)|
+|[gatekeeper: online safety verification and control for nonlinear systems in dynamic environments](https://arxiv.org/abs/2211.14361)|[gatekeeper](https://github.com/dev10110/gatekeeper)|
+|[to whom are you talking? a deep learning model to endow social robots with addressee estimation skills](https://arxiv.org/abs/2308.10757)|[addressee_estimation_ijcnn23.git](https://gitlab.iit.it/cognitiveInteraction/addressee_estimation_ijcnn23.git)|
+|[sni-slam: semantic neural implicit slam](https://arxiv.org/abs/2311.11016)|[sni-slam](https://github.com/irmvlab/sni-slam)|
+|[memonav: working memory model for visual navigation](https://arxiv.org/abs/2402.19161)|[memonav](https://github.com/zjulihongxin/memonav)|
+|[opengraph: open-vocabulary hierarchical 3d graph representation in large-scale outdoor environments](https://arxiv.org/abs/2403.09412)|[opengraph](https://github.com/bit-dyn/opengraph)|
+|[arm-constrained curriculum learning for loco-manipulation of the wheel-legged robot](https://arxiv.org/abs/2403.16535)|[legged-robots-manipulation](https://github.com/acodedog/legged-robots-manipulation)|
+|[uada3d: unsupervised adversarial domain adaptation for 3d object detection with sparse lidar and large domain gaps](https://arxiv.org/abs/2403.17633)|[uada3d](https://github.com/maxiuw/uada3d)|
+|[learning sampling distribution and safety filter for autonomous driving with vq-vae and differentiable optimization](https://arxiv.org/abs/2403.19461)|[vqoptmain](https://github.com/cisimon7/vqoptmain)|
+|[sg-pgm: partial graph matching network with semantic geometric fusion for 3d scene graph alignment and its downstream tasks](https://arxiv.org/abs/2403.19474)|[sg-pgm](https://github.com/dfki-av/sg-pgm)|
+|[human-compatible driving partners through data-regularized self-play reinforcement learning](https://arxiv.org/abs/2403.19648)|[nocturne_lab](https://github.com/emerge-lab/nocturne_lab)|
+## 2024-03-28
+|paper|code|
+|---|---|
+|[high-rate phase association with travel time neural fields](https://arxiv.org/abs/2307.07572)|[phase_association](https://github.com/dadacheng/phase_association)|
+|[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
+|[uncertainty analysis for accurate ground truth trajectories with robotic total stations](https://arxiv.org/abs/2308.01553)|[rts_project](https://github.com/norlab-ulaval/rts_project)|
+|[drive: data-driven robot input vector exploration](https://arxiv.org/abs/2309.10718)|[drive](https://github.com/norlab-ulaval/drive)|
+|[mmp++: motion manifold primitives with parametric curve models](https://arxiv.org/abs/2310.17072)|[immp-public](https://github.com/gabe-yhlee/immp-public)|
+|[schurvins: schur complement-based lightweight visual inertial navigation system](https://arxiv.org/abs/2312.01616)|[schurvins](https://github.com/bytedance/schurvins)|
+|[splatam: splat, track & map 3d gaussians for dense rgb-d slam](https://arxiv.org/abs/2312.02126)|[splatam](https://github.com/spla-tam/splatam)|
+|[foundationpose: unified 6d pose estimation and tracking of novel objects](https://arxiv.org/abs/2312.08344)|[FoundationPose](https://github.com/NVlabs/FoundationPose)|
+|[scanet: correcting lego assembly errors with self-correct assembly network](https://arxiv.org/abs/2403.18195)|[scanet](https://github.com/yaser-wyx/scanet)|
+|[uncertainty-aware deployment of pre-trained language-conditioned imitation learning policies](https://arxiv.org/abs/2403.18222)|[uncertainty_quant_all](https://github.com/bobwu1998/uncertainty_quant_all)|
+|[hyrrt-connect: a bidirectional rapidly-exploring random trees motion planning algorithm for hybrid systems](https://arxiv.org/abs/2403.18413)|[hyrrtconnect](https://github.com/hybridsystemslab/hyrrtconnect)|
+|[can language beat numerical regression? language-based multimodal trajectory prediction](https://arxiv.org/abs/2403.18447)|[lmtrajectory](https://github.com/inhwanbae/lmtrajectory)|
+|[singulartrajectory: universal trajectory predictor using diffusion model](https://arxiv.org/abs/2403.18452)|[singulartrajectory](https://github.com/inhwanbae/singulartrajectory)|
+|[cobos: constraint-based online scheduler for human-robot collaboration](https://arxiv.org/abs/2403.18459)|[cobos](https://github.com/jkbehrens/cobos)|
+|[efficient heatmap-guided 6-dof grasp detection in cluttered scenes](https://arxiv.org/abs/2403.18546)|[HGGD](https://github.com/THU-VCLab/HGGD)|
+|[mldt: multi-level decomposition for complex long-horizon robotic task planning with open-source large language model](https://arxiv.org/abs/2403.18760)|[mldt](https://github.com/wuyike2000/mldt)|
+|[modalink: unifying modalities for efficient image-to-pointcloud place recognition](https://arxiv.org/abs/2403.18762)|[modalink](https://github.com/haomo-ai/modalink)|
+## 2024-03-27
+|paper|code|
+|---|---|
+|[on the intersection of signal processing and machine learning: a use case-driven analysis approach](https://arxiv.org/abs/2403.17181)|[signal-processing-for-machine-learning](https://github.com/western-oc2-lab/signal-processing-for-machine-learning)|
+|[autonomous hook-based grasping and transportation with quadcopters](https://arxiv.org/abs/2304.02444)|[quadcopter_hook_1dof](https://github.com/aimotionlab-sztaki/quadcopter_hook_1dof)|
+|[towards source-free domain adaptive semantic segmentation via importance-aware and prototype-contrast learning](https://arxiv.org/abs/2306.01598)|[source-free-iapc](https://github.com/yihong-97/source-free-iapc)|
+|[islam: imperative slam](https://arxiv.org/abs/2306.07894)|[islam](https://github.com/sair-lab/islam)|
+|[optimizing crowd-aware multi-agent path finding through local broadcasting with graph neural networks](https://arxiv.org/abs/2309.10275)|[cramp](https://github.com/anphu7492/cramp)|
+|[robustness evaluation of localization techniques for autonomous racing](https://arxiv.org/abs/2401.07658)|[particle_filter](https://github.com/forzaeth/particle_filter)|
+|[motion generation from fine-grained textual descriptions](https://arxiv.org/abs/2403.13518)|[finemotiondiffuse](https://github.com/kunhangl/finemotiondiffuse)|
+|[temporal and semantic evaluation metrics for foundation models in post-hoc analysis of robotic sub-tasks](https://arxiv.org/abs/2403.17238)|[task_decomposition](https://github.com/jsalfity/task_decomposition)|
+|[scenario-based curriculum generation for multi-agent autonomous driving](https://arxiv.org/abs/2403.17805)|[mats-gym](https://github.com/autonomousdrivingexaminer/mats-gym)|
+## 2024-03-26
+|paper|code|
+|---|---|
+|[user training with error augmentation for electromyogram-based gesture classification](https://arxiv.org/abs/2309.07289)|[emg-feedback-user-training](https://github.com/neu-spiral/emg-feedback-user-training)|
+|[arbitrary discrete fourier analysis and its application in replayed speech detection](https://arxiv.org/abs/2403.01130)|[adfa](https://github.com/shihkuanglee/adfa)|
+|[coupled generator decomposition for fusion of electro- and magnetoencephalography data](https://arxiv.org/abs/2403.15409)|[coupled-generator-decomposition](https://github.com/anders-s-olsen/coupled-generator-decomposition)|
+|[fast real-time arbitrary waveform generation using graphic processing units](https://arxiv.org/abs/2403.15582)|[awg-on-gpu](https://github.com/jqiamo/awg-on-gpu)|
+|[proprioception is all you need: terrain classification for boreal forests](https://arxiv.org/abs/2403.16877)|[BorealTC](https://github.com/norlab-ulaval/BorealTC)|
+|[a number sense as an emergent property of the manipulating brain](https://arxiv.org/abs/2012.04132)|[manipulationtonumbersense](https://github.com/nkondapa/manipulationtonumbersense)|
+|[generative graphical inverse kinematics](https://arxiv.org/abs/2209.08812)|[generative-graphik](https://github.com/utiasstars/generative-graphik)|
+|[online obstacle evasion with space-filling curves](https://arxiv.org/abs/2308.02200)|[skc](https://github.com/wakodeashay/skc)|
+|[drl-based trajectory tracking for motion-related modules in autonomous driving](https://arxiv.org/abs/2308.15991)|[drl-based-trajectory-tracking](https://github.com/marmotatzju/drl-based-trajectory-tracking)|
+|[directionality-aware mixture model parallel sampling for efficient linear parameter varying dynamical system learning](https://arxiv.org/abs/2309.02609)|[damm](https://github.com/damm-2023/damm)|
+|[endurl: enhancing safety, stability, and efficiency of mixed traffic under real-world perturbations via reinforcement learning](https://arxiv.org/abs/2311.12261)|[endurl](https://github.com/poudel-bibek/endurl)|
+|[surgicalpart-sam: part-to-whole collaborative prompting for surgical instrument segmentation](https://arxiv.org/abs/2312.14481)|[surgicalpart-sam](https://github.com/wenxi-yue/surgicalpart-sam)|
+|[dtg : diffusion-based trajectory generation for mapless global navigation](https://arxiv.org/abs/2403.09900)|[dtg](https://github.com/jinggm/dtg)|
+|[music to dance as language translation using sequence models](https://arxiv.org/abs/2403.15569)|[mdlt](https://github.com/meowatthemoon/mdlt)|
+|[pnas-mot: multi-modal object tracking with pareto neural architecture search](https://arxiv.org/abs/2403.15712)|[pnas-mot](https://github.com/pholypeng/pnas-mot)|
+|[ricmonk: a three-link brachiation robot with passive grippers for energy-efficient brachiation](https://arxiv.org/abs/2403.15762)|[ricmonk](https://github.com/dfki-ric-underactuated-lab/ricmonk)|
+|[driveenv-nerf: exploration of a nerf-based autonomous driving environment for real-world performance validation](https://arxiv.org/abs/2403.15791)|[driveenvnerf](https://github.com/muyishen2040/driveenvnerf)|
+|[automated system-level testing of unmanned aerial systems](https://arxiv.org/abs/2403.15857)|[uast-toolset](https://github.com/hassansartaj/uast-toolset)|
+|[mqe: unleashing the power of interaction with multi-agent quadruped environment](https://arxiv.org/abs/2403.16015)|[multiagent-quadruped-environment](https://github.com/ziyanx02/multiagent-quadruped-environment)|
+|[mixed-initiative human-robot teaming under suboptimality with online bayesian adaptation](https://arxiv.org/abs/2403.16178)|[bayes-pomcp](https://github.com/core-robotics-lab/bayes-pomcp)|
+|[producing and leveraging online map uncertainty in trajectory prediction](https://arxiv.org/abs/2403.16439)|[mapuncertaintyprediction](https://github.com/alfredgu001324/mapuncertaintyprediction)|
+|[domain adaptive detection of mavs: a benchmark and noise suppression network](https://arxiv.org/abs/2403.16669)|[m3d](https://github.com/westlakeaerialrobotics/m3d)|
+|[curbnet: curb detection framework based on lidar point cloud segmentation](https://arxiv.org/abs/2403.16794)|[curbnet](https://github.com/guoyangzhao/curbnet)|
+|[dhp-mapping: a dense panoptic mapping system with hierarchical world representation and label optimization techniques](https://arxiv.org/abs/2403.16880)|[dhp-mapping](https://github.com/hutslib/dhp-mapping)|
+|[optimizing lidar placements for robust driving perception in adverse conditions](https://arxiv.org/abs/2403.17009)|[place3d](https://github.com/ywyeli/place3d)|
+|[calib3d: calibrating model preferences for reliable 3d scene understanding](https://arxiv.org/abs/2403.17010)|[calib3d](https://github.com/ldkong1205/calib3d)|
 ## 2024-03-22
 |paper|code|
 |---|---|
