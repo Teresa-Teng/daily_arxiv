@@ -1,3 +1,71 @@
+## 2024-04-05
+|paper|code|
+|---|---|
+|[decoding natural images from eeg for object recognition](https://arxiv.org/abs/2308.13234)|[nice-eeg](https://github.com/eeyhsong/nice-eeg)|
+|[reinforcement learning based dynamic power control for uav mobility management](https://arxiv.org/abs/2312.04742)|[asilomar-2023-ee-uav-varying-reliability](https://github.com/irshadmeer/asilomar-2023-ee-uav-varying-reliability)|
+|[spatio-spectral structure tensor total variation for hyperspectral image denoising and destriping](https://arxiv.org/abs/2404.03313)|[spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping](https://github.com/mdi-tokyotech/spatio-spectral-structure-tensor-total-variation-for-hyperspectral-image-denoising-and-destriping)|
+|[first do not fall: learning to exploit a wall with a damaged humanoid robot](https://arxiv.org/abs/2203.00316)|[d-reflex](https://github.com/resibots/d-reflex)|
+|[deepipc: deeply integrated perception and control for an autonomous vehicle in real environments](https://arxiv.org/abs/2207.09934)|[deepipc](https://github.com/oskarnatan/deepipc)|
+|[deepipcv2: lidar-powered robust environmental perception and navigational control for autonomous vehicle](https://arxiv.org/abs/2307.06647)|[deepipcv2](https://github.com/oskarnatan/deepipcv2)|
+|[real-time control of electric autonomous mobility-on-demand systems via graph reinforcement learning](https://arxiv.org/abs/2311.05780)|[graph-rl-for-eamod](https://github.com/stanfordasl/graph-rl-for-eamod)|
+|[carlos: an open, modular, and scalable simulation framework for the development and testing of software for c-its](https://arxiv.org/abs/2404.01836)|[carlos](https://github.com/ika-rwth-aachen/carlos)|
+|[real-time noise source estimation of a camera system from an image and metadata](https://arxiv.org/abs/2404.03251)|[noise-source-estimation](https://github.com/maikwischow/noise-source-estimation)|
+|[gmmcalib: extrinsic calibration of lidar sensors using gmm-based joint registration](https://arxiv.org/abs/2404.03427)|[gmmcalib](https://github.com/tumftm/gmmcalib)|
+|[design of stickbug: a six-armed precision pollination robot](https://arxiv.org/abs/2404.03489)|[Stickbug_2024](https://github.com/wvu-robotics/Stickbug_2024)|
+## 2024-04-04
+|paper|code|
+|---|---|
+|[gegenbauer graph neural networks for time-varying signal reconstruction](https://arxiv.org/abs/2403.19800)|[gegengnn](https://github.com/jcastro295/gegengnn)|
+|[logical specifications-guided dynamic task sampling for reinforcement learning agents](https://arxiv.org/abs/2402.03678)|[lsts-icaps-24](https://github.com/shukla-yash/lsts-icaps-24)|
+|[an evaluation of cfear radar odometry](https://arxiv.org/abs/2404.01781)|[CFEAR_Radarodometry_code_public](https://github.com/dan11003/CFEAR_Radarodometry_code_public)|
+|[oostraj: out-of-sight trajectory prediction with vision-positioning denoising](https://arxiv.org/abs/2404.02227)|[oostraj](https://github.com/hai-chao-zhang/oostraj)|
+|[ofmpnet: deep end-to-end model for occupancy and flow prediction in urban environment](https://arxiv.org/abs/2404.02263)|[ofmpnet](https://github.com/youshaamurhij/ofmpnet)|
+|[sliceit! -- a dual simulator framework for learning robot food slicing](https://arxiv.org/abs/2404.02569)|[sliceit](https://github.com/omron-sinicx/sliceit)|
+|[unsupervised learning of effective actions in robotics](https://arxiv.org/abs/2404.02728)|[action-prototype-gen](https://github.com/marko-zaric/action-prototype-gen)|
+|[lidardm: generative lidar simulation in a generated world](https://arxiv.org/abs/2404.02903)|[LidarDM](https://github.com/vzyrianov/LidarDM)|
+## 2024-04-03
+|paper|code|
+|---|---|
+|[signal2image modules in deep neural networks for eeg classification](https://arxiv.org/abs/1904.13216)|[signal2image-modules-in-deep-neural-networks-for-eeg-classification](https://github.com/pbizopoulos/signal2image-modules-in-deep-neural-networks-for-eeg-classification)|
+|[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
+|[bayesian floor field: transferring people flow predictions across environments](https://arxiv.org/abs/2208.10851)|[directionalflow](https://github.com/aalto-intelligent-robotics/directionalflow)|
+|[improving safety in mixed traffic: a learning-based model predictive control for autonomous and human-driven vehicle platooning](https://arxiv.org/abs/2211.04665)|[gp-mpc-of-platooning](https://github.com/cl2-uwaterloo/gp-mpc-of-platooning)|
+|[hierarchical generative adversarial imitation learning with mid-level input generation for autonomous driving on urban environments](https://arxiv.org/abs/2302.04823)|[hgail](https://github.com/gustavokcouto/hgail)|
+|[deployable reinforcement learning with variable control rate](https://arxiv.org/abs/2401.09286)|[SEAC_Pytorch_release](https://github.com/alpaficia/SEAC_Pytorch_release)|
+|[fast explicit-input assistance for teleoperation in clutter](https://arxiv.org/abs/2402.02612)|[fast-explicit-teleop](https://github.com/nvlabs/fast-explicit-teleop)|
+|[3d diffusion policy: generalizable visuomotor policy learning via simple 3d representations](https://arxiv.org/abs/2403.03954)|[3D-Diffusion-Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)|
+|[mldt: multi-level decomposition for complex long-horizon robotic task planning with open-source large language model](https://arxiv.org/abs/2403.18760)|[mldt](https://github.com/wuyike2000/mldt)|
+|[neural implicit representation for building digital twins of unknown articulated objects](https://arxiv.org/abs/2404.01440)|[digitaltwinart](https://github.com/nvlabs/digitaltwinart)|
+|[perfecting periodic trajectory tracking: model predictive control with a periodic observer ($\pi$-mpc)](https://arxiv.org/abs/2404.01550)|[pi-mpc](https://github.com/stanfordasl/pi-mpc)|
+|[physord: a neuro-symbolic approach for physics-infused motion prediction in off-road driving](https://arxiv.org/abs/2404.01596)|[physord](https://github.com/sair-lab/physord)|
+|[prism-topomap: online topological mapping with place recognition and scan matching](https://arxiv.org/abs/2404.01674)|[prism-topomap](https://github.com/kirillmouraviev/prism-topomap)|
+|[generalizing 6-dof grasp detection via domain prior knowledge](https://arxiv.org/abs/2404.01727)|[generalizing-grasp](https://github.com/mahaoxiang822/generalizing-grasp)|
+|[safe interval rrt* for scalable multi-robot path planning in continuous space](https://arxiv.org/abs/2404.01752)|[SI-RRT-Star](https://github.com/joonyeolsim/SI-RRT-Star)|
+|[bridging language, vision and action: multimodal vaes in robotic manipulation tasks](https://arxiv.org/abs/2404.01932)|[multi-vaes-in-robotics](https://github.com/gabinsane/multi-vaes-in-robotics)|
+|[lookahead exploration with neural radiance representation for continuous vision-language navigation](https://arxiv.org/abs/2404.01943)|[hnr-vln](https://github.com/mrzihan/hnr-vln)|
+## 2024-04-02
+|paper|code|
+|---|---|
+|[visually evaluating generative adversarial networks using itself under multivariate time series](https://arxiv.org/abs/2208.02649)|[GaussianGANs](https://github.com/jack-pan-ai/GaussianGANs)|
+|[task-oriented communication for edge video analytics](https://arxiv.org/abs/2211.14049)|[tocom-tem](https://github.com/shaojiawei07/tocom-tem)|
+|[computational solar energy -- ensemble learning methods for prediction of solar power generation based on meteorological parameters in eastern india](https://arxiv.org/abs/2301.10159)|[solar_energy_prediction_srra](https://github.com/debojyoti7/solar_energy_prediction_srra)|
+|[danse: data-driven non-linear state estimation of model-free process in unsupervised learning setup](https://arxiv.org/abs/2306.03897)|[danse-jrnl](https://github.com/saikatchatt/danse-jrnl)|
+|[sdemg: score-based diffusion model for surface electromyographic signal denoising](https://arxiv.org/abs/2402.03808)|[sdemg](https://github.com/tonyliu0910/sdemg)|
+|[complex neural network based joint aoa and aod estimation for bistatic isac](https://arxiv.org/abs/2404.00582)|[bistatic_isac](https://github.com/salmane-s9/bistatic_isac)|
+|[g-pecnet: towards a generalizable pedestrian trajectory prediction system](https://arxiv.org/abs/2210.09846)|[pecnet-pedestrian-trajectory-prediction](https://github.com/aryan-garg/pecnet-pedestrian-trajectory-prediction)|
+|[active perception using neural radiance fields](https://arxiv.org/abs/2310.09892)|[active-perception-using-neural-radiance-fields](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)|
+|[schurvins: schur complement-based lightweight visual inertial navigation system](https://arxiv.org/abs/2312.01616)|[schurvins](https://github.com/bytedance/schurvins)|
+|[cricavpr: cross-image correlation-aware representation learning for visual place recognition](https://arxiv.org/abs/2402.19231)|[cricavpr](https://github.com/lu-feng/cricavpr)|
+|[multi-task manipulation policy modeling with visuomotor latent diffusion](https://arxiv.org/abs/2403.07312)|[rold](https://github.com/alberttan404/rold)|
+|[rcooper: a real-world large-scale dataset for roadside cooperative perception](https://arxiv.org/abs/2403.10145)|[dair-rcooper](https://github.com/air-thu/dair-rcooper)|
+|[hyrrt-connect: a bidirectional rapidly-exploring random trees motion planning algorithm for hybrid systems](https://arxiv.org/abs/2403.18413)|[hyrrtconnect](https://github.com/hybridsystemslab/hyrrtconnect)|
+|[a sequential quadratic programming approach to the solution of open-loop generalized nash equilibria for autonomous racing](https://arxiv.org/abs/2404.00186)|[dgsqp](https://github.com/zhu-edward/dgsqp)|
+|[efficient automatic tuning for data-driven model predictive control via meta-learning](https://arxiv.org/abs/2404.00232)|[autompc](https://github.com/uiuc-iml/autompc)|
+|[end-to-end autonomous driving through v2x cooperation](https://arxiv.org/abs/2404.00717)|[univ2x](https://github.com/air-thu/univ2x)|
+|[carl: congestion-aware reinforcement learning for imitation-based perturbations in mixed traffic control](https://arxiv.org/abs/2404.00796)|[carl](https://github.com/poudel-bibek/carl)|
+|[towards realistic scene generation with lidar diffusion models](https://arxiv.org/abs/2404.00815)|[lidar-diffusion](https://github.com/hancyran/lidar-diffusion)|
+|[scalable 3d registration via truncated entry-wise absolute residuals](https://arxiv.org/abs/2404.00915)|[tear-release](https://github.com/tyhuang98/tear-release)|
+|[entity-centric reinforcement learning for object manipulation from pixels](https://arxiv.org/abs/2404.01220)|[ecrl](https://github.com/danhrmti/ecrl)|
 ## 2024-03-29
 |paper|code|
 |---|---|
