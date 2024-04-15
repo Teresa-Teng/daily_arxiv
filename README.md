@@ -1,3 +1,67 @@
+## 2024-04-12
+|paper|code|
+|---|---|
+|[cell-free multi-user mimo equalization via in-context learning](https://arxiv.org/abs/2404.05538)|[cell-free-mimo-icl](https://github.com/kclip/cell-free-mimo-icl)|
+|[trainable joint channel estimation, detection and decoding for mimo urllc systems](https://arxiv.org/abs/2404.07721)|[jcddnet](https://github.com/sunyi0101/jcddnet)|
+|[inspection planning under execution uncertainty](https://arxiv.org/abs/2309.06113)|[iris-uu](https://github.com/crl-technion/iris-uu)|
+|[fourier prompt tuning for modality-incomplete scene segmentation](https://arxiv.org/abs/2401.16923)|[miss](https://github.com/ruipingl/miss)|
+|[how nerfs and 3d gaussian splatting are reshaping slam: a survey](https://arxiv.org/abs/2402.13255)|[awesome-implicit-nerf-slam](https://github.com/doongli/awesome-implicit-nerf-slam)|
+|[cobt: collaborative programming of behaviour trees from one demonstration for robot manipulation](https://arxiv.org/abs/2404.05870)|[cobt](https://github.com/jainaayush2006/cobt)|
+|[can vehicle motion planning generalize to realistic long-tail scenarios?](https://arxiv.org/abs/2404.07569)|[interplan](https://github.com/mh0797/interplan)|
+|[estimating visibility from alternate perspectives for motion planning with occlusions](https://arxiv.org/abs/2404.07781)|[apcm](https://github.com/idlebear/apcm)|
+|[multi-robot target tracking with sensing and communication danger zones](https://arxiv.org/abs/2404.07880)|[dzone_tracking](https://github.com/zhourobotics/dzone_tracking)|
+|[lyapunov-stable neural control for state and output feedback: a novel formulation for efficient synthesis and verification](https://arxiv.org/abs/2404.07956)|[lyapunov_stable_nn_controllers](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)|
+|[quasisim: parameterized quasi-physical simulators for dexterous manipulations transfer](https://arxiv.org/abs/2404.07988)|[quasisim](https://github.com/meowuu7/quasisim)|
+## 2024-04-11
+|paper|code|
+|---|---|
+|[what is learnt by the learnable front-end (leaf)? adapting per-channel energy normalisation (pcen) to noisy conditions](https://arxiv.org/abs/2404.06702)|[adapting-leaf](https://github.com/hanyu-meng/adapting-leaf)|
+|[which one? leveraging context between objects and multiple views for language grounding](https://arxiv.org/abs/2311.06694)|[magic_snare](https://github.com/rcorona/magic_snare)|
+|[glidr: topologically regularized graph generative network for sparse lidar point clouds](https://arxiv.org/abs/2312.00068)|[glidr](https://github.com/glidr-cvpr2024/glidr)|
+|[multi s-graphs: an efficient distributed semantic-relational collaborative slam](https://arxiv.org/abs/2401.05152)|[multi_s_graphs_docker](https://github.com/snt-arg/multi_s_graphs_docker)|
+|[juicer: data-efficient imitation learning for robotic assembly](https://arxiv.org/abs/2404.03729)|[imitation-juicer](https://github.com/ankile/imitation-juicer)|
+|[better monocular 3d detectors with lidar from the past](https://arxiv.org/abs/2404.05139)|[asyncdepth](https://github.com/yurongyou/asyncdepth)|
+|[enhancing safety in mixed traffic: learning-based modeling and efficient control of autonomous and human-driven vehicles](https://arxiv.org/abs/2404.06732)|[mixed-traffic-gp-mpc](https://github.com/jwangjie/mixed-traffic-gp-mpc)|
+|[beyond gait: learning knee angle for seamless prosthesis control in multiple scenarios](https://arxiv.org/abs/2404.06772)|[Beyond-Gait-AEPM](https://github.com/penway/Beyond-Gait-AEPM)|
+|[cbfkit: a control barrier function toolbox for robotics applications](https://arxiv.org/abs/2404.07158)|[cbfkit](https://github.com/bardhh/cbfkit)|
+## 2024-04-10
+|paper|code|
+|---|---|
+|[synaptogen: a cross-domain generative device model for large-scale neuromorphic circuit design](https://arxiv.org/abs/2404.06344)|[synaptogen](https://github.com/thennen/synaptogen)|
+|[learning continuous grasping function with a dexterous hand from human demonstrations](https://arxiv.org/abs/2207.05053)|[cgf](https://github.com/jianglongye/cgf)|
+|[breaking symmetries leads to diverse quadrupedal gaits](https://arxiv.org/abs/2303.04857)|[breakingsymmetryleadstodiversegaits](https://github.com/dlarlab/breakingsymmetryleadstodiversegaits)|
+|[towards large-scale incremental dense mapping using robot-centric implicit neural representation](https://arxiv.org/abs/2306.10472)|[rim](https://github.com/hitsz-nrsl/rim)|
+|[detecting and mitigating system-level anomalies of vision-based controllers](https://arxiv.org/abs/2309.13475)|[visual_failure_mitigation](https://github.com/phoenixrider12/visual_failure_mitigation)|
+|[learning to fly in seconds](https://arxiv.org/abs/2311.13081)|[learning-to-fly](https://github.com/arplaboratory/learning-to-fly)|
+|[mpc-inspired reinforcement learning for verifiable model-free control](https://arxiv.org/abs/2312.05332)|[learning-qp](https://github.com/yiwenlu66/learning-qp)|
+|[scalable 3d registration via truncated entry-wise absolute residuals](https://arxiv.org/abs/2404.00915)|[tear-release](https://github.com/tyhuang98/tear-release)|
+|[body design and gait generation of chair-type asymmetrical tripedal low-rigidity robot](https://arxiv.org/abs/2404.05932)|[chair-typeasymmetricaltripedalrobot](https://github.com/shin0805/chair-typeasymmetricaltripedalrobot)|
+|[efficient and robust point cloud registration via heuristics-guided parameter search](https://arxiv.org/abs/2404.06155)|[here-release](https://github.com/tyhuang98/here-release)|
+|[policy-guided diffusion](https://arxiv.org/abs/2404.06356)|[policy-guided-diffusion](https://github.com/emptyjackson/policy-guided-diffusion)|
+|[paam: a framework for coordinated and priority-driven accelerator management in ros 2](https://arxiv.org/abs/2404.06452)|[reference-system-paam](https://github.com/rtenlab/reference-system-paam)|
+## 2024-04-09
+|paper|code|
+|---|---|
+|[self-supervised learning for time series analysis: taxonomy, progress, and prospects](https://arxiv.org/abs/2306.10125)|[Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS)|
+|[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
+|[learning-based modeling of human-autonomous vehicle interaction for improved safety in mixed-vehicle platooning control](https://arxiv.org/abs/2303.09452)|[gp-mpc-of-platooning](https://github.com/cl2-uwaterloo/gp-mpc-of-platooning)|
+|[d-vat: end-to-end visual active tracking for micro aerial vehicles](https://arxiv.org/abs/2308.16874)|[d-vat](https://github.com/isarlab-department-engineering/d-vat)|
+|[hicrisp: an llm-based hierarchical closed-loop robotic intelligent self-correction planner](https://arxiv.org/abs/2309.12089)|[HiCRISP](https://github.com/ming-bot/HiCRISP)|
+|[on the impact of replacing private cars with autonomous shuttles: an agent-based approach](https://arxiv.org/abs/2311.14118)|[agent_based_av](https://github.com/daniel-bogdoll/agent_based_av)|
+|[comprehensive robotic cholecystectomy dataset (crcd): integrating kinematics, pedal signals, and endoscopic videos](https://arxiv.org/abs/2312.01183)|[crcd](https://github.com/borgioli/crcd)|
+|[3qfp: efficient neural implicit surface reconstruction using tri-quadtrees and fourier feature positional encoding](https://arxiv.org/abs/2401.07164)|[3qfp](https://github.com/ljjtyjr/3qfp)|
+|[spatial assisted human-drone collaborative navigation and interaction through immersive mixed reality](https://arxiv.org/abs/2402.04070)|[mri_ros_public](https://github.com/arplaboratory/mri_ros_public)|
+|[3d diffusion policy: generalizable visuomotor policy learning via simple 3d representations](https://arxiv.org/abs/2403.03954)|[3D-Diffusion-Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)|
+|[caching-augmented lifelong multi-agent path finding](https://arxiv.org/abs/2403.13421)|[cal-mapf](https://github.com/harukimoriarty/cal-mapf)|
+|[gmmcalib: extrinsic calibration of lidar sensors using gmm-based joint registration](https://arxiv.org/abs/2404.03427)|[gmmcalib](https://github.com/tumftm/gmmcalib)|
+|[compositional conservatism: a transductive approach in offline reinforcement learning](https://arxiv.org/abs/2404.04682)|[compositional-conservatism](https://github.com/runamu/compositional-conservatism)|
+|[omnicolor: a global camera pose optimization approach of lidar-360camera fusion for colorizing point clouds](https://arxiv.org/abs/2404.04693)|[omnicolor](https://github.com/liubonan123/omnicolor)|
+|[scalable and efficient hierarchical visual topological mapping](https://arxiv.org/abs/2404.05023)|[htmap_gt_loops](https://github.com/saravanabalagi/htmap_gt_loops)|
+|[lgsdf: continual global learning of signed distance fields aided by local updating](https://arxiv.org/abs/2404.05187)|[lgsdf](https://github.com/bit-dyn/lgsdf)|
+|[ita-ecbs: a bounded-suboptimal algorithm for combined target-assignment and path-finding problem](https://arxiv.org/abs/2404.05223)|[libMultiRobotPlanning](https://github.com/whoenig/libMultiRobotPlanning)|
+|[a hessian for gaussian mixture likelihoods in nonlinear least squares](https://arxiv.org/abs/2404.05452)|[hessian_sum_mixtures](https://github.com/decargroup/hessian_sum_mixtures)|
+|[taming transformers for realistic lidar point cloud generation](https://arxiv.org/abs/2404.05505)|[lidargrit](https://github.com/hamedhaghighi/lidargrit)|
+|[otterros: picking and programming an uncrewed surface vessel for experimental field robotics research with ros 2](https://arxiv.org/abs/2404.05627)|[otter_ros](https://github.com/offroad-robotics/otter_ros)|
 ## 2024-04-05
 |paper|code|
 |---|---|
