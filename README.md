@@ -1,3 +1,65 @@
+## 2024-04-19
+|paper|code|
+|---|---|
+|[value approximation for two-player general-sum differential games with state constraints](https://arxiv.org/abs/2311.16520)|[value_appro_game](https://github.com/dayanbatuofu/value_appro_game)|
+|[equitable routing -- rethinking the multiple traveling salesman problem](https://arxiv.org/abs/2404.08157)|[fairmtsp](https://github.com/kaarthiksundar/fairmtsp)|
+|[flexmap fusion: georeferencing and automated conflation of hd maps with openstreetmap](https://arxiv.org/abs/2404.10879)|[flexmap_fusion](https://github.com/tumftm/flexmap_fusion)|
+|[learning with 3d rotations, a hitchhiker's guide to so(3)](https://arxiv.org/abs/2404.11735)|[hitchhiking-rotations](https://github.com/martius-lab/hitchhiking-rotations)|
+|[incremental bootstrapping and classification of structured scenes in a fuzzy ontology](https://arxiv.org/abs/2404.11744)|[fuzzy_sit](https://github.com/buoncubi/fuzzy_sit)|
+|[terrain-aware stride-level trajectory forecasting for a powered hip exoskeleton via vision and kinematics fusion](https://arxiv.org/abs/2404.11945)|[sftik](https://github.com/ruoqizhao116/sftik)|
+|[not all voxels are equal: hardness-aware semantic scene completion with self-distillation](https://arxiv.org/abs/2404.11958)|[HASSC](https://github.com/songw-zju/HASSC)|
+## 2024-04-18
+|paper|code|
+|---|---|
+|[the luvira dataset: measurement description](https://arxiv.org/abs/2302.05309)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
+|[caster: a computer-vision-assisted wireless channel simulator for gesture recognition](https://arxiv.org/abs/2311.07169)|[testspectrogram](https://github.com/rzy0901/testspectrogram)|
+|[diffdet4sar: diffusion-based aircraft target detection network for sar images](https://arxiv.org/abs/2404.03595)|[DiffDet4SAR](https://github.com/JoyeZLearning/DiffDet4SAR)|
+|[sky-gvio: an enhanced gnss/ins/vision navigation with fcn-based sky-segmentation in urban canyon](https://arxiv.org/abs/2404.11070)|[sky-view-images](https://github.com/whuwangjr/sky-view-images)|
+|[personalized heart disease detection via ecg digital twin generation](https://arxiv.org/abs/2404.11171)|[lavq-editor](https://github.com/huyjj/lavq-editor)|
+|[gira: gaussian mixture models for inference and robot autonomy](https://arxiv.org/abs/2307.00071)|[gira3d-docs](https://github.com/gira3d/gira3d-docs)|
+|[incremental multimodal surface mapping via self-organizing gaussian mixture models](https://arxiv.org/abs/2309.10900)|[gira3d-reconstruction](https://github.com/gira3d/gira3d-reconstruction)|
+|[egoplan-bench: benchmarking egocentric embodied planning with multimodal large language models](https://arxiv.org/abs/2312.06722)|[egoplan](https://github.com/chenyi99/egoplan)|
+|[social-transmotion: promptable human trajectory prediction](https://arxiv.org/abs/2312.16168)|[social-transmotion](https://github.com/vita-epfl/social-transmotion)|
+|[prompt optimization in multi-step tasks (promst): integrating human feedback and preference alignment](https://arxiv.org/abs/2402.08702)|[promst](https://github.com/yongchao98/promst)|
+|[naruto: neural active reconstruction from uncertain target observations](https://arxiv.org/abs/2402.18771)|[naruto](https://github.com/oppo-us-research/naruto)|
+|[vbr: a vision benchmark in rome](https://arxiv.org/abs/2404.11322)|[vbr-devkit](https://github.com/rvp-group/vbr-devkit)|
+|[following the human thread in social navigation](https://arxiv.org/abs/2404.11327)|[sda](https://github.com/l-scofano/sda)|
+|[vg4d: vision-language model goes 4d video recognition](https://arxiv.org/abs/2404.11605)|[vg4d](https://github.com/shark0-0/vg4d)|
+## 2024-04-17
+|paper|code|
+|---|---|
+|[wemac: women and emotion multi-modal affective computing dataset](https://arxiv.org/abs/2203.00456)|[wemac_dataset_speech_processing](https://github.com/bindi-uc3m/wemac_dataset_speech_processing)|
+|[intuitive telemanipulation of hyper-redundant snake robots within locomotion and reorientation using task-priority inverse kinematics](https://arxiv.org/abs/2303.00065)|[snakettp](https://github.com/tlhabich/snakettp)|
+|[splatam: splat, track & map 3d gaussians for dense rgb-d slam](https://arxiv.org/abs/2312.02126)|[splatam](https://github.com/spla-tam/splatam)|
+|[multi-robot connected fermat spiral coverage](https://arxiv.org/abs/2403.13311)|[mcfs](https://github.com/reso1/mcfs)|
+|[2dliw-slam:2d lidar-inertial-wheel odometry with real-time loop closure](https://arxiv.org/abs/2404.07644)|[2dliw-slam](https://github.com/littledang/2dliw-slam)|
+|[human-in-the-loop segmentation of multi-species coral imagery](https://arxiv.org/abs/2404.09406)|[HIL-coral-segmentation](https://github.com/sgraine/HIL-coral-segmentation)|
+|[a generic trajectory planning method for constrained all-wheel-steering robots](https://arxiv.org/abs/2404.09677)|[awsplanning](https://github.com/rex-sys-hk/awsplanning)|
+|[optimizing biotac simulation for realistic tactile perception](https://arxiv.org/abs/2404.10425)|[optimizing_biotac_simulation](https://github.com/wzaielamri/optimizing_biotac_simulation)|
+## 2024-04-16
+|paper|code|
+|---|---|
+|[on interference-rejection using riemannian geometry for direction of arrival estimation](https://arxiv.org/abs/2301.03399)|[interference-rejection-using-riemannian-geometry-for-doa-estimation](https://github.com/amitaybar/interference-rejection-using-riemannian-geometry-for-doa-estimation)|
+|[impact analysis of antenna array geometry on performance of semi-blind structured channel estimation for massive mimo-ofdm systems](https://arxiv.org/abs/2305.09263)|[CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation](https://github.com/DoHaiSon/CRB_of_3D_Antenna_Arrays_on_Performance_of_Semi-blind_Structured_Channel_Estimation)|
+|[on the semi-blind mutually referenced equalizers for mimo systems](https://arxiv.org/abs/2311.00325)|[Semi-blind_Mutually_Referenced_Equalizers](https://github.com/DoHaiSon/Semi-blind_Mutually_Referenced_Equalizers)|
+|[rf-diffusion: radio signal generation via time-frequency diffusion](https://arxiv.org/abs/2404.09140)|[rf-diffusion](https://github.com/mobicom24/rf-diffusion)|
+|[foundational gpt model for meg](https://arxiv.org/abs/2404.09256)|[meg-transfer-decoding](https://github.com/ricsinaruto/meg-transfer-decoding)|
+|[leveraging the doppler effect for channel charting](https://arxiv.org/abs/2404.09620)|[doppler-effect-channelcharting](https://github.com/jeija/doppler-effect-channelcharting)|
+|[openairlink: reproducible wireless channel emulation using software defined radios](https://arxiv.org/abs/2404.09660)|[openairlink](https://github.com/n3martix/openairlink)|
+|[amplitude-phase fusion for enhanced electrocardiogram morphological analysis](https://arxiv.org/abs/2404.09729)|[ecg-mee-metric](https://github.com/fdu-harry/ecg-mee-metric)|
+|[adaptive hybrid local-global sampling for fast informed sampling-based optimal path planning](https://arxiv.org/abs/2208.09318)|[cari_motion_planning](https://github.com/jrl-cari-cnr-unibs/cari_motion_planning)|
+|[can an embodied agent find your "cat-shaped mug"? llm-guided exploration for zero-shot object navigation](https://arxiv.org/abs/2303.03480)|[LGX](https://github.com/vdorbala/LGX)|
+|[adaptive robotic information gathering via non-stationary gaussian processes](https://arxiv.org/abs/2306.01263)|[attentive_kernels](https://github.com/weizhe-chen/attentive_kernels)|
+|[pegasus simulator: an isaac sim framework for multiple aerial vehicles simulation](https://arxiv.org/abs/2307.05263)|[PegasusSimulator](https://github.com/PegasusSimulator/PegasusSimulator)|
+|[av4ev: open-source modular autonomous electric vehicle platform for making mobility research accessible](https://arxiv.org/abs/2312.00951)|[gokart-mechatronics](https://github.com/mlab-upenn/gokart-mechatronics)|
+|[paved2paradise: cost-effective and scalable lidar simulation by factoring the real world](https://arxiv.org/abs/2312.01117)|[paved2paradise](https://github.com/airalcorn2/paved2paradise)|
+|[under pressure: learning-based analog gauge reading in the wild](https://arxiv.org/abs/2404.08785)|[analog_gauge_reader](https://github.com/ethz-asl/analog_gauge_reader)|
+|[inverse kinematics for neuro-robotic grasping with humanoid embodied agents](https://arxiv.org/abs/2404.08825)|[CycleIK](https://github.com/jangerritha/CycleIK)|
+|[gnss_lib_py: analyzing gnss data with python](https://arxiv.org/abs/2404.08854)|[gnss_lib_py](https://github.com/Stanford-NavLab/gnss_lib_py)|
+|[wroom: an autonomous driving approach for off-road navigation](https://arxiv.org/abs/2404.08855)|[offtersim](https://github.com/dvij542/offtersim)|
+|[neurit: pushing the limit of neural inertial tracking for indoor robotic iot](https://arxiv.org/abs/2404.08939)|[neurit](https://github.com/neurit-project/neurit)|
+|[vrs-nerf: visual relocalization with sparse neural radiance field](https://arxiv.org/abs/2404.09271)|[vrs-nerf](https://github.com/feixue94/vrs-nerf)|
+|[geosacs: geometric shared autonomy via canal surfaces](https://arxiv.org/abs/2404.09584)|[geosacs](https://github.com/shalutharajapakshe/geosacs)|
 ## 2024-04-12
 |paper|code|
 |---|---|
