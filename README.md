@@ -1,3 +1,59 @@
+## 2024-04-26
+|paper|code|
+|---|---|
+|[luvira dataset validation and discussion: comparing vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2309.02961)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
+|[coin-lio: complementary intensity-augmented lidar inertial odometry](https://arxiv.org/abs/2310.01235)|[COIN-LIO](https://github.com/ethz-asl/COIN-LIO)|
+|[frnet: frustum-range networks for scalable lidar segmentation](https://arxiv.org/abs/2312.04484)|[Robo3D](https://github.com/ldkong1205/Robo3D)|
+|[unifying f1tenth autonomous racing: survey, methods and benchmarks](https://arxiv.org/abs/2402.18558)|[f1tenth_benchmarks](https://github.com/bdevan5/f1tenth_benchmarks)|
+|[learning sampling distribution and safety filter for autonomous driving with vq-vae and differentiable optimization](https://arxiv.org/abs/2403.19461)|[vqoptmain](https://github.com/cisimon7/vqoptmain)|
+|[cfmw: cross-modality fusion mamba for multispectral object detection under adverse weather conditions](https://arxiv.org/abs/2404.16302)|[cfmw](https://github.com/lhy-zjut/cfmw)|
+|[swarmrl: building the future of smart active systems](https://arxiv.org/abs/2404.16388)|[swarmrl](https://github.com/swarmrl/swarmrl)|
+|[vision-based robot manipulation of transparent liquid containers in a laboratory setting](https://arxiv.org/abs/2404.16529)|[labliquidvision](https://github.com/danischober/labliquidvision)|
+|[learning visuotactile skills with two multifingered hands](https://arxiv.org/abs/2404.16823)|[hato](https://github.com/ToruOwO/hato)|
+## 2024-04-25
+|paper|code|
+|---|---|
+|[mains: a magnetic field aided inertial navigation system for indoor positioning](https://arxiv.org/abs/2312.02599)|[mainsvsmagekf](https://github.com/huang-chuan/mainsvsmagekf)|
+|[exponentially weighted moving models](https://arxiv.org/abs/2404.08136)|[ewmm_code](https://github.com/cvxgrp/ewmm_code)|
+|[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
+|[the largest eeg-based bci reproducibility study for open science: the moabb benchmark](https://arxiv.org/abs/2404.15319)|[moabb](https://github.com/NeuroTechX/moabb)|
+|[mp-dpd: low-complexity mixed-precision neural networks for energy-efficient digital predistortion of wideband power amplifiers](https://arxiv.org/abs/2404.15364)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[a weight-aware-based multi-source unsupervised domain adaptation method for human motion intention recognition](https://arxiv.org/abs/2404.15366)|[WMDD](https://github.com/xiaoyinliu0714/WMDD)|
+|[leveraging visibility graphs for enhanced arrhythmia classification with graph convolutional networks](https://arxiv.org/abs/2404.15367)|[vg_for_arrhythmia_classification_with_gcn](https://github.com/raffoliveira/vg_for_arrhythmia_classification_with_gcn)|
+|[two is better than one: digital siblings to improve autonomous driving testing](https://arxiv.org/abs/2305.08060)|[maxitwo](https://github.com/testingautomated-usi/maxitwo)|
+|[g3reg: pyramid graph-based global registration using gaussian ellipsoid model](https://arxiv.org/abs/2308.11573)|[lidar-registration-benchmark](https://github.com/hkust-aerial-robotics/lidar-registration-benchmark)|
+|[selectively sharing experiences improves multi-agent reinforcement learning](https://arxiv.org/abs/2311.00865)|[super](https://github.com/mgerstgrasser/super)|
+|[planning the path with reinforcement learning: optimal robot motion planning in robocup small size league environments](https://arxiv.org/abs/2404.15410)|[Planning-the-path-with-rl](https://github.com/goncamateus/Planning-the-path-with-rl)|
+## 2024-04-24
+|paper|code|
+|---|---|
+|[paved2paradise: cost-effective and scalable lidar simulation by factoring the real world](https://arxiv.org/abs/2312.01117)|[paved2paradise](https://github.com/airalcorn2/paved2paradise)|
+|[rms: redundancy-minimizing point cloud sampling for real-time pose estimation](https://arxiv.org/abs/2312.07337)|[rms](https://github.com/ctu-mrs/rms)|
+|[holodeck: language guided generation of 3d embodied ai environments](https://arxiv.org/abs/2312.09067)|[Holodeck](https://github.com/allenai/Holodeck)|
+|[ppnet: a two-stage neural network for end-to-end path planning](https://arxiv.org/abs/2401.09819)|[ppnet](https://github.com/adamqlmeng/ppnet)|
+|[otterros: picking and programming an uncrewed surface vessel for experimental field robotics research with ros 2](https://arxiv.org/abs/2404.05627)|[otter_ros](https://github.com/offroad-robotics/otter_ros)|
+|[2dliw-slam:2d lidar-inertial-wheel odometry with real-time loop closure](https://arxiv.org/abs/2404.07644)|[2dliw-slam](https://github.com/littledang/2dliw-slam)|
+|[clio: real-time task-driven open-set 3d scene graphs](https://arxiv.org/abs/2404.13696)|[clio](https://github.com/mit-spark/clio)|
+|[pelical: targetless extrinsic calibration via penetrating lines for rgb-d cameras with limited co-visibility](https://arxiv.org/abs/2404.13949)|[pelical](https://github.com/joomeok/pelical)|
+|[research on robot path planning based on reinforcement learning](https://arxiv.org/abs/2404.14077)|[Path-Planning-based-on-Reinforcement-Learning](https://github.com/Rich-King395/Path-Planning-based-on-Reinforcement-Learning)|
+|[towards multi-morphology controllers with diversity and knowledge distillation](https://arxiv.org/abs/2404.14625)|[towards-multi-morphology-controllers](https://github.com/mertan-a/towards-multi-morphology-controllers)|
+|[tightly joined positioning and control model for unmanned aerial vehicles based on factor graph optimization](https://arxiv.org/abs/2404.14724)|[ipn_mpc](https://github.com/roboticspolyu/ipn_mpc)|
+## 2024-04-23
+|paper|code|
+|---|---|
+|[using explainable ai to investigate electrocardiogram changes during healthy aging -- from expert features to raw signals](https://arxiv.org/abs/2310.07463)|[ecg-aging](https://github.com/ai4healthuol/ecg-aging)|
+|[a multimodal feature distillation with cnn-transformer network for brain tumor segmentation with incomplete modalities](https://arxiv.org/abs/2404.14019)|[mctseg](https://github.com/mkang315/mctseg)|
+|[end-to-end autonomous driving: challenges and frontiers](https://arxiv.org/abs/2306.16927)|[end-to-end-autonomous-driving](https://github.com/opendrivelab/end-to-end-autonomous-driving)|
+|[scalable multi-modal model predictive control via duality-based interaction predictions](https://arxiv.org/abs/2402.01116)|[hmpc_raidnet](https://github.com/MPC-Berkeley/hmpc_raidnet)|
+|[end-to-end autonomous driving through v2x cooperation](https://arxiv.org/abs/2404.00717)|[univ2x](https://github.com/air-thu/univ2x)|
+|[ita-ecbs: a bounded-suboptimal algorithm for the combined target-assignment and path-finding problem](https://arxiv.org/abs/2404.05223)|[libMultiRobotPlanning](https://github.com/whoenig/libMultiRobotPlanning)|
+|[ec-slam: real-time dense neural rgb-d slam system with effectively constrained global bundle adjustment](https://arxiv.org/abs/2404.13346)|[ec-slam](https://github.com/lightingooo/ec-slam)|
+|[pacnav: enhancing collective navigation for uav swarms in communication-challenged environments](https://arxiv.org/abs/2404.13440)|[pacnav](https://github.com/ctu-mrs/pacnav)|
+|[generalization of task parameterized dynamical systems using gaussian process transportation](https://arxiv.org/abs/2404.13458)|[gaussian_process_transportation](https://github.com/franzesegiovanni/gaussian_process_transportation)|
+|[radial basis function neural networks for formation control of unmanned aerial vehicles](https://arxiv.org/abs/2404.13583)|[rbf_bsmc](https://github.com/duynamrcv/rbf_bsmc)|
+|[combining and decoupling rigid and soft grippers to enhance robotic manipulation](https://arxiv.org/abs/2404.13755)|[riso_gripper](https://github.com/vt-collab/riso_gripper)|
+|[autonomous robot for disaster mapping and victim localization](https://arxiv.org/abs/2404.13767)|[mrproject](https://github.com/rzhao5659/mrproject)|
+|[hierarchical localization with panoramic views and triplet loss functions](https://arxiv.org/abs/2404.14117)|[tripletnetworksindoorlocalization](https://github.com/marcosalfaro/tripletnetworksindoorlocalization)|
 ## 2024-04-19
 |paper|code|
 |---|---|
