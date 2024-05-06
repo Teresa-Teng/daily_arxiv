@@ -1,3 +1,68 @@
+## 2024-05-03
+|paper|code|
+|---|---|
+|[denoiser-based projections for 2-d super-resolution multi-reference alignment](https://arxiv.org/abs/2204.04754)|[denoiser_projection](https://github.com/jonathanshani/denoiser_projection)|
+|[locality regularized reconstruction: structured sparsity and delaunay triangulations](https://arxiv.org/abs/2405.00837)|[LocalityRegularization](https://github.com/MarshMue/LocalityRegularization)|
+|[dynamic online ensembles of basis expansions](https://arxiv.org/abs/2405.01365)|[DynamicOnlineBasisExpansions](https://github.com/danwaxman/DynamicOnlineBasisExpansions)|
+|[reinforcement learning based autonomous multi-rotor landing on moving platforms](https://arxiv.org/abs/2302.13192)|[rl_multi_rotor_landing](https://github.com/robot-perception-group/rl_multi_rotor_landing)|
+|[mega-dagger: imitation learning with multiple imperfect experts](https://arxiv.org/abs/2303.00638)|[mega-dagger](https://github.com/m4d-sc1entist/mega-dagger)|
+|[sim-grasp: learning 6-dof grasp policies for cluttered environments using a synthetic benchmark](https://arxiv.org/abs/2405.00841)|[Sim-Grasp](https://github.com/junchengli1/Sim-Grasp)|
+|[leveraging procedural generation for learning autonomous peg-in-hole assembly in space](https://arxiv.org/abs/2405.01134)|[drl_omni_peg](https://github.com/andrejorsula/drl_omni_peg)|
+|[imagine2touch: predictive tactile sensing for robotic manipulation using efficient low-dimensional signals](https://arxiv.org/abs/2405.01192)|[Imagine2touch](https://github.com/AbdallahAyman/Imagine2touch)|
+|[towards consistent object detection via lidar-camera synergy](https://arxiv.org/abs/2405.01258)|[cod](https://github.com/xifen523/cod)|
+|[llmsat: a large language model-based goal-oriented agent for autonomous space exploration](https://arxiv.org/abs/2405.01392)|[LLMSat](https://github.com/DM1122/LLMSat)|
+## 2024-05-02
+|paper|code|
+|---|---|
+|[titan: bringing the deep image prior to implicit representations](https://arxiv.org/abs/2211.00219)|[titan-implicit-prior](https://github.com/dlej/titan-implicit-prior)|
+|[guaranteed dynamic scheduling of ultra-reliable low-latency traffic via conformal prediction](https://arxiv.org/abs/2302.07675)|[online_cp_urllc](https://github.com/kclip/online_cp_urllc)|
+|[pit30m: a benchmark for global localization in the age of self-driving cars](https://arxiv.org/abs/2012.12437)|[pit30m](https://github.com/pit30m/pit30m)|
+|[the director: a composable behaviour system with soft transitions](https://arxiv.org/abs/2309.09248)|[directorsoccer](https://github.com/nubots/directorsoccer)|
+|[eureka: human-level reward design via coding large language models](https://arxiv.org/abs/2310.12931)|[Eureka](https://github.com/eureka-research/Eureka)|
+|[fots: a fast optical tactile simulator for sim2real learning of tactile-motor robot manipulation skills](https://arxiv.org/abs/2404.19217)|[fots](https://github.com/rancho-zhao/fots)|
+|[imtsp: solving min-max multiple traveling salesman problem with imperative learning](https://arxiv.org/abs/2405.00285)|[imtsp](https://github.com/sair-lab/imtsp)|
+|[a preprocessing and evaluation toolbox for trajectory prediction research on the drone datasets](https://arxiv.org/abs/2405.00604)|[dronalize](https://github.com/westny/dronalize)|
+## 2024-05-01
+|paper|code|
+|---|---|
+|[multi-task learning for radar signal characterisation](https://arxiv.org/abs/2306.13105)|[radchar](https://github.com/abcxyzi/radchar)|
+|[timely status updates in slotted aloha network with energy harvesting](https://arxiv.org/abs/2404.18990)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
+|[ultra inertial poser: scalable motion capture and tracking from sparse inertial sensors and ultra-wideband ranging](https://arxiv.org/abs/2404.19541)|[ultrainertialposer](https://github.com/eth-siplab/ultrainertialposer)|
+|[distributionally robust lyapunov function search under uncertainty](https://arxiv.org/abs/2212.01554)|[dr-lyapunov-function](https://github.com/kehanlong/dr-lyapunov-function)|
+|[a platform-agnostic deep reinforcement learning framework for effective sim2real transfer in autonomous driving](https://arxiv.org/abs/2304.08235)|[sim2real_autonomous_vehicle](https://github.com/dailyl/sim2real_autonomous_vehicle)|
+|[synergistic reinforcement and imitation learning for vision-driven autonomous flight of uav along river](https://arxiv.org/abs/2401.09332)|[Synergistic-Reinforcement-and-Imitation-Learning](https://github.com/lijianwen1997/Synergistic-Reinforcement-and-Imitation-Learning)|
+|[scalable multi-modal model predictive control via duality-based interaction predictions](https://arxiv.org/abs/2402.01116)|[hmpc_raidnet](https://github.com/MPC-Berkeley/hmpc_raidnet)|
+|[goal-reaching trajectory design near danger with piecewise affine reach-avoid computation](https://arxiv.org/abs/2402.15604)|[parc](https://github.com/safe-robotics-lab-gt/parc)|
+|[symmetry-aware reinforcement learning for robotic assembly under partial observability with a soft wrist](https://arxiv.org/abs/2402.18002)|[symmetry-aware-pomdp](https://github.com/omron-sinicx/symmetry-aware-pomdp)|
+|[people attribute purpose to autonomous vehicles when explaining their behavior](https://arxiv.org/abs/2403.08828)|[av_explanations](https://github.com/stephaniedroop/av_explanations)|
+|[mgcbs: an optimal and efficient algorithm for solving multi-goal multi-agent path finding problem](https://arxiv.org/abs/2404.19518)|[mgcbs](https://github.com/tangmingkai/mgcbs)|
+## 2024-04-30
+|paper|code|
+|---|---|
+|[a new method of modeling the multi-stage decision-making process of crt using machine learning with uncertainty quantification](https://arxiv.org/abs/2309.08415)|[crt_multistageml_uncertainty](https://github.com/miilab-mtu/crt_multistageml_uncertainty)|
+|[fully differentiable ray tracing via discontinuity smoothing for radio network optimization](https://arxiv.org/abs/2401.11882)|[differt2d](https://github.com/jeertmans/differt2d)|
+|[siamquality: a convnet-based foundation model for imperfect physiological signals](https://arxiv.org/abs/2404.17667)|[siamquality](https://github.com/chengding0713/siamquality)|
+|[towards activated muscle group estimation in the wild](https://arxiv.org/abs/2303.00952)|[musclemap](https://github.com/kpeng9510/musclemap)|
+|[multi-task reinforcement learning in continuous control with successor feature-based concurrent composition](https://arxiv.org/abs/2303.13935)|[concurrent_composition](https://github.com/robot-perception-group/concurrent_composition)|
+|[exploring few-shot adaptation for activity recognition on diverse domains](https://arxiv.org/abs/2305.08420)|[relamix](https://github.com/kpeng9510/relamix)|
+|[uniscene: multi-camera unified pre-training via 3d scene reconstruction for autonomous driving](https://arxiv.org/abs/2305.18829)|[uniscene](https://github.com/chaytonmin/uniscene)|
+|[monoforce: self-supervised learning of physics-aware model for predicting robot-terrain interaction](https://arxiv.org/abs/2309.09007)|[monoforce](https://github.com/ctu-vras/monoforce)|
+|[safe deep policy adaptation](https://arxiv.org/abs/2310.08602)|[SafeDPA](https://github.com/LeCAR-Lab/SafeDPA)|
+|[gradient-based local next-best-view planning for improved perception of targeted plant nodes](https://arxiv.org/abs/2311.16759)|[gradientnbv](https://github.com/akshaykburusa/gradientnbv)|
+|[globally optimal inverse kinematics as a quadratic program](https://arxiv.org/abs/2312.15569)|[ik.jl](https://github.com/votroto/ik.jl)|
+|[inversematrixvt3d: an efficient projection matrix-based approach for 3d occupancy prediction](https://arxiv.org/abs/2401.12422)|[inversematrixvt3d](https://github.com/danielming123/inversematrixvt3d)|
+|[optistate: state estimation of legged robots using gated networks with transformer-based vision and kalman filtering](https://arxiv.org/abs/2401.16719)|[optistate](https://github.com/alexs28/optistate)|
+|[sampling-based motion planning with online racing line generation for autonomous driving on three-dimensional race tracks](https://arxiv.org/abs/2403.18643)|[sampling_based_3d_local_planning](https://github.com/tumrt/sampling_based_3d_local_planning)|
+|[clio: real-time task-driven open-set 3d scene graphs](https://arxiv.org/abs/2404.13696)|[clio](https://github.com/mit-spark/clio)|
+|[learning manipulation tasks in dynamic and shared 3d spaces](https://arxiv.org/abs/2404.17673)|[mldenv](https://github.com/hariharan20/mldenv)|
+|[clft: camera-lidar fusion transformer for semantic segmentation in autonomous driving](https://arxiv.org/abs/2404.17793)|[fcn_transformer_object_segmentation](https://github.com/claud1234/fcn_transformer_object_segmentation)|
+|[dexterous grasp transformer](https://arxiv.org/abs/2404.18135)|[dgtr](https://github.com/isee-laboratory/dgtr)|
+|[multi-robot object slam using distributed variational inference](https://arxiv.org/abs/2404.18331)|[distributed_msckf](https://github.com/intrepidchw/distributed_msckf)|
+|[trajectory optimization for adaptive informative path planning with multimodal sensing](https://arxiv.org/abs/2404.18374)|[to_aippms](https://github.com/josh0tt/to_aippms)|
+|[field notes on deploying research robots in public spaces](https://arxiv.org/abs/2404.18375)|[roboticists-field-insights-and-guide](https://github.com/far-lab/roboticists-field-insights-and-guide)|
+|[a framework for learning and reusing robotic skills](https://arxiv.org/abs/2404.18383)|[elastic-clustering](https://github.com/brenhertel/elastic-clustering)|
+|[predicting safety misbehaviours in autonomous driving systems using uncertainty quantification](https://arxiv.org/abs/2404.18573)|[misbehaviour-prediction-with-uncertainty-quantification](https://github.com/ast-fortiss-tum/misbehaviour-prediction-with-uncertainty-quantification)|
+|[adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
 ## 2024-04-26
 |paper|code|
 |---|---|
