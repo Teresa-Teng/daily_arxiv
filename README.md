@@ -1,3 +1,63 @@
+## 2024-05-12
+|paper|code|
+|---|---|
+|[pre-trained text-to-image diffusion models are versatile representation learners for control](https://arxiv.org/abs/2405.05852)|[stable-control-representations](https://github.com/ykarmesh/stable-control-representations)|
+## 2024-05-10
+|paper|code|
+|---|---|
+|[ecg-based estimation of respiratory modulation of av nodal conduction during atrial fibrillation](https://arxiv.org/abs/2309.05458)|[ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation](https://github.com/plappertf/ecg-based_estimation_of_respiratory_modulation_of_av_nodal_conduction_during_atrial_fibrillation)|
+|[design and evaluation of a generic visual slam framework for multi-camera systems](https://arxiv.org/abs/2210.07315)|[multicamslam](https://github.com/neufieldrobotics/multicamslam)|
+|[how generalizable is my behavior cloning policy? a statistical approach to trustworthy performance evaluation](https://arxiv.org/abs/2405.05439)|[stochastic_verification](https://github.com/tri-ml/stochastic_verification)|
+|[dynamic deep factor graph for multi-agent reinforcement learning](https://arxiv.org/abs/2405.05542)|[ddfg](https://github.com/sicc-group/ddfg)|
+|[robots can feel: llm-based framework for robot ethical reasoning](https://arxiv.org/abs/2405.05824)|[robots_can_feel](https://github.com/temalykov/robots_can_feel)|
+|[evaluating real-world robot manipulation policies in simulation](https://arxiv.org/abs/2405.05941)|[SimplerEnv](https://github.com/simpler-env/SimplerEnv)|
+|[probing multimodal llms as world models for driving](https://arxiv.org/abs/2405.05956)|[drivesim](https://github.com/sreeramsa/drivesim)|
+## 2024-05-09
+|paper|code|
+|---|---|
+|[data augmentation for generating synthetic electrogastrogram time series](https://arxiv.org/abs/2303.02408)|[syegg](https://github.com/nadicasm/syegg)|
+|[enhancing deep reinforcement learning: a tutorial on generative diffusion models in network optimization](https://arxiv.org/abs/2308.05384)|[gdmopt](https://github.com/hongyangdu/gdmopt)|
+|[uncertainty-aware bayes' rule and its applications](https://arxiv.org/abs/2311.05532)|[bayes-rule](https://github.com/spratm-asleaf/bayes-rule)|
+|[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
+|[communication resources constrained hierarchical federated learning for end-to-end autonomous driving](https://arxiv.org/abs/2306.16169)|[crchfl](https://github.com/weibinkou/crchfl)|
+|[unibev: multi-modal 3d object detection with uniform bev encoders for robustness against missing sensor modalities](https://arxiv.org/abs/2309.14516)|[unibev](https://github.com/tudelft-iv/unibev)|
+|[tinympc: model-predictive control on resource-constrained microcontrollers](https://arxiv.org/abs/2310.16985)|[TinyMPC](https://github.com/TinyMPC/TinyMPC)|
+|[lio-ekf: high frequency lidar-inertial odometry using extended kalman filters](https://arxiv.org/abs/2311.09887)|[lio-ekf](https://github.com/yibinwu/lio-ekf)|
+|[lidar-based crop row detection algorithm for over-canopy autonomous navigation in agriculture fields](https://arxiv.org/abs/2403.17774)|[LiDAR_CropRowDetection](https://github.com/Kantor-Lab/LiDAR_CropRowDetection)|
+|[exploiting symmetry in dynamics for model-based reinforcement learning with asymmetric rewards](https://arxiv.org/abs/2403.19024)|[symmetry-cs285](https://github.com/yasinsonmez/symmetry-cs285)|
+|[off-road autonomy validation using scalable digital twin simulations within high-performance computing clusters](https://arxiv.org/abs/2405.04743)|[autodrive-simulator-hpc](https://github.com/autodrive-ecosystem/autodrive-simulator-hpc)|
+|[general place recognition survey: towards real-world autonomy](https://arxiv.org/abs/2405.04812)|[GPRS](https://github.com/MetaSLAM/GPRS)|
+|[multi-modal data-efficient 3d scene understanding for autonomous driving](https://arxiv.org/abs/2405.05258)|[LaserMix](https://github.com/ldkong1205/LaserMix)|
+|[openess: event-based semantic scene understanding with open vocabularies](https://arxiv.org/abs/2405.05259)|[openess](https://github.com/ldkong1205/openess)|
+## 2024-05-08
+|paper|code|
+|---|---|
+|[robofisense: attention-based robotic arm activity recognition with wifi sensing](https://arxiv.org/abs/2312.15345)|[robofisense](https://github.com/siamilab/robofisense)|
+|[g$ \mathbf{^2} $vd planner: efficient motion planning with grid-based generalized voronoi diagrams](https://arxiv.org/abs/2201.12981)|[g2vd_planner](https://github.com/nku-mobfly-robotics/g2vd_planner)|
+|[lio-gvm: an accurate, tightly-coupled lidar-inertial odometry with gaussian voxel map](https://arxiv.org/abs/2306.17436)|[lio_gvm](https://github.com/ji1xingyu/lio_gvm)|
+|[value approximation for two-player general-sum differential games with state constraints](https://arxiv.org/abs/2311.16520)|[value_appro_game](https://github.com/dayanbatuofu/value_appro_game)|
+|[imtsp: solving min-max multiple traveling salesman problem with imperative learning](https://arxiv.org/abs/2405.00285)|[imtsp](https://github.com/sair-lab/imtsp)|
+|[imu-aided event-based stereo visual odometry](https://arxiv.org/abs/2405.04071)|[esvio_aa](https://github.com/nail-hnu/esvio_aa)|
+|[ltldog: satisfying temporally-extended symbolic constraints for safe diffusion-based planning](https://arxiv.org/abs/2405.04235)|[ltldog](https://github.com/clear-nus/ltldog)|
+## 2024-05-07
+|paper|code|
+|---|---|
+|[generalised envelope spectrum-based signal-to-noise objectives: formulation, optimisation and application for gear fault detection under time-varying speed conditions](https://arxiv.org/abs/2405.00727)|[snrocl](https://gitlab.com/vspa/snrocl)|
+|[antenna failure resilience: deep learning-enabled robust doa estimation with single snapshot sparse arrays](https://arxiv.org/abs/2405.02788)|[deep_rsa_doa](https://github.com/ruxinzh/deep_rsa_doa)|
+|[fully reversing the shoebox image source method: from impulse responses to room parameters](https://arxiv.org/abs/2405.03385)|[acoustic-sfw](https://github.com/sprunckt/acoustic-sfw)|
+|[language model-based paired variational autoencoders for robotic language learning](https://arxiv.org/abs/2201.06317)|[PVAE-BERT](https://github.com/oo222bs/PVAE-BERT)|
+|[dynamic open vocabulary enhanced safe-landing with intelligence (dovesei)](https://arxiv.org/abs/2308.11471)|[dovesei](https://github.com/mistlab/dovesei)|
+|[active perception using neural radiance fields](https://arxiv.org/abs/2310.09892)|[active-perception-using-neural-radiance-fields](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)|
+|[diffclone: enhanced behaviour cloning in robotics with diffusion-driven policy learning](https://arxiv.org/abs/2401.09243)|[diffclone](https://github.com/sirabas369/diffclone)|
+|[providing safety assurances for systems with unknown dynamics](https://arxiv.org/abs/2403.05771)|[safety_assurances_for_unknown_dynamics](https://github.com/haowwang/safety_assurances_for_unknown_dynamics)|
+|[riemannian optimization for active mapping with robot teams](https://arxiv.org/abs/2404.18321)|[roam](https://github.com/existentialrobotics/roam)|
+|[few-shot fruit segmentation via transfer learning](https://arxiv.org/abs/2405.02556)|[few-shot-fruit-segmentation-via-transfer-learning](https://github.com/robotic-vision-lab/few-shot-fruit-segmentation-via-transfer-learning)|
+|[unsamflow: unsupervised optical flow guided by segment anything model](https://arxiv.org/abs/2405.02608)|[unsamflow](https://github.com/facebookresearch/unsamflow)|
+|[accelerating autonomy: insights from pro racers in the era of autonomous racing - an expert interview study](https://arxiv.org/abs/2405.02620)|[acceleratingautonomy_expertinterviews_additionalmaterial](https://github.com/tum-avs/acceleratingautonomy_expertinterviews_additionalmaterial)|
+|[fdspc: fast and direct smooth path planning via continuous curvature integration](https://arxiv.org/abs/2405.03281)|[gpcc_curvature_planning](https://github.com/skelonchan/gpcc_curvature_planning)|
+|[reverse forward curriculum learning for extreme sample and demonstration efficiency in reinforcement learning](https://arxiv.org/abs/2405.03379)|[rfcl](https://github.com/stonet2000/rfcl)|
+|[3d lidar mapping in dynamic environments using a 4d implicit neural representation](https://arxiv.org/abs/2405.03388)|[4dndf](https://github.com/prbonn/4dndf)|
+|[robocar: a rapidly deployable open-source platform for autonomous driving research](https://arxiv.org/abs/2405.03572)|[robocar](https://github.com/sntubix/robocar)|
 ## 2024-05-03
 |paper|code|
 |---|---|
