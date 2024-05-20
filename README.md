@@ -1,3 +1,53 @@
+## 2024-05-17
+|paper|code|
+|---|---|
+|[$f$-divergence based classification: beyond the use of cross-entropy](https://arxiv.org/abs/2401.01268)|[discriminative-classification-fdiv](https://github.com/tonellolab/discriminative-classification-fdiv)|
+|[dynamic gnns for precise seizure detection and classification from eeg data](https://arxiv.org/abs/2405.09568)|[NeuroGNN](https://github.com/USC-InfoLab/NeuroGNN)|
+|[language-oriented semantic latent representation for image transmission](https://arxiv.org/abs/2405.09976)|[img2img-sc](https://github.com/ispamm/img2img-sc)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+|[autonomous drone racing: a survey](https://arxiv.org/abs/2301.01755)|[rpg_quadrotor_control](https://github.com/uzh-rpg/rpg_quadrotor_control)|
+|[reinforcement learning based autonomous multi-rotor landing on moving platforms](https://arxiv.org/abs/2302.13192)|[rl_multi_rotor_landing](https://github.com/robot-perception-group/rl_multi_rotor_landing)|
+|[graingrasp: dexterous grasp generation with fine-grained contact guidance](https://arxiv.org/abs/2405.09310)|[graingrasp](https://github.com/wmtlab/graingrasp)|
+|[no more mumbles: enhancing robot intelligibility through speech adaptation](https://arxiv.org/abs/2405.09708)|[robot-speech-intelligibility](https://github.com/qiaoqiao2323/robot-speech-intelligibility)|
+## 2024-05-16
+|paper|code|
+|---|---|
+|[calibrating wireless ray tracing for digital twinning using local phase error estimates](https://arxiv.org/abs/2312.12625)|[phase-aware-rt-calibration](https://github.com/kclip/phase-aware-rt-calibration)|
+|[unsupervised learning based end-to-end delayless generative fixed-filter active noise control](https://arxiv.org/abs/2402.09460)|[unsupervised-gfanc](https://github.com/luo-zhengding/unsupervised-gfanc)|
+|[unsupervised learning for joint beamforming design in ris-aided isac systems](https://arxiv.org/abs/2403.17324)|[DL-Beamforming-RIS-ISAC](https://github.com/Yejacky456/DL-Beamforming-RIS-ISAC)|
+|[autorl hyperparameter landscapes](https://arxiv.org/abs/2304.02396)|[autorl-landscape](https://github.com/automl/autorl-landscape)|
+|[on solving close enough orienteering problems with overlapped neighborhoods](https://arxiv.org/abs/2310.04257)|[CRaSZe-AntS](https://github.com/sysal-bruce-publication/CRaSZe-AntS)|
+|[airimu: learning uncertainty propagation for inertial odometry](https://arxiv.org/abs/2310.04874)|[airimu](https://github.com/haleqiu/airimu)|
+|[3d diffusion policy: generalizable visuomotor policy learning via simple 3d representations](https://arxiv.org/abs/2403.03954)|[3D-Diffusion-Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)|
+|[adaptive koopman embedding for robust control of complex dynamical systems](https://arxiv.org/abs/2405.09101)|[adaptive-koopman](https://github.com/rajpal9/adaptive-koopman)|
+|[physics-informed neural network for multirotor slung load systems modeling](https://arxiv.org/abs/2405.09428)|[pinn-air](https://github.com/GilSerrano/pinn-air)|
+## 2024-05-15
+|paper|code|
+|---|---|
+|[multi-target tracking with transferable convolutional neural networks](https://arxiv.org/abs/2210.15539)|[mtt](https://github.com/damowerko/mtt)|
+|[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
+|[modeling of time-varying wireless communication channel with fading and shadowing](https://arxiv.org/abs/2405.08199)|[Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing](https://github.com/BrightBlueCheese/Modeling-of-Time-varying-Wireless-Communication-Channel-with-Fading-and-Shadowing)|
+|[sonic: sonar image correspondence using pose supervised learning for imaging sonars](https://arxiv.org/abs/2310.15023)|[sonic](https://github.com/rpl-cmu/sonic)|
+|[efficient heatmap-guided 6-dof grasp detection in cluttered scenes](https://arxiv.org/abs/2403.18546)|[HGGD](https://github.com/THU-VCLab/HGGD)|
+|[gad-generative learning for hd map-free autonomous driving](https://arxiv.org/abs/2405.00515)|[GAD](https://github.com/weijian-sun/GAD)|
+|[a distributed approach to autonomous intersection management via multi-agent reinforcement learning](https://arxiv.org/abs/2405.08655)|[MAD4QN-PS](https://github.com/mcederle99/MAD4QN-PS)|
+## 2024-05-14
+|paper|code|
+|---|---|
+|[audioldm 2: learning holistic audio generation with self-supervised pretraining](https://arxiv.org/abs/2308.05734)|[AudioLDM2](https://github.com/haoheliu/AudioLDM2)|
+|[learning multi-frequency partial correlation graphs](https://arxiv.org/abs/2311.15756)|[bspcg](https://github.com/officiallydac/bspcg)|
+|[prospects for ai-enhanced ecg as a unified screening tool for cardiac and non-cardiac conditions -- an explorative study in emergency care](https://arxiv.org/abs/2312.11050)|[ecg-mimic](https://github.com/ai4healthuol/ecg-mimic)|
+|[personalized heart disease detection via ecg digital twin generation](https://arxiv.org/abs/2404.11171)|[lavq-editor](https://github.com/huyjj/lavq-editor)|
+|[neuronet: a novel hybrid self-supervised learning framework for sleep stage classification using single-channel eeg](https://arxiv.org/abs/2404.17585)|[NeuroNet](https://github.com/dlcjfgmlnasa/NeuroNet)|
+|[timely status updates in slotted aloha networks with energy harvesting](https://arxiv.org/abs/2404.18990)|[aoi_slottedaloha_energyharvesting](https://github.com/khachoang1412/aoi_slottedaloha_energyharvesting)|
+|[time-of-arrival estimation and phase unwrapping of head-related transfer functions with integer linear programming](https://arxiv.org/abs/2405.06804)|[hrtf-ilp](https://github.com/yoyololicon/hrtf-ilp)|
+|[a supervised information enhanced multi-granularity contrastive learning framework for eeg based emotion recognition](https://arxiv.org/abs/2405.07260)|[si-cleer](https://github.com/muzixiang/si-cleer)|
+|[viplanner: visual semantic imperative learning for local navigation](https://arxiv.org/abs/2310.00982)|[viplanner](https://github.com/leggedrobotics/viplanner)|
+|[sampling-based motion planning with online racing line generation for autonomous driving on three-dimensional race tracks](https://arxiv.org/abs/2403.18643)|[sampling_based_3d_local_planning](https://github.com/tumrt/sampling_based_3d_local_planning)|
+|[beautymap: binary-encoded adaptable ground matrix for dynamic points removal in global maps](https://arxiv.org/abs/2405.07283)|[beautymap](https://github.com/mkjia/beautymap)|
+|[ngd-slam: towards real-time slam for dynamic environments without gpu](https://arxiv.org/abs/2405.07392)|[NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM)|
+|[jointloc: a real-time visual localization framework for planetary uavs based on joint relative and absolute pose estimation](https://arxiv.org/abs/2405.07429)|[jointloc](https://github.com/luoxubo/jointloc)|
+|[learning to plan maneuverable and agile flight trajectory with optimization embedded networks](https://arxiv.org/abs/2405.07736)|[e2e_opt](https://github.com/zju-fast-lab/e2e_opt)|
 ## 2024-05-12
 |paper|code|
 |---|---|
