@@ -1,3 +1,52 @@
+## 2024-05-24
+|paper|code|
+|---|---|
+|[k-band: self-supervised mri reconstruction via stochastic gradient descent over k-space subsets](https://arxiv.org/abs/2308.02958)|[k-band](https://github.com/mikgroup/k-band)|
+|[signal processing meets sgd: from momentum to filter](https://arxiv.org/abs/2311.02818)|[SGDF-Optimizer](https://github.com/LilYau350/SGDF-Optimizer)|
+|[eegdir: electroencephalogram denoising network for temporal information storage and global modeling through retentive network](https://arxiv.org/abs/2404.15289)|[EEGDiR](https://github.com/woldier/EEGDiR)|
+|[self-supervised depth correction of lidar measurements from map consistency loss](https://arxiv.org/abs/2303.01123)|[depth_correction](https://github.com/ctu-vras/depth_correction)|
+|[nims-os: an automation software to implement a closed loop between artificial intelligence and robotic experiments in materials science](https://arxiv.org/abs/2304.13927)|[nimsos](https://github.com/nimsos-dev/nimsos)|
+|[planar friction modelling with lugre dynamics and limit surfaces](https://arxiv.org/abs/2308.01123)|[frictionmodelling](https://github.com/gabrieleenx/frictionmodelling)|
+|[viplanner: visual semantic imperative learning for local navigation](https://arxiv.org/abs/2310.00982)|[viplanner](https://github.com/leggedrobotics/viplanner)|
+|[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
+|[evi-sam: robust, real-time, tightly-coupled event-visual-inertial state estimation and 3d dense mapping](https://arxiv.org/abs/2312.11911)|[event_based_vo-vio-slam](https://github.com/arclab-hku/event_based_vo-vio-slam)|
+|[monolss: learnable sample selection for monocular 3d detection](https://arxiv.org/abs/2312.14474)|[MonoLSS](https://github.com/Traffic-X/MonoLSS)|
+|[multi s-graphs: an efficient distributed semantic-relational collaborative slam](https://arxiv.org/abs/2401.05152)|[multi_s_graphs_docker](https://github.com/snt-arg/multi_s_graphs_docker)|
+|[learning visuotactile skills with two multifingered hands](https://arxiv.org/abs/2404.16823)|[hato](https://github.com/ToruOwO/hato)|
+|[adaptive teaching in heterogeneous agents: balancing surprise in sparse reward scenarios](https://arxiv.org/abs/2405.14199)|[Surprise_based_Teaching](https://github.com/labicon/Surprise_based_Teaching)|
+|[coped-advancing multi-robot collaborative perception: a comprehensive dataset in real-world environments](https://arxiv.org/abs/2405.14731)|[coped](https://github.com/arplaboratory/coped)|
+|[an empirical study of training state-of-the-art lidar segmentation models](https://arxiv.org/abs/2405.14870)|[mmdetection3d](https://github.com/open-mmlab/mmdetection3d)|
+## 2024-05-22
+|paper|code|
+|---|---|
+|[optimizing polynomial graph filters: a novel adaptive krylov subspace approach](https://arxiv.org/abs/2403.07954)|[AdaptKry](https://github.com/kkhuang81/AdaptKry)|
+|[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
+|[agile but safe: learning collision-free high-speed legged locomotion](https://arxiv.org/abs/2401.17583)|[abs](https://github.com/lecar-lab/abs)|
+|[radarmoseve: a spatial-temporal transformer network for radar-only moving object segmentation and ego-velocity estimation](https://arxiv.org/abs/2402.14380)|[radarmoseve](https://github.com/orca-uboat/radarmoseve)|
+|[real-time safe control of neural network dynamic models with sound approximation](https://arxiv.org/abs/2404.13456)|[bond](https://github.com/intelligent-control-lab/bond)|
+|[weightedpose: generalizable cross-pose estimation via weighted svd](https://arxiv.org/abs/2405.02241)|[weighted-pose](https://github.com/harryzhangog/weighted-pose)|
+|[nv-lio: lidar-inertial odometry using normal vectors towards robust slam in multifloor environments](https://arxiv.org/abs/2405.12563)|[nv_lio](https://github.com/dhchung/nv_lio)|
+## 2024-05-21
+|paper|code|
+|---|---|
+|[surrogate-based cross-correlation for particle image velocimetry](https://arxiv.org/abs/2112.05303)|[sbcc](https://github.com/yongleex/sbcc)|
+|[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
+|[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[mamca -- optimal on accuracy and efficiency for automatic modulation classification with extended signal length](https://arxiv.org/abs/2405.11263)|[mamca](https://github.com/zhangyezhuo/mamca)|
+|[openstreetmap-based autonomous navigation with lidar naive-valley-path obstacle avoidance](https://arxiv.org/abs/2108.09117)|[lib_planning](https://github.com/aurova-lab/lib_planning)|
+|[system-level safety guard: safe tracking control through uncertain neural network dynamics models](https://arxiv.org/abs/2312.06810)|[milpsafetyguard](https://github.com/xiaolisean/milpsafetyguard)|
+|[stable and safe human-aligned reinforcement learning through neural ordinary differential equations](https://arxiv.org/abs/2401.13148)|[neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac](https://github.com/liqunzhao/neural-ordinary-differential-equations-based-lyapunov-barrier-actor-critic-nlbac)|
+|[khronos: a unified approach for spatio-temporal metric-semantic slam in dynamic environments](https://arxiv.org/abs/2402.13817)|[khronos](https://github.com/mit-spark/khronos)|
+|[body design and gait generation of chair-type asymmetrical tripedal low-rigidity robot](https://arxiv.org/abs/2404.05932)|[chair-typeasymmetricaltripedalrobot](https://github.com/shin0805/chair-typeasymmetricaltripedalrobot)|
+|[a survey on occupancy perception for autonomous driving: the information fusion perspective](https://arxiv.org/abs/2405.05173)|[3d-occupancy-perception](https://github.com/huaiyuanxu/3d-occupancy-perception)|
+|[adaptive koopman embedding for robust control of complex nonlinear dynamical systems](https://arxiv.org/abs/2405.09101)|[adaptive-koopman](https://github.com/rajpal9/adaptive-koopman)|
+|[dusk till dawn: self-supervised nighttime stereo depth estimation using visual foundation models](https://arxiv.org/abs/2405.11158)|[dtd](https://github.com/madhubabuv/dtd)|
+|[an exact coverage path planning algorithm for uav-based search and rescue operations](https://arxiv.org/abs/2405.11399)|[CPP-SearchRescue](https://github.com/Sina14KD/CPP-SearchRescue)|
+|[track anything rapter(tar)](https://arxiv.org/abs/2405.11655)|[project-tar](https://github.com/tvpian/project-tar)|
+|[auto-platoon : freight by example](https://arxiv.org/abs/2405.11659)|[leader-follower](https://github.com/yashveerjain/leader-follower)|
+|[fadet: a multi-sensor 3d object detection network based on local featured attention](https://arxiv.org/abs/2405.11682)|[fadet](https://github.com/ziongo6/fadet)|
+|[bangladeshi native vehicle detection in wild](https://arxiv.org/abs/2405.12150)|[bnvd](https://github.com/bipin-saha/bnvd)|
 ## 2024-05-17
 |paper|code|
 |---|---|
