@@ -1,3 +1,64 @@
+## 2024-05-31
+|paper|code|
+|---|---|
+|[a large-scale evaluation of speech foundation models](https://arxiv.org/abs/2404.09385)|[s3prl](https://github.com/s3prl/s3prl)|
+|[sensor observability analysis for maximizing task-space observability of articulated robots](https://arxiv.org/abs/2305.06403)|[sensorobservabilityanalysisdataset](https://github.com/chrisywong/sensorobservabilityanalysisdataset)|
+|[coin-lio: complementary intensity-augmented lidar inertial odometry](https://arxiv.org/abs/2310.01235)|[COIN-LIO](https://github.com/ethz-asl/COIN-LIO)|
+|[think, act, and ask: open-world interactive personalized robot navigation](https://arxiv.org/abs/2310.07968)|[navchat](https://github.com/sled-group/navchat)|
+|[absolute policy optimization](https://arxiv.org/abs/2310.13230)|[absolute-policy-optimization](https://github.com/intelligent-control-lab/absolute-policy-optimization)|
+|[rime: robust preference-based reinforcement learning with noisy preferences](https://arxiv.org/abs/2402.17257)|[rime_icml2024](https://github.com/cjreinforce/rime_icml2024)|
+|[driveenv-nerf: exploration of a nerf-based autonomous driving environment for real-world performance validation](https://arxiv.org/abs/2403.15791)|[driveenvnerf](https://github.com/muyishen2040/driveenvnerf)|
+|[curbnet: curb detection framework based on lidar point cloud segmentation](https://arxiv.org/abs/2403.16794)|[curbnet](https://github.com/guoyangzhao/curbnet)|
+|[an empirical study of training state-of-the-art lidar segmentation models](https://arxiv.org/abs/2405.14870)|[mmdetection3d](https://github.com/open-mmlab/mmdetection3d)|
+|[memorize what matters: emergent scene decomposition from multitraverse](https://arxiv.org/abs/2405.17187)|[3dgm](https://github.com/nvlabs/3dgm)|
+|[adaptive advantage-guided policy regularization for offline reinforcement learning](https://arxiv.org/abs/2405.19909)|[a2pr](https://github.com/ltlhuuu/a2pr)|
+|[mcds-vss: moving camera dynamic scene video semantic segmentation by filtering with self-supervised geometry and motion](https://arxiv.org/abs/2405.19921)|[MCDS-VSS](https://github.com/angelvillar96/MCDS-VSS)|
+|[video-language critic: transferable reward functions for language-conditioned robotics](https://arxiv.org/abs/2405.19988)|[video_language_critic](https://github.com/minttusofia/video_language_critic)|
+## 2024-05-30
+|paper|code|
+|---|---|
+|[signal processing meets sgd: from momentum to filter](https://arxiv.org/abs/2311.02818)|[SGDF-Optimizer](https://github.com/LilYau350/SGDF-Optimizer)|
+|[faultformer: pretraining transformers for adaptable bearing fault classification](https://arxiv.org/abs/2312.02380)|[faultformer](https://github.com/anthonyzhou-1/faultformer)|
+|[random forests for detecting weak signals and extracting physical information: a case study of magnetic navigation](https://arxiv.org/abs/2402.14131)|[magnav](https://github.com/aminmoradixl/magnav)|
+|[grace: balancing multiple criteria to achieve stable, collision-free, and functional grasps](https://arxiv.org/abs/2309.08887)|[grace](https://github.com/clear-nus/grace)|
+|[goal-reaching trajectory design near danger with piecewise affine reach-avoid computation](https://arxiv.org/abs/2402.15604)|[parc](https://github.com/safe-robotics-lab-gt/parc)|
+|[track anything rapter(tar)](https://arxiv.org/abs/2405.11655)|[project-tar](https://github.com/tvpian/project-tar)|
+|[a good foundation is worth many labels: label-efficient panoptic segmentation](https://arxiv.org/abs/2405.19035)|[PASTEL](https://github.com/robot-learning-freiburg/PASTEL)|
+## 2024-05-29
+|paper|code|
+|---|---|
+|[assessment of unsteady flow predictions using hybrid deep learning based reduced order models](https://arxiv.org/abs/2009.04396)|[Assessment-of-hybrid-DLROM](https://github.com/rachit1307-code/Assessment-of-hybrid-DLROM)|
+|[multi-device task-oriented communication via maximal coding rate reduction](https://arxiv.org/abs/2309.02888)|[taskcommmcr2](https://github.com/chang-cai/taskcommmcr2)|
+|[structure-preserving transformers for sequences of spd matrices](https://arxiv.org/abs/2309.07579)|[spdtransnet](https://github.com/mathieuseraphim/spdtransnet)|
+|[sleepfm: multi-modal representation learning for sleep across brain activity, ecg and respiratory signals](https://arxiv.org/abs/2405.17766)|[sleepfm-codebase](https://github.com/rthapa84/sleepfm-codebase)|
+|[open-source high-precision autonomous suturing framework with visual guidance](https://arxiv.org/abs/2210.01406)|[accel-challenge](https://github.com/linhongbin/accel-challenge)|
+|[sicnav: safe and interactive crowd navigation using model predictive control and bilevel optimization](https://arxiv.org/abs/2310.10982)|[safe-interactive-crowdnav](https://github.com/sepsamavi/safe-interactive-crowdnav)|
+|[the colosseum: a benchmark for evaluating generalization for robotic manipulation](https://arxiv.org/abs/2402.08191)|[robot-colosseum](https://github.com/robot-colosseum/robot-colosseum)|
+|[3d diffusion policy: generalizable visuomotor policy learning via simple 3d representations](https://arxiv.org/abs/2403.03954)|[3D-Diffusion-Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)|
+|[online analytic exemplar-free continual learning with large models for imbalanced autonomous driving task](https://arxiv.org/abs/2405.17779)|[Analytic-continual-learning](https://github.com/ZHUANGHP/Analytic-continual-learning)|
+|[adapting pre-trained vision models for novel instance detection and segmentation](https://arxiv.org/abs/2405.17859)|[nids-net](https://github.com/youngsean/nids-net)|
+|[llm experiments with simulation: large language model multi-agent system for process simulation parametrization in digital twins](https://arxiv.org/abs/2405.18092)|[llmdrivensimulation](https://github.com/yuchenxia/llmdrivensimulation)|
+|[safe multi-agent reinforcement learning with bilevel optimization in autonomous driving](https://arxiv.org/abs/2405.18209)|[safe-marl-in-autonomous-driving](https://github.com/saferl-lab/safe-marl-in-autonomous-driving)|
+|[sensor-based distributionally robust control for safe robot navigation in dynamic environments](https://arxiv.org/abs/2405.18251)|[DR_Safe_Navigation](https://github.com/ExistentialRobotics/DR_Safe_Navigation)|
+## 2024-05-28
+|paper|code|
+|---|---|
+|[enn: a neural network with dct adaptive activation functions](https://arxiv.org/abs/2307.00673)|[enn](https://github.com/marcmartinezgost/enn)|
+|[physics-informed appliance signatures generator for energy disaggregation](https://arxiv.org/abs/2401.01828)|[edframe](https://github.com/arx7ti/edframe)|
+|[wav-kan: wavelet kolmogorov-arnold networks](https://arxiv.org/abs/2405.12832)|[Wav-KAN](https://github.com/zavareh1/Wav-KAN)|
+|[redmotion: motion prediction via redundancy reduction](https://arxiv.org/abs/2306.10840)|[future-motion](https://github.com/kit-mrt/future-motion)|
+|[text2reward: reward shaping with language models for reinforcement learning](https://arxiv.org/abs/2309.11489)|[text2reward](https://github.com/xlang-ai/text2reward)|
+|[maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)|[maxdiffrl](https://github.com/murpheylab/maxdiffrl)|
+|[dynamics harmonic analysis of robotic systems: application in data-driven koopman modelling](https://arxiv.org/abs/2312.07457)|[dynamicsharmonicsanalysis](https://github.com/danfoa/dynamicsharmonicsanalysis)|
+|[foundation policies with hilbert representations](https://arxiv.org/abs/2402.15567)|[hilp](https://github.com/seohongpark/hilp)|
+|[complete and near-optimal robotic crack coverage and filling in civil infrastructure](https://arxiv.org/abs/2403.00613)|[crack-filling-robot](https://github.com/binghamton-acsr-lab/crack-filling-robot)|
+|[oord: the oxford offroad radar dataset](https://arxiv.org/abs/2403.02845)|[oord-dataset](https://github.com/mttgdd/oord-dataset)|
+|[glorie-slam: globally optimized rgb-only implicit encoding point cloud slam](https://arxiv.org/abs/2403.19549)|[gloire-slam](https://github.com/zhangganlin/gloire-slam)|
+|[nv-lio: lidar-inertial odometry using normal vectors towards robust slam in multifloor environments](https://arxiv.org/abs/2405.12563)|[nv_lio](https://github.com/dhchung/nv_lio)|
+|[evolution and learning in differentiable robots](https://arxiv.org/abs/2405.14712)|[eldir](https://github.com/lstrgar/eldir)|
+|[multi-modal uav detection, classification and tracking algorithm -- technical report for cvpr 2024 ug2 challenge](https://arxiv.org/abs/2405.16464)|[multi-modal-uav](https://github.com/dtc111111/multi-modal-uav)|
+|[ef-calib: spatiotemporal calibration of event- and frame-based cameras using continuous-time trajectories](https://arxiv.org/abs/2405.17278)|[ef-calib](https://github.com/wsakobe/ef-calib)|
+|[benchmarking and improving bird's eye view perception robustness in autonomous driving](https://arxiv.org/abs/2405.17426)|[RoboBEV](https://github.com/Daniel-xsy/RoboBEV)|
 ## 2024-05-24
 |paper|code|
 |---|---|
