@@ -1,3 +1,68 @@
+## 2024-06-07
+|paper|code|
+|---|---|
+|[clarifying the effect of mean subtraction on dynamic mode decomposition](https://arxiv.org/abs/2105.03607)|[msub_mdselect_dmd](https://github.com/gowtham-ss-ragavan/msub_mdselect_dmd)|
+|[selective noise suppression methods using random svpwm to shape the noise spectrum of pmsms](https://arxiv.org/abs/2302.08053)|[SNS-in-random-SVPWM](https://github.com/IoaJianWen/SNS-in-random-SVPWM)|
+|[privacy preserving semi-decentralized mean estimation over intermittently-connected networks](https://arxiv.org/abs/2406.03766)|[private-collaborative-relaying](https://github.com/rajarshisaha95/private-collaborative-relaying)|
+|[compressible dynamics in deep overparameterized low-rank learning & adaptation](https://arxiv.org/abs/2406.04112)|[deep-lora-transformers](https://github.com/cjyaras/deep-lora-transformers)|
+|[open-ended multi-modal relational reasoning for video question answering](https://arxiv.org/abs/2012.00822)|[Video-Question-Answering-HRI](https://github.com/robinzixuan/Video-Question-Answering-HRI)|
+|[schurvins: schur complement-based lightweight visual inertial navigation system](https://arxiv.org/abs/2312.01616)|[schurvins](https://github.com/bytedance/schurvins)|
+|[transformable gaussian reward function for socially-aware navigation with deep reinforcement learning](https://arxiv.org/abs/2402.14569)|[tgrf](https://github.com/jinnnk/tgrf)|
+|[cmax-slam: event-based rotational-motion bundle adjustment and slam system using contrast maximization](https://arxiv.org/abs/2403.08119)|[cmax_slam](https://github.com/tub-rip/cmax_slam)|
+|[bench2drive: towards multi-ability benchmarking of closed-loop end-to-end autonomous driving](https://arxiv.org/abs/2406.03877)|[Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive)|
+|[class-aware cartilage segmentation for autonomous us-ct registration in robotic intercostal ultrasound imaging](https://arxiv.org/abs/2406.04100)|[US_Cartilage_Segmentation](https://github.com/ge79puv/US_Cartilage_Segmentation)|
+## 2024-06-06
+|paper|code|
+|---|---|
+|[interpreting deepcode, a learned feedback code](https://arxiv.org/abs/2404.17519)|[deepcode-interpretability](https://github.com/zyy-cc/deepcode-interpretability)|
+|[random matrix theory improved fr\'echet mean of symmetric positive definite matrices](https://arxiv.org/abs/2405.06558)|[icml-rmt-2024](https://github.com/ammarmian/icml-rmt-2024)|
+|[singing voice graph modeling for singfake detection](https://arxiv.org/abs/2406.03111)|[singgraph](https://github.com/xjchengit/singgraph)|
+|[solution concepts in hierarchical games under bounded rationality with applications to autonomous driving](https://arxiv.org/abs/2009.10033)|[traffic_behavior_modeling](https://git.uwaterloo.ca/a9sarkar/traffic_behavior_modeling)|
+|[fiducial tag localization on a 3d lidar prior map](https://arxiv.org/abs/2209.01072)|[Marker-Detection-General](https://github.com/York-SDCNLab/Marker-Detection-General)|
+|[model-based reinforcement learning with multi-task offline pretraining](https://arxiv.org/abs/2306.03360)|[vid2act](https://github.com/panmt/vid2act)|
+|[lyapunov-stable neural control for state and output feedback: a novel formulation](https://arxiv.org/abs/2404.07956)|[lyapunov_stable_nn_controllers](https://github.com/verified-intelligence/lyapunov_stable_nn_controllers)|
+|[octopi: object property reasoning with large tactile-language models](https://arxiv.org/abs/2405.02794)|[octopi](https://github.com/clear-nus/octopi)|
+|[off-road autonomy validation using scalable digital twin simulations within high-performance computing clusters](https://arxiv.org/abs/2405.04743)|[autodrive-simulator-hpc](https://github.com/autodrive-ecosystem/autodrive-simulator-hpc)|
+|[from seedling to harvest: the growingsoy dataset for weed detection in soy crops via instance segmentation](https://arxiv.org/abs/2406.00313)|[soy-segmentation](https://github.com/raulsteinmetz/soy-segmentation)|
+|[collision-affording point trees: simd-amenable nearest neighbors for fast collision checking](https://arxiv.org/abs/2406.02807)|[vamp](https://github.com/KavrakiLab/vamp)|
+|[w-rizz: a weakly-supervised framework for relative traversability estimation in mobile robotics](https://arxiv.org/abs/2406.02822)|[w-rizz](https://github.com/andreschreiber/w-rizz)|
+|[sound heuristic search value iteration for undiscounted pomdps with reachability objectives](https://arxiv.org/abs/2406.02871)|[hsvi-rp](https://github.com/aria-systems-group/hsvi-rp)|
+|[l-pr: exploiting lidar fiducial marker for unordered low overlap multiview point cloud registration](https://arxiv.org/abs/2406.03298)|[LiDAR-SFM](https://github.com/yorklyb/LiDAR-SFM)|
+## 2024-06-05
+|paper|code|
+|---|---|
+|[robust waveform design for integrated sensing and communication](https://arxiv.org/abs/2311.00071)|[robust-waveform](https://github.com/spratm-asleaf/robust-waveform)|
+|[a framework for neurosymbolic robot action planning using large language models](https://arxiv.org/abs/2303.00438)|[teriyaki](https://github.com/alessiocpt/teriyaki)|
+|[dynamics harmonic analysis of robotic systems: application in data-driven koopman modelling](https://arxiv.org/abs/2312.07457)|[dynamicsharmonicsanalysis](https://github.com/danfoa/dynamicsharmonicsanalysis)|
+|[distilling morphology-conditioned hypernetworks for efficient universal morphology control](https://arxiv.org/abs/2402.06570)|[universal-morphology-control](https://github.com/masterxiong/universal-morphology-control)|
+|[morphological symmetries in robotics](https://arxiv.org/abs/2402.15552)|[morphosymm](https://github.com/danfoa/morphosymm)|
+|[a robust filter for marker-less multi-person tracking in human-robot interaction scenarios](https://arxiv.org/abs/2406.01832)|[markerless-human-perception](https://github.com/penn-figueroa-lab/markerless-human-perception)|
+|[history-aware planning for risk-free autonomous navigation on unknown uneven terrain](https://arxiv.org/abs/2406.01928)|[history-aware-planner](https://github.com/sdwyc/history-aware-planner)|
+|[cross-embodiment robot manipulation skill transfer using latent space alignment](https://arxiv.org/abs/2406.01968)|[cross_embodiment_transfer](https://github.com/existentialrobotics/cross_embodiment_transfer)|
+|[ms-mapping: multi-session lidar mapping with wasserstein-based keyframe selection](https://arxiv.org/abs/2406.02096)|[ms-mapping](https://github.com/jokerjohn/ms-mapping)|
+|[conav: a benchmark for human-centered collaborative navigation](https://arxiv.org/abs/2406.02425)|[CoNav](https://github.com/Li-ChangHao/CoNav)|
+## 2024-06-04
+|paper|code|
+|---|---|
+|[deep optimal transport for domain adaptation on spd manifolds](https://arxiv.org/abs/2201.05745)|[deep-optimal-transport-for-domain-adaptation-on-spd-manifolds](https://github.com/geometricbci/deep-optimal-transport-for-domain-adaptation-on-spd-manifolds)|
+|[hypergraph-mlp: learning on hypergraphs without message passing](https://arxiv.org/abs/2312.09778)|[hypergraph-mlp](https://github.com/tbh-98/hypergraph-mlp)|
+|[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
+|[an unsupervised approach for periodic source detection in time series](https://arxiv.org/abs/2406.00566)|[unsupervised_periodicity_detection](https://github.com/eth-siplab/unsupervised_periodicity_detection)|
+|[a gaussian process-based streaming algorithm for prediction of time series with regimes and outliers](https://arxiv.org/abs/2406.00570)|[Lintel](https://github.com/DanWaxman/Lintel)|
+|[design and evaluation of a bioinspired tendon-driven 3d-printed robotic eye with active vision capabilities](https://arxiv.org/abs/2305.01076)|[robotic_eye](https://github.com/hamidosooli/robotic_eye)|
+|[pontryagin neural operator for solving parametric general-sum differential games](https://arxiv.org/abs/2401.01502)|[pno](https://github.com/dayanbatuofu/pno)|
+|[scalable multi-modal model predictive control via duality-based interaction predictions](https://arxiv.org/abs/2402.01116)|[hmpc_raidnet](https://github.com/MPC-Berkeley/hmpc_raidnet)|
+|[spaformer: sequential 3d part assembly with transformers](https://arxiv.org/abs/2403.05874)|[spaformer](https://github.com/xuboshen/spaformer)|
+|[parallel and proximal constrained linear-quadratic methods for real-time nonlinear mpc](https://arxiv.org/abs/2405.09197)|[aligator](https://github.com/simple-robotics/aligator)|
+|[ivideogpt: interactive videogpts are scalable world models](https://arxiv.org/abs/2405.15223)|[iVideoGPT](https://github.com/thuml/iVideoGPT)|
+|[adaptive advantage-guided policy regularization for offline reinforcement learning](https://arxiv.org/abs/2405.19909)|[a2pr](https://github.com/ltlhuuu/a2pr)|
+|[learning manipulation by predicting interaction](https://arxiv.org/abs/2406.00439)|[mpi](https://github.com/opendrivelab/mpi)|
+|[dronevis: versatile computer vision library for drones](https://arxiv.org/abs/2406.00447)|[drone-vis](https://github.com/ahmedheakl/drone-vis)|
+|[learning to play air hockey with model-based deep reinforcement learning](https://arxiv.org/abs/2406.00518)|[drl_air_hockey](https://github.com/andrejorsula/drl_air_hockey)|
+|[visual place recognition for aerial imagery: a survey](https://arxiv.org/abs/2406.00885)|[aero-vloc](https://github.com/prime-slam/aero-vloc)|
+|[ubiquitous robot control through multimodal motion capture using smartwatch and smartphone data](https://arxiv.org/abs/2406.01117)|[arm-pose-visualization](https://github.com/wearable-motion-capture/arm-pose-visualization)|
+|[extending structural causal models for use in autonomous embodied systems](https://arxiv.org/abs/2406.01384)|[scm-aes-paper-resources](https://github.com/cognitive-robots/scm-aes-paper-resources)|
+|[moseac: streamlined variable time step reinforcement learning](https://arxiv.org/abs/2406.01521)|[MOSEAC](https://github.com/alpaficia/MOSEAC)|
 ## 2024-05-31
 |paper|code|
 |---|---|
