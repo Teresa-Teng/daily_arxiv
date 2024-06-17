@@ -1,3 +1,62 @@
+## 2024-06-14
+|paper|code|
+|---|---|
+|[toward fully-end-to-end listened speech decoding from eeg signals](https://arxiv.org/abs/2406.08644)|[fesde](https://github.com/lee-jhwn/fesde)|
+|[haim-drl: enhanced human-in-the-loop reinforcement learning for safe and efficient autonomous driving](https://arxiv.org/abs/2401.03160)|[HAIM-DRL](https://github.com/zilin-huang/HAIM-DRL)|
+|[towards real-world efficiency: domain randomization in reinforcement learning for pre-capture of free-floating moving targets by autonomous robots](https://arxiv.org/abs/2406.06460)|[Fanuc_Robotiq_Grasp](https://github.com/baha2r/Fanuc_Robotiq_Grasp)|
+|[a3vlm: actionable articulation-aware vision language model](https://arxiv.org/abs/2406.07549)|[a3vlm](https://github.com/changhaonan/a3vlm)|
+|[rvt-2: learning precise manipulation from few demonstrations](https://arxiv.org/abs/2406.08545)|[RVT](https://github.com/NVlabs/RVT)|
+|[mmscan: a multi-modal 3d scene dataset with hierarchical grounded language annotations](https://arxiv.org/abs/2406.09401)|[embodiedscan](https://github.com/openrobotlab/embodiedscan)|
+## 2024-06-13
+|paper|code|
+|---|---|
+|[melep: a novel predictive measure of transferability in multi-label ecg diagnosis](https://arxiv.org/abs/2311.04224)|[melep-ecg](https://github.com/cuongvng/melep-ecg)|
+|[provably robust score-based diffusion posterior sampling for plug-and-play image reconstruction](https://arxiv.org/abs/2403.17042)|[diffusion-plug-and-play](https://github.com/x1xu/diffusion-plug-and-play)|
+|[regime learning for differentiable particle filters](https://arxiv.org/abs/2405.04865)|[Regime_Switching](https://github.com/John-JoB/Regime_Switching)|
+|[approximation properties relative to continuous scale space for hybrid discretizations of gaussian derivative operators](https://arxiv.org/abs/2405.05095)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[port-hamiltonian neural ode networks on lie groups for robot dynamics learning and control](https://arxiv.org/abs/2401.09520)|[LieGroupHamDL](https://github.com/thaipduong/LieGroupHamDL)|
+|[informed reinforcement learning for situation-aware traffic rule exceptions](https://arxiv.org/abs/2402.04168)|[informed_rl](https://github.com/fzi-forschungszentrum-informatik/informed_rl)|
+|[uada3d: unsupervised adversarial domain adaptation for 3d object detection with sparse lidar and large domain gaps](https://arxiv.org/abs/2403.17633)|[uada3d](https://github.com/maxiuw/uada3d)|
+|[3d-grand: a million-scale dataset for 3d-llms with better grounding and less hallucination](https://arxiv.org/abs/2406.05132)|[3D-GRAND](https://github.com/sled-group/3D-GRAND)|
+|[traversing mars: cooperative informative path planning to efficiently navigate unknown scenes](https://arxiv.org/abs/2406.05313)|[scouting-ipp](https://github.com/ethz-asl/scouting-ipp)|
+|[scaling manipulation learning with visual kinematic chain prediction](https://arxiv.org/abs/2406.07837)|[visual-kinetic-chain](https://github.com/mlzxy/visual-kinetic-chain)|
+|[iftd: image feature triangle descriptor for loop detection in driving scenes](https://arxiv.org/abs/2406.07937)|[iftd](https://github.com/EinsTian1/iftd)|
+|[openobj: open-vocabulary object-level neural radiance fields with fine-grained understanding](https://arxiv.org/abs/2406.08009)|[OpenObj](https://github.com/BIT-DYN/OpenObj)|
+|[residual learning and context encoding for adaptive offline-to-online reinforcement learning](https://arxiv.org/abs/2406.08238)|[relce](https://github.com/mohammadrezanakhaei/relce)|
+## 2024-06-12
+|paper|code|
+|---|---|
+|[disco might not be funky: random intelligent reflective surface configurations that attack](https://arxiv.org/abs/2310.00687)|[disco-intelligent-reflecting-surfaces-active-channel-aging-for-fully-passive-jamming-attacks](https://github.com/huanhuan1799/disco-intelligent-reflecting-surfaces-active-channel-aging-for-fully-passive-jamming-attacks)|
+|[room transfer function reconstruction using complex-valued neural networks and irregularly distributed microphones](https://arxiv.org/abs/2402.04866)|[complex-sound-field](https://github.com/ronfrancesca/complex-sound-field)|
+|[flexloc: conditional neural networks for zero-shot sensor perspective invariance in object localization with distributed multimodal sensors](https://arxiv.org/abs/2406.06796)|[flexloc](https://github.com/nesl/flexloc)|
+|[accelerating ill-conditioned hankel matrix recovery via structured newton-like descent](https://arxiv.org/abs/2406.07409)|[HSNLD](https://github.com/caesarcai/HSNLD)|
+|[open-ended multi-modal relational reasoning for video question answering](https://arxiv.org/abs/2012.00822)|[Video-Question-Answering-HRI](https://github.com/robinzixuan/Video-Question-Answering-HRI)|
+|[optimization-based motion planning for autonomous agricultural vehicles turning in constrained headlands](https://arxiv.org/abs/2308.01117)|[headland_trajectory_planning](https://github.com/agroboticsresearch/headland_trajectory_planning)|
+|[egoplan-bench: benchmarking multimodal large language models for human-level planning](https://arxiv.org/abs/2312.06722)|[egoplan](https://github.com/chenyi99/egoplan)|
+|[language-grounded dynamic scene graphs for interactive object search with mobile manipulation](https://arxiv.org/abs/2403.08605)|[MoMa-LLM](https://github.com/robot-learning-freiburg/MoMa-LLM)|
+|[prism-topomap: online topological mapping with place recognition and scan matching](https://arxiv.org/abs/2404.01674)|[prism-topomap](https://github.com/kirillmouraviev/prism-topomap)|
+|[enquery: ensemble policies for diverse query-generation in preference alignment of robot navigation](https://arxiv.org/abs/2404.04852)|[enquery](https://github.com/hrl-bonn/enquery)|
+|[bench2drive: towards multi-ability benchmarking of closed-loop end-to-end autonomous driving](https://arxiv.org/abs/2406.03877)|[Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive)|
+|[instruct large language models to drive like humans](https://arxiv.org/abs/2406.07296)|[instructdriver](https://github.com/bonbon-rj/instructdriver)|
+|[realistic data generation for 6d pose estimation of surgical instruments](https://arxiv.org/abs/2406.07328)|[realistic-6dof-data-generation](https://github.com/surgical-robotics-ai/realistic-6dof-data-generation)|
+|[improving the realism of robotic surgery simulation through injection of learning-based estimated errors](https://arxiv.org/abs/2406.07375)|[ISMR2024-realistic-simulation-via-error-injection](https://github.com/surgical-robotics-ai/ISMR2024-realistic-simulation-via-error-injection)|
+## 2024-06-11
+|paper|code|
+|---|---|
+|[a unified multi-task semantic communication system for multimodal data](https://arxiv.org/abs/2209.07689)|[t-udeepsc](https://github.com/zhang-guangyi/t-udeepsc)|
+|[dh-ptam: a deep hybrid stereo events-frames parallel tracking and mapping system](https://arxiv.org/abs/2306.01891)|[dh-ptam](https://github.com/abanobsoliman/dh-ptam)|
+|[distributionally robust receive beamforming](https://arxiv.org/abs/2401.12345)|[beamforming](https://github.com/spratm-asleaf/beamforming)|
+|[solving inverse problems with model mismatch using untrained neural networks within model-based architectures](https://arxiv.org/abs/2403.04847)|[a-adaptive-model-based-methods](https://github.com/invprobs/a-adaptive-model-based-methods)|
+|[singing voice graph modeling for singfake detection](https://arxiv.org/abs/2406.03111)|[singgraph](https://github.com/xjchengit/singgraph)|
+|[compressible dynamics in deep overparameterized low-rank learning & adaptation](https://arxiv.org/abs/2406.04112)|[deep-lora-transformers](https://github.com/cjyaras/deep-lora-transformers)|
+|[winner-takes-all learners are geometry-aware conditional density estimators](https://arxiv.org/abs/2406.04706)|[VoronoiWTA](https://github.com/Victorletzelter/VoronoiWTA)|
+|[soundscape captioning using sound affective quality network and large language model](https://arxiv.org/abs/2406.05914)|[soundscaper](https://github.com/yuanbo2020/soundscaper)|
+|[a grasp pose is all you need: learning multi-fingered grasping with deep reinforcement learning from vision and touch](https://arxiv.org/abs/2306.03484)|[rl-icub-dexterous-manipulation](https://github.com/hsp-iit/rl-icub-dexterous-manipulation)|
+|[resprect: speeding-up multi-fingered grasping with residual reinforcement learning](https://arxiv.org/abs/2401.14858)|[rl-icub-dexterous-manipulation](https://github.com/hsp-iit/rl-icub-dexterous-manipulation)|
+|[3d diffusion policy: generalizable visuomotor policy learning via simple 3d representations](https://arxiv.org/abs/2403.03954)|[3D-Diffusion-Policy](https://github.com/YanjieZe/3D-Diffusion-Policy)|
+|[observation denoising in cyrus soccer simulation 2d team for robocup 2024](https://arxiv.org/abs/2406.05623)|[cyrusloganalyzer](https://github.com/cyrus2d/cyrusloganalyzer)|
+|[adapting pretrained vits with convolution injector for visuo-motor control](https://arxiv.org/abs/2406.06072)|[CoIn](https://github.com/dojeon-ai/CoIn)|
+|[multicam-slam: non-overlapping multi-camera slam for indirect visual localization and navigation](https://arxiv.org/abs/2406.06374)|[multi_orb_slam](https://github.com/alterpang/multi_orb_slam)|
 ## 2024-06-07
 |paper|code|
 |---|---|
