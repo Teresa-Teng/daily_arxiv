@@ -1,3 +1,52 @@
+## 2024-06-21
+|paper|code|
+|---|---|
+|[self-supervised learning for human activity recognition using 700,000 person-days of wearable data](https://arxiv.org/abs/2206.02909)|[ssl-wearables](https://github.com/OxWearables/ssl-wearables)|
+|[eeg-dbnet: a dual-branch network for temporal-spectral decoding in motor-imagery brain-computer interfaces](https://arxiv.org/abs/2405.16090)|[eeg-dbnet](https://github.com/xicheng105/eeg-dbnet)|
+|[characterizing input methods for human-to-robot demonstrations](https://arxiv.org/abs/1902.00084)|[HRI2019Tongs](https://github.com/uwgraphics/HRI2019Tongs)|
+|[umirobot: an open-{software, hardware} low-cost robotic manipulator for education](https://arxiv.org/abs/2301.06668)|[umirobot-py](https://github.com/mmmarinho/umirobot-py)|
+|[aligning human intent from imperfect demonstrations with confidence-based inverse soft-q learning](https://arxiv.org/abs/2312.11194)|[CIQL](https://github.com/XizoB/CIQL)|
+|[m2curl: sample-efficient multimodal reinforcement learning via self-supervised representation learning for robotic manipulation](https://arxiv.org/abs/2401.17032)|[M2CURL](https://github.com/ligerfotis/M2CURL)|
+|[learning with 3d rotations, a hitchhiker's guide to so(3)](https://arxiv.org/abs/2404.11735)|[hitchhiking-rotations](https://github.com/martius-lab/hitchhiking-rotations)|
+|[clft: camera-lidar fusion transformer for semantic segmentation in autonomous driving](https://arxiv.org/abs/2404.17793)|[fcn_transformer_object_segmentation](https://github.com/claud1234/fcn_transformer_object_segmentation)|
+|[sim-to-real transfer via 3d feature fields for vision-and-language navigation](https://arxiv.org/abs/2406.09798)|[Sim2Real-VLN-3DFF](https://github.com/MrZihan/Sim2Real-VLN-3DFF)|
+|[abnet: attention barriernet for safe and scalable robot learning](https://arxiv.org/abs/2406.13025)|[ABNet](https://github.com/Weixy21/ABNet)|
+|[imagining in-distribution states: how predictable robot behavior can enable user control over learned policies](https://arxiv.org/abs/2406.13711)|[ioda_roman_2024](https://github.com/aabl-lab/ioda_roman_2024)|
+## 2024-06-19
+|paper|code|
+|---|---|
+|[eeg2rep: enhancing self-supervised eeg representation through informative masked inputs](https://arxiv.org/abs/2402.17772)|[eeg2rep](https://github.com/navidfoumani/eeg2rep)|
+|[interpretable modulated differentiable stft and physics-informed balanced spectrum metric for freight train wheelset bearing cross-machine transfer fault diagnosis under speed fluctuations](https://arxiv.org/abs/2406.11917)|[PyDSN](https://github.com/liguge/PyDSN)|
+|[state-wise constrained policy optimization](https://arxiv.org/abs/2306.12594)|[statewise_constrained_policy_optimization](https://github.com/intelligent-control-lab/statewise_constrained_policy_optimization)|
+|[force push: robust single-point pushing with force feedback](https://arxiv.org/abs/2401.17517)|[force_push](https://github.com/utiasDSL/force_push)|
+|[snn4agents: a framework for developing energy-efficient embodied spiking neural networks for autonomous agents](https://arxiv.org/abs/2404.09331)|[snn4agents](https://github.com/rachmadvwp/snn4agents)|
+|[voxel mamba: group-free state space models for point cloud based 3d object detection](https://arxiv.org/abs/2406.10700)|[voxel-mamba](https://github.com/gwenzhang/voxel-mamba)|
+|[planning using schr\"odinger bridge diffusion models](https://arxiv.org/abs/2406.12458)|[bridge_diffusion_planning](https://github.com/adrshsrvstv/bridge_diffusion_planning)|
+## 2024-06-18
+|paper|code|
+|---|---|
+|[afs-bm: enhancing model performance through adaptive feature selection with binary masking](https://arxiv.org/abs/2401.11250)|[afs_bm-algorithm](https://github.com/yigitturali/afs_bm-algorithm)|
+|[a decoupled approach for composite sparse-plus-smooth penalized optimization](https://arxiv.org/abs/2403.05204)|[compositesps](https://github.com/adriaj/compositesps)|
+|[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
+|[full reference point cloud quality assessment using support vector regression](https://arxiv.org/abs/2406.10520)|[frsvr-pcqa](https://github.com/stac-usc/frsvr-pcqa)|
+|[deep-reinforcement-learning-based aoi-aware resource allocation for ris-aided iov networks](https://arxiv.org/abs/2406.11245)|[ris-rb-aoi-v2x-drl](https://github.com/qiongwu86/ris-rb-aoi-v2x-drl)|
+|[reconfigurable intelligent surface assisted vec based on multi-agent reinforcement learning](https://arxiv.org/abs/2406.11318)|[ris-vec-marl](https://github.com/qiongwu86/ris-vec-marl)|
+|[joint stereo 3d object detection and implicit surface reconstruction](https://arxiv.org/abs/2111.12924)|[s-3d-rcnn](https://github.com/nicholasli1995/s-3d-rcnn)|
+|[examining audio communication mechanisms for supervising fleets of agricultural robots](https://arxiv.org/abs/2208.10455)|[agbot-sim](https://github.com/akamboj2/agbot-sim)|
+|[efficient and consistent bundle adjustment on lidar point clouds](https://arxiv.org/abs/2209.08854)|[BALM](https://github.com/hku-mars/BALM)|
+|[waterscenes: a multi-task 4d radar-camera fusion dataset and benchmarks for autonomous driving on water surfaces](https://arxiv.org/abs/2307.06505)|[waterscenes](https://github.com/waterscenes/waterscenes)|
+|[measurement simplification in \rho-pomdp with performance guarantees](https://arxiv.org/abs/2309.10701)|[measurement-simplification](https://github.com/tomyot/measurement-simplification)|
+|[haim-drl: enhanced human-in-the-loop reinforcement learning for safe and efficient autonomous driving](https://arxiv.org/abs/2401.03160)|[HAIM-DRL](https://github.com/zilin-huang/HAIM-DRL)|
+|[prompt optimization in multi-step tasks (promst): integrating human feedback and heuristic-based sampling](https://arxiv.org/abs/2402.08702)|[promst](https://github.com/yongchao98/promst)|
+|[iklink: end-effector trajectory tracking with minimal reconfigurations](https://arxiv.org/abs/2402.16154)|[iklink](https://github.com/uwgraphics/iklink)|
+|[dmsa -- dense multi scan adjustment for lidar inertial odometry and global optimization](https://arxiv.org/abs/2402.19044)|[dmsa_lidar_slam](https://github.com/davidskdds/dmsa_lidar_slam)|
+|[one-shot imitation learning with invariance matching for robotic manipulation](https://arxiv.org/abs/2405.13178)|[imop](https://github.com/mlzxy/imop)|
+|[autonomous programmable microscopic electronic lablets optimized with digital control](https://arxiv.org/abs/2405.20110)|[lablet_fsm3](https://github.com/js1200/lablet_fsm3)|
+|[constructive safety-critical control: synthesizing control barrier functions for partially feedback linearizable systems](https://arxiv.org/abs/2406.02709)|[reducedordermodelcbfs.jl](https://github.com/maxhcohen/reducedordermodelcbfs.jl)|
+|[search-based versus sampling-based robot motion planning: a comparative study](https://arxiv.org/abs/2406.09623)|[benchmarking_planners](https://github.com/gsotirchos/benchmarking_planners)|
+|[trafficbots v1.5: traffic simulation via conditional vaes and transformers with relative pose encoding](https://arxiv.org/abs/2406.10898)|[trafficbotsv1.5](https://github.com/zhejz/trafficbotsv1.5)|
+|[graspness discovery in clutters for fast and accurate grasp detection](https://arxiv.org/abs/2406.11142)|[anygrasp_sdk](https://github.com/graspnet/anygrasp_sdk)|
+|[an imitative reinforcement learning framework for autonomous dogfight](https://arxiv.org/abs/2406.11562)|[HIRL4UCAV](https://github.com/zrc0622/HIRL4UCAV)|
 ## 2024-06-14
 |paper|code|
 |---|---|
