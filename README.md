@@ -1,3 +1,57 @@
+## 2024-06-28
+|paper|code|
+|---|---|
+|[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
+|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
+|[learning pareto set for multi-objective continuous robot control](https://arxiv.org/abs/2406.18924)|[hyper-morl](https://github.com/hisaolabsustc/hyper-morl)|
+|[robouniview: visual-language model with unified view representation for robotic manipulaiton](https://arxiv.org/abs/2406.18977)|[robouniview](https://github.com/liufanfanlff/robouniview)|
+|[human-aware vision-and-language navigation: bridging simulation to reality with dynamic human interactions](https://arxiv.org/abs/2406.19236)|[ha3d_simulator](https://github.com/lpercc/ha3d_simulator)|
+## 2024-06-27
+|paper|code|
+|---|---|
+|[federated learning compression designed for lightweight communications](https://arxiv.org/abs/2310.14693)|[fl_exps](https://github.com/lgrativol/fl_exps)|
+|[whalenet: a novel deep learning architecture for marine mammals vocalizations on watkins marine mammal sound database](https://arxiv.org/abs/2402.17775)|[whalenet](https://github.com/alelicciardi99/whalenet)|
+|[listening to the noise: blind denoising with gibbs diffusion](https://arxiv.org/abs/2402.19455)|[gibbs-diffusion](https://github.com/rubenohana/gibbs-diffusion)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+|[benchmarking mortality risk prediction from electrocardiograms](https://arxiv.org/abs/2406.17002)|[ecg-survival-benchmark](https://github.com/cavalab/ecg-survival-benchmark)|
+|[emt: a novel transformer for generalized cross-subject eeg emotion recognition](https://arxiv.org/abs/2406.18345)|[emt](https://github.com/yi-ding-cs/emt)|
+|[factor graph-based planning as inference for autonomous vehicle racing](https://arxiv.org/abs/2203.03224)|[pi-racing](https://github.com/ashn-1/pi-racing)|
+|[clara: classifying and disambiguating user commands for reliable interactive robotic agents](https://arxiv.org/abs/2306.10376)|[CLARA-SaGC-Code](https://github.com/jeongeun980906/CLARA-SaGC-Code)|
+|[odin: a single model for 2d and 3d segmentation](https://arxiv.org/abs/2401.02416)|[odin](https://github.com/ayushjain1144/odin)|
+|[human-centered in-building embodied delivery benchmark](https://arxiv.org/abs/2406.17898)|[prs-delivery](https://github.com/prs-organization/prs-delivery)|
+## 2024-06-26
+|paper|code|
+|---|---|
+|[mind's eye: image recognition by eeg via multimodal similarity-keeping contrastive learning](https://arxiv.org/abs/2406.16910)|[MUSE_EEG](https://github.com/ChiShengChen/MUSE_EEG)|
+|[a multi-resolution mutual learning network for multi-label ecg classification](https://arxiv.org/abs/2406.16928)|[mrm](https://github.com/wxhdf/mrm)|
+|[xi-net: transformer based seismic waveform reconstructor](https://arxiv.org/abs/2406.16932)|[waveformreconstructor](https://github.com/anshuman04/waveformreconstructor)|
+|[constructing structured tensor priors for bayesian inverse problems](https://arxiv.org/abs/2406.17597)|[AbTensors](https://github.com/TUDelft-DeTAIL/AbTensors)|
+|[human-robot gym: benchmarking reinforcement learning in human-robot collaboration](https://arxiv.org/abs/2310.06208)|[human-robot-gym](https://github.com/tumcps/human-robot-gym)|
+|[low fidelity visuo-tactile pretraining improves vision-only manipulation performance](https://arxiv.org/abs/2406.15639)|[beadsight](https://github.com/selamie/beadsight)|
+|[reinforcement learning via auxiliary task distillation](https://arxiv.org/abs/2406.17168)|[aux_distill](https://github.com/absdnd/aux_distill)|
+|[real-time remote control via vr over limited wireless connectivity](https://arxiv.org/abs/2406.17420)|[Real-Time_VR_RemoteControl](https://github.com/ICONgroupCWC/Real-Time_VR_RemoteControl)|
+|[mdha: multi-scale deformable transformer with hybrid anchors for multi-view 3d object detection](https://arxiv.org/abs/2406.17654)|[mdha](https://github.com/naomiex/mdha)|
+|[surgemod: translating image-space tissue motions into vision-based surgical forces](https://arxiv.org/abs/2406.17707)|[surgical-video-modal-analysis](https://github.com/mikelitu/surgical-video-modal-analysis)|
+## 2024-06-25
+|paper|code|
+|---|---|
+|[motion-robust free-running volumetric cardiovascular mri](https://arxiv.org/abs/2308.02088)|[motion-robust-CMR](https://github.com/OSU-MR/motion-robust-CMR)|
+|[discrete approximations of gaussian smoothing and gaussian derivatives](https://arxiv.org/abs/2311.11317)|[pyscsp](https://github.com/tonylindeberg/pyscsp)|
+|[markov chain monte carlo multi-scan data association for sets of trajectories](https://arxiv.org/abs/2312.03423)|[batch-tpmbm-using-mcmc-sampling](https://github.com/yuhsuansia/batch-tpmbm-using-mcmc-sampling)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[automatic ai model selection for wireless systems: online learning via digital twinning](https://arxiv.org/abs/2406.15819)|[DT-powered-AMS](https://github.com/qiushuo0913/DT-powered-AMS)|
+|[quantum deep reinforcement learning for robot navigation tasks](https://arxiv.org/abs/2202.12180)|[qdrl-turtlebot-env](https://github.com/dfki-ric-quantum/qdrl-turtlebot-env)|
+|[$d^2$slam: decentralized and distributed collaborative visual-inertial slam system for aerial swarm](https://arxiv.org/abs/2211.01538)|[d2slam](https://github.com/hkust-aerial-robotics/d2slam)|
+|[aligning text-to-image diffusion models with reward backpropagation](https://arxiv.org/abs/2310.03739)|[alignprop](https://github.com/mihirp1998/alignprop)|
+|[sim2real bilevel adaptation for object surface classification using vision-based tactile sensors](https://arxiv.org/abs/2311.01380)|[sim2real-surface-classification](https://github.com/hsp-iit/sim2real-surface-classification)|
+|[human-compatible driving partners through data-regularized self-play reinforcement learning](https://arxiv.org/abs/2403.19648)|[nocturne_lab](https://github.com/emerge-lab/nocturne_lab)|
+|[multicam-slam: non-overlapping multi-camera slam for indirect visual localization and navigation](https://arxiv.org/abs/2406.06374)|[multi_orb_slam](https://github.com/alterpang/multi_orb_slam)|
+|[optimization of trajectories for machine learning training in robot accuracy modeling](https://arxiv.org/abs/2406.15620)|[CalTrajOpt](https://github.com/blake5634/CalTrajOpt)|
+|[observation time difference: an online dynamic objects removal method for ground vehicles](https://arxiv.org/abs/2406.15774)|[OTD](https://github.com/RongguangWu/OTD)|
+|[xbg: end-to-end imitation learning for autonomous behaviour in human-robot interaction and collaboration](https://arxiv.org/abs/2406.15833)|[paper_cardenas_2024_ral_xbg](https://github.com/ami-iit/paper_cardenas_2024_ral_xbg)|
+|[gatsbi: an online gtsp-based algorithm for targeted surface bridge inspection and defect detection](https://arxiv.org/abs/2406.16625)|[gatsbi](https://github.com/raaslab/gatsbi)|
+|[a certifiable algorithm for simultaneous shape estimation and object tracking](https://arxiv.org/abs/2406.16837)|[certifiable_tracking](https://github.com/mit-spark/certifiable_tracking)|
+|[from perfect to noisy world simulation: customizable embodied multi-modal perturbations for slam robustness benchmarking](https://arxiv.org/abs/2406.16850)|[slam-under-perturbation](https://github.com/xiaohao-xu/slam-under-perturbation)|
 ## 2024-06-21
 |paper|code|
 |---|---|
