@@ -1,3 +1,46 @@
+## 2024-07-04
+|paper|code|
+|---|---|
+|[fullsubnet: a full-band and sub-band fusion model for real-time single-channel speech enhancement](https://arxiv.org/abs/2010.15508)|[FullSubNet](https://github.com/haoxiangsnr/FullSubNet)|
+|[robust hole-detection in triangular meshes irrespective of the presence of singular vertices](https://arxiv.org/abs/2311.12466)|[hole-detection-on-triangle-mesh](https://github.com/mauhing/hole-detection-on-triangle-mesh)|
+|[reinforcement learning with elastic time steps](https://arxiv.org/abs/2402.14961)|[tmrl_seac](https://github.com/alpaficia/tmrl_seac)|
+|[llm-a*: large language model enhanced incremental heuristic search on path planning](https://arxiv.org/abs/2407.02511)|[llm-astar](https://github.com/SilinMeng0510/llm-astar)|
+|[position and altitude of the nao camera head from two points on the soccer field plus the gravitational direction](https://arxiv.org/abs/2407.03041)|[landmark_based_slam_dataset](https://github.com/physar/landmark_based_slam_dataset)|
+|[value-penalized auxiliary control from examples for learning without rewards or demonstrations](https://arxiv.org/abs/2407.03311)|[vpace](https://github.com/utiasSTARS/vpace)|
+## 2024-07-03
+|paper|code|
+|---|---|
+|[deep imbalanced regression to estimate vascular age from ppg data: a novel digital biomarker for cardiovascular health](https://arxiv.org/abs/2406.14953)|[Dist-Loss](https://github.com/Ngk03/Dist-Loss)|
+|[tracking object positions in reinforcement learning: a metric for keypoint detection (extended version)](https://arxiv.org/abs/2312.00592)|[sae-rl](https://github.com/data-science-in-mechanical-engineering/sae-rl)|
+|[lhmanip: a dataset for long-horizon language-grounded manipulation tasks in cluttered tabletop environments](https://arxiv.org/abs/2312.12036)|[lhmanip](https://github.com/fedeceola/lhmanip)|
+|[pin-slam: lidar slam using a point-based implicit neural representation for achieving global map consistency](https://arxiv.org/abs/2401.09101)|[pin_slam](https://github.com/prbonn/pin_slam)|
+|[ros-llm: a ros framework for embodied ai with task feedback and structured reasoning](https://arxiv.org/abs/2406.19741)|[hebo](https://github.com/huawei-noah/hebo)|
+|[automated robot recovery from assumption violations of high-level specifications](https://arxiv.org/abs/2407.00562)|[env_repair](https://github.com/MartinMeng008/env_repair)|
+|[seflow: a self-supervised scene flow method in autonomous driving](https://arxiv.org/abs/2407.01702)|[deflow](https://github.com/kth-rpl/deflow)|
+|[empathic grounding: explorations using multimodal interaction and large language models with conversational agents](https://arxiv.org/abs/2407.01824)|[empathic-grounding](https://github.com/arminarj/empathic-grounding)|
+|[referring atomic video action recognition](https://arxiv.org/abs/2407.01872)|[ravar](https://github.com/kpeng9510/ravar)|
+|[occlusion-aware seamless segmentation](https://arxiv.org/abs/2407.02182)|[oass](https://github.com/yihong-97/oass)|
+|[safety-driven deep reinforcement learning framework for cobots: a sim2real approach](https://arxiv.org/abs/2407.02231)|[sim2real-ur-gym-gazebo](https://github.com/ammar-n-abbas/sim2real-ur-gym-gazebo)|
+## 2024-07-02
+|paper|code|
+|---|---|
+|[stimulus-informed generalized canonical correlation analysis for group analysis of neural responses to natural stimuli](https://arxiv.org/abs/2401.17841)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[integrating pre-trained language model with physical layer communications](https://arxiv.org/abs/2402.11656)|[on-device-ai-comm](https://github.com/abman23/on-device-ai-comm)|
+|[srvit: vision transformers for estimating radar reflectivity from satellite observations at scale](https://arxiv.org/abs/2406.16955)|[srvit](https://github.com/stockeh/srvit)|
+|[robust low-cost drone detection and classification in low snr environments](https://arxiv.org/abs/2406.18624)|[noisy-drone-rf-signal-classification-v2](https://github.com/sgluege/noisy-drone-rf-signal-classification-v2)|
+|[outlier-robust geometric perception: a novel thresholding-based estimator with intra-class variance maximization](https://arxiv.org/abs/2204.01324)|[tivm-master](https://github.com/leisun-98/tivm-master)|
+|[shakebot: a low-cost, open-source robotic shake table for earthquake research and education](https://arxiv.org/abs/2212.10763)|[asu_shake_table](https://github.com/dreams-lab/asu_shake_table)|
+|[davis-ag: a synthetic plant dataset for prototyping domain-inspired active vision in agricultural robots](https://arxiv.org/abs/2303.05764)|[davis-ag](https://github.com/ctyeong/davis-ag)|
+|[graph-based slam-aware exploration with prior topo-metric information](https://arxiv.org/abs/2308.16522)|[graph-based_slam-aware_exploration](https://github.com/bairuofei/graph-based_slam-aware_exploration)|
+|[avm-slam: semantic visual slam with multi-sensor fusion in a bird's eye view for automated valet parking](https://arxiv.org/abs/2309.08180)|[avm-slam_dataset](https://github.com/yale-cv/avm-slam_dataset)|
+|[panopticndt: efficient and robust panoptic mapping](https://arxiv.org/abs/2309.13635)|[panoptic-mapping](https://github.com/tui-nicr/panoptic-mapping)|
+|[semanticformer: holistic and semantic traffic scene representation for trajectory prediction using knowledge graphs](https://arxiv.org/abs/2404.19379)|[nuscenes_knowledge_graph](https://github.com/boschresearch/nuscenes_knowledge_graph)|
+|[diving deeper into pedestrian behavior understanding: intention estimation, action prediction, and event risk assessment](https://arxiv.org/abs/2407.00446)|[PIE](https://github.com/aras62/PIE)|
+|[learning granularity-aware affordances from human-object interaction for tool-based functional grasping in dexterous robotics](https://arxiv.org/abs/2407.00614)|[gaaf-dex](https://github.com/yangfan293/gaaf-dex)|
+|[dadee: well-calibrated uncertainty quantification in neural networks for barriers-based robot safety](https://arxiv.org/abs/2407.00616)|[DADEE](https://github.com/Ataei67/DADEE)|
+|[mission planner for uav battery replacement](https://arxiv.org/abs/2407.01084)|[uav-battery-planner](https://github.com/zboucek/uav-battery-planner)|
+|[mars: multimodal active robotic sensing for articulated characterization](https://arxiv.org/abs/2407.01191)|[mars](https://github.com/robhlzeng/mars)|
+|[uav trajectory planning with path processing](https://arxiv.org/abs/2407.01366)|[TrajectoryPathProcess](https://github.com/zboucek/TrajectoryPathProcess)|
 ## 2024-06-28
 |paper|code|
 |---|---|
