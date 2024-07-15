@@ -1,3 +1,71 @@
+## 2024-07-12
+|paper|code|
+|---|---|
+|[subspacenet: deep learning-aided subspace methods for doa estimation](https://arxiv.org/abs/2306.02271)|[subspacenet](https://github.com/shlezingerlab/subspacenet)|
+|[generalizable sleep staging via multi-level domain alignment](https://arxiv.org/abs/2401.05363)|[sleepdg](https://github.com/wjq-learning/sleepdg)|
+|[a fast multitaper power spectrum estimation in nonuniformly sampled time series](https://arxiv.org/abs/2407.01943)|[mtnufft](https://github.com/jiecui/mtnufft)|
+|[joint optimization of age of information and energy consumption in nr-v2x system based on deep reinforcement learning](https://arxiv.org/abs/2407.08458)|[joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl](https://github.com/qiongwu86/joint-optimization-of-aoi-and-energy-consumption-in-nr-v2x-system-based-on-drl)|
+|[a human-in-the-middle attack against object detection systems](https://arxiv.org/abs/2208.07174)|[whitebox-adversarial-toolbox](https://github.com/wuhanstudio/whitebox-adversarial-toolbox)|
+|[difftune: auto-tuning through auto-differentiation](https://arxiv.org/abs/2209.10021)|[difftuneopensource](https://github.com/sheng-cheng/difftuneopensource)|
+|[don't start from scratch: behavioral refinement via interpolant-based policy diffusion](https://arxiv.org/abs/2402.16075)|[bridger](https://github.com/clear-nus/bridger)|
+|[sledge: synthesizing driving environments with generative models and rule-based traffic](https://arxiv.org/abs/2403.17933)|[sledge](https://github.com/autonomousvision/sledge)|
+|[homotopic path set planning for robot manipulation and navigation](https://arxiv.org/abs/2406.02885)|[hpsp](https://github.com/huangjinggithub/hpsp)|
+|[referring atomic video action recognition](https://arxiv.org/abs/2407.01872)|[ravar](https://github.com/kpeng9510/ravar)|
+|[viability of low-cost infrared sensors for short range tracking](https://arxiv.org/abs/2407.08071)|[experimentProgram.py](https://github.com/noah-haeske/research/blob/main/experimentProgram.py)|
+|[improving visual place recognition based robot navigation through verification of localization estimates](https://arxiv.org/abs/2407.08162)|[aarapsiproject](https://github.com/QVPR/aarapsiproject)|
+|[wayvescenes101: a dataset and benchmark for novel view synthesis in autonomous driving](https://arxiv.org/abs/2407.08280)|[wayve_scenes](https://github.com/wayveai/wayve_scenes)|
+|[an economic framework for 6-dof grasp detection](https://arxiv.org/abs/2407.08366)|[economicgrasp](https://github.com/isee-laboratory/economicgrasp)|
+|[hardware neural control of cartpole and f1tenth race car](https://arxiv.org/abs/2407.08681)|[neural-control-tools](https://github.com/sensorsini/neural-control-tools)|
+|[video diffusion alignment via reward gradients](https://arxiv.org/abs/2407.08737)|[vader](https://github.com/mihirp1998/vader)|
+## 2024-07-11
+|paper|code|
+|---|---|
+|[principal component analysis in space forms](https://arxiv.org/abs/2301.02750)|[HoroPCA](https://github.com/HazyResearch/HoroPCA)|
+|[a coding-theoretic analysis of hyperspherical prototypical learning geometry](https://arxiv.org/abs/2407.07664)|[coding_theoretic_hpl](https://github.com/martinlindstrom/coding_theoretic_hpl)|
+|[what's wrong with the absolute trajectory error?](https://arxiv.org/abs/2212.05376)|[dte_dre](https://github.com/sunghoon031/dte_dre)|
+|[hgp-rl: distributed hierarchical gaussian processes for wi-fi-based relative localization in multi-robot systems](https://arxiv.org/abs/2307.10614)|[gprl-multi-robot-localization](https://github.com/herolab-uga/gprl-multi-robot-localization)|
+|[left/right brain, human motor control and the implications for robotics](https://arxiv.org/abs/2401.14057)|[bilateral-motor-control](https://github.com/cerenaut/bilateral-motor-control)|
+|[real-time holistic robot pose estimation with unknown states](https://arxiv.org/abs/2402.05655)|[holistic-robot-pose-estimation](https://github.com/oliverbansk/holistic-robot-pose-estimation)|
+|[ensembling prioritized hybrid policies for multi-agent pathfinding](https://arxiv.org/abs/2403.07559)|[eph-mapf](https://github.com/ai4co/eph-mapf)|
+|[4d contrastive superflows are dense 3d representation learners](https://arxiv.org/abs/2407.06190)|[superflow](https://github.com/xiangxu-0103/superflow)|
+|[hyperion -- a fast, versatile symbolic gaussian belief propagation framework for continuous-time slam](https://arxiv.org/abs/2407.07074)|[hyperion](https://github.com/vis4rob-lab/hyperion)|
+|[generative image as action models](https://arxiv.org/abs/2407.07875)|[genima](https://github.com/MohitShridhar/genima)|
+## 2024-07-10
+|paper|code|
+|---|---|
+|[subject-adaptive transfer learning using resting state eeg signals for cross-subject eeg motor imagery classification](https://arxiv.org/abs/2405.19346)|[miccai2024-restl](https://github.com/sionan/miccai2024-restl)|
+|[mavis: multi-camera augmented visual-inertial slam using se2(3) based exact imu pre-integration](https://arxiv.org/abs/2309.08142)|[ORB_SLAM3_MULTI](https://github.com/1fwang/ORB_SLAM3_MULTI)|
+|[preserving power optimizations across the high level synthesis of distinct application-specific circuits](https://arxiv.org/abs/2401.07726)|[higher-abstraction-hls](https://github.com/paulo-chula/higher-abstraction-hls)|
+|[are large language models aligned with people's social intuitions for human-robot interactions?](https://arxiv.org/abs/2403.05701)|[llms-for-social-robotics](https://github.com/lwachowiak/llms-for-social-robotics)|
+|[carl: congestion-aware reinforcement learning for imitation-based perturbations in mixed traffic control](https://arxiv.org/abs/2404.00796)|[carl](https://github.com/poudel-bibek/carl)|
+|[collision avoidance metric for 3d camera evaluation](https://arxiv.org/abs/2405.09755)|[collision-avoidance-metric](https://github.com/intrinsic-ai/collision-avoidance-metric)|
+|[revisiting sparse rewards for goal-reaching reinforcement learning](https://arxiv.org/abs/2407.00324)|[relod](https://github.com/rlai-lab/relod)|
+|[comparative evaluation of learning models for bionic robots: non-linear transfer function identifications](https://arxiv.org/abs/2407.02428)|[model-free-robotics](https://github.com/poyuhs/model-free-robotics)|
+|[visual-geometry gp-based navigable space for autonomous navigation](https://arxiv.org/abs/2407.06545)|[vg-nav](https://github.com/mahmoud-a-ali/vg-nav)|
+|[accelerating online mapping and behavior prediction via direct bev feature attention](https://arxiv.org/abs/2407.06683)|[MapBEVPrediction](https://github.com/alfredgu001324/MapBEVPrediction)|
+|[fe-gut: factor graph optimization hybrid with extended kalman filter for tightly coupled gnss/uwb integration](https://arxiv.org/abs/2407.06915)|[fe-gut](https://github.com/zhaoqj23/fe-gut)|
+|[robocas: a benchmark for robotic manipulation in complex object arrangement scenarios](https://arxiv.org/abs/2407.06951)|[robocas-v0](https://github.com/notfoundthisperson/robocas-v0)|
+## 2024-07-09
+|paper|code|
+|---|---|
+|[cafnet: a confidence-driven framework for radar camera depth estimation](https://arxiv.org/abs/2407.00697)|[cafnet](https://github.com/harborsarah/cafnet)|
+|[annotation of sleep depth index with scalable deep learning yields novel digital biomarkers for sleep health](https://arxiv.org/abs/2407.04753)|[SDI](https://github.com/sczzz3/SDI)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[ldgcn: an edge-end lightweight dual gcn based on single-channel eeg for driver drowsiness monitoring](https://arxiv.org/abs/2407.05749)|[driver-drowsiness-monitoring](https://github.com/bryantdom/driver-drowsiness-monitoring)|
+|[micp-l: mesh-based icp for robot localization using hardware-accelerated ray casting](https://arxiv.org/abs/2210.13904)|[rmcl](https://github.com/uos/rmcl)|
+|[autonomous drone racing: a survey](https://arxiv.org/abs/2301.01755)|[rpg_quadrotor_control](https://github.com/uzh-rpg/rpg_quadrotor_control)|
+|[chain-of-thought predictive control](https://arxiv.org/abs/2304.00776)|[cotpc](https://github.com/seanjia/cotpc)|
+|[grid cell-inspired fragmentation and recall for efficient map building](https://arxiv.org/abs/2307.05793)|[farmap](https://github.com/fietelab/farmap)|
+|[volumetric semantically consistent 3d panoptic mapping](https://arxiv.org/abs/2309.14737)|[consistentpanopticslam](https://github.com/y9miao/consistentpanopticslam)|
+|[aligning human intent from imperfect demonstrations with confidence-based inverse soft-q learning](https://arxiv.org/abs/2312.11194)|[CIQL](https://github.com/XizoB/CIQL)|
+|[conditional neural expert processes for learning movement primitives from demonstration](https://arxiv.org/abs/2402.08424)|[cnep](https://github.com/yildirimyigit/cnep)|
+|[tac-man: tactile-informed prior-free manipulation of articulated objects](https://arxiv.org/abs/2403.01694)|[Tac-Man-Simulation](https://github.com/YuyangLee/Tac-Man-Simulation)|
+|[offboard occupancy refinement with hybrid propagation for autonomous driving](https://arxiv.org/abs/2403.08504)|[occfiner](https://github.com/masterhow/occfiner)|
+|[diff-control: a stateful diffusion-based policy for imitation learning](https://arxiv.org/abs/2404.12539)|[diff-control](https://github.com/ir-lab/diff-control)|
+|[osn: infinite representations of dynamic 3d scenes from monocular videos](https://arxiv.org/abs/2407.05615)|[osn](https://github.com/vlar-group/osn)|
+|[an earth rover dataset recorded at the icra@40 party](https://arxiv.org/abs/2407.05735)|[vSLAM-on-FrodoBots-2K](https://github.com/SlamMate/vSLAM-on-FrodoBots-2K)|
+|[stranger danger! identifying and avoiding unpredictable pedestrians in rl-based social robot navigation](https://arxiv.org/abs/2407.06056)|[stranger-danger](https://github.com/sarapohland/stranger-danger)|
+|[object-oriented material classification and 3d clustering for improved semantic perception and mapping in mobile robots](https://arxiv.org/abs/2407.06077)|[matsee](https://github.com/herolab-uga/matsee)|
 ## 2024-07-04
 |paper|code|
 |---|---|
