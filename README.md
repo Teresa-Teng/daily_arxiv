@@ -1,3 +1,73 @@
+## 2024-07-19
+|paper|code|
+|---|---|
+|[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
+|[thraws: a novel dataset for thermal hotspots detection in raw sentinel-2 data](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
+|[advanced mathematical modelling for energy-efficient data transmission and fusion in wireless sensor networks](https://arxiv.org/abs/2407.12806)|[bpnn_wsn](https://github.com/hikomal/bpnn_wsn)|
+|[reconfigurable intelligent surface aided vehicular edge computing: joint phase-shift optimization and multi-user power allocation](https://arxiv.org/abs/2407.13123)|[DDPG-RIS-MADDPG-POWER](https://github.com/qiongwu86/DDPG-RIS-MADDPG-POWER)|
+|[an empirical investigation into the time and frequency response characteristics of hopf resonators](https://arxiv.org/abs/2407.13629)|[DetectorBank](https://github.com/keziah55/DetectorBank)|
+|[a coarse-to-fine place recognition approach using attention-guided descriptors and overlap estimation](https://arxiv.org/abs/2303.06881)|[overlapnetvlad](https://github.com/fcchit/overlapnetvlad)|
+|[runtime verification and field-based testing for ros-based robotic systems](https://arxiv.org/abs/2404.11498)|[ros-rvft.github.io](https://github.com/ros-rvft/ros-rvft.github.io)|
+|[chat2scenario: scenario extraction from dataset through utilization of large language model](https://arxiv.org/abs/2404.16147)|[chat2scenario](https://github.com/ftgtugraz/chat2scenario)|
+|[roer: regularized optimal experience replay](https://arxiv.org/abs/2407.03995)|[regularized-optimal-experience-replay](https://github.com/xavierchanglingli/regularized-optimal-experience-replay)|
+|[aligning cyber space with physical world: a comprehensive survey on embodied ai](https://arxiv.org/abs/2407.06886)|[embodied_ai_paper_list](https://github.com/hcplab-sysu/embodied_ai_paper_list)|
+|[learning long-horizon predictions for quadrotor dynamics](https://arxiv.org/abs/2407.12964)|[long-horizon-dynamics](https://github.com/arplaboratory/long-horizon-dynamics)|
+|[ovgnet: a unified visual-linguistic framework for open-vocabulary robotic grasping](https://arxiv.org/abs/2407.13175)|[OVGNet](https://github.com/cv516Buaa/OVGNet)|
+|[a dataset and benchmark for shape completion of fruits for agricultural robotics](https://arxiv.org/abs/2407.13304)|[shape_completion_toolkit](https://github.com/PRBonn/shape_completion_toolkit)|
+## 2024-07-18
+|paper|code|
+|---|---|
+|[luvira dataset validation and discussion: comparing vision, radio, and audio sensors for indoor localization](https://arxiv.org/abs/2309.02961)|[luvira_dataset](https://github.com/ilaydayaman/luvira_dataset)|
+|[diffusion-aided joint source channel coding for high realism wireless image transmission](https://arxiv.org/abs/2404.17736)|[diffjscc](https://github.com/mingyuyng/diffjscc)|
+|[mmvr: millimeter-wave multi-view radar dataset and benchmark for indoor perception](https://arxiv.org/abs/2406.10708)|[12611978](https://zenodo.org/record/12611978)|
+|[schurvins: schur complement-based lightweight visual inertial navigation system](https://arxiv.org/abs/2312.01616)|[schurvins](https://github.com/bytedance/schurvins)|
+|[sim-grasp: learning 6-dof grasp policies for cluttered environments using a synthetic benchmark](https://arxiv.org/abs/2405.00841)|[Sim-Grasp](https://github.com/junchengli1/Sim-Grasp)|
+|[ms-mapping: multi-session lidar mapping with wasserstein-based keyframe selection](https://arxiv.org/abs/2406.02096)|[ms-mapping](https://github.com/jokerjohn/ms-mapping)|
+|[occlusion-aware seamless segmentation](https://arxiv.org/abs/2407.02182)|[oass](https://github.com/yihong-97/oass)|
+|[gv-bench: benchmarking local feature matching for geometric verification of long-term loop closure detection](https://arxiv.org/abs/2407.11736)|[gv-bench](https://github.com/jarvisyjw/gv-bench)|
+|[neusurfemb: a complete pipeline for dense correspondence-based 6d object pose estimation without cad models](https://arxiv.org/abs/2407.12207)|[neusurfemb](https://github.com/ethz-asl/neusurfemb)|
+|[differentiable collision-free parametric corridors](https://arxiv.org/abs/2407.12283)|[corrgen](https://github.com/jonarriza96/corrgen)|
+|[navgpt-2: unleashing navigational reasoning capability for large vision-language models](https://arxiv.org/abs/2407.12366)|[navgpt-2](https://github.com/gengzezhou/navgpt-2)|
+## 2024-07-17
+|paper|code|
+|---|---|
+|[hierarchical state space models for continuous sequence-to-sequence modeling](https://arxiv.org/abs/2402.10211)|[hiss](https://github.com/raunaqbhirangi/hiss)|
+|[joint data inpainting and graph learning via unrolled neural networks](https://arxiv.org/abs/2407.11429)|[Graph-Learning-via-Unrolling](https://github.com/PushkalM11/Graph-Learning-via-Unrolling)|
+|[multi-channel masked autoencoder and comprehensive evaluations for reconstructing 12-lead ecg from arbitrary single-lead ecg](https://arxiv.org/abs/2407.11481)|[mcma](https://github.com/chenjiar3/mcma)|
+|[mavis: multi-camera augmented visual-inertial slam using se2(3) based exact imu pre-integration](https://arxiv.org/abs/2309.08142)|[orb_slam3_multi](https://github.com/mavis-slam/orb_slam3_multi)|
+|[real-time holistic robot pose estimation with unknown states](https://arxiv.org/abs/2402.05655)|[holistic-robot-pose-estimation](https://github.com/oliverbansk/holistic-robot-pose-estimation)|
+|[h3-mapping: quasi-heterogeneous feature grids for real-time dense mapping using hierarchical hybrid representation](https://arxiv.org/abs/2403.10821)|[h3-mapping](https://github.com/sysu-star/h3-mapping)|
+|[dacapo: accelerating continuous learning in autonomous systems for video analytics](https://arxiv.org/abs/2403.14353)|[dacapo](https://github.com/casys-kaist/dacapo)|
+|[a recipe for unbounded data augmentation in visual reinforcement learning](https://arxiv.org/abs/2405.17416)|[dmcgb2](https://github.com/aalmuzairee/dmcgb2)|
+|[omnirace: 6d hand pose estimation for intuitive guidance of racing drone](https://arxiv.org/abs/2407.09841)|[omnirace](https://github.com/servalera/omnirace)|
+|[ikalibr: unified targetless spatiotemporal calibration for resilient integrated inertial systems](https://arxiv.org/abs/2407.11420)|[ikalibr](https://github.com/unsigned-long/ikalibr)|
+|[exciting action: investigating efficient exploration for learning musculoskeletal humanoid locomotion](https://arxiv.org/abs/2407.11658)|[musculoco_learning](https://github.com/henriTUD/musculoco_learning)|
+|[imitation of human motion achieves natural head movements for humanoid robots in an active-speaker detection task](https://arxiv.org/abs/2407.11915)|[humanoids2024hri](https://github.com/dingdingding60/humanoids2024hri)|
+## 2024-07-16
+|paper|code|
+|---|---|
+|[you can wash hands better: accurate daily handwashing assessment with smartwatches](https://arxiv.org/abs/2112.06657)|[uwash](https://github.com/aiotgroup/uwash)|
+|[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
+|[towards task-compatible compressible representations](https://arxiv.org/abs/2405.10244)|[research](https://github.com/adeandrade/research)|
+|[biased backpressure routing using link features and graph neural networks](https://arxiv.org/abs/2407.09753)|[dutybp](https://github.com/zhongyuanzhao/dutybp)|
+|[constrained reinforcement learning using distributional representation for trustworthy quadrotor uav tracking control](https://arxiv.org/abs/2302.11694)|[consdred-smpc](https://github.com/alex-yanranwang/consdred-smpc)|
+|[multi-echo denoising in adverse weather](https://arxiv.org/abs/2305.14008)|[smednet](https://github.com/alvariseppanen/smednet)|
+|[proto-clip: vision-language prototypical network for few-shot learning](https://arxiv.org/abs/2307.03073)|[Proto-CLIP](https://github.com/IRVLUTD/Proto-CLIP)|
+|[robotic manipulation datasets for offline compositional reinforcement learning](https://arxiv.org/abs/2307.07091)|[offline-compositional-rl-datasets](https://github.com/lifelong-ml/offline-compositional-rl-datasets)|
+|[stochastic motion planning as gaussian variational inference: theory and algorithms](https://arxiv.org/abs/2308.14985)|[vimp](https://github.com/hzyu17/vimp)|
+|[pcr-99: a practical method for point cloud registration with 99% outliers](https://arxiv.org/abs/2402.16598)|[pcr-99](https://github.com/sunghoon031/pcr-99)|
+|[adaptive advantage-guided policy regularization for offline reinforcement learning](https://arxiv.org/abs/2405.19909)|[a2pr](https://github.com/ltlhuuu/a2pr)|
+|[auto-multilift: distributed learning and control for cooperative load transportation with quadrotors](https://arxiv.org/abs/2406.04858)|[Auto-Multilift](https://github.com/RCL-NUS/Auto-Multilift)|
+|[vlmpc: vision-language model predictive control for robotic manipulation](https://arxiv.org/abs/2407.09829)|[vlmpc](https://github.com/ppjmchen/vlmpc)|
+|[curriculum is more influential than haptic information during reinforcement learning of object manipulation against gravity](https://arxiv.org/abs/2407.09986)|[in-hand-manipulation](https://github.com/pojaghi/in-hand-manipulation)|
+|[rapid-seg: range-aware pointwise distance distribution networks for 3d lidar segmentation](https://arxiv.org/abs/2407.10159)|[rapid_seg](https://github.com/l1997i/rapid_seg)|
+|[glim: 3d range-inertial localization and mapping with gpu-accelerated scan matching factors](https://arxiv.org/abs/2407.10344)|[glim](https://github.com/koide3/glim)|
+|[learning social cost functions for human-aware path planning](https://arxiv.org/abs/2407.10547)|[socialcostfunction](https://github.com/pic4ser/socialcostfunction)|
+|[risk-aware trajectory prediction by incorporating spatio-temporal traffic interaction analysis](https://arxiv.org/abs/2407.10639)|[risk-aware-trajectory-prediction](https://github.com/cognitive-robots/risk-aware-trajectory-prediction)|
+|[motion-prior contrast maximization for dense continuous-time motion estimation](https://arxiv.org/abs/2407.10802)|[motionpriorcmax](https://github.com/tub-rip/motionpriorcmax)|
+|[a bluerov2-based platform for underwater mapping experiments](https://arxiv.org/abs/2407.10901)|[IFAC-2024](https://github.com/ReteDavid/IFAC-2024)|
+|[grutopia: dream general robots in a city at scale](https://arxiv.org/abs/2407.10943)|[grutopia](https://github.com/openrobotlab/grutopia)|
+|[a unified theory and statistical learning approach for traffic conflict detection](https://arxiv.org/abs/2407.10959)|[UnifiedConflictDetection](https://github.com/Yiru-Jiao/UnifiedConflictDetection)|
 ## 2024-07-12
 |paper|code|
 |---|---|
