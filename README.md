@@ -1,3 +1,72 @@
+## 2024-07-26
+|paper|code|
+|---|---|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
+|[detection of manatee vocalisations using the audio spectrogram transformer](https://arxiv.org/abs/2407.18083)|[manatees](https://github.com/tdewolff/manatees)|
+|[low latency instance segmentation by continuous clustering for lidar sensors](https://arxiv.org/abs/2311.13976)|[continuous_clustering](https://github.com/unibwtas/continuous_clustering)|
+|[pcr-99: a practical method for point cloud registration with 99% outliers](https://arxiv.org/abs/2402.16598)|[pcr-99](https://github.com/sunghoon031/pcr-99)|
+|[bevcar: camera-radar fusion for bev map and object segmentation](https://arxiv.org/abs/2403.11761)|[BEVCar](https://github.com/robot-learning-freiburg/BEVCar)|
+|[equivariant ensembles and regularization for reinforcement learning in map-based path planning](https://arxiv.org/abs/2403.12856)|[uavSim](https://github.com/theilem/uavSim)|
+|[better call sal: towards learning to segment anything in lidar](https://arxiv.org/abs/2403.13129)|[segment-anything-lidar](https://github.com/nv-dvl/segment-anything-lidar)|
+|[sampling-based motion planning with online racing line generation for autonomous driving on three-dimensional race tracks](https://arxiv.org/abs/2403.18643)|[sampling_based_3d_local_planning](https://github.com/tumrt/sampling_based_3d_local_planning)|
+|[a unified theory and statistical learning approach for traffic conflict detection](https://arxiv.org/abs/2407.10959)|[UnifiedConflictDetection](https://github.com/Yiru-Jiao/UnifiedConflictDetection)|
+|[streammos: streaming moving object segmentation with multi-view perception and dual-span memory](https://arxiv.org/abs/2407.17905)|[streammos](https://github.com/neu-real/streammos)|
+## 2024-07-25
+|paper|code|
+|---|---|
+|[lab-scale vibration analysis dataset and baseline methods for machinery fault diagnosis with machine learning](https://arxiv.org/abs/2212.14732)|[vbl-va001](https://github.com/bagustris/vbl-va001)|
+|[toward real-time digital twins of em environments: computational benchmark of ray launching software](https://arxiv.org/abs/2406.05042)|[ray-launching-benchmark](https://github.com/Michele-Zhu/ray-launching-benchmark)|
+|[phenobench -- a large dataset and benchmarks for semantic image interpretation in the agricultural domain](https://arxiv.org/abs/2306.04557)|[phenobench-baselines](https://github.com/prbonn/phenobench-baselines)|
+|[fiptr: a simple yet effective transformer framework for future instance prediction in autonomous driving](https://arxiv.org/abs/2404.12867)|[fiptr](https://github.com/tabguigui/fiptr)|
+|[multi-robot object slam using distributed variational inference](https://arxiv.org/abs/2404.18331)|[distributed_msckf](https://github.com/intrepidchw/distributed_msckf)|
+|[adaptive splitting of reusable temporal monitors for rare traffic violations](https://arxiv.org/abs/2405.15771)|[commonrules](https://github.com/craigiedon/commonrules)|
+|[asynchronous large language model enhanced planner for autonomous driving](https://arxiv.org/abs/2406.14556)|[asyncdriver](https://github.com/memberre/asyncdriver)|
+|[a certifiable algorithm for simultaneous shape estimation and object tracking](https://arxiv.org/abs/2406.16837)|[certifiable_tracking](https://github.com/mit-spark/certifiable_tracking)|
+|[a simulation benchmark for autonomous racing with large-scale human data](https://arxiv.org/abs/2407.16680)|[assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)|
+|[plm-net: perception latency mitigation network for vision-based lateral control of autonomous vehicles](https://arxiv.org/abs/2407.16740)|[oscar](https://github.com/awskhalil/oscar)|
+|[dvpe: divided view position embedding for multi-view 3d object detection](https://arxiv.org/abs/2407.16955)|[dvpe](https://github.com/dop0/dvpe)|
+|[context-aware multi-task learning for pedestrian intent and trajectory prediction](https://arxiv.org/abs/2407.17162)|[ptinet](https://github.com/aalto-mobile-robotics-group/ptinet)|
+|[generation of training data from hd maps in the lanelet2 framework](https://arxiv.org/abs/2407.17409)|[lanelet2](https://github.com/fzi-forschungszentrum-informatik/lanelet2)|
+## 2024-07-24
+|paper|code|
+|---|---|
+|[using explainable ai for eeg-based reduced montage neonatal seizure detection](https://arxiv.org/abs/2406.16908)|[braineocare](https://github.com/dinuka-1999/braineocare)|
+|[channel shaping using beyond diagonal reconfigurable intelligent surface: analysis, optimization, and enhanced flexibility](https://arxiv.org/abs/2407.15196)|[channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface](https://github.com/snowztail/channel-shaping-using-beyond-diagonal-reconfigurable-intelligent-surface)|
+|[dc is all you need: describing relu from a signal processing standpoint](https://arxiv.org/abs/2407.16556)|[relu_dc_is_all_you_need](https://github.com/esl-epfl/relu_dc_is_all_you_need)|
+|[a coarse-to-fine place recognition approach using attention-guided descriptors and overlap estimation](https://arxiv.org/abs/2303.06881)|[overlapnetvlad](https://github.com/fcchit/overlapnetvlad)|
+|[communication-constrained multi-robot exploration with intermittent rendezvous](https://arxiv.org/abs/2309.13494)|[ros-noetic-multi-robot-sandbox](https://github.com/multirobotplayground/ros-noetic-multi-robot-sandbox)|
+|[endogs: deformable endoscopic tissues reconstruction with gaussian splatting](https://arxiv.org/abs/2401.11535)|[endogs](https://github.com/hku-medai/endogs)|
+|[development of compositionality and generalization through interactive learning of language and action of robots](https://arxiv.org/abs/2403.19995)|[fep-based-model-of-embodied-language](https://github.com/oist-cnru/fep-based-model-of-embodied-language)|
+|[enabling stateful behaviors for diffusion-based policy learning](https://arxiv.org/abs/2404.12539)|[diff-control](https://github.com/ir-lab/diff-control)|
+|[diffusion models as optimizers for efficient planning in offline rl](https://arxiv.org/abs/2407.16142)|[trajectorydiffuser](https://github.com/renming-huang/trajectorydiffuser)|
+|[optimizing robotic manipulation with decision-rwkv: a recurrent sequence modeling approach for lifelong learning](https://arxiv.org/abs/2407.16306)|[decisionrwkv](https://github.com/ancorasir/decisionrwkv)|
+|[no-brainer: morphological computation driven adaptive behavior in soft robots](https://arxiv.org/abs/2407.16613)|[no-brainer](https://github.com/mertan-a/no-brainer)|
+## 2024-07-23
+|paper|code|
+|---|---|
+|[learned kernels for sparse, interpretable, and efficient medical time series processing](https://arxiv.org/abs/2307.05385)|[smolk](https://github.com/sullychen/smolk)|
+|[ensemble kalman filtering meets gaussian process ssm for non-mean-field and online inference](https://arxiv.org/abs/2312.05910)|[gpssmproj](https://github.com/zhidilin/gpssmproj)|
+|[dreamer: dual-ris-aided imager in complementary modes](https://arxiv.org/abs/2407.14820)|[dreamer](https://github.com/fuhaiwang/dreamer)|
+|[can all variations within the unified mask-based beamformer framework achieve identical peak extraction performance?](https://arxiv.org/abs/2407.15310)|[unified_framework_for_mask-based_bf](https://github.com/hreshare/unified_framework_for_mask-based_bf)|
+|[the rlign algorithm for enhanced electrocardiogram analysis through r-peak alignment for explainable classification and clustering](https://arxiv.org/abs/2407.15555)|[rlign](https://github.com/imi-ms/rlign)|
+|[s3e: a large-scale multimodal dataset for collaborative slam](https://arxiv.org/abs/2210.13723)|[s3e](https://github.com/pengyu-team/s3e)|
+|[robotic gas source localization with probabilistic mapping and online dispersion simulation](https://arxiv.org/abs/2304.08879)|[GasSourceLocalization](https://github.com/MAPIRlab/GasSourceLocalization)|
+|[neurallabeling: a versatile toolset for labeling vision datasets using neural radiance fields](https://arxiv.org/abs/2309.11966)|[neural-labeling](https://github.com/FlorisE/neural-labeling)|
+|[ppad: iterative interactions of prediction and planning for end-to-end autonomous driving](https://arxiv.org/abs/2311.08100)|[ppad](https://github.com/zlichen/ppad)|
+|[large language models powered context-aware motion prediction](https://arxiv.org/abs/2403.11057)|[llm-augmented-mtr](https://github.com/air-discover/llm-augmented-mtr)|
+|[quasisim: parameterized quasi-physical simulators for dexterous manipulations transfer](https://arxiv.org/abs/2404.07988)|[quasisim](https://github.com/meowuu7/quasisim)|
+|[distributed model predictive control for heterogeneous platoons with affine spacing policies and arbitrary communication topologies](https://arxiv.org/abs/2404.12441)|[dmpc_itsc_2024](https://github.com/river-lab/dmpc_itsc_2024)|
+|[a survey on occupancy perception for autonomous driving: the information fusion perspective](https://arxiv.org/abs/2405.05173)|[3d-occupancy-perception](https://github.com/huaiyuanxu/3d-occupancy-perception)|
+|[llm experiments with simulation: large language model multi-agent system for simulation model parametrization in digital twins](https://arxiv.org/abs/2405.18092)|[llmdrivensimulation](https://github.com/yuchenxia/llmdrivensimulation)|
+|[voxel map to occupancy map conversion using free space projection for efficient map representation for aerial and ground robots](https://arxiv.org/abs/2406.07270)|[map-conversion-3d-voxel-map-to-2d-occupancy-map](https://github.com/ltu-rai/map-conversion-3d-voxel-map-to-2d-occupancy-map)|
+|[aligning cyber space with physical world: a comprehensive survey on embodied ai](https://arxiv.org/abs/2407.06886)|[embodied_ai_paper_list](https://github.com/hcplab-sysu/embodied_ai_paper_list)|
+|[imitation of human motion achieves natural head movements for humanoid robots in an active-speaker detection task](https://arxiv.org/abs/2407.11915)|[humanoids2024hri](https://github.com/dingdingding60/humanoids2024hri)|
+|[robocupgym: a challenging continuous control benchmark in robocup](https://arxiv.org/abs/2407.14516)|[robocupgym](https://github.com/michael-beukman/robocupgym)|
+|[learning high-resolution vector representation from multi-camera images for 3d object detection](https://arxiv.org/abs/2407.15354)|[vectorformer](https://github.com/zlichen/vectorformer)|
+|[exterior penalty policy optimization with penalty metric network under constraints](https://arxiv.org/abs/2407.15537)|[EPOPMN](https://github.com/Ontroad/EPOPMN)|
+|[learning where to look: self-supervised viewpoint selection for active localization using geometrical information](https://arxiv.org/abs/2407.15593)|[learning-where-to-look](https://github.com/rvp-group/learning-where-to-look)|
+|[reinforcement learning meets visual odometry](https://arxiv.org/abs/2407.15626)|[rl_vo](https://github.com/uzh-rpg/rl_vo)|
 ## 2024-07-19
 |paper|code|
 |---|---|
