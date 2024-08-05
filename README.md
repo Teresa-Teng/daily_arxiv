@@ -1,3 +1,56 @@
+## 2024-08-02
+|paper|code|
+|---|---|
+|[localization of brain activity from eeg/meg using mv-pure framework](https://arxiv.org/abs/1809.03930)|[supFunSim](https://github.com/IS-UMK/supFunSim)|
+|[hierarchical state space models for continuous sequence-to-sequence modeling](https://arxiv.org/abs/2402.10211)|[hiss](https://github.com/raunaqbhirangi/hiss)|
+|[krf: keypoint refinement with fusion network for 6d pose estimation](https://arxiv.org/abs/2210.03437)|[krf](https://github.com/zhanhz/krf)|
+|[gnss/multi-sensor fusion using continuous-time factor graph optimization for robust localization](https://arxiv.org/abs/2309.11134)|[gnssfgo](https://github.com/rwth-irt/gnssfgo)|
+|[grasp, see and place: efficient unknown object rearrangement with policy structure prior](https://arxiv.org/abs/2402.15402)|[gsp](https://github.com/xukechun/gsp)|
+|[empowering robot path planning with large language models: osmag map topology & hierarchy comprehension with llms](https://arxiv.org/abs/2403.08228)|[llama-factory](https://github.com/hiyouga/llama-factory)|
+|[caltech aerial rgb-thermal dataset in the wild](https://arxiv.org/abs/2403.08997)|[caltech-aerial-rgbt-dataset](https://github.com/aerorobotics/caltech-aerial-rgbt-dataset)|
+## 2024-08-01
+|paper|code|
+|---|---|
+|[k-deep simplex: deep manifold learning via local dictionaries](https://arxiv.org/abs/2012.02134)|[manifold-learning-with-simplex-constraints](https://github.com/pbt17/manifold-learning-with-simplex-constraints)|
+|[sleepyco: automatic sleep scoring with feature pyramid and contrastive learning](https://arxiv.org/abs/2209.09452)|[sleepyco](https://github.com/gist-ailab/sleepyco)|
+|[stimulus-informed generalized canonical correlation analysis for group analysis of neural responses to natural stimuli](https://arxiv.org/abs/2401.17841)|[si-gcca](https://github.com/alexanderbertrandlab/si-gcca)|
+|[planar friction modelling with lugre dynamics and limit surfaces](https://arxiv.org/abs/2308.01123)|[frictionmodelling](https://github.com/gabrieleenx/frictionmodelling)|
+|[language-grounded dynamic scene graphs for interactive object search with mobile manipulation](https://arxiv.org/abs/2403.08605)|[MoMa-LLM](https://github.com/robot-learning-freiburg/MoMa-LLM)|
+|[csdo: enhancing efficiency and success in large-scale multi-vehicle trajectory planning](https://arxiv.org/abs/2405.20858)|[CSDOTrajectoryPlanning](https://github.com/YangSVM/CSDOTrajectoryPlanning)|
+|[an earth rover dataset recorded at the icra@40 party](https://arxiv.org/abs/2407.05735)|[vSLAM-on-FrodoBots-2K](https://github.com/SlamMate/vSLAM-on-FrodoBots-2K)|
+|[learning stable robot grasping with transformer-based tactile control policies](https://arxiv.org/abs/2407.21172)|[NewStableTactileGrasp](https://github.com/enyen/NewStableTactileGrasp)|
+## 2024-07-31
+|paper|code|
+|---|---|
+|[single-shot quantum signal processing interferometry](https://arxiv.org/abs/2311.13703)|[qsp-interferometry](https://github.com/yuanliu1/qsp-interferometry)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[edge learning based collaborative automatic modulation classification for hierarchical cognitive radio networks](https://arxiv.org/abs/2407.20772)|[CAMC](https://github.com/AI4CogComm/CAMC)|
+|[a reinforcement learning-boosted motion planning framework: comprehensive generalization performance in autonomous driving](https://arxiv.org/abs/2402.01465)|[frenetix-rl](https://github.com/tum-avs/frenetix-rl)|
+|[overcoming blind spots: occlusion considerations for improved autonomous driving safety](https://arxiv.org/abs/2402.01507)|[frenetix-occlusion](https://github.com/tum-avs/frenetix-occlusion)|
+|[vanp: learning where to see for navigation with self-supervised vision-action pre-training](https://arxiv.org/abs/2403.08109)|[vanp](https://github.com/mhnazeri/vanp)|
+|[large language models powered context-aware motion prediction in autonomous driving](https://arxiv.org/abs/2403.11057)|[llm-augmented-mtr](https://github.com/air-discover/llm-augmented-mtr)|
+|[fast-poly: a fast polyhedral framework for 3d multi-object tracking](https://arxiv.org/abs/2403.13443)|[fastpoly](https://github.com/lixiaoyu2000/fastpoly)|
+|[hilti slam challenge 2023: benchmarking single + multi-session slam across sensor constellations in construction](https://arxiv.org/abs/2404.09765)|[hilti-slam-challenge-2023](https://github.com/hilti-research/hilti-slam-challenge-2023)|
+|[salsa: swift adaptive lightweight self-attention for enhanced lidar place recognition](https://arxiv.org/abs/2407.08260)|[salsa](https://github.com/raktimgg/salsa)|
+## 2024-07-30
+|paper|code|
+|---|---|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[convex hulls of reachable sets](https://arxiv.org/abs/2303.17674)|[chreach](https://github.com/stanfordasl/chreach)|
+|[gnfactor: multi-task real robot learning with generalizable neural feature fields](https://arxiv.org/abs/2308.16891)|[GNFactor](https://github.com/YanjieZe/GNFactor)|
+|[a language agent for autonomous driving](https://arxiv.org/abs/2311.10813)|[agent-driver](https://github.com/usc-gvl/agent-driver)|
+|[open-source reinforcement learning environments implemented in mujoco with franka manipulator](https://arxiv.org/abs/2312.13788)|[panda_mujoco_gym](https://github.com/zichunxx/panda_mujoco_gym)|
+|[interactive distance field mapping and planning to enable human-robot collaboration](https://arxiv.org/abs/2403.09988)|[idmp](https://github.com/uts-ri/idmp)|
+|[uncertainty-aware deployment of pre-trained language-conditioned imitation learning policies](https://arxiv.org/abs/2403.18222)|[uncertainty_quant_all](https://github.com/bobwu1998/uncertainty_quant_all)|
+|[aligning cyber space with physical world: a comprehensive survey on embodied ai](https://arxiv.org/abs/2407.06886)|[embodied_ai_paper_list](https://github.com/hcplab-sysu/embodied_ai_paper_list)|
+|[optimization-based outlier accommodation for tightly coupled rtk-aided inertial navigation systems in urban environments](https://arxiv.org/abs/2407.13912)|[UrbanRTK-INS-OutlierOpt](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|
+|[multi-agent trajectory prediction with difficulty-guided feature enhancement network](https://arxiv.org/abs/2407.18551)|[dgfnet](https://github.com/xingp/dgfnet)|
+|[asi-seg: audio-driven surgical instrument segmentation with surgeon intention understanding](https://arxiv.org/abs/2407.19435)|[asi-seg](https://github.com/zonmgin-zhang/asi-seg)|
+|[epd: long-term memory extraction, context-awared planning and multi-iteration decision @ egoplan challenge icml 2024](https://arxiv.org/abs/2407.19510)|[epd](https://github.com/kkskkkskr/epd)|
+|[forecast-peft: parameter-efficient fine-tuning for pre-trained motion forecasting models](https://arxiv.org/abs/2407.19564)|[forecast-peft](https://github.com/csjfwang/forecast-peft)|
+|[collision probability distribution estimation via temporal difference learning](https://arxiv.org/abs/2407.20000)|[collisionpro](https://github.com/unibwtas/collisionpro)|
+|[theia: distilling diverse vision foundation models for robot learning](https://arxiv.org/abs/2407.20179)|[theia](https://github.com/bdaiinstitute/theia)|
+|[radiance fields for robotic teleoperation](https://arxiv.org/abs/2407.20194)|[rf_ros](https://github.com/leggedrobotics/rf_ros)|
 ## 2024-07-26
 |paper|code|
 |---|---|
