@@ -1,3 +1,47 @@
+## 2024-08-09
+|paper|code|
+|---|---|
+|[state representations as incentives for reinforcement learning agents: a sim2real analysis on robotic grasping](https://arxiv.org/abs/2309.11984)|[igae](https://github.com/PetropoulakisPanagiotis/igae)|
+|[mango: a benchmark for evaluating mapping and navigation abilities of large language models](https://arxiv.org/abs/2403.19913)|[mango](https://github.com/oaklight/mango)|
+|[reflectance estimation for proximity sensing by vision-language models: utilizing distributional semantics for low-level cognition in robotics](https://arxiv.org/abs/2404.07717)|[reflectanceestimationbychatgpt](https://github.com/osada-m/reflectanceestimationbychatgpt)|
+|[automatic target-less camera-lidar calibration from motion and deep point correspondences](https://arxiv.org/abs/2404.17298)|[MDPCalib](https://github.com/robot-learning-freiburg/MDPCalib)|
+|[a review of 3d reconstruction techniques for deformable tissues in robotic surgery](https://arxiv.org/abs/2408.04426)|[surgicalnerf](https://github.com/epsilon404/surgicalnerf)|
+## 2024-08-08
+|paper|code|
+|---|---|
+|[exploiting semantic localization in highly dynamic wireless networks using deep homoscedastic domain adaptation](https://arxiv.org/abs/2310.07792)|[semanticloc](https://github.com/leo-chu/semanticloc)|
+|[telco-rag: navigating the challenges of retrieval-augmented language models for telecommunications](https://arxiv.org/abs/2404.15939)|[telco-rag](https://github.com/netop-team/telco-rag)|
+|[unleashing the power of data tsunami: a comprehensive survey on data assessment and selection for instruction tuning of language models](https://arxiv.org/abs/2408.02085)|[fantastic-data-engineering](https://github.com/yuleiqin/fantastic-data-engineering)|
+|[time is not enough: time-frequency based explanation for time-series black-box models](https://arxiv.org/abs/2408.03636)|[time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough)|
+|[drplanner: diagnosis and repair of motion planners for automated vehicles using large language models](https://arxiv.org/abs/2403.07470)|[drplanner](https://github.com/commonroad/drplanner)|
+|[can large language models solve robot routing?](https://arxiv.org/abs/2403.10795)|[LLM_Routing](https://github.com/Zhehui-Huang/LLM_Routing)|
+|[driving animatronic robot facial expression from speech](https://arxiv.org/abs/2403.12670)|[OpenRoboExp](https://github.com/library87/OpenRoboExp)|
+|[deep reinforcement learning with enhanced ppo for safe mobile robot navigation](https://arxiv.org/abs/2405.16266)|[navbot_ppo](https://github.com/hamidthri/navbot_ppo)|
+|[opening the black box of 3d reconstruction error analysis with vector](https://arxiv.org/abs/2408.03503)|[VECTOR](https://github.com/NASA-AMMOS/VECTOR)|
+## 2024-08-07
+|paper|code|
+|---|---|
+|[comparison analysis between standard polysomnographic data and in-ear-eeg signals: a preliminary study](https://arxiv.org/abs/2401.10107)|[in_ear_eeg_vs_psg](https://github.com/gianpaolopalo13/in_ear_eeg_vs_psg)|
+|[towards activated muscle group estimation in the wild](https://arxiv.org/abs/2303.00952)|[musclemap](https://github.com/kpeng9510/musclemap)|
+|[multi-agent 3d map reconstruction and change detection in microgravity with free-flying robots](https://arxiv.org/abs/2311.02558)|[astrobeecd](https://github.com/hollydinkel/astrobeecd)|
+|[echotrack: auditory referring multi-object tracking for autonomous driving](https://arxiv.org/abs/2402.18302)|[echotrack](https://github.com/lab206/echotrack)|
+|[skeleton-based human action recognition with noisy labels](https://arxiv.org/abs/2403.09975)|[noiseerasar](https://github.com/xuyizdby/noiseerasar)|
+|[learning with 3d rotations, a hitchhiker's guide to so(3)](https://arxiv.org/abs/2404.11735)|[hitchhiking-rotations](https://github.com/martius-lab/hitchhiking-rotations)|
+|[mambamos: lidar-based 3d moving object segmentation with motion-aware state space model](https://arxiv.org/abs/2404.12794)|[mambamos](https://github.com/terminal-k/mambamos)|
+|[bodyslam: a generalized monocular visual slam framework for surgical applications](https://arxiv.org/abs/2408.03078)|[BodySLAM](https://github.com/GuidoManni/BodySLAM)|
+## 2024-08-06
+|paper|code|
+|---|---|
+|[sky-gvio: an enhanced gnss/ins/vision navigation with fcn-based sky-segmentation in urban canyon](https://arxiv.org/abs/2404.11070)|[sky-view-images](https://github.com/whuwangjr/sky-view-images)|
+|[efficient reinforcement learning for jumping monopods](https://arxiv.org/abs/2309.07038)|[jump_rl](https://github.com/mfocchi/jump_rl)|
+|[unsupervised change detection for space habitats using 3d point clouds](https://arxiv.org/abs/2312.02396)|[isaac](https://github.com/nasa/isaac)|
+|[frenetix: a high-performance and modular motion planning framework for autonomous driving](https://arxiv.org/abs/2402.01443)|[frenetix-motion-planner](https://github.com/tum-avs/frenetix-motion-planner)|
+|[pcr-99: a practical method for point cloud registration with 99 percent outliers](https://arxiv.org/abs/2402.16598)|[pcr-99](https://github.com/sunghoon031/pcr-99)|
+|[distributionally robust policy and lyapunov-certificate learning](https://arxiv.org/abs/2404.03017)|[DR_Stabilizing_Policy](https://github.com/KehanLong/DR_Stabilizing_Policy)|
+|[log-lio2: a lidar-inertial odometry with efficient uncertainty analysis](https://arxiv.org/abs/2405.01316)|[log-lio2](https://github.com/tiev-tongji/log-lio2)|
+|[pp-til: personalized planning for autonomous driving with instance-based transfer imitation learning](https://arxiv.org/abs/2407.18569)|[pp-til](https://github.com/linfunster/pp-til)|
+|[alignment scores: robust metrics for multiview pose accuracy evaluation](https://arxiv.org/abs/2407.20391)|[AlignmentScores](https://github.com/sunghoon031/AlignmentScores)|
+|[scenemotion: from agent-centric embeddings to scene-wide forecasts](https://arxiv.org/abs/2408.01537)|[future-motion](https://github.com/kit-mrt/future-motion)|
 ## 2024-08-02
 |paper|code|
 |---|---|
