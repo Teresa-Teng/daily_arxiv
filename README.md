@@ -1,3 +1,57 @@
+## 2024-08-16
+|paper|code|
+|---|---|
+|[exact tensor completion powered by slim transforms](https://arxiv.org/abs/2402.03468)|[transformed_tnn](https://github.com/vecevecev/transformed_tnn)|
+|[accelerating high-fidelity waveform generation via adversarial flow matching optimization](https://arxiv.org/abs/2408.08019)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
+|[gsvd-nmf: recovering missing features in non-negative matrix factorization](https://arxiv.org/abs/2408.08260)|[gsvdinitialization.jl](https://github.com/holylab/gsvdinitialization.jl)|
+|[gatekeeper: online safety verification and control for nonlinear systems in dynamic environments](https://arxiv.org/abs/2211.14361)|[gatekeeper](https://github.com/dev10110/gatekeeper)|
+|[safe imitation learning of nonlinear model predictive control for flexible robots](https://arxiv.org/abs/2212.02941)|[flexible_arm](https://github.com/shamilmamedov/flexible_arm)|
+|[lane graph as path: continuity-preserving path-wise modeling for online lane graph construction](https://arxiv.org/abs/2303.08815)|[lanegap](https://github.com/hustvl/lanegap)|
+|[end-to-end autonomous driving: challenges and frontiers](https://arxiv.org/abs/2306.16927)|[end-to-end-autonomous-driving](https://github.com/opendrivelab/end-to-end-autonomous-driving)|
+|[simultaneous task allocation and planning for multi-robots under hierarchical temporal logic specifications](https://arxiv.org/abs/2401.04003)|[Hierarchical-LTL-STAP](https://github.com/XushengLuo92/Hierarchical-LTL-STAP)|
+|[dacapo: accelerating continuous learning in autonomous systems for video analytics](https://arxiv.org/abs/2403.14353)|[dacapo](https://github.com/casys-kaist/dacapo)|
+|[deep learning innovations for underwater waste detection: an in-depth analysis](https://arxiv.org/abs/2405.18299)|[underwater-trash-detection](https://github.com/karanwxliaa/underwater-trash-detection)|
+|[knowledge-based neural ordinary differential equations for cosserat rod-based soft robots](https://arxiv.org/abs/2408.07776)|[KNODE-Cosserat](https://github.com/TomJZ/KNODE-Cosserat)|
+|[goreloc: graph-based object-level relocalization for visual slam](https://arxiv.org/abs/2408.07917)|[goreloc](https://github.com/yutongwangbit/goreloc)|
+## 2024-08-15
+|paper|code|
+|---|---|
+|[self-supervised scalable deep compressed sensing](https://arxiv.org/abs/2308.13777)|[scnet](https://github.com/guaishou74851/scnet)|
+|[virus-nerf -- vision, infrared and ultrasonic based neural radiance fields](https://arxiv.org/abs/2403.09477)|[virus_nerf](https://github.com/ethz-asl/virus_nerf)|
+|[using explainable ai for eeg-based reduced montage neonatal seizure detection](https://arxiv.org/abs/2406.16908)|[braineocare](https://github.com/dinuka-1999/braineocare)|
+|[lipcot: linear predictive coding based tokenizer for self-supervised learning of time series data via language models](https://arxiv.org/abs/2408.07292)|[lipcot](https://github.com/mdfahimanjum/lipcot)|
+|[adaptive basis function selection for computationally efficient predictions](https://arxiv.org/abs/2408.07480)|[adaptive-bf-selection](https://github.com/aokullberg/adaptive-bf-selection)|
+|[periodwave: multi-period flow matching for high-fidelity waveform generation](https://arxiv.org/abs/2408.07547)|[periodwave](https://github.com/sh-lee-prml/periodwave)|
+|[iroco: intuitive robot control from anywhere using a smartwatch](https://arxiv.org/abs/2403.07199)|[arm-pose-estimation](https://github.com/wearable-motion-capture/arm-pose-estimation)|
+|[sigmarl: a sample-efficient and generalizable multi-agent reinforcement learning framework for motion planning](https://arxiv.org/abs/2408.07644)|[sigmarl](https://github.com/cas-lab-munich/sigmarl)|
+## 2024-08-14
+|paper|code|
+|---|---|
+|[eeg-macs: manifold attention and confidence stratification for eeg-based cross-center brain disease diagnosis under unreliable annotations](https://arxiv.org/abs/2405.00734)|[eeg-disease-macs](https://github.com/ici-bci/eeg-disease-macs)|
+|[interpretable pre-trained transformers for heart time-series data](https://arxiv.org/abs/2407.20775)|[heartgpt](https://github.com/harryjdavies/heartgpt)|
+|[continual driving policy optimization with closed-loop individualized curricula](https://arxiv.org/abs/2309.14209)|[CLIC](https://github.com/YizhouXu-THU/CLIC)|
+|[pid optimization using lagrangian mechanics](https://arxiv.org/abs/2310.00016)|[pid](https://github.com/bubblybingbong/pid)|
+|[enhancing visual place recognition via fast and slow adaptive biasing in event cameras](https://arxiv.org/abs/2403.16425)|[fast-slow-biased-event-vpr](https://github.com/gokulbnr/fast-slow-biased-event-vpr)|
+|[stranger danger! identifying and avoiding unpredictable pedestrians in rl-based social robot navigation](https://arxiv.org/abs/2407.06056)|[stranger-danger](https://github.com/sarapohland/stranger-danger)|
+|[unit: unified tactile representation for robot learning](https://arxiv.org/abs/2408.06481)|[UniT](https://github.com/ZhengtongXu/UniT)|
+|[decentralized cooperation in heterogeneous multi-agent reinforcement learning via graph neural network-based intrinsic motivation](https://arxiv.org/abs/2408.06503)|[cohet-implementation](https://github.com/jahirsadik/cohet-implementation)|
+|[mappo-pis: a multi-agent proximal policy optimization method with prior intent sharing for cavs' cooperative decision-making](https://arxiv.org/abs/2408.06656)|[a-mappo-pis](https://github.com/cccc1dhcgd/a-mappo-pis)|
+## 2024-08-13
+|paper|code|
+|---|---|
+|[convolutional proximal neural networks and plug-and-play algorithms](https://arxiv.org/abs/2011.02281)|[Proximal_Neural_Networks](https://github.com/johertrich/Proximal_Neural_Networks)|
+|[localising the seizure onset zone from single-pulse electrical stimulation responses with a cnn transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
+|[time is not enough: time-frequency based explanation for time-series black-box models](https://arxiv.org/abs/2408.03636)|[time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough)|
+|[a robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests](https://arxiv.org/abs/2408.05764)|[rio](https://github.com/ethz-asl/rio)|
+|[toward a surgeon-in-the-loop ophthalmic robotic apprentice using reinforcement and imitation learning](https://arxiv.org/abs/2311.17693)|[cataractadaptsurgrobot](https://github.com/amrgomaaelhady/cataractadaptsurgrobot)|
+|[murp: multi-agent ultra-wideband relative pose estimation with constrained communications in 3d environments](https://arxiv.org/abs/2312.17731)|[murp-datasets](https://github.com/mit-acl/murp-datasets)|
+|[reinforcement learning with elastic time steps](https://arxiv.org/abs/2402.14961)|[tmrl_moseac](https://github.com/alpaficia/tmrl_moseac)|
+|[drplanner: diagnosis and repair of motion planners for automated vehicles using large language models](https://arxiv.org/abs/2403.07470)|[drplanner](https://github.com/commonroad/drplanner)|
+|[learning barrier-certified polynomial dynamical systems for obstacle avoidance with robots](https://arxiv.org/abs/2403.08178)|[abc-ds](https://github.com/martinschonger/abc-ds)|
+|[robust co-design of canonical underactuated systems for increased certifiable stability](https://arxiv.org/abs/2403.10966)|[robust_codesign](https://github.com/dfki-ric-underactuated-lab/robust_codesign)|
+|[towards real-world efficiency: domain randomization in reinforcement learning for pre-capture of free-floating moving targets by autonomous robots](https://arxiv.org/abs/2406.06460)|[Fanuc_Robotiq_Grasp](https://github.com/baha2r/Fanuc_Robotiq_Grasp)|
+|[omobot: a low-cost mobile robot for autonomous search and fall detection](https://arxiv.org/abs/2408.05315)|[omobot_js](https://github.com/shihab28/omobot_js)|
+|[fast and communication-efficient multi-uav exploration via voronoi partition on dynamic topological graph](https://arxiv.org/abs/2408.05808)|[gvp-mrep](https://github.com/nku-mobfly-robotics/gvp-mrep)|
 ## 2024-08-09
 |paper|code|
 |---|---|
