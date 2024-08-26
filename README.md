@@ -1,3 +1,64 @@
+## 2024-08-23
+|paper|code|
+|---|---|
+|[self-supervised learning for clustering of wireless spectrum activity](https://arxiv.org/abs/2210.02899)|[self-supervised-spectrum-sensing](https://github.com/sensorlab/self-supervised-spectrum-sensing)|
+|[pulse shape discrimination based on the tempotron: a powerful classifier on gpu](https://arxiv.org/abs/2305.18205)|[TempotronGPU](https://github.com/HaoranLiu507/TempotronGPU)|
+|[leveraging variational autoencoders for parameterized mmse estimation](https://arxiv.org/abs/2307.05352)|[vae-estimator](https://github.com/tum-msv/vae-estimator)|
+|[real-time event recognition of long-distance distributed vibration sensing with knowledge distillation and hardware acceleration](https://arxiv.org/abs/2408.03647)|[efficient-dvs](https://github.com/hust-iof/efficient-dvs)|
+|[grade: generating realistic and dynamic environments for robotics research with isaac sim](https://arxiv.org/abs/2303.04466)|[GRADE-RR](https://github.com/eliabntt/GRADE-RR)|
+|[pointing the way: refining radar-lidar localization using learned icp weights](https://arxiv.org/abs/2309.08731)|[mm_masking](https://github.com/lisusdaniil/mm_masking)|
+|[manipvqa: injecting robotic affordance and physically grounded information into multi-modal large language models](https://arxiv.org/abs/2403.11289)|[manipvqa](https://github.com/siyuanhuang95/manipvqa)|
+|[streamlts: query-based temporal-spatial lidar fusion for cooperative object detection](https://arxiv.org/abs/2407.03825)|[cosense3d](https://github.com/yuanyunshuang/cosense3d)|
+|[neuflow v2: high-efficiency optical flow estimation on edge devices](https://arxiv.org/abs/2408.10161)|[neuflow_v2](https://github.com/neufieldrobotics/neuflow_v2)|
+|[umad: university of macau anomaly detection benchmark dataset](https://arxiv.org/abs/2408.12527)|[umad](https://github.com/imrl/umad)|
+## 2024-08-22
+|paper|code|
+|---|---|
+|[s4sleep: elucidating the design space of deep-learning-based sleep stage classification models](https://arxiv.org/abs/2310.06715)|[s4sleep](https://github.com/ai4healthuol/s4sleep)|
+|[energy-efficient beamforming for riss-aided communications: gradient based meta learning](https://arxiv.org/abs/2311.06861)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[towards end-to-end gps localization with neural pseudorange correction](https://arxiv.org/abs/2401.10685)|[e2eprnet](https://github.com/ailocar/e2eprnet)|
+|[d$^3$flowslam: self-supervised dynamic slam with flow motion decomposition and dino guidance](https://arxiv.org/abs/2207.08794)|[DeFlowSLAM](https://github.com/zju3dv/DeFlowSLAM)|
+|[learning model predictive control with error dynamics regression for autonomous racing](https://arxiv.org/abs/2309.10716)|[racing-lmpc-ros2](https://github.com/mpc-berkeley/racing-lmpc-ros2)|
+|[comtraq-mpc: meta-trained dqn-mpc integration for trajectory tracking with limited active localization updates](https://arxiv.org/abs/2403.01564)|[ComTraq-MPC](https://github.com/gokulp01/ComTraq-MPC)|
+|[llm3:large language model-based task and motion planning with motion failure reasoning](https://arxiv.org/abs/2403.11552)|[llm-tamp](https://github.com/assassinws/llm-tamp)|
+|[runtime verification and field-based testing for ros-based robotic systems](https://arxiv.org/abs/2404.11498)|[ros-rvft.github.io](https://github.com/ros-rvft/ros-rvft.github.io)|
+|[multi-robot object slam using distributed variational inference](https://arxiv.org/abs/2404.18331)|[distributed_msckf](https://github.com/intrepidchw/distributed_msckf)|
+|[a survey of embodied learning for object-centric robotic manipulation](https://arxiv.org/abs/2408.11537)|[ocrm_survey](https://github.com/rayyoh/ocrm_survey)|
+## 2024-08-21
+|paper|code|
+|---|---|
+|[robust mri reconstruction by smoothed unrolling (smug)](https://arxiv.org/abs/2312.07784)|[smug_journal](https://github.com/sjames40/smug_journal)|
+|[spectrum prediction with deep 3d pyramid vision transformer learning](https://arxiv.org/abs/2408.06870)|[Real-world-Spectrum](https://github.com/pgl1234/Real-world-Spectrum)|
+|[parkinson's disease classification via eeg: all you need is a single convolutional layer](https://arxiv.org/abs/2408.10457)|[LightCNNforPD](https://github.com/MDFahimAnjum/LightCNNforPD)|
+|[s3e: a mulit-robot multimodal dataset for collaborative slam](https://arxiv.org/abs/2210.13723)|[s3e](https://github.com/pengyu-team/s3e)|
+|[enabling the deployment of any-scale robotic applications in microservice architectures through automated containerization](https://arxiv.org/abs/2309.06611)|[dorotos](https://github.com/ika-rwth-aachen/dorotos)|
+|[real-time control of electric autonomous mobility-on-demand systems via graph reinforcement learning](https://arxiv.org/abs/2311.05780)|[graph-rl-for-eamod](https://github.com/stanfordasl/graph-rl-for-eamod)|
+|[learning realistic joint space boundaries for range of motion analysis of healthy and impaired human arms](https://arxiv.org/abs/2311.10653)|[learning-rom](https://github.com/penn-figueroa-lab/learning-rom)|
+|[recursive model-agnostic inverse dynamics of serial soft-rigid robots](https://arxiv.org/abs/2402.07037)|[jelly](https://github.com/piepustina/jelly)|
+|[sthn: deep homography estimation for uav thermal geo-localization with satellite imagery](https://arxiv.org/abs/2405.20470)|[STHN](https://github.com/arplaboratory/STHN)|
+|[loopsplat: loop closure by registering 3d gaussian splats](https://arxiv.org/abs/2408.10154)|[LoopSplat](https://github.com/GradientSpaces/LoopSplat)|
+|[flame: learning to navigate with multimodal llm in urban environments](https://arxiv.org/abs/2408.11051)|[FLAME](https://github.com/xyz9911/FLAME)|
+## 2024-08-20
+|paper|code|
+|---|---|
+|[textless unit-to-unit training for many-to-many multilingual speech-to-speech translation](https://arxiv.org/abs/2308.01831)|[utut](https://github.com/choijeongsoo/utut)|
+|[learning based dynamic cluster reconfiguration for uav mobility management with 3d beamforming](https://arxiv.org/abs/2402.00224)|[icmlcn-2024-dynamic-clustering](https://github.com/irshadmeer/icmlcn-2024-dynamic-clustering)|
+|[sim2real in reconstructive spectroscopy: deep learning with augmented device-informed data simulation](https://arxiv.org/abs/2403.12354)|[rec_spectrometer](https://github.com/j1goblue/rec_spectrometer)|
+|[an observability-constrained magnetic field-aided inertial navigation system -- extended version](https://arxiv.org/abs/2406.02161)|[OC-MAINS-code](https://github.com/Huang-Chuan/OC-MAINS-code)|
+|[an optimal pairwise merge algorithm improves the quality and consistency of nonnegative matrix factorization](https://arxiv.org/abs/2408.09013)|[NMFMerge.jl](https://github.com/HolyLab/NMFMerge.jl)|
+|[gnss/multi-sensor fusion using continuous-time factor graph optimization for robust localization](https://arxiv.org/abs/2309.11134)|[gnssfgo](https://github.com/rwth-irt/gnssfgo)|
+|[coin-lio: complementary intensity-augmented lidar inertial odometry](https://arxiv.org/abs/2310.01235)|[COIN-LIO](https://github.com/ethz-asl/COIN-LIO)|
+|[criteria: a new benchmarking paradigm for evaluating trajectory prediction models for autonomous driving](https://arxiv.org/abs/2310.07794)|[SMARTS](https://github.com/huawei-noah/SMARTS)|
+|[two-step dynamic obstacle avoidance](https://arxiv.org/abs/2311.16841)|[two-step-doa](https://github.com/marwaltz/two-step-doa)|
+|[forzaeth race stack -- scaled autonomous head-to-head racing on fully commercial off-the-shelf hardware](https://arxiv.org/abs/2403.11784)|[race_stack](https://github.com/forzaeth/race_stack)|
+|[exploiting symmetry in dynamics for model-based reinforcement learning with asymmetric rewards](https://arxiv.org/abs/2403.19024)|[symmetry-cs285](https://github.com/yasinsonmez/symmetry-cs285)|
+|[gnss_lib_py: analyzing gnss data with python](https://arxiv.org/abs/2404.08854)|[gnss_lib_py](https://github.com/Stanford-NavLab/gnss_lib_py)|
+|[localization in dynamic planar environments using few distance measurements](https://arxiv.org/abs/2407.03219)|[vb-fdml2-public](https://github.com/tau-cgl/vb-fdml2-public)|
+|[scenemotion: from agent-centric embeddings to scene-wide forecasts](https://arxiv.org/abs/2408.01537)|[future-motion](https://github.com/kit-mrt/future-motion)|
+|[complementarity-free multi-contact modeling and optimization for dexterous manipulation](https://arxiv.org/abs/2408.07855)|[Complementarity-Free-Dexterous-Manipulation](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation)|
+|[hiagent: hierarchical working memory management for solving long-horizon agent tasks with large language model](https://arxiv.org/abs/2408.09559)|[hiagent](https://github.com/hiagent2024/hiagent)|
+|[cusadi: a gpu parallelization framework for symbolic expressions and optimal control](https://arxiv.org/abs/2408.09662)|[cusadi](https://github.com/se-hwan/cusadi)|
+|[multi-agent reinforcement learning for autonomous driving: a survey](https://arxiv.org/abs/2408.09675)|[SMARTS](https://github.com/huawei-noah/SMARTS)|
 ## 2024-08-16
 |paper|code|
 |---|---|
