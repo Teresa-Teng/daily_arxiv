@@ -1,3 +1,72 @@
+## 2024-08-30
+|paper|code|
+|---|---|
+|[massive digital over-the-air computation for communication-efficient federated edge learning](https://arxiv.org/abs/2405.15969)|[md-aircomp](https://github.com/liqiao19/md-aircomp)|
+|[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
+|[flexible framework for generating synthetic electrocardiograms and photoplethysmograms](https://arxiv.org/abs/2408.16291)|[framework_for_synthetic_biosignals](https://github.com/utu-health-research/framework_for_synthetic_biosignals)|
+|[espargos: phase-coherent wifi csi datasets for wireless sensing research](https://arxiv.org/abs/2408.16377)|[espargos-wifi-channelcharting](https://github.com/jeija/espargos-wifi-channelcharting)|
+|[wavtokenizer: an efficient acoustic discrete codec tokenizer for audio language modeling](https://arxiv.org/abs/2408.16532)|[wavtokenizer](https://github.com/jishengpeng/wavtokenizer)|
+|[robomnist: a multimodal dataset for multi-robot activity recognition using wifi sensing, video, and audio](https://arxiv.org/abs/2408.16703)|[robomnist](https://github.com/siamilab/robomnist)|
+|[asynchronous spatial-temporal allocation for trajectory planning of heterogeneous multi-agent systems](https://arxiv.org/abs/2309.07431)|[asap](https://github.com/cydxyyj/asap)|
+|[omnilrs: a photorealistic simulator for lunar robotics](https://arxiv.org/abs/2309.08997)|[lunarsim](https://github.com/antoinerichard/lunarsim)|
+|[open-set 3d semantic instance maps for vision language navigation -- o3d-sim](https://arxiv.org/abs/2404.17922)|[o3d-sim](https://github.com/Smart-Wheelchair-RRC/o3d-sim)|
+|[no regrets: investigating and improving regret approximations for curriculum discovery](https://arxiv.org/abs/2408.15099)|[sampling-for-learnability](https://github.com/amacrutherford/sampling-for-learnability)|
+|[a compact neuromorphic system for ultra energy-efficient, on-device robot localization](https://arxiv.org/abs/2408.16754)|[LENS](https://github.com/AdamDHines/LENS)|
+## 2024-08-29
+|paper|code|
+|---|---|
+|[geometric neural network based on phase space for bci-eeg decoding](https://arxiv.org/abs/2403.05645)|[Phase-SPDNet](https://github.com/carraraig/Phase-SPDNet)|
+|[es-ptam: event-based stereo parallel tracking and mapping](https://arxiv.org/abs/2408.15605)|[es-ptam](https://github.com/tub-rip/es-ptam)|
+|[ltl-transfer: skill transfer for temporal task specification](https://arxiv.org/abs/2206.05096)|[ltl_transfer](https://github.com/jasonxyliu/ltl_transfer)|
+|[a platform-agnostic deep reinforcement learning framework for effective sim2real transfer towards autonomous driving](https://arxiv.org/abs/2304.08235)|[sim2real_autonomous_vehicle](https://github.com/dailyl/sim2real_autonomous_vehicle)|
+|[receding-constraint model predictive control using a learned approximate control-invariant set](https://arxiv.org/abs/2309.11124)|[safe-mpc](https://github.com/idra-lab/safe-mpc)|
+|[scaling learning based policy optimization for temporal logic tasks by controller network dropout](https://arxiv.org/abs/2403.15826)|[STL_dropout](https://github.com/Navidhashemicodes/STL_dropout)|
+|[deepmif: deep monotonic implicit fields for large-scale lidar 3d mapping](https://arxiv.org/abs/2403.17550)|[deepmif](https://github.com/artonson/deepmif)|
+|[viik: flow-based vision inverse kinematics solver with fusing collision checking](https://arxiv.org/abs/2408.11293)|[viik](https://github.com/adamqlmeng/viik)|
+|[fast-livo2: fast, direct lidar-inertial-visual odometry](https://arxiv.org/abs/2408.14035)|[fast-livo2](https://github.com/hku-mars/fast-livo2)|
+|[on the benefits of visual stabilization for frame- and event-based perception](https://arxiv.org/abs/2408.15602)|[visual_stabilization](https://github.com/tub-rip/visual_stabilization)|
+|[teff: tracking-enhanced forgetting-free few-shot 3d lidar semantic segmentation](https://arxiv.org/abs/2408.15657)|[track-no-forgetting](https://github.com/junbao-zhou/track-no-forgetting)|
+|[multi-view pose fusion for occlusion-aware 3d human pose estimation](https://arxiv.org/abs/2408.15810)|[human3.6m-occluded](https://github.com/laurabragagnolo/human3.6m-occluded)|
+|[bim-slam: integrating bim models in multi-session slam for lifelong mapping using 3d lidar](https://arxiv.org/abs/2408.15870)|[SLAM2REF](https://github.com/MigVega/SLAM2REF)|
+|[slam2ref: advancing long-term mapping with 3d lidar and reference map integration for precise 6-dof trajectory estimation and map extension](https://arxiv.org/abs/2408.15948)|[SLAM2REF](https://github.com/MigVega/SLAM2REF)|
+|[in-context imitation learning via next-token prediction](https://arxiv.org/abs/2408.15980)|[icrt](https://github.com/Max-Fu/icrt)|
+|[eagle: exploring the design space for multimodal llms with mixture of encoders](https://arxiv.org/abs/2408.15998)|[eagle](https://github.com/nvlabs/eagle)|
+## 2024-08-28
+|paper|code|
+|---|---|
+|[multi-scale transformer-based network for emotion recognition from multi physiological signals](https://arxiv.org/abs/2305.00769)|[EPiC-2023-ACII](https://github.com/vsl-team/EPiC-2023-ACII)|
+|[graph gospa metric: a metric to measure the discrepancy between graphs of different sizes](https://arxiv.org/abs/2311.07596)|[the-graph-gospa-metric](https://github.com/jinhaogu/the-graph-gospa-metric)|
+|[neural network-based successive interference cancellation for non-linear bandlimited channels](https://arxiv.org/abs/2401.09217)|[nn-mi](https://github.com/dplabst/nn-mi)|
+|[localising the seizure onset zone from single-pulse electrical stimulation responses with a cnn transformer](https://arxiv.org/abs/2403.20324)|[localising_soz_from_spes](https://github.com/norrisjamie23/localising_soz_from_spes)|
+|[capability-based frameworks for industrial robot skills: a survey](https://arxiv.org/abs/2203.00538)|[industrial-skill-review](https://github.com/teiband/industrial-skill-review)|
+|[diagnosis-guided attack recovery for securing robotic vehicles from sensor deception attacks](https://arxiv.org/abs/2209.04554)|[delorean](https://github.com/dependablesystemslab/delorean)|
+|[a comprehensive survey of cross-domain policy transfer for embodied agents](https://arxiv.org/abs/2402.04580)|[awesome-cross-domain-policy-transfer-for-embodied-agents](https://github.com/t6-thu/awesome-cross-domain-policy-transfer-for-embodied-agents)|
+|[structured deep neural networks-based backstepping trajectory tracking control for lagrangian systems](https://arxiv.org/abs/2403.00381)|[neural-backstepping-tracking-controller](https://github.com/jiajqian/neural-backstepping-tracking-controller)|
+|[a hessian for gaussian mixture likelihoods in nonlinear least squares](https://arxiv.org/abs/2404.05452)|[hessian_sum_mixtures](https://github.com/decargroup/hessian_sum_mixtures)|
+|[mappo-pis: a multi-agent proximal policy optimization method with prior intent sharing for cavs' cooperative decision-making](https://arxiv.org/abs/2408.06656)|[a-mappo-pis](https://github.com/cccc1dhcgd/a-mappo-pis)|
+|[narrowing your fov with solid: spatially organized and lightweight global descriptor for fov-constrained lidar place recognition](https://arxiv.org/abs/2408.07330)|[solid](https://github.com/sparolab/solid)|
+|[object augmentation algorithm: computing virtual object motion and object induced interaction wrench from optical markers](https://arxiv.org/abs/2408.07434)|[objectaugmentationalgorithm](https://github.com/christopherherneth/objectaugmentationalgorithm)|
+## 2024-08-27
+|paper|code|
+|---|---|
+|[toward integrated sensing and communications in ieee 802.11bf wi-fi networks](https://arxiv.org/abs/2212.13930)|[sharpax](https://github.com/francescamen/sharpax)|
+|[interpretable and robust ai in eeg systems: a survey](https://arxiv.org/abs/2304.10755)|[survey](https://github.com/xinliangzhou/survey)|
+|[a generalized bandsplit neural network for cinematic audio source separation](https://arxiv.org/abs/2309.02539)|[bandit](https://github.com/karnwatcharasupat/bandit)|
+|[wi-bfi: extracting the ieee 802.11 beamforming feedback information from commercial wi-fi devices](https://arxiv.org/abs/2309.04408)|[wi-bfi](https://github.com/kfoysalhaque/wi-bfi)|
+|[outlier-insensitive kalman filtering: theory and applications](https://arxiv.org/abs/2309.09505)|[oikf-nuv](https://github.com/kalmannet/oikf-nuv)|
+|[topological filtering of a signal over a network](https://arxiv.org/abs/2408.14109)|[topapprox](https://github.com/mvlier/topapprox)|
+|[reduce computational complexity for continuous wavelet transform in acoustic recognition using hop size](https://arxiv.org/abs/2408.14302)|[Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size](https://github.com/phandangthoai/Continuous-Wavelet-Transform-in-Acoustic-Recognition-Using-Hop-Size)|
+|[fusion of visual-inertial odometry with lidar relative localization for cooperative guidance of a micro-scale aerial vehicle](https://arxiv.org/abs/2306.17544)|[coop_uav_dataset](https://github.com/ctu-mrs/coop_uav_dataset)|
+|[lf tracy: a unified single-pipeline approach for salient object detection in light field cameras](https://arxiv.org/abs/2401.16712)|[lf-tracy](https://github.com/feibryantkit/lf-tracy)|
+|[equivariant ensembles and regularization for reinforcement learning in map-based path planning](https://arxiv.org/abs/2403.12856)|[uavSim](https://github.com/theilem/uavSim)|
+|[collision-free trajectory optimization in cluttered environments using sums-of-squares programming](https://arxiv.org/abs/2404.05242)|[minimum_scaling_free_region](https://github.com/lyl00/minimum_scaling_free_region)|
+|[dtclmapper: dual temporal consistent learning for vectorized hd map construction](https://arxiv.org/abs/2405.05518)|[dtclmapper](https://github.com/lynn-yu/dtclmapper)|
+|[aligning cyber space with physical world: a comprehensive survey on embodied ai](https://arxiv.org/abs/2407.06886)|[embodied_ai_paper_list](https://github.com/hcplab-sysu/embodied_ai_paper_list)|
+|[rapid-seg: range-aware pointwise distance distribution networks for 3d lidar segmentation](https://arxiv.org/abs/2407.10159)|[rapid_seg](https://github.com/l1997i/rapid_seg)|
+|[triplemixer: a 3d point cloud denoising model for adverse weather](https://arxiv.org/abs/2408.13802)|[triplemixer](https://github.com/grandzxw/triplemixer)|
+|[re-mix: optimizing data mixtures for large scale imitation learning](https://arxiv.org/abs/2408.14037)|[remix](https://github.com/jhejna/remix)|
+|[functional kinematic and kinetic requirements of the upper limb during activities of daily living: a recommendation on necessary joint capabilities for prosthetic arms](https://arxiv.org/abs/2408.14361)|[supplementary-material-publications](https://github.com/christopherherneth/supplementary-material-publications)|
+|[gr-mg: leveraging partially annotated data via multi-modal goal conditioned policy](https://arxiv.org/abs/2408.14368)|[GR-MG](https://github.com/bytedance/GR-MG)|
 ## 2024-08-23
 |paper|code|
 |---|---|
