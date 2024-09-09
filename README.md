@@ -1,3 +1,59 @@
+## 2024-09-06
+|paper|code|
+|---|---|
+|[transkd: transformer knowledge distillation for efficient semantic segmentation](https://arxiv.org/abs/2202.13393)|[transkd](https://github.com/ruipingl/transkd)|
+|[hierarchical generative adversarial imitation learning with mid-level input generation for autonomous driving on urban environments](https://arxiv.org/abs/2302.04823)|[hgail](https://github.com/gustavokcouto/hgail)|
+|[automatic robot hand-eye calibration enabled by learning-based 3d vision](https://arxiv.org/abs/2311.01335)|[lrbo](https://github.com/leihui6/lrbo)|
+|[vanp: learning where to see for navigation with self-supervised vision-action pre-training](https://arxiv.org/abs/2403.08109)|[vanp](https://github.com/mhnazeri/vanp)|
+|[tightly-coupled lidar-imu-wheel odometry with online calibration of a kinematic model for skid-steering robots](https://arxiv.org/abs/2404.02515)|[full_linear_wheel_odometry_factor](https://github.com/takuokawara/full_linear_wheel_odometry_factor)|
+|[mcds-vss: moving camera dynamic scene video semantic segmentation by filtering with self-supervised geometry and motion](https://arxiv.org/abs/2405.19921)|[MCDS-VSS](https://github.com/angelvillar96/MCDS-VSS)|
+|[beval: a cross-dataset evaluation study of bev segmentation models for autononomous driving](https://arxiv.org/abs/2408.16322)|[beval](https://github.com/manueldiaz96/beval)|
+|[developing, analyzing, and evaluating self-drive algorithms using drive-by-wire electric vehicles](https://arxiv.org/abs/2409.03114)|[REU-2024-Lane-Following](https://github.com/benatfroemming/REU-2024-Lane-Following)|
+|[lexicon3d: probing visual foundation models for complex 3d scene understanding](https://arxiv.org/abs/2409.03757)|[lexicon3d](https://github.com/yunzeman/lexicon3d)|
+## 2024-09-05
+|paper|code|
+|---|---|
+|[variational mode decomposition and linear embeddings are what you need for time-series forecasting](https://arxiv.org/abs/2408.16122)|[vmd-with-ltsf-linear](https://github.com/espalemit/vmd-with-ltsf-linear)|
+|[on the benefits of gpu sample-based stochastic predictive controllers for legged locomotion](https://arxiv.org/abs/2403.11383)|[quadruped-pympc](https://github.com/iit-dlslab/quadruped-pympc)|
+|[can vehicle motion planning generalize to realistic long-tail scenarios?](https://arxiv.org/abs/2404.07569)|[interplan](https://github.com/mh0797/interplan)|
+|[bikc: keypose-conditioned consistency policy for bimanual robotic manipulation](https://arxiv.org/abs/2406.10093)|[bikc](https://github.com/manutdmoon/bikc)|
+|[a unified theory and statistical learning approach for traffic conflict detection](https://arxiv.org/abs/2407.10959)|[UnifiedConflictDetection](https://github.com/Yiru-Jiao/UnifiedConflictDetection)|
+|[ai olympics challenge with evolutionary soft actor critic](https://arxiv.org/abs/2409.01104)|[double_pendulum](https://github.com/AlbertoSinigaglia/double_pendulum)|
+|[yolotag: vision-based robust uav navigation with fiducial markers](https://arxiv.org/abs/2409.02334)|[YoloTag](https://github.com/RedwanNewaz/YoloTag)|
+|[surgtrack: cad-free 3d tracking of real-world surgical instruments](https://arxiv.org/abs/2409.02598)|[surgtrack](https://github.com/wenwucode/surgtrack)|
+## 2024-09-04
+|paper|code|
+|---|---|
+|[opendpd: an open-source end-to-end learning & benchmarking framework for wideband power amplifier modeling and digital pre-distortion](https://arxiv.org/abs/2401.08318)|[opendpd](https://github.com/lab-emi/opendpd)|
+|[interpretation of intracardiac electrograms through textual representations](https://arxiv.org/abs/2402.01115)|[text-egm](https://github.com/willxxy/text-egm)|
+|[buet multi-disease heart sound dataset: a comprehensive auscultation dataset for developing computer-aided diagnostic systems](https://arxiv.org/abs/2409.00724)|[HS-Dataset](https://github.com/sani002/HS-Dataset)|
+|[unsure: unknown noise level stein's unbiased risk estimator](https://arxiv.org/abs/2409.01985)|[unsure](https://github.com/tachella/unsure)|
+|[a solution to the generalized ros hardware io problem -- a generic modbus/tcp device driver for plcs, sensors and actuators](https://arxiv.org/abs/2112.11102)|[ros-modbus-device-driver](https://github.com/bitmeal/ros-modbus-device-driver)|
+|[safe and smooth: certified continuous-time range-only localization](https://arxiv.org/abs/2209.04266)|[safe_and_smooth](https://github.com/utiasasrl/safe_and_smooth)|
+|[s3e: a mulit-robot multimodal dataset for collaborative slam](https://arxiv.org/abs/2210.13723)|[s3e](https://github.com/pengyu-team/s3e)|
+|[aerostack2: a software framework for developing multi-robot aerial systems](https://arxiv.org/abs/2303.18237)|[aerostack2](https://github.com/aerostack2/aerostack2)|
+|[toward globally optimal state estimation using automatically tightened semidefinite relaxations](https://arxiv.org/abs/2308.05783)|[constraint_learning](https://github.com/utiasasrl/constraint_learning)|
+|[peace: prompt engineering automation for clipseg enhancement in aerial robotics](https://arxiv.org/abs/2310.00085)|[PEACE](https://github.com/MISTLab/PEACE)|
+|[oceangpt: a large language model for ocean science tasks](https://arxiv.org/abs/2310.02031)|[knowlm](https://github.com/zjunlp/knowlm)|
+|[aydiv: adaptable yielding 3d object detection via integrated contextual vision transformer](https://arxiv.org/abs/2402.07680)|[aydiv2](https://github.com/sanjay-810/aydiv2)|
+|[globally stable neural imitation policies](https://arxiv.org/abs/2403.04118)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
+|[dtg : diffusion-based trajectory generation for mapless global navigation](https://arxiv.org/abs/2403.09900)|[dtg](https://github.com/jinggm/dtg)|
+|[darkgs: learning neural illumination and 3d gaussians relighting for robotic exploration in the dark](https://arxiv.org/abs/2403.10814)|[neuralight](https://github.com/tyz1030/neuralight)|
+|[agent-agnostic centralized training for decentralized multi-agent cooperative driving](https://arxiv.org/abs/2403.11914)|[maaac-driving](https://github.com/shengchao-y/maaac-driving)|
+|[airpilot: interpretable ppo-based drl auto-tuned nonlinear pid drone controller for robust autonomous flights](https://arxiv.org/abs/2404.00204)|[drlpiddronecontrol](https://github.com/garyz712/drlpiddronecontrol)|
+|[perfecting periodic trajectory tracking: model predictive control with a periodic observer ($\pi$-mpc)](https://arxiv.org/abs/2404.01550)|[pi-mpc](https://github.com/stanfordasl/pi-mpc)|
+|[physord: a neuro-symbolic approach for physics-infused motion prediction in off-road driving](https://arxiv.org/abs/2404.01596)|[physord](https://github.com/sair-lab/physord)|
+|[alabos: a python-based reconfigurable workflow management framework for autonomous laboratories](https://arxiv.org/abs/2405.13930)|[alabos](https://github.com/CederGroupHub/alabos)|
+|[control of unknown quadrotors from a single throw](https://arxiv.org/abs/2406.11723)|[indiflightSupport](https://github.com/tudelft/indiflightSupport)|
+|[surgical-vqla++: adversarial contrastive learning for calibrated robust visual question-localized answering in robotic surgery](https://arxiv.org/abs/2408.04958)|[surgical-vqlaplus](https://github.com/longbai1006/surgical-vqlaplus)|
+|[parallel distributional deep reinforcement learning for mapless navigation of terrestrial mobile robots](https://arxiv.org/abs/2408.05744)|[Parallel-Turtle-DRL](https://github.com/victorkich/Parallel-Turtle-DRL)|
+|[active semantic mapping and pose graph spectral analysis for robot exploration](https://arxiv.org/abs/2408.14726)|[semantic_exploration](https://github.com/BohemianRhapsodyz/semantic_exploration)|
+|[dap: diffusion-based affordance prediction for multi-modality storage](https://arxiv.org/abs/2409.00499)|[dps](https://github.com/changhaonan/dps)|
+|[dslo: deep sequence lidar odometry based on inconsistent spatio-temporal propagation](https://arxiv.org/abs/2409.00744)|[dslo](https://github.com/irmvlab/dslo)|
+|[robust vehicle localization and tracking in rain using street maps](https://arxiv.org/abs/2409.01038)|[map-fusion](https://gitlab.com/marvl/map-fusion)|
+|[online non-linear centroidal mpc with stability guarantees for robust locomotion of legged robots](https://arxiv.org/abs/2409.01144)|[paper_elobaid_2024_stable-centroidal-mpc](https://github.com/ami-iit/paper_elobaid_2024_stable-centroidal-mpc)|
+|[enhancing sample efficiency and exploration in reinforcement learning through the integration of diffusion models and proximal policy optimization](https://arxiv.org/abs/2409.01427)|[diffppo](https://github.com/tiancigao/diffppo)|
+|[pr2: a physics- and photo-realistic testbed for embodied ai and humanoid robots](https://arxiv.org/abs/2409.01559)|[PR2-Platform](https://github.com/pr2-humanoid/PR2-Platform)|
 ## 2024-08-30
 |paper|code|
 |---|---|
