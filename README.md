@@ -1,3 +1,74 @@
+## 2024-09-13
+|paper|code|
+|---|---|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[domain adaptation for doa estimation in multipath channels with interferences](https://arxiv.org/abs/2409.07782)|[domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences](https://github.com/amitaybar/domain-adaptation-for-doa-estimation-in-multipath-channels-with-interferences)|
+|[identification of head impact locations, speeds, and force based on head kinematics](https://arxiv.org/abs/2409.08177)|[impact_retriever](https://github.com/xzhan96-stf/impact_retriever)|
+|[structured deep neural network-based backstepping trajectory tracking control for lagrangian systems](https://arxiv.org/abs/2403.00381)|[neural-backstepping-tracking-controller](https://github.com/jiajqian/neural-backstepping-tracking-controller)|
+|[efficientzero v2: mastering discrete and continuous control with limited data](https://arxiv.org/abs/2403.00564)|[efficientzerov2](https://github.com/shengjiewang-jason/efficientzerov2)|
+|[tightly-coupled lidar-imu-wheel odometry with online calibration of a kinematic model for skid-steering robots](https://arxiv.org/abs/2404.02515)|[full_linear_wheel_odometry_factor](https://github.com/takuokawara/full_linear_wheel_odometry_factor)|
+|[auto-multilift: distributed learning and control for cooperative load transportation with quadrotors](https://arxiv.org/abs/2406.04858)|[Auto-Multilift](https://github.com/RCL-NUS/Auto-Multilift)|
+|[adaptive manipulation using behavior trees](https://arxiv.org/abs/2406.14634)|[manipulation_playground](https://github.com/ori-drs/manipulation_playground)|
+|[robouniview: visual-language model with unified view representation for robotic manipulation](https://arxiv.org/abs/2406.18977)|[robouniview](https://github.com/liufanfanlff/robouniview)|
+|[online state vector reduction during model predictive control with gradient-based trajectory optimisation](https://arxiv.org/abs/2408.11665)|[iLQR_SVR](https://github.com/DMackRus/iLQR_SVR)|
+|[beval: a cross-dataset evaluation study of bev segmentation models for autonomous driving](https://arxiv.org/abs/2408.16322)|[beval](https://github.com/manueldiaz96/beval)|
+|[introducing a class-aware metric for monocular depth estimation: an automotive perspective](https://arxiv.org/abs/2409.04086)|[ca_mmde](https://github.com/leisemann/ca_mmde)|
+|[sis: seam-informed strategy for t-shirt unfolding](https://arxiv.org/abs/2409.06990)|[sis](https://github.com/lancexz/sis)|
+|[unsupervised point cloud registration with self-distillation](https://arxiv.org/abs/2409.07558)|[direg](https://github.com/boschresearch/direg)|
+|[led: light enhanced depth estimation at night](https://arxiv.org/abs/2409.08031)|[led](https://github.com/simondemoreau/led)|
+|[mosquitominer: a light weight rover for detecting and eliminating mosquito breeding sites](https://arxiv.org/abs/2409.08078)|[MosquitoMiner](https://github.com/faiyazabdullah/MosquitoMiner)|
+## 2024-09-12
+|paper|code|
+|---|---|
+|[tinychirp: bird song recognition using tinyml models on low-power wireless acoustic sensors](https://arxiv.org/abs/2407.21453)|[tinychirp](https://github.com/tinypart/tinychirp)|
+|[codeps: online continual learning for depth estimation and panoptic segmentation](https://arxiv.org/abs/2303.10147)|[CoDEPS](https://github.com/robot-learning-freiburg/CoDEPS)|
+|[end-to-end reinforcement learning for torque based variable height hopping](https://arxiv.org/abs/2307.16676)|[hopping_leg](https://github.com/dfki-ric-underactuated-lab/hopping_leg)|
+|[collaborative dynamic 3d scene graphs for automated driving](https://arxiv.org/abs/2309.06635)|[CURB-SG](https://github.com/robot-learning-freiburg/CURB-SG)|
+|[few-shot panoptic segmentation with foundation models](https://arxiv.org/abs/2309.10726)|[SPINO](https://github.com/robot-learning-freiburg/SPINO)|
+|[ikalibr-rgbd: partially-specialized target-free visual-inertial spatiotemporal calibration for rgbds via continuous-time velocity estimation](https://arxiv.org/abs/2409.07116)|[ikalibr](https://github.com/unsigned-long/ikalibr)|
+|[event-based mosaicing bundle adjustment](https://arxiv.org/abs/2409.07365)|[emba](https://github.com/tub-rip/emba)|
+## 2024-09-11
+|paper|code|
+|---|---|
+|[unlocking the use of raw multispectral earth observation imagery for onboard artificial intelligence](https://arxiv.org/abs/2305.11891)|[pyraws](https://github.com/esa-philab/pyraws)|
+|[get-up: geometric-aware depth estimation with radar points upsampling](https://arxiv.org/abs/2409.02720)|[get-up](https://github.com/harborsarah/get-up)|
+|[what's wrong with the absolute trajectory error?](https://arxiv.org/abs/2212.05376)|[dte_dre](https://github.com/sunghoon031/dte_dre)|
+|[efficient visuo-haptic object shape completion for robot manipulation](https://arxiv.org/abs/2303.04700)|[vishac](https://github.com/ctu-vras/vishac)|
+|[system neural diversity: measuring behavioral heterogeneity in multi-agent learning](https://arxiv.org/abs/2305.02128)|[hetgppo](https://github.com/proroklab/hetgppo)|
+|[robust single rotation averaging revisited](https://arxiv.org/abs/2309.05388)|[singlerotationaveraging_tlud](https://github.com/sunghoon031/singlerotationaveraging_tlud)|
+|[fc-planner: a skeleton-guided planning framework for fast aerial coverage of complex 3d scenes](https://arxiv.org/abs/2309.13882)|[fc-planner](https://github.com/hkust-aerial-robotics/fc-planner)|
+|[multimodal active measurement for human mesh recovery in close proximity](https://arxiv.org/abs/2310.08116)|[HMRinCloseProximity](https://github.com/meaten/HMRinCloseProximity)|
+|[lidar-based 4d occupancy completion and forecasting](https://arxiv.org/abs/2310.11239)|[occ4cast](https://github.com/ai4ce/occ4cast)|
+|[pcr-99: a practical method for point cloud registration with 99 percent outliers](https://arxiv.org/abs/2402.16598)|[pcr-99](https://github.com/sunghoon031/pcr-99)|
+|[peernet: an end-to-end profiling tool for real-time networked robotic systems](https://arxiv.org/abs/2409.06078)|[peernet](https://github.com/utaustin-swarmlab/peernet)|
+|[loss distillation via gradient matching for point cloud completion with weighted chamfer distance](https://arxiv.org/abs/2409.06171)|[iros2024-lossdistillationweightedcd](https://github.com/zhang-vislab/iros2024-lossdistillationweightedcd)|
+|[one policy to run them all: an end-to-end learning approach to multi-embodiment locomotion](https://arxiv.org/abs/2409.06366)|[one_policy_to_run_them_all](https://github.com/nico-bohlinger/one_policy_to_run_them_all)|
+|[multi-robot task allocation and path planning with maximum range constraints](https://arxiv.org/abs/2409.06531)|[rangetap](https://github.com/wuuya1/rangetap)|
+## 2024-09-10
+|paper|code|
+|---|---|
+|[doubly-iterative sparsified mmse turbo equalization for otfs modulation](https://arxiv.org/abs/2207.00866)|[dismmse-turbo-equalizer-for-otfs](https://github.com/alga53/dismmse-turbo-equalizer-for-otfs)|
+|[rscnet: dynamic csi compression for cloud-based wifi sensing](https://arxiv.org/abs/2402.04888)|[rscnet](https://github.com/bornabr/rscnet)|
+|[feature characterization for profile surface texture](https://arxiv.org/abs/2406.06381)|[feature-characterization-for-profile-surface-texture](https://github.com/mts-public/feature-characterization-for-profile-surface-texture)|
+|[indicvoices-r: unlocking a massive multilingual multi-speaker speech corpus for scaling indian tts](https://arxiv.org/abs/2409.05356)|[indicvoices-r](https://github.com/ai4bharat/indicvoices-r)|
+|[oafuser: towards omni-aperture fusion for light field semantic segmentation](https://arxiv.org/abs/2307.15588)|[oafuser](https://github.com/feibryantkit/oafuser)|
+|[peace: prompt engineering automation for clipseg enhancement in aerial robotics](https://arxiv.org/abs/2310.00085)|[PEACE](https://github.com/MISTLab/PEACE)|
+|[learning lyapunov-stable polynomial dynamical systems through imitation](https://arxiv.org/abs/2310.20605)|[stable-imitation-policy](https://github.com/aminabyaneh/stable-imitation-policy)|
+|[sim-to-real of soft robots with learned residual physics](https://arxiv.org/abs/2402.01086)|[residual_physics_sim2real](https://github.com/srl-ethz/residual_physics_sim2real)|
+|[letac-mpc: learning model predictive control for tactile-reactive grasping](https://arxiv.org/abs/2403.04934)|[letac-mpc](https://github.com/zhengtongxu/letac-mpc)|
+|[providing safety assurances for systems with unknown dynamics](https://arxiv.org/abs/2403.05771)|[safety_assurances_for_unknown_dynamics](https://github.com/haowwang/safety_assurances_for_unknown_dynamics)|
+|[clft: camera-lidar fusion transformer for semantic segmentation in autonomous driving](https://arxiv.org/abs/2404.17793)|[clft](https://github.com/claud1234/clft)|
+|[jointly learning cost and constraints from demonstrations for safe trajectory generation](https://arxiv.org/abs/2405.03491)|[jointly-learning-cost-and-constraints](https://version.aalto.fi/gitlab/chaubes1/jointly-learning-cost-and-constraints)|
+|[korol: learning visualizable object feature with koopman operator rollout for manipulation](https://arxiv.org/abs/2407.00548)|[korol](https://github.com/hychen-naza/korol)|
+|[efficient imitation without demonstrations via value-penalized auxiliary control from examples](https://arxiv.org/abs/2407.03311)|[vpace](https://github.com/utiasSTARS/vpace)|
+|[green screen augmentation enables scene generalisation in robotic manipulation](https://arxiv.org/abs/2407.07868)|[greenaug](https://github.com/eugeneteoh/greenaug)|
+|[visfly: an efficient and versatile simulator for training vision-based flight](https://arxiv.org/abs/2407.14783)|[visfly](https://github.com/sjtu-visys-team/visfly)|
+|[enhancing sample efficiency and exploration in reinforcement learning through the integration of diffusion models and proximal policy optimization](https://arxiv.org/abs/2409.01427)|[diffppo](https://github.com/tiancigao/diffppo)|
+|[ir2: implicit rendezvous for robotic exploration teams under sparse intermittent connectivity](https://arxiv.org/abs/2409.04730)|[ir2](https://github.com/marmotlab/ir2)|
+|[lerojd: lidar extended radar-only object detection](https://arxiv.org/abs/2409.05564)|[lerojd](https://github.com/rst-tu-dortmund/lerojd)|
+|[interpretable responsibility sharing as a heuristic for task and motion planning](https://arxiv.org/abs/2409.05586)|[irs](https://github.com/asyncs/irs)|
+|[leveraging object priors for point tracking](https://arxiv.org/abs/2409.05786)|[tracking_objectness](https://github.com/rehglab/tracking_objectness)|
+|[robot utility models: general policies for zero-shot deployment in new environments](https://arxiv.org/abs/2409.05865)|[robot-utility-models](https://github.com/haritheja-e/robot-utility-models)|
 ## 2024-09-06
 |paper|code|
 |---|---|
