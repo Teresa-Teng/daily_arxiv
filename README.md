@@ -1,3 +1,73 @@
+## 2024-09-21
+|paper|code|
+|---|---|
+|[reachable polyhedral marching (rpm): an exact analysis tool for deep-learned control systems](https://arxiv.org/abs/2210.08339)|[Neural-Network-Reach](https://github.com/StanfordMSL/Neural-Network-Reach)|
+## 2024-09-20
+|paper|code|
+|---|---|
+|[edmp: ensemble-of-costs-guided diffusion for motion planning](https://arxiv.org/abs/2309.11414)|[EDMP](https://github.com/vishal-2000/EDMP)|
+|[3qfp: efficient neural implicit surface reconstruction using tri-quadtrees and fourier feature positional encoding](https://arxiv.org/abs/2401.07164)|[3qfp](https://github.com/ljjtyjr/3qfp)|
+|[towards over-canopy autonomous navigation: crop-agnostic lidar-based crop-row detection in arable fields](https://arxiv.org/abs/2403.17774)|[LiDAR_CropRowDetection](https://github.com/Kantor-Lab/LiDAR_CropRowDetection)|
+|[task and domain adaptive reinforcement learning for robot control](https://arxiv.org/abs/2404.18713)|[adaptive_agent](https://github.com/robot-perception-group/adaptive_agent)|
+|[roer: regularized optimal experience replay](https://arxiv.org/abs/2407.03995)|[regularized-optimal-experience-replay](https://github.com/xavierchanglingli/regularized-optimal-experience-replay)|
+|[mission planning on autonomous avoidance for spacecraft confronting orbital debris](https://arxiv.org/abs/2409.09959)|[debris-avoidance](https://github.com/chenxingwen/debris-avoidance)|
+|[towards physically-realizable adversarial attacks in embodied vision navigation](https://arxiv.org/abs/2409.10071)|[physical-attacks-in-embodied-navigation](https://github.com/chen37058/physical-attacks-in-embodied-navigation)|
+|[gradient-driven 3d segmentation and affordance transfer in gaussian splatting using 2d masks](https://arxiv.org/abs/2409.11681)|[3dgs-gradient-segmentation](https://github.com/JojiJoseph/3dgs-gradient-segmentation)|
+## 2024-09-19
+|paper|code|
+|---|---|
+|[${\tt morals}$: analysis of high-dimensional robot controllers via topological tools in a latent space](https://arxiv.org/abs/2310.03246)|[morals](https://github.com/ewerton-vieira/morals)|
+|[a generic trajectory planning method for constrained all-wheel-steering robots](https://arxiv.org/abs/2404.09677)|[awsplanning](https://github.com/rex-sys-hk/awsplanning)|
+|[airslam: an efficient and illumination-robust point-line visual slam system](https://arxiv.org/abs/2408.03520)|[AirSLAM](https://github.com/sair-lab/AirSLAM)|
+|[viewactive: active viewpoint optimization from a single image](https://arxiv.org/abs/2409.09997)|[viewactive](https://github.com/jiayi-wu-umd/viewactive)|
+|[annealed winner-takes-all for motion forecasting](https://arxiv.org/abs/2409.11172)|[mf_awta](https://github.com/valeoai/mf_awta)|
+|[secure control systems for autonomous quadrotors against cyber-attacks](https://arxiv.org/abs/2409.11897)|[babee](https://github.com/samysam0/babee)|
+|[handling long-term safety and uncertainty in safe reinforcement learning](https://arxiv.org/abs/2409.12045)|[d-atacom](https://github.com/cube1324/d-atacom)|
+## 2024-09-18
+|paper|code|
+|---|---|
+|[a time-causal and time-recursive analogue of the gabor transform](https://arxiv.org/abs/2308.14512)|[pygabor](https://github.com/tonylindeberg/pygabor)|
+|[3d-speaker-toolkit: an open-source toolkit for multimodal speaker verification and diarization](https://arxiv.org/abs/2403.19971)|[3D-Speaker](https://github.com/alibaba-damo-academy/3D-Speaker)|
+|[laugh now cry later: controlling time-varying emotional states of flow-matching-based zero-shot text-to-speech](https://arxiv.org/abs/2407.12229)|[emoctrltts-eval](https://github.com/hbwu-ntu/emoctrltts-eval)|
+|[seadronesim: simulation of aerial images for detection of objects above water](https://arxiv.org/abs/2210.16107)|[seadronesim](https://github.com/prgumd/seadronesim)|
+|[end-to-end reinforcement learning for torque based variable height hopping](https://arxiv.org/abs/2307.16676)|[hopping_leg](https://github.com/dfki-ric-underactuated-lab/hopping_leg)|
+|[detecting and mitigating system-level anomalies of vision-based controllers](https://arxiv.org/abs/2309.13475)|[visual_failure_mitigation](https://github.com/phoenixrider12/visual_failure_mitigation)|
+|[seflow: a self-supervised scene flow method in autonomous driving](https://arxiv.org/abs/2407.01702)|[seflow](https://github.com/kth-rpl/seflow)|
+|[navi2gaze: leveraging foundation models for navigation and target gazing](https://arxiv.org/abs/2407.09053)|[Navi2Gaze](https://github.com/zhujun3753/Navi2Gaze)|
+|[a dataset and benchmark for shape completion of fruits for agricultural robotics](https://arxiv.org/abs/2407.13304)|[shape_completion_toolkit](https://github.com/PRBonn/shape_completion_toolkit)|
+|[trustworthy conceptual explanations for neural networks in robot decision-making](https://arxiv.org/abs/2409.10733)|[batcave](https://github.com/aditya-taparia/batcave)|
+|[evaluating and improving the robustness of lidar-based localization and mapping](https://arxiv.org/abs/2409.10824)|[LiDARLocRobustness](https://github.com/boyang9602/LiDARLocRobustness)|
+|[uloc: learning to localize in complex large-scale environments with ultra-wideband ranges](https://arxiv.org/abs/2409.11122)|[uloc](https://github.com/brytsknguyen/uloc)|
+## 2024-09-17
+|paper|code|
+|---|---|
+|[interpretable ecg analysis for myocardial infarction detection through counterfactuals](https://arxiv.org/abs/2312.08304)|[vcce](https://github.com/tanyelai/vcce)|
+|[csi-gpt: integrating generative pre-trained transformer with federated-tuning to acquire downlink massive mimo channels](https://arxiv.org/abs/2406.03438)|[csi-gpt](https://github.com/bit-zy/csi-gpt)|
+|[train-on-request: an on-device continual learning workflow for adaptive real-world brain machine interfaces](https://arxiv.org/abs/2409.09161)|[bmi-odcl](https://github.com/pulp-bio/bmi-odcl)|
+|[hyperedge representations with hypergraph wavelets: applications to spatial transcriptomics](https://arxiv.org/abs/2409.09469)|[hypergraph-wavelets](https://github.com/KrishnaswamyLab/hypergraph-wavelets)|
+|[pckrf: point cloud completion and keypoint refinement with fusion data for 6d pose estimation](https://arxiv.org/abs/2210.03437)|[krf](https://github.com/zhanhz/krf)|
+|[chatsim: underwater simulation with natural language prompting](https://arxiv.org/abs/2308.04029)|[prg-underwater-simulation](https://github.com/apalkk/prg-underwater-simulation)|
+|[whale detection enhancement through synthetic satellite images](https://arxiv.org/abs/2308.07766)|[seadronesim2](https://github.com/prgumd/seadronesim2)|
+|[cobev: elevating roadside 3d object detection with depth and height complementarity](https://arxiv.org/abs/2310.02815)|[CoBEV](https://github.com/MasterHow/CoBEV)|
+|[drift: deep reinforcement learning for intelligent floating platforms trajectories](https://arxiv.org/abs/2310.04266)|[rans](https://github.com/elharirymatteo/rans)|
+|[multi-agent 3d map reconstruction and change detection in microgravity with free-flying robots](https://arxiv.org/abs/2311.02558)|[astrobeecd](https://github.com/hollydinkel/astrobeecd)|
+|[racemop: mapless online path planning for multi-agent autonomous racing using residual policy learning](https://arxiv.org/abs/2403.07129)|[racemop](https://github.com/raphajaner/racemop)|
+|[exploiting priors from 3d diffusion models for rgb-based one-shot view planning](https://arxiv.org/abs/2403.16803)|[dm-osvp](https://github.com/psc0628/dm-osvp)|
+|[a survey on occupancy perception for autonomous driving: the information fusion perspective](https://arxiv.org/abs/2405.05173)|[3d-occupancy-perception](https://github.com/huaiyuanxu/3d-occupancy-perception)|
+|[ngd-slam: towards real-time dynamic slam without gpu](https://arxiv.org/abs/2405.07392)|[NGD-SLAM](https://github.com/yuhaozhang7/NGD-SLAM)|
+|[differentiable discrete elastic rods for real-time modeling of deformable linear objects](https://arxiv.org/abs/2406.05931)|[DEFORM](https://github.com/roahmlab/DEFORM)|
+|[shelf-supervised cross-modal pre-training for 3d object detection](https://arxiv.org/abs/2406.10115)|[cm3d](https://github.com/meharkhurana03/cm3d)|
+|[verification and synthesis of compatible control lyapunov and control barrier functions](https://arxiv.org/abs/2406.18914)|[compatible_clf_cbf](https://github.com/hongkai-dai/compatible_clf_cbf)|
+|[rapid-seg: range-aware pointwise distance distribution networks for 3d lidar segmentation](https://arxiv.org/abs/2407.10159)|[rapid_seg](https://github.com/l1997i/rapid_seg)|
+|[enhancing sample efficiency and exploration in reinforcement learning through the integration of diffusion models and proximal policy optimization](https://arxiv.org/abs/2409.01427)|[diffppo](https://github.com/tiancigao/diffppo)|
+|[periguru: a peripheral robotic mobile app operation assistant based on gui image understanding and prompting with llm](https://arxiv.org/abs/2409.09354)|[periguru](https://github.com/z2sj4t/periguru)|
+|[a robust probability-based joint registration method of multiple point clouds considering local consistency](https://arxiv.org/abs/2409.09682)|[jprlc_registration](https://github.com/sulingjie/jprlc_registration)|
+|[towards single-lens controllable depth-of-field imaging via all-in-focus aberration correction and monocular depth estimation](https://arxiv.org/abs/2409.09754)|[dcdi](https://github.com/xiaolongqian/dcdi)|
+|[rpc: a modular framework for robot planning, control, and deployment](https://arxiv.org/abs/2409.10015)|[rpc](https://github.com/shbang91/rpc)|
+|[liloc: lifelong localization using adaptive submap joining and egocentric factor graph](https://arxiv.org/abs/2409.10172)|[liloc](https://github.com/yixin-f/liloc)|
+|[beings: bayesian embodied image-goal navigation with gaussian splatting](https://arxiv.org/abs/2409.10216)|[BEINGS](https://github.com/guaMass/BEINGS)|
+|[seal: towards safe autonomous driving via skill-enabled adversary learning for closed-loop scenario generation](https://arxiv.org/abs/2409.10320)|[seal](https://github.com/cmubig/seal)|
+|[radar teach and repeat: architecture and initial field testing](https://arxiv.org/abs/2409.10491)|[vtr3](https://github.com/utiasasrl/vtr3)|
 ## 2024-09-13
 |paper|code|
 |---|---|
