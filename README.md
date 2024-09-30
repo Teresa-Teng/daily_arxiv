@@ -1,3 +1,70 @@
+## 2024-09-27
+|paper|code|
+|---|---|
+|[exploring event-based human pose estimation with 3d event representations](https://arxiv.org/abs/2311.04591)|[eventpointpose](https://github.com/masterhow/eventpointpose)|
+|[lingoqa: visual question answering for autonomous driving](https://arxiv.org/abs/2312.14115)|[lingoqa](https://github.com/wayveai/lingoqa)|
+|[sliceit! -- a dual simulator framework for learning robot food slicing](https://arxiv.org/abs/2404.02569)|[sliceit](https://github.com/omron-sinicx/sliceit)|
+|[omnicolor: a global camera pose optimization approach of lidar-360camera fusion for colorizing point clouds](https://arxiv.org/abs/2404.04693)|[omnicolor](https://github.com/liubonan123/omnicolor)|
+|[anovox: a benchmark for multimodal anomaly detection in autonomous driving](https://arxiv.org/abs/2405.07865)|[anovox](https://github.com/fzi-forschungszentrum-informatik/anovox)|
+|[valeo4cast: a modular approach to end-to-end forecasting](https://arxiv.org/abs/2406.08113)|[valeo4cast](https://github.com/valeoai/valeo4cast)|
+|[leveraging locality to boost sample efficiency in robotic manipulation](https://arxiv.org/abs/2406.10615)|[sgr](https://github.com/TongZhangTHU/sgr)|
+|[learning variable compliance control from a few demonstrations for bimanual robot with haptic feedback teleoperation system](https://arxiv.org/abs/2406.14990)|[compact](https://github.com/omron-sinicx/compact)|
+|[2024 bravo challenge track 1 1st place report: evaluating robustness of vision foundation models for semantic segmentation](https://arxiv.org/abs/2409.17208)|[benchmark-vfm-ss](https://github.com/tue-mps/benchmark-vfm-ss)|
+|[control industrial automation system with large language models](https://arxiv.org/abs/2409.18009)|[llm4ias](https://github.com/yuchenxia/llm4ias)|
+|[revisit anything: visual place recognition via image segment retrieval](https://arxiv.org/abs/2409.18049)|[revisit-anything](https://github.com/anyloc/revisit-anything)|
+## 2024-09-26
+|paper|code|
+|---|---|
+|[optimal vintage factor analysis with deflation varimax](https://arxiv.org/abs/2310.10545)|[optimal_deflation_varimax](https://github.com/jindiande/optimal_deflation_varimax)|
+|[visual decoding and reconstruction via eeg embeddings with guided diffusion](https://arxiv.org/abs/2403.07721)|[eeg_image_decode](https://github.com/dongyangli-del/eeg_image_decode)|
+|[event-free moving object segmentation from moving ego vehicle](https://arxiv.org/abs/2305.00126)|[dsec-mos](https://github.com/zzy-zhou/dsec-mos)|
+|[the robodepth challenge: methods and advancements towards robust depth estimation](https://arxiv.org/abs/2307.15061)|[robodepth](https://github.com/ldkong1205/robodepth)|
+|[an explicit construction of kaleidocycles by elliptic theta functions](https://arxiv.org/abs/2308.04977)|[Kaleidocycle](https://github.com/shizuo-kaji/Kaleidocycle)|
+|[ef-calib: spatiotemporal calibration of event- and frame-based cameras using continuous-time trajectories](https://arxiv.org/abs/2405.17278)|[ef-calib](https://github.com/wsakobe/ef-calib)|
+|[learning object compliance via young's modulus from single grasps with camera-based tactile sensors](https://arxiv.org/abs/2406.15304)|[TactileEstimateModulus](https://github.com/GelSight-lab/TactileEstimateModulus)|
+|[knowledge-based neural ordinary differential equations for cosserat rod-based soft robots](https://arxiv.org/abs/2408.07776)|[knode-cosserat](https://github.com/hsiehscalar/knode-cosserat)|
+|[dronewis: automated simulation testing of small unmanned aerial systems in realistic windy conditions](https://arxiv.org/abs/2408.16559)|[drv_public](https://github.com/uavlab-slu/drv_public)|
+|[precision aquaculture: an integrated computer vision and iot approach for optimized tilapia feeding](https://arxiv.org/abs/2409.08695)|[fish-counting](https://github.com/ahmedheakl/fish-counting)|
+|[coherent: collaboration of heterogeneous multi-robot system with large language models](https://arxiv.org/abs/2409.15146)|[coherent](https://github.com/mrkeee/coherent)|
+|[gsplatloc: grounding keypoint descriptors into 3d gaussian splatting for improved visual localization](https://arxiv.org/abs/2409.16502)|[gsplatloc](https://github.com/haksorus/gsplatloc)|
+|[vision-language model fine-tuning via simple parameter-efficient modification](https://arxiv.org/abs/2409.16718)|[clipfit](https://github.com/minglllli/clipfit)|
+|[multi-robot informative path planning for efficient target mapping using deep reinforcement learning](https://arxiv.org/abs/2409.16967)|[marl_ipp](https://github.com/accgen99/marl_ipp)|
+|[wastegan: data augmentation for robotic waste sorting through generative adversarial networks](https://arxiv.org/abs/2409.16999)|[wastegan](https://github.com/bach05/wastegan)|
+## 2024-09-25
+|paper|code|
+|---|---|
+|[mds-ed: multimodal decision support in the emergency department -- a benchmark dataset for diagnoses and deterioration prediction in emergency medicine](https://arxiv.org/abs/2407.17856)|[mds-ed](https://github.com/ai4healthuol/mds-ed)|
+|[emergent strategies for shepherding a flock](https://arxiv.org/abs/2211.04352)|[optimal-shepherding](https://github.com/arphysics/optimal-shepherding)|
+|[guard: a safe reinforcement learning benchmark](https://arxiv.org/abs/2305.13681)|[guard](https://github.com/intelligent-control-lab/guard)|
+|[long-tailed 3d detection via multi-modal fusion](https://arxiv.org/abs/2312.10986)|[lt3d-lf](https://github.com/mayechi/lt3d-lf)|
+|[physics-informed multi-agent reinforcement learning for distributed multi-robot problems](https://arxiv.org/abs/2401.00212)|[phmarl](https://github.com/eduardosebastianrodriguez/phmarl)|
+|[data-driven system identification of quadrotors subject to motor delays](https://arxiv.org/abs/2404.07837)|[data-driven-system-identification](https://github.com/arplaboratory/data-driven-system-identification)|
+|[toward unified practices in trajectory prediction research on drone datasets](https://arxiv.org/abs/2405.00604)|[dronalize](https://github.com/westny/dronalize)|
+|[a distributed approach to autonomous intersection management via multi-agent reinforcement learning](https://arxiv.org/abs/2405.08655)|[MAD4QN-PS](https://github.com/mcederle99/MAD4QN-PS)|
+|[autonomous exploration and semantic updating of large-scale indoor environments with mobile robots](https://arxiv.org/abs/2409.15493)|[semantic-mapping](https://github.com/IRVLUTD/semantic-mapping)|
+|[kiss-matcher: fast and robust point cloud registration revisited](https://arxiv.org/abs/2409.15615)|[kiss-matcher](https://github.com/mit-spark/kiss-matcher)|
+|[learning multiple probabilistic decisions from latent world model in autonomous driving](https://arxiv.org/abs/2409.15730)|[latentdriver](https://github.com/sephirex-x/latentdriver)|
+|[stage-wise reward shaping for acrobatic robots: a constrained multi-objective reinforcement learning approach](https://arxiv.org/abs/2409.15755)|[stage-wise-cmorl](https://github.com/rllab-snu/stage-wise-cmorl)|
+|[tiny robotics dataset and benchmark for continual object detection](https://arxiv.org/abs/2409.16215)|[TiROD_code](https://github.com/pastifra/TiROD_code)|
+## 2024-09-24
+|paper|code|
+|---|---|
+|[beamfocusing optimization for near-field wideband multi-user communications](https://arxiv.org/abs/2306.16861)|[beamfocusing-optimization-for-near-field-wideband-multi-user-communications](https://github.com/zhaolin820/beamfocusing-optimization-for-near-field-wideband-multi-user-communications)|
+|[near-field velocity sensing and predictive beamforming](https://arxiv.org/abs/2311.09888)|[near-field-velocity-sensing-and-predictive-beamforming](https://github.com/zhaolin820/near-field-velocity-sensing-and-predictive-beamforming)|
+|[szcore: a seizure community open-source research evaluation framework for the validation of eeg-based automated seizure detection algorithms](https://arxiv.org/abs/2402.13005)|[sz-validation-framework](https://github.com/esl-epfl/sz-validation-framework)|
+|[genet: a graph neural network-based anti-noise task-oriented semantic communication paradigm](https://arxiv.org/abs/2403.18296)|[genet](https://github.com/chunbaobao/genet)|
+|[speed: scalable preprocessing of eeg data for self-supervised learning](https://arxiv.org/abs/2408.08065)|[speed](https://github.com/andersgmadsen/speed)|
+|[train-on-request: an on-device continual learning workflow for adaptive real-world brain machine interfaces](https://arxiv.org/abs/2409.09161)|[bmi-odcl](https://github.com/pulp-bio/bmi-odcl)|
+|[general flow as foundation affordance for scalable robot learning](https://arxiv.org/abs/2401.11439)|[general_flow](https://github.com/michaelyuancb/general_flow)|
+|[optimization-based outlier accommodation for tightly coupled rtk-aided inertial navigation systems in urban environments](https://arxiv.org/abs/2407.13912)|[UrbanRTK-INS-OutlierOpt](https://github.com/Azurehappen/UrbanRTK-INS-OutlierOpt)|
+|[exact wavefront propagation for globally optimal one-to-all path planning on 2d cartesian grids](https://arxiv.org/abs/2409.11545)|[visibility-based-marching](https://github.com/IbrahimSquared/visibility-based-marching)|
+|[handling long-term safety and uncertainty in safe reinforcement learning](https://arxiv.org/abs/2409.12045)|[d-atacom](https://github.com/cube1324/d-atacom)|
+|[towards interactive and learnable cooperative driving automation: a large language model-driven decision-making framework](https://arxiv.org/abs/2409.12812)|[codrivingllm](https://github.com/fangshiyuu/codrivingllm)|
+|[r-aif: solving sparse-reward robotic tasks from pixels with active inference and world models](https://arxiv.org/abs/2409.14216)|[robust-active-inference](https://github.com/NACLab/robust-active-inference)|
+|[combating spatial disorientation in a dynamic self-stabilization task using ai assistants](https://arxiv.org/abs/2409.14565)|[HITL-VIP](https://github.com/csu-signal/HITL-VIP)|
+|[a novel agent with formal goal-reaching guarantees: an experimental study with a mobile robot](https://arxiv.org/abs/2409.14867)|[calf-rl-mobile-robot](https://github.com/thd-research/calf-rl-mobile-robot)|
+|[fisheyedepth: a real scale self-supervised depth estimation model for fisheye camera](https://arxiv.org/abs/2409.15054)|[fisheyedepth](https://github.com/guoyangzhao/fisheyedepth)|
+|[investigating robot dogs for construction monitoring: a comparative analysis of specifications and on-site requirements](https://arxiv.org/abs/2409.15253)|[MappingSystem](https://github.com/MigVega/MappingSystem)|
 ## 2024-09-21
 |paper|code|
 |---|---|
