@@ -1,3 +1,89 @@
+## 2024-11-01
+|paper|code|
+|---|---|
+|[advancing free-space optical communication system architecture: performance analysis of varied optical ground station network configurations](https://arxiv.org/abs/2410.23470)|[fso-simulation](https://github.com/connor-a-casey/fso-simulation)|
+|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[understanding generalizability of diffusion models requires rethinking the hidden gaussian structure](https://arxiv.org/abs/2410.24060)|[Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)|
+|[superfusion: multilevel lidar-camera fusion for long-range hd map generation](https://arxiv.org/abs/2211.15656)|[superfusion](https://github.com/haomo-ai/superfusion)|
+|[a joint modeling of vision-language-action for target-oriented grasping in clutter](https://arxiv.org/abs/2302.12610)|[Vision-Language-Grasping](https://github.com/xukechun/Vision-Language-Grasping)|
+|[subwords as skills: tokenization for sparse-reward reinforcement learning](https://arxiv.org/abs/2309.04459)|[subwords_as_skills](https://github.com/dyunis/subwords_as_skills)|
+|[fm-fusion: instance-aware semantic mapping boosted by vision-language foundation models](https://arxiv.org/abs/2402.04555)|[FM-Fusion](https://github.com/HKUST-Aerial-Robotics/FM-Fusion)|
+|[tactile-informed action primitives mitigate jamming in dense clutter](https://arxiv.org/abs/2402.09564)|[clutter-jamming](https://github.com/danebrouwer/clutter-jamming)|
+|[nv-lio: lidar-inertial odometry using normal vectors towards robust slam in multifloor environments](https://arxiv.org/abs/2405.12563)|[nv_lio](https://github.com/dhchung/nv_lio)|
+|[ivideogpt: interactive videogpts are scalable world models](https://arxiv.org/abs/2405.15223)|[iVideoGPT](https://github.com/thuml/iVideoGPT)|
+|[visual place recognition for aerial imagery: a survey](https://arxiv.org/abs/2406.00885)|[aero-vloc](https://github.com/prime-slam/aero-vloc)|
+|[navsim: data-driven non-reactive autonomous vehicle simulation and benchmarking](https://arxiv.org/abs/2406.15349)|[navsim](https://github.com/autonomousvision/navsim)|
+|[genrl: multimodal-foundation world models for generalization in embodied agents](https://arxiv.org/abs/2406.18043)|[genrl](https://github.com/mazpie/genrl)|
+|[ris-calib: an open-source spatiotemporal calibrator for multiple 3d radars and imus based on continuous-time estimation](https://arxiv.org/abs/2408.02444)|[ris-calib](https://github.com/unsigned-long/ris-calib)|
+|[ikalibr-rgbd: partially-specialized target-free visual-inertial spatiotemporal calibration for rgbds via continuous-time velocity estimation](https://arxiv.org/abs/2409.07116)|[ikalibr](https://github.com/unsigned-long/ikalibr)|
+|[next best sense: guiding vision and touch with fisherrf for 3d gaussian splatting](https://arxiv.org/abs/2410.04680)|[NextBestSense](https://github.com/armlabstanford/NextBestSense)|
+|[gptr: gaussian process trajectory representation for continuous-time motion estimation](https://arxiv.org/abs/2410.22931)|[gptr](https://github.com/brytsknguyen/gptr)|
+|[diffpano: scalable and consistent text to panorama generation with spherical epipolar-aware diffusion](https://arxiv.org/abs/2410.24203)|[diffpano](https://github.com/zju3dv/diffpano)|
+|[zonal rl-rrt: integrated rl-rrt path planning with collision probability and zone connectivity](https://arxiv.org/abs/2410.24205)|[rl-rrt-kdtree](https://github.com/saleh-faghfoorian/rl-rrt-kdtree)|
+|[teaching embodied reinforcement learning agents: informativeness and diversity of language use](https://arxiv.org/abs/2410.24218)|[teachable_rl](https://github.com/sled-group/teachable_rl)|
+|[egomimic: scaling imitation learning via egocentric video](https://arxiv.org/abs/2410.24221)|[EgoMimic](https://github.com/SimarKareer/EgoMimic)|
+## 2024-10-31
+|paper|code|
+|---|---|
+|[spectral graph pruning against over-squashing and over-smoothing](https://arxiv.org/abs/2404.04612)|[spectralpruningbraess](https://github.com/relationalml/spectralpruningbraess)|
+|[spgesture: source-free domain-adaptive semg-based gesture recognition with jaccard attentive spiking neural network](https://arxiv.org/abs/2405.14398)|[spgesture](https://github.com/guoweiyu/spgesture)|
+|[unfolding target detection with state space model](https://arxiv.org/abs/2410.22774)|[neurodet](https://github.com/aiot-lab/neurodet)|
+|[dynamic threshold-based two-layer online unsupervised anomaly detector](https://arxiv.org/abs/2410.22967)|[adaptive-nad](https://github.com/mylearncodespace/adaptive-nad)|
+|[mppi-ipddp: hybrid method of collision-free smooth trajectory generation for autonomous robots](https://arxiv.org/abs/2208.02439)|[mppi-ipddp](https://github.com/i-asl/mppi-ipddp)|
+|[integrating one-shot view planning with a single next-best view via long-tail multiview sampling](https://arxiv.org/abs/2304.00910)|[ma-scvp](https://github.com/psc0628/ma-scvp)|
+|[is your lidar placement optimized for 3d scene understanding?](https://arxiv.org/abs/2403.17009)|[place3d](https://github.com/ywyeli/place3d)|
+|[long-term human trajectory prediction using 3d dynamic scene graphs](https://arxiv.org/abs/2405.00552)|[lp2](https://github.com/mit-spark/lp2)|
+|[no regrets: investigating and improving regret approximations for curriculum discovery](https://arxiv.org/abs/2408.15099)|[sampling-for-learnability](https://github.com/amacrutherford/sampling-for-learnability)|
+|[llm2swarm: robot swarms that responsively reason, plan, and collaborate through llms](https://arxiv.org/abs/2410.11387)|[llm2swarm](https://github.com/pold87/llm2swarm)|
+|[robot policy learning with temporal optimal transport reward](https://arxiv.org/abs/2410.21795)|[temporalot](https://github.com/fuyw/temporalot)|
+|[a comparison of prompt engineering techniques for task planning and execution in service robotics](https://arxiv.org/abs/2410.22997)|[prompt_engineering](https://github.com/ais-bonn/prompt_engineering)|
+## 2024-10-30
+|paper|code|
+|---|---|
+|[advanced digital signal processing techniques for high-speed optical communications links](https://arxiv.org/abs/1903.12260)|[dsp-library](https://github.com/dario-pilori/dsp-library)|
+|[sequential weakly labeled multi-activity localization and recognition on wearable sensors using recurrent attention networks](https://arxiv.org/abs/2004.05768)|[RAN](https://github.com/KennCoder7/RAN)|
+|[communication-computation trade-off in resource-constrained edge inference](https://arxiv.org/abs/2006.02166)|[Edge_Inference_three-step_framework](https://github.com/shaojiawei07/Edge_Inference_three-step_framework)|
+|[reconfigurable intelligent surface enabled federated learning: a unified communication-learning design approach](https://arxiv.org/abs/2011.10282)|[RIS-FL](https://github.com/liuhang1994/RIS-FL)|
+|[eeg-deformer: a dense convolutional transformer for brain-computer interfaces](https://arxiv.org/abs/2405.00719)|[eeg-deformer](https://github.com/yi-ding-cs/eeg-deformer)|
+|[a spatial-spectral and temporal dual prototype network for motor imagery brain-computer interface](https://arxiv.org/abs/2407.03177)|[sst-dpn](https://github.com/hancan16/sst-dpn)|
+|[dynamical embedding of single channel electroencephalogram for artifact subspace reconstruction](https://arxiv.org/abs/2407.04727)|[e-asr](https://github.com/neurallabiitguwahati/e-asr)|
+|[a new framework for nonlinear kalman filters](https://arxiv.org/abs/2407.05717)|[a-new-framework-for-nonlinear-kalman-filters](https://github.com/shida-jiang/a-new-framework-for-nonlinear-kalman-filters)|
+|[single-channel electroencephalography decomposition by detector-atom network and its pre-trained model](https://arxiv.org/abs/2408.02185)|[detector-atom-net](https://github.com/hgshrs/detector-atom-net)|
+|[an optimal pairwise merge algorithm improves the quality and consistency of nonnegative matrix factorization](https://arxiv.org/abs/2408.09013)|[NMFMerge.jl](https://github.com/HolyLab/NMFMerge.jl)|
+|[multiple-beam interference spectroscopy: instrument analysis and spectrum reconstruction](https://arxiv.org/abs/2410.21586)|[inverspyctrometry](https://github.com/mhmdjouni/inverspyctrometry)|
+|[pk-yolo: pretrained knowledge guided yolo for brain tumor detection in multiplanar mri slices](https://arxiv.org/abs/2410.21822)|[pk-yolo](https://github.com/mkang315/pk-yolo)|
+|[crowd-robot interaction: crowd-aware robot navigation with attention-based deep reinforcement learning](https://arxiv.org/abs/1809.08835)|[DyNav](https://github.com/vita-epfl/DyNav)|
+|[enabling the sense of self in a dual-arm robot](https://arxiv.org/abs/2011.07026)|[towards-sa](https://github.com/cvas-ug/towards-sa)|
+|[message-aware graph attention networks for large-scale multi-robot path planning](https://arxiv.org/abs/2011.13219)|[magat_pathplanning](https://github.com/proroklab/magat_pathplanning)|
+|[multi-agent reinforcement learning for unmanned aerial vehicle coordination by multi-critic policy gradient optimization](https://arxiv.org/abs/2012.15472)|[MultiQuadcopterReinforcmentLearning](https://github.com/yoavalon/MultiQuadcopterReinforcmentLearning)|
+|[neuronsgym: a hybrid framework and benchmark for robot tasks with sim2real policy learning](https://arxiv.org/abs/2302.03385)|[neuronsgym](https://github.com/drl-casia/neuronsgym)|
+|[aligning text-to-image diffusion models with reward backpropagation](https://arxiv.org/abs/2310.03739)|[alignprop](https://github.com/mihirp1998/alignprop)|
+|[cooperation and fairness in multi-agent reinforcement learning](https://arxiv.org/abs/2410.14916)|[Fair-MARL](https://github.com/Jaroan/Fair-MARL)|
+|[generalizing motion planners with mixture of experts for autonomous driving](https://arxiv.org/abs/2410.15774)|[statetransformer](https://github.com/tsinghua-mars-lab/statetransformer)|
+|[adaptive self-calibration for minimalistic collective perception by imperfect robot swarms](https://arxiv.org/abs/2410.21546)|[sensor-degradation-filter](https://github.com/NESTLab/sensor-degradation-filter)|
+|[senna: bridging large vision-language models and end-to-end autonomous driving](https://arxiv.org/abs/2410.22313)|[senna](https://github.com/hustvl/senna)|
+## 2024-10-29
+|paper|code|
+|---|---|
+|[the effect of acute stress on the interpretability and generalization of schizophrenia predictive machine learning models](https://arxiv.org/abs/2410.19739)|[stressschizophrenia](https://github.com/xalentis/stressschizophrenia)|
+|[unimts: unified pre-training for motion time series](https://arxiv.org/abs/2410.19818)|[unimts](https://github.com/xiyuanzh/unimts)|
+|[automatic classification of sleep stages from eeg signals using riemannian metrics and transformer networks](https://arxiv.org/abs/2410.19819)|[SPDTransNet_plus](https://github.com/MathieuSeraphim/SPDTransNet_plus)|
+|[papagei: open foundation models for optical physiological signals](https://arxiv.org/abs/2410.20542)|[papagei-foundation-model](https://github.com/nokia-bell-labs/papagei-foundation-model)|
+|[s3e: a multi-robot multimodal dataset for collaborative slam](https://arxiv.org/abs/2210.13723)|[s3e](https://github.com/pengyu-team/s3e)|
+|[anchored learning for on-the-fly adaptation -- extended technical report](https://arxiv.org/abs/2301.06987)|[swannfs](https://github.com/bu-cyber-physical-systems-lab/swannfs)|
+|[rime: robust preference-based reinforcement learning with noisy preferences](https://arxiv.org/abs/2402.17257)|[rime_icml2024](https://github.com/cjreinforce/rime_icml2024)|
+|[probing multimodal llms as world models for driving](https://arxiv.org/abs/2405.05956)|[drivesim](https://github.com/sreeramsa/drivesim)|
+|[radarocc: robust 3d occupancy prediction with 4d imaging radar](https://arxiv.org/abs/2405.14014)|[radarocc](https://github.com/toytiny/radarocc)|
+|[cleandiffuser: an easy-to-use modularized library for diffusion models in decision making](https://arxiv.org/abs/2406.09509)|[cleandiffuser](https://github.com/cleandiffuserteam/cleandiffuser)|
+|[investigating the role of instruction variety and task difficulty in robotic manipulation tasks](https://arxiv.org/abs/2407.03967)|[cogelot](https://github.com/amitkparekh/cogelot)|
+|[high-quality, ros compatible video encoding and decoding for high-definition datasets](https://arxiv.org/abs/2408.00538)|[ros_mp4](https://github.com/star-center/ros_mp4)|
+|[ai olympics challenge with evolutionary soft actor critic](https://arxiv.org/abs/2409.01104)|[double_pendulum](https://github.com/AlbertoSinigaglia/double_pendulum)|
+|[learning to walk from three minutes of real-world data with semi-structured dynamics models](https://arxiv.org/abs/2410.09163)|[ssrl](https://github.com/CLeARoboticsLab/ssrl)|
+|[learning smooth humanoid locomotion through lipschitz-constrained policies](https://arxiv.org/abs/2410.11825)|[smooth-humanoid-locomotion](https://github.com/zixuan417/smooth-humanoid-locomotion)|
+|[seev: synthesis with efficient exact verification for relu neural barrier functions](https://arxiv.org/abs/2410.20326)|[seev](https://github.com/hongchaozhang-hz/seev)|
+|[uncertainty-aware decision-making and planning for autonomous forced merging](https://arxiv.org/abs/2410.20514)|[auto-merging](https://github.com/JianZhou1212/auto-merging)|
+|[generating and optimizing topologically distinct guesses for mobile manipulator path planning](https://arxiv.org/abs/2410.20635)|[topologically_distinct_guesses](https://github.com/rcywongaa/topologically_distinct_guesses)|
+|[covoxslam: gpu accelerated globally consistent dense slam](https://arxiv.org/abs/2410.21149)|[covoxslam](https://github.com/lrse-uba/covoxslam)|
 ## 2024-10-27
 |paper|code|
 |---|---|
