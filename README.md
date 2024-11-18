@@ -1,3 +1,64 @@
+## 2024-11-15
+|paper|code|
+|---|---|
+|[single-channel electroencephalography decomposition by detector-atom network and its pre-trained model](https://arxiv.org/abs/2408.02185)|[detector-atom-net](https://github.com/hgshrs/detector-atom-net)|
+|[a unified probabilistic approach to traffic conflict detection](https://arxiv.org/abs/2407.10959)|[UnifiedConflictDetection](https://github.com/Yiru-Jiao/UnifiedConflictDetection)|
+|[ikalibr: unified targetless spatiotemporal calibration for resilient integrated inertial systems](https://arxiv.org/abs/2407.11420)|[ikalibr](https://github.com/unsigned-long/ikalibr)|
+|[closed-loop long-horizon robotic planning via equilibrium sequence modeling](https://arxiv.org/abs/2410.01440)|[equilibrium-planner](https://github.com/singularity0104/equilibrium-planner)|
+|[learning-based control barrier function with provably safe guarantees: reducing conservatism with heading-aware safety margin](https://arxiv.org/abs/2411.08999)|[sigmarl](https://github.com/bassamlab/sigmarl)|
+|[risk-aware mppi for stochastic hybrid systems](https://arxiv.org/abs/2411.09198)|[social-navigation](https://github.com/hardikparwana/social-navigation)|
+## 2024-11-14
+|paper|code|
+|---|---|
+|[optimal vintage factor analysis with deflation varimax](https://arxiv.org/abs/2310.10545)|[optimal_deflation_varimax](https://github.com/jindiande/optimal_deflation_varimax)|
+|[gradient networks](https://arxiv.org/abs/2404.07361)|[gradientnetworks](https://github.com/spronav/gradientnetworks)|
+|[a deep automotive radar detector using the radelft dataset](https://arxiv.org/abs/2406.04723)|[RaDelft-Dataset](https://github.com/RaDelft/RaDelft-Dataset)|
+|[inferring directed spectral information flow between mixed-frequency time series](https://arxiv.org/abs/2408.06109)|[mf-tfcca](https://github.com/qiqixian/mf-tfcca)|
+|[large wireless model (lwm): a foundation model for wireless channels](https://arxiv.org/abs/2411.08872)|[lwm](https://huggingface.co/wi-lab/lwm)|
+|[morphological symmetries in robotics](https://arxiv.org/abs/2402.15552)|[morphosymm](https://github.com/danfoa/morphosymm)|
+|[humanvla: towards vision-language directed object rearrangement by physical humanoid](https://arxiv.org/abs/2406.19972)|[HumanVLA](https://github.com/AllenXuuu/HumanVLA)|
+|[deio: deep event inertial odometry](https://arxiv.org/abs/2411.03928)|[deio](https://github.com/arclab-hku/deio)|
+|[stem-ob: generalizable visual imitation learning with stem-like convergent observation through diffusion inversion](https://arxiv.org/abs/2411.04919)|[Stem-Ob-Code](https://github.com/hukz18/Stem-Ob-Code)|
+|[learning dynamic tasks on a large-scale soft robot in a handful of trials](https://arxiv.org/abs/2411.07342)|[BayesOptSoftRobotControl](https://github.com/Sicelukwanda/BayesOptSoftRobotControl)|
+|[learning memory mechanisms for decision making through demonstrations](https://arxiv.org/abs/2411.07954)|[attentiontuner](https://github.com/williamyue37/attentiontuner)|
+|[mba-slam: motion blur aware dense visual slam with radiance fields representation](https://arxiv.org/abs/2411.08279)|[mba-slam](https://github.com/wu-cvgl/mba-slam)|
+|[precision-focused reinforcement learning model for robotic object pushing](https://arxiv.org/abs/2411.08622)|[precise_pushing](https://github.com/ubi-coro/precise_pushing)|
+|[voxeland: probabilistic instance-aware semantic mapping with evidence-based uncertainty quantification](https://arxiv.org/abs/2411.08727)|[Voxeland](https://github.com/MAPIRlab/Voxeland)|
+## 2024-11-13
+|paper|code|
+|---|---|
+|[physics-enhanced graph neural networks for soft sensing in industrial internet of things](https://arxiv.org/abs/2404.08061)|[PEGNN_SS](https://github.com/EPFL-IMOS/PEGNN_SS)|
+|[soundsil-ds: deep denoising and segmentation of sound-field images with silhouettes](https://arxiv.org/abs/2411.07517)|[soundsil-ds](https://github.com/nttcslab/soundsil-ds)|
+|[wildscenes: a benchmark for 2d and 3d semantic segmentation in large-scale natural environments](https://arxiv.org/abs/2312.15364)|[WildScenes](https://github.com/csiro-robotics/WildScenes)|
+|[dynamic planning in hierarchical active inference](https://arxiv.org/abs/2402.11658)|[dynamic-planning](https://github.com/priorelli/dynamic-planning)|
+|[human-in-the-loop segmentation of multi-species coral imagery](https://arxiv.org/abs/2404.09406)|[HIL-coral-segmentation](https://github.com/sgraine/HIL-coral-segmentation)|
+|[surgicai: a hierarchical platform for fine-grained surgical policy learning and benchmarking](https://arxiv.org/abs/2406.13865)|[surgicai](https://github.com/surgical-robotics-ai/surgicai)|
+|[lics: navigation using learned-imitation on cluttered space](https://arxiv.org/abs/2406.14947)|[the-barn-challenge](https://github.com/damanikjosh/the-barn-challenge)|
+|[rino: accurate, robust radar-inertial odometry with non-iterative estimation](https://arxiv.org/abs/2411.07699)|[rino](https://github.com/yangsc4063/rino)|
+|[horticultural temporal fruit monitoring via 3d instance segmentation and re-identification using point clouds](https://arxiv.org/abs/2411.07799)|[iris3d](https://github.com/prbonn/iris3d)|
+|[reliable-loc: robust sequential lidar global localization in large-scale street scenes based on verifiable cues](https://arxiv.org/abs/2411.07815)|[reliable-loc](https://github.com/zouxianghong/reliable-loc)|
+## 2024-11-12
+|paper|code|
+|---|---|
+|[deep riemannian networks for end-to-end eeg decoding](https://arxiv.org/abs/2212.10426)|[eegspdnet](https://github.com/dcwil/eegspdnet)|
+|[orchestration framework for open system models with autonomous riss and oblivious base stations](https://arxiv.org/abs/2304.10858)|[self-configuring-orchestration](https://github.com/victorcroisfelt/self-configuring-orchestration)|
+|[mutual information estimation via $f$-divergence and data derangements](https://arxiv.org/abs/2305.20025)|[fdime](https://github.com/tonellolab/fdime)|
+|[magnetic hysteresis modeling with neural operators](https://arxiv.org/abs/2407.03261)|[magnetic_hysteresis_neural_operator](https://github.com/chandratue/magnetic_hysteresis_neural_operator)|
+|[fitting multiple machine learning models with performance based clustering](https://arxiv.org/abs/2411.06572)|[function-clustering](https://github.com/mefe06/function-clustering)|
+|[deepcrf: deep learning-enhanced csi-based rf fingerprinting for channel-resilient wifi device identification](https://arxiv.org/abs/2411.06925)|[DeepCRF_TIFS](https://github.com/Oriseven/DeepCRF_TIFS)|
+|[cross-domain transfer learning and state inference for soft robots via a semi-supervised sequential variational bayes framework](https://arxiv.org/abs/2303.01693)|[dsvb](https://github.com/shageenderan/dsvb)|
+|[juicer: data-efficient imitation learning for robotic assembly](https://arxiv.org/abs/2404.03729)|[imitation-juicer](https://github.com/ankile/imitation-juicer)|
+|[mdha: multi-scale deformable transformer with hybrid anchors for multi-view 3d object detection](https://arxiv.org/abs/2406.17654)|[mdha](https://github.com/naomiex/mdha)|
+|[sglc: semantic graph-guided coarse-fine-refine full loop closing for lidar slam](https://arxiv.org/abs/2407.08106)|[sglc](https://github.com/nubot-nudt/sglc)|
+|[multi-scale cell decomposition for path planning using restrictive routing potential fields](https://arxiv.org/abs/2408.02786)|[Larp](https://github.com/wzjoriv/Larp)|
+|[receding hamiltonian-informed optimal neural control and state estimation for closed-loop dynamical systems](https://arxiv.org/abs/2411.01297)|[Hion](https://github.com/wzjoriv/Hion)|
+|[developing simulation models for soft robotic grippers in webots](https://arxiv.org/abs/2411.03176)|[robosoft2025](https://github.com/anonymousgituser1/robosoft2025)|
+|[benchmarking vision, language, & action models on robotic learning tasks](https://arxiv.org/abs/2411.05821)|[MultiNet](https://github.com/ManifoldRG/MultiNet)|
+|[mipd: a multi-sensory interactive perception dataset for embodied intelligent driving](https://arxiv.org/abs/2411.05881)|[Dataset__MIPD](https://github.com/BUCT-IUSRC/Dataset__MIPD)|
+|[symmetac: symmetric color led driven efficient photometric stereo reconstruction methods for camera-based tactile sensors](https://arxiv.org/abs/2411.06377)|[symmetac](https://github.com/tacxels/symmetac)|
+|[visuotactile-based learning for insertion with compliant hands](https://arxiv.org/abs/2411.06408)|[isaacgyminsertion](https://github.com/osheraz/isaacgyminsertion)|
+|[enhancing robot assistive behaviour with reinforcement learning and theory of mind](https://arxiv.org/abs/2411.07003)|[q-learning_concentration](https://github.com/prisca-lab/q-learning_concentration)|
+|[robust nonprehensile object transportation with uncertain inertial parameters](https://arxiv.org/abs/2411.07079)|[upright](https://github.com/utiasdsl/upright)|
 ## 2024-11-08
 |paper|code|
 |---|---|
