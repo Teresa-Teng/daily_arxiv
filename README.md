@@ -1,3 +1,65 @@
+## 2024-11-22
+|paper|code|
+|---|---|
+|[towards generative ray path sampling for faster point-to-point ray tracing](https://arxiv.org/abs/2410.23773)|[DiffeRT](https://github.com/jeertmans/DiffeRT)|
+|[imu as an input vs. a measurement of the state in inertial-aided state estimation](https://arxiv.org/abs/2403.05968)|[steam_icp](https://github.com/utiasasrl/steam_icp)|
+|[deep learning innovations for underwater waste detection: an in-depth analysis](https://arxiv.org/abs/2405.18299)|[underwater-trash-detection](https://github.com/karanwxliaa/underwater-trash-detection)|
+|[fracgm: a fast fractional programming technique for geman-mcclure robust estimator](https://arxiv.org/abs/2409.13978)|[FracGM](https://github.com/StephLin/FracGM)|
+|[accelerating gaussian variational inference for motion planning under uncertainty](https://arxiv.org/abs/2411.03416)|[vimp](https://github.com/hzyu17/vimp)|
+|[suple: robot learning with lyapunov rewards](https://arxiv.org/abs/2411.13613)|[truncle](https://github.com/phunguyen1195/truncle)|
+|[neuromorphic attitude estimation and control](https://arxiv.org/abs/2411.13945)|[neuromorphic_att_est_and_control](https://github.com/tudelft/neuromorphic_att_est_and_control)|
+|[learning two-agent motion planning strategies from generalized nash equilibrium for model predictive control](https://arxiv.org/abs/2411.13983)|[Implicit-Game-Theoretic-MPC](https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC)|
+|[verification of behavior trees with contingency monitors](https://arxiv.org/abs/2411.14162)|[behaverify](https://github.com/verivital/behaverify)|
+|[formalizing stateful behavior trees](https://arxiv.org/abs/2411.14165)|[behaverify](https://github.com/verivital/behaverify)|
+|[simulation-aided policy tuning for black-box robot learning](https://arxiv.org/abs/2411.14246)|[franka_pendulum](https://github.com/data-science-in-mechanical-engineering/franka_pendulum)|
+## 2024-11-21
+|paper|code|
+|---|---|
+|[enhanced cross-dataset electroencephalogram-based emotion recognition using unsupervised domain adaptation](https://arxiv.org/abs/2411.12852)|[emotionrecognitionuda](https://github.com/ryersonmultimedialab/emotionrecognitionuda)|
+|[continuous-time radar-inertial and lidar-inertial odometry using a gaussian process motion prior](https://arxiv.org/abs/2402.06174)|[steam_icp](https://github.com/utiasasrl/steam_icp)|
+|[occlusion-aware seamless segmentation](https://arxiv.org/abs/2407.02182)|[oass](https://github.com/yihong-97/oass)|
+|[next best sense: guiding vision and touch with fisherrf for 3d gaussian splatting](https://arxiv.org/abs/2410.04680)|[NextBestSense](https://github.com/armlabstanford/NextBestSense)|
+|[genz-icp: generalizable and degeneracy-robust lidar odometry using an adaptive weighting](https://arxiv.org/abs/2411.06766)|[genz-icp](https://github.com/cocel-postech/genz-icp)|
+|[human-robot dialogue annotation for multi-modal common ground](https://arxiv.org/abs/2411.12829)|[ARL-SCOUT](https://github.com/USArmyResearchLab/ARL-SCOUT)|
+|[scout: a situated and multi-modal human-robot dialogue corpus](https://arxiv.org/abs/2411.12844)|[ARL-SCOUT](https://github.com/USArmyResearchLab/ARL-SCOUT)|
+|[bring the heat: rapid trajectory optimization with pseudospectral techniques and the affine geometric heat flow equation](https://arxiv.org/abs/2411.12962)|[phlame](https://github.com/roahmlab/phlame)|
+|[neural internal model control: learning a robust control policy via predictive error feedback](https://arxiv.org/abs/2411.13079)|[neuralimc](https://github.com/thu-uav/neuralimc)|
+|[special unitary parameterized estimators of rotation](https://arxiv.org/abs/2411.13109)|[SUPER](https://github.com/akschion/SUPER)|
+|[mecqabot: a modular robot sensing and wireless mechatronics framework for education and research](https://arxiv.org/abs/2411.13156)|[MecQaBot](https://github.com/AliceJames-1/MecQaBot)|
+|[a digital twin for telesurgery under intermittent communication](https://arxiv.org/abs/2411.13449)|[dvrk_digital_twin_teleoperation](https://github.com/lcsr-ciis/dvrk_digital_twin_teleoperation)|
+## 2024-11-20
+|paper|code|
+|---|---|
+|[freezing of gait detection using gramian angular fields and federated learning from wearable sensors](https://arxiv.org/abs/2411.11764)|[fogsense](https://github.com/shovito66/fogsense)|
+|[clip-fields: weakly supervised semantic fields for robotic memory](https://arxiv.org/abs/2210.05663)|[clip-fields](https://github.com/notmahi/clip-fields)|
+|[rltools: a fast, portable deep reinforcement learning library for continuous control](https://arxiv.org/abs/2306.03530)|[rl-tools](https://github.com/rl-tools/rl-tools)|
+|[ok-robot: what really matters in integrating open-knowledge models for robotics](https://arxiv.org/abs/2401.12202)|[ok-robot](https://github.com/ok-robot/ok-robot)|
+|[behavior generation with latent actions](https://arxiv.org/abs/2403.03181)|[vq_bet_official](https://github.com/jayLEE0301/vq_bet_official)|
+|[mail: improving imitation learning with mamba](https://arxiv.org/abs/2406.08234)|[mail](https://github.com/alrhub/mail)|
+|[improving visual place recognition based robot navigation by verifying localization estimates](https://arxiv.org/abs/2407.08162)|[aarapsiproject](https://github.com/QVPR/aarapsiproject)|
+|[vision-language model fine-tuning via simple parameter-efficient modification](https://arxiv.org/abs/2409.16718)|[clipfit](https://github.com/minglllli/clipfit)|
+|[safe navigation in dynamic environments using density functions](https://arxiv.org/abs/2411.12206)|[time_varying_density](https://github.com/sriram-2502/time_varying_density)|
+## 2024-11-19
+|paper|code|
+|---|---|
+|[b-har: an open-source baseline framework for in depth study of human activity recognition datasets and workflows](https://arxiv.org/abs/2101.10870)|[B-HAR](https://github.com/B-HAR-HumanActivityRecognition/B-HAR)|
+|[arnn: attentive recurrent neural network for multi-channel eeg signals to identify epileptic seizures](https://arxiv.org/abs/2403.03276)|[arnn](https://github.com/salim-lysiun/arnn)|
+|[percemon: online monitoring for perception systems](https://arxiv.org/abs/2108.08289)|[percemon](https://github.com/cps-vida/percemon)|
+|[a distributed approach to autonomous intersection management via multi-agent reinforcement learning](https://arxiv.org/abs/2405.08655)|[MAD4QN-PS](https://github.com/mcederle99/MAD4QN-PS)|
+|[software-hardware co-design for embodied ai robots](https://arxiv.org/abs/2407.04292)|[corki](https://github.com/hyy0613/corki)|
+|[towards physically-realizable adversarial attacks in embodied vision navigation](https://arxiv.org/abs/2409.10071)|[physical-attacks-in-embodied-navigation](https://github.com/chen37058/physical-attacks-in-embodied-navigation)|
+|[closed-loop long-horizon robotic planning via equilibrium sequence modeling](https://arxiv.org/abs/2410.01440)|[equilibrium-planner](https://github.com/singularity0104/equilibrium-planner)|
+|[autoregressive action sequence learning for robotic manipulation](https://arxiv.org/abs/2410.03132)|[arp](https://github.com/mlzxy/arp)|
+|[rino: accurate, robust radar-inertial odometry with non-iterative estimation](https://arxiv.org/abs/2411.07699)|[rino](https://github.com/yangsc4063/rino)|
+|[hierarchical adaptive motion planning with nonlinear model predictive control for safety-critical collaborative loco-manipulation](https://arxiv.org/abs/2411.10699)|[collaborative_loco_manipulation](https://github.com/drcl-usc/collaborative_loco_manipulation)|
+|[dgs-slam: gaussian splatting slam in dynamic environment](https://arxiv.org/abs/2411.10722)|[DGS-SLAM](https://github.com/kmk97/DGS-SLAM)|
+|[metricgold: leveraging text-to-image latent diffusion models for metric depth estimation](https://arxiv.org/abs/2411.10886)|[MetricGold](https://github.com/AnshShah3009/MetricGold)|
+|[efficient estimation of relaxed model parameters for robust uav trajectory optimization](https://arxiv.org/abs/2411.10941)|[parameter-affine-relaxation](https://github.com/Herpderk/parameter-affine-relaxation)|
+|[person segmentation and action classification for multi-channel hemisphere field of view lidar sensors](https://arxiv.org/abs/2411.11151)|[lidar_person_action_detection](https://github.com/AIS-Bonn/lidar_person_action_detection)|
+|[improving user experience in preference-based optimization of reward functions for assistive robots](https://arxiv.org/abs/2411.11182)|[cma-es-ig](https://github.com/interaction-lab/cma-es-ig)|
+|[pickscan: object discovery and reconstruction from handheld interactions](https://arxiv.org/abs/2411.11196)|[pickandscan](https://github.com/vincentvanderbrugge/pickandscan)|
+|[ikea manuals at work: 4d grounding of assembly instructions on internet videos](https://arxiv.org/abs/2411.11409)|[IKEA-Manuals-at-Work](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)|
+|[semantic-geometric-physical-driven robot manipulation skill transfer via skill library and tactile representation](https://arxiv.org/abs/2411.11714)|[skill_transfer](https://github.com/mingchaoqi/skill_transfer)|
 ## 2024-11-15
 |paper|code|
 |---|---|
