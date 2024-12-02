@@ -1,3 +1,56 @@
+## 2024-11-28
+|paper|code|
+|---|---|
+|[over-the-air learning-based geometry point cloud transmission](https://arxiv.org/abs/2306.08730)|[SEPT](https://github.com/aprilbian/SEPT)|
+|[calibrated adaptive teacher for domain adaptive intelligent fault diagnosis](https://arxiv.org/abs/2312.02826)|[cat](https://github.com/epfl-imos/cat)|
+|[biometric authentication based on enhanced remote photoplethysmography signal morphology](https://arxiv.org/abs/2407.04127)|[rppg_biometrics](https://github.com/zhaodongsun/rppg_biometrics)|
+|[swim: short-window cnn integrated with mamba for eeg-based auditory spatial attention decoding](https://arxiv.org/abs/2409.19884)|[swim-asad](https://github.com/windowso/swim-asad)|
+|[finding "good views" of electrocardiogram signals for inferring abnormalities in cardiac condition](https://arxiv.org/abs/2411.17702)|[goodviews_ecg](https://github.com/mandiehyewon/goodviews_ecg)|
+|[analytic continuation by feature learning](https://arxiv.org/abs/2411.17728)|[Analytic-Continuation-by-Feature-Learning](https://github.com/Order-inz/Analytic-Continuation-by-Feature-Learning)|
+|[the more, the better? evaluating the role of eeg preprocessing for deep learning applications](https://arxiv.org/abs/2411.18392)|[eegprepro](https://github.com/medmaxlab/eegprepro)|
+|[superfusion: multilevel lidar-camera fusion for long-range hd map generation](https://arxiv.org/abs/2211.15656)|[superfusion](https://github.com/haomo-ai/superfusion)|
+|[applications of spiking neural networks in visual place recognition](https://arxiv.org/abs/2311.13186)|[vprsnn](https://github.com/qvpr/vprsnn)|
+|[bench2drive: towards multi-ability benchmarking of closed-loop end-to-end autonomous driving](https://arxiv.org/abs/2406.03877)|[bench2drivezoo](https://github.com/thinklab-sjtu/bench2drivezoo)|
+|[mapeval: towards unified, robust and efficient slam map evaluation framework](https://arxiv.org/abs/2411.17928)|[cloud_map_evaluation](https://github.com/jokerjohn/cloud_map_evaluation)|
+|[monocular obstacle avoidance based on inverse ppo for fixed-wing uavs](https://arxiv.org/abs/2411.18009)|[fixedwing-monoppo](https://github.com/ch9397/fixedwing-monoppo)|
+|[interhub: a naturalistic trajectory dataset with dense interaction for autonomous driving](https://arxiv.org/abs/2411.18302)|[InterHub](https://github.com/zxc-tju/InterHub)|
+|[helvipad: a real-world dataset for omnidirectional stereo depth estimation](https://arxiv.org/abs/2411.18335)|[Helvipad](https://github.com/vita-epfl/Helvipad)|
+|[efficient dynamic lidar odometry for mobile robots with structured point clouds](https://arxiv.org/abs/2411.18443)|[dynamic_direct_lidar_odometry](https://github.com/tu-darmstadt-ros-pkg/dynamic_direct_lidar_odometry)|
+|[adavln: towards visual language navigation in continuous indoor environments with moving humans](https://arxiv.org/abs/2411.18539)|[adavln](https://github.com/dillonloh/adavln)|
+## 2024-11-27
+|paper|code|
+|---|---|
+|[bayesian kalmannet: quantifying uncertainty in deep learning augmented kalman filter](https://arxiv.org/abs/2309.03058)|[Uncertainty-extraction-in-Model-Based-DL](https://github.com/yonatandn/Uncertainty-extraction-in-Model-Based-DL)|
+|[robust bayesian optimization via localized online conformal prediction](https://arxiv.org/abs/2411.17387)|[LOCBO](https://github.com/davinci003/LOCBO)|
+|[peernet: an end-to-end profiling tool for real-time networked robotic systems](https://arxiv.org/abs/2409.06078)|[peernet](https://github.com/utaustin-swarmlab/peernet)|
+|[difsd: ego-centric fully sparse paradigm with uncertainty denoising and iterative refinement for efficient end-to-end self-driving](https://arxiv.org/abs/2409.09777)|[difsd](https://github.com/suhaisheng/difsd)|
+|[safety filtering while training: improving the performance and sample efficiency of reinforcement learning agents](https://arxiv.org/abs/2410.11671)|[safe-control-gym](https://github.com/federico-pizarrobejarano/safe-control-gym)|
+|[gradient-guided parameter mask for multi-scenario image restoration under adverse weather](https://arxiv.org/abs/2411.16739)|[multitask](https://github.com/aierlab/multitask)|
+|[auto-icenav: a local navigation strategy for autonomous surface ships in broken ice fields](https://arxiv.org/abs/2411.17155)|[AUTO-IceNav](https://github.com/rdesc/AUTO-IceNav)|
+|[loosely coupled 4d-radar-inertial odometry for ground robots](https://arxiv.org/abs/2411.17289)|[4D-Radar-Odom](https://github.com/robotics-upo/4D-Radar-Odom)|
+## 2024-11-26
+|paper|code|
+|---|---|
+|[efficient wireless federated learning via low-rank gradient factorization](https://arxiv.org/abs/2401.07496)|[ota-lc](https://github.com/mingzhaoguo/ota-lc)|
+|[robust beamforming for ris-aided communications: gradient-based manifold meta learning](https://arxiv.org/abs/2402.10626)|[GMML](https://github.com/fenghaozhu/GMML)|
+|[dero: dead reckoning based on radar odometry with accelerometers aided for robot localization](https://arxiv.org/abs/2403.05136)|[dero](https://github.com/hoangvietdo/dero)|
+|[robust beamforming with gradient-based liquid neural network](https://arxiv.org/abs/2405.07291)|[GLNN](https://github.com/tp1000d/GLNN)|
+|[mecg-e: mamba-based ecg enhancer for baseline wander removal](https://arxiv.org/abs/2409.18828)|[MECG-E](https://github.com/khhungg/MECG-E)|
+|[robust hybrid precoding for millimeter wave mu-miso system via meta-learning](https://arxiv.org/abs/2411.15762)|[ggml](https://github.com/mistybeep/ggml)|
+|[step: spatial temporal graph convolutional networks for emotion perception from gaits](https://arxiv.org/abs/1910.12906)|[STEP](https://github.com/UttaranB127/STEP)|
+|[graspldm: generative 6-dof grasp synthesis using latent diffusion models](https://arxiv.org/abs/2312.11243)|[graspldm](https://github.com/kuldeepbrd1/graspldm)|
+|[sgs-slam: semantic gaussian splatting for neural dense slam](https://arxiv.org/abs/2402.03246)|[sgs-slam](https://github.com/shuhongll/sgs-slam)|
+|[grasp, see and place: efficient unknown object rearrangement with policy structure prior](https://arxiv.org/abs/2402.15402)|[gsp](https://github.com/xukechun/gsp)|
+|[realistic data generation for 6d pose estimation of surgical instruments](https://arxiv.org/abs/2406.07328)|[realistic-6dof-data-generation](https://github.com/surgical-robotics-ai/realistic-6dof-data-generation)|
+|[object augmentation algorithm: computing virtual object motion and object induced interaction wrench from optical markers](https://arxiv.org/abs/2408.07434)|[objectaugmentationalgorithm](https://github.com/christopherherneth/objectaugmentationalgorithm)|
+|[competency-aware planning for probabilistically safe navigation under perception uncertainty](https://arxiv.org/abs/2409.06111)|[parce-nav](https://github.com/sarapohland/parce-nav)|
+|[optimum configuration for hovering n-quadrotors carrying a slung payload](https://arxiv.org/abs/2409.18741)|[swarm-slung-payload](https://github.com/hosnooo/swarm-slung-payload)|
+|[believing is seeing: unobserved object detection using generative models](https://arxiv.org/abs/2410.05869)|[UOD](https://github.com/1ssb/UOD)|
+|[bring the heat: rapid trajectory optimization with pseudospectral techniques and the affine geometric heat flow equation](https://arxiv.org/abs/2411.12962)|[phlame](https://github.com/roahmlab/phlame)|
+|[learning two-agent motion planning strategies from generalized nash equilibrium for model predictive control](https://arxiv.org/abs/2411.13983)|[Implicit-Game-Theoretic-MPC](https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC)|
+|[deep policy gradient methods without batch updates, target networks, or replay buffers](https://arxiv.org/abs/2411.15370)|[avg](https://github.com/gauthamvasan/avg)|
+|[robustifying long-term human-robot collaboration through a hierarchical and multimodal framework](https://arxiv.org/abs/2411.15711)|[robust-hierarchial-multimodal-hrc](https://github.com/intelligent-control-lab/robust-hierarchial-multimodal-hrc)|
+|[multi-robot reliable navigation in uncertain topological environments with graph attention networks](https://arxiv.org/abs/2411.16134)|[marvel](https://github.com/yuj0e/marvel)|
 ## 2024-11-22
 |paper|code|
 |---|---|
